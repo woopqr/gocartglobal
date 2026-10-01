@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 0,
+  "cursor": 1,
   "observations": [
     {
       "city": "Bali",
@@ -89,6 +89,51 @@
           "priceKRW": 7078,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/kuta-seaview-boutique-resort_3/hotel/bali-id.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Bali",
+      "citySlug": "bali",
+      "cityId": 17193,
+      "observedAt": "2026-10-01T23:44:00.605Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "76588180",
+          "name": "Alaya Suites Ubud",
+          "priceKRW": 21217,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/alaya-suites/hotel/badung-id.html?cid=1925461"
+        },
+        {
+          "key": "65538",
+          "name": "The Patra Bali Resort & Villas",
+          "priceKRW": 7702,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "45555",
+          "name": "Kuta Seaview Beach Resort",
+          "priceKRW": 7091,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kuta-seaview-boutique-resort_3/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "49686",
+          "name": "Grand Barong Resort Bali Managed by Soscomma",
+          "priceKRW": 27,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-barong-resort-bali-managed-by-soscomma/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "1195948",
+          "name": "Jimbaran Bay Beach Resort & Spa by Prabhu",
+          "priceKRW": 5057,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jimbaran-bay-beach-resort-spa-by-prabhu/hotel/bali-id.html?cid=1925461"
         }
       ]
     }
