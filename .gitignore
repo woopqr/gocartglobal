@@ -42,3 +42,27 @@ DEVELOP-PLAN.md
 MIGRATION-PLAN.md
 00_*.md
 00_*.html
+
+# ─────────────────────────────────────────────
+#  내부 자산 — 절대 커밋 금지 (2026-10-01 보안 강화)
+#  지침·스타일가이드·아이디어·계획·메모·키·개인정보는 로컬 전용
+# ─────────────────────────────────────────────
+STATUS.md
+*.md
+*apikey*
+*api_key*
+*secret*
+*credential*
+*password*
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.wrangler/
+*.docx
+*.hwp
+*.hwpx
+*.xlsx
+*.xls
+*.log
