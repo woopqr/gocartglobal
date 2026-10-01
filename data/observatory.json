@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "cursor": 0,
+  "observations": [
+    {
+      "city": "Bali",
+      "citySlug": "bali",
+      "cityId": 17193,
+      "observedAt": "2026-10-01T10:46:16.479Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "46874759",
+          "name": "Holiday Inn Resort Bali Canggu By IHG",
+          "priceKRW": 1585,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/holiday-inn-resort-bali-canggu/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "65538",
+          "name": "The Patra Bali Resort & Villas",
+          "priceKRW": 7702,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "1195948",
+          "name": "Jimbaran Bay Beach Resort & Spa by Prabhu",
+          "priceKRW": 5078,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jimbaran-bay-beach-resort-spa-by-prabhu/hotel/bali-id.html?cid=1925461"
+        }
+      ]
+    }
+  ]
+}

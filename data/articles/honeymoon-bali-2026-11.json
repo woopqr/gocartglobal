@@ -1,0 +1,704 @@
+{
+  "slug": "honeymoon-bali-2026-11",
+  "theme": "honeymoon",
+  "audience": "Honeymoon",
+  "emoji": "💍",
+  "city": "Bali",
+  "citySlug": "bali",
+  "cityId": 17193,
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=17193",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Bali] The Most Romantic Ultra-Luxury Honeymoon Resorts",
+  "metaDescription": "The 6 finest honeymoon stays in Bali — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
+  "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 43% of these stays' reviews come from honeymoon travelers. Our #1 pick is <b>Ayodya Resort Bali</b> — rating 8.8, 8,521 reviews, from ~$34,455/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 13,
+        "pct": 43
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/10328/0/204dd471d2a37571aac58b1cfcbbbb72.jpeg?ce=2",
+  "heroAlt": "Bali Honeymoon",
+  "updated": "2026-10-01",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Ayodya Resort Bali",
+      "agodaUrl": "https://www.agoda.com/ayodya-resort/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10328/0/204dd471d2a37571aac58b1cfcbbbb72.jpeg?ce=2",
+      "score": 8.8,
+      "reviewCount": 8521,
+      "reviewCountFmt": "8,521 reviews",
+      "priceText": "$$$ · ~$34,455/night",
+      "walkMin": 22,
+      "refLabel": "Nusa Dua Beach",
+      "star": 5,
+      "propertyId": 10328,
+      "priceKRW": 34455,
+      "priceStatus": "live",
+      "distanceM": 1729.13,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Nusa Dua Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.8 · 8,521 reviews. 22 min walk to Nusa Dua Beach, $$$ · ~$34,455/night. 20% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$34,455/night",
+        "📝 8,521 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great for families to enjoy the facilities in the resort",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "It had its own private pool and private access to the beach.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Hotel is very clean, everywhere where you eyes may point at.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "In the Ganesha restaurant met Edy another amazing gentleman.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Daily resort activities and cultural shows kept us engaged.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Maya Ubud Resort and Spa",
+      "agodaUrl": "https://www.agoda.com/maya-ubud-resort-and-spa/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7534/0/10480c86e57166ebc18b5dafbbdae5f5.jpeg?ce=2",
+      "score": 9.1,
+      "reviewCount": 4706,
+      "reviewCountFmt": "4,706 reviews",
+      "priceText": "$$$ · ~$11,366/night",
+      "walkMin": 28,
+      "refLabel": "Sacred Monkey Forest Sanctuary",
+      "star": 5,
+      "propertyId": 7534,
+      "priceKRW": 11366,
+      "priceStatus": "live",
+      "distanceM": 2211.99,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Elephant Cave",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 4,706 reviews. 28 min walk to Sacred Monkey Forest Sanctuary, $$$ · ~$11,366/night. 40% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$11,366/night",
+        "📝 4,706 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I would definitely stay here again every time I visit Ubud.",
+          "score": "9.2",
+          "country": "España",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The spa and infinity pool are out of this world beautiful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "The hotel is faultless and their team are just amazing.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "We absolutely loved our stay at Maya Ubud!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Truly one of the most unforgettable places I’ve ever stayed!",
+          "score": "9.6",
+          "country": "Polska",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "The Patra Bali Resort & Villas",
+      "agodaUrl": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/65538/0/ec662b65bafa6159ceb64d0a54c0a74a.jpeg?ce=2",
+      "score": 8.5,
+      "reviewCount": 6875,
+      "reviewCountFmt": "6,875 reviews",
+      "priceText": "$$$ · ~$7,733/night",
+      "walkMin": 19,
+      "refLabel": "Kuta Beach",
+      "star": 5,
+      "propertyId": 65538,
+      "priceKRW": 7733,
+      "priceStatus": "live",
+      "distanceM": 1506.98,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Kuta Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.5 · 6,875 reviews. 19 min walk to Kuta Beach, $$$ · ~$7,733/night. 20% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$7,733/night",
+        "📝 6,875 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "You can spend all day in the resort enjoying the relax mood.",
+          "score": "9.2",
+          "country": "台灣",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Location is very near Airport but very quiet than I imagined",
+          "score": "8.4",
+          "country": "インドネシア",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The expansiveness and quality of the property amazed us.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "I had a wonderful stay and would definitely come back again!",
+          "score": "10",
+          "country": "日本",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "It was a fantastic experience during our stay at the resort.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Amnaya Resort Kuta",
+      "agodaUrl": "https://www.agoda.com/amnaya-resort-kuta/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/920599/0/ca8bc1aaf1d3a5fb9de8b77642dcc1a0.jpeg?ce=2",
+      "score": 9.3,
+      "reviewCount": 21684,
+      "reviewCountFmt": "21,684 reviews",
+      "priceText": "$$$ · ~$8,856/night",
+      "walkMin": 108,
+      "refLabel": "Tegal Sari Bus Terminal",
+      "star": 4,
+      "propertyId": 920599,
+      "priceKRW": 8856,
+      "priceStatus": "live",
+      "distanceM": 8639.13,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Kuta Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 21,684 reviews. 108 min walk to Tegal Sari Bus Terminal, $$$ · ~$8,856/night. 60% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$8,856/night",
+        "📝 21,684 reviews",
+        "⭐ 4-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Everyone on staff has the same sunny and helpful attitude.",
+          "score": "9.6",
+          "country": "Norge",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The hospitality at Amnaya Resort Kuta is truly top-notch.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "I highly recommend it and look forward to visiting again.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Thank you especially to Raina (No. 1). Until the next visit.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "There is a large swimming pool with plenty of sun loungers.",
+          "score": "10",
+          "country": "Украина",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Jimbaran Bay Beach Resort & Spa by Prabhu",
+      "agodaUrl": "https://www.agoda.com/jimbaran-bay-beach-resort-spa-by-prabhu/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1195948/0/0dfc44fe02d3dc98030851eea9458184.jpeg?ce=3",
+      "score": 8.4,
+      "reviewCount": 4328,
+      "reviewCountFmt": "4,328 reviews",
+      "priceText": "$$$ · ~$5,001/night",
+      "walkMin": 53,
+      "refLabel": "Waterbom Bali",
+      "star": 4.5,
+      "propertyId": 1195948,
+      "priceKRW": 5001,
+      "priceStatus": "live",
+      "distanceM": 4276.54,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Kuta Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.4 · 4,328 reviews. 53 min walk to Waterbom Bali, $$$ · ~$5,001/night. 80% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$5,001/night",
+        "📝 4,328 reviews",
+        "⭐ 4.5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great breakfast buffet everyday, all you need was there.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Rooftop (sky garden) lounge was the ultimate experience.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "We got a pretty nice welcome drink at the rooftop bar.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed our stay at Jimbaran Bay Beach Resort very much.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Surprisingly huge and spacious room with large balcony.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Holiday Inn Resort Bali Canggu By IHG",
+      "agodaUrl": "https://www.agoda.com/holiday-inn-resort-bali-canggu/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/46874759/0/c71087b5473b00cff2418a9c499d5731.jpeg?ce=2",
+      "score": 9.2,
+      "reviewCount": 2144,
+      "reviewCountFmt": "2,144 reviews",
+      "priceText": "$$$ · ~$14,714/night",
+      "walkMin": 104,
+      "refLabel": "Bemo Gunung Agung Bus Terminal",
+      "star": 5,
+      "propertyId": 46874759,
+      "priceKRW": 14714,
+      "priceStatus": "live",
+      "distanceM": 8353.11,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Seminyak Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 2,144 reviews. 104 min walk to Bemo Gunung Agung Bus Terminal, $$$ · ~$14,714/night. 40% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$14,714/night",
+        "📝 2,144 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Hotel also offered great selection of food for breakfast.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Connected to regent hotel which is near to the beaches.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Adi helped to clean our room and he was very attentive.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "It was indeed on of the best experiences we’ve ever had.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Our room was comfortable, modern, and spotlessly clean.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-01T10:46:12.087Z",
+    "searchCondition": "1 adult · 1 room · 1 night · USD · mid-November 2026",
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-01T10:46:12.087Z",
+    "source": "agoda citySearch",
+    "daysAhead": 46,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}

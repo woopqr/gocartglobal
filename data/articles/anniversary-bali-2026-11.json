@@ -1,0 +1,669 @@
+{
+  "slug": "anniversary-bali-2026-11",
+  "theme": "anniversary",
+  "audience": "Anniversary Escape",
+  "emoji": "🥂",
+  "city": "Bali",
+  "citySlug": "bali",
+  "cityId": 17193,
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=17193",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Bali] Ultra-Luxury Anniversary Escapes for Two",
+  "metaDescription": "The 6 finest anniversary escape stays in Bali — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
+  "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 83% of these stays' reviews come from anniversary escape travelers. Our #1 pick is <b>The Kayon Jungle Resort</b> — rating 9.1, 4,846 reviews, from ~$43,444/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 25,
+        "pct": 83
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "Business",
+        "count": 1,
+        "pct": 3
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/5324904/-1/4fa402370854faaf9f5fe6f7f8893ac2.jpg?va=1&ca=7&ce=1",
+  "heroAlt": "Bali Anniversary Escape",
+  "updated": "2026-10-01",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Kayon Jungle Resort",
+      "agodaUrl": "https://www.agoda.com/the-kayon-jungle-resort/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5324904/-1/4fa402370854faaf9f5fe6f7f8893ac2.jpg?va=1&ca=7&ce=1",
+      "score": 9.1,
+      "reviewCount": 4846,
+      "reviewCountFmt": "4,846 reviews",
+      "priceText": "$$$ · ~$43,444/night",
+      "walkMin": 118,
+      "refLabel": "Bangli Bus Terminal",
+      "star": 5,
+      "propertyId": 5324904,
+      "priceKRW": 43444,
+      "priceStatus": "live",
+      "distanceM": 9400.65,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Tegallalang Rice Terrace",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 4,846 reviews. 118 min walk to Bangli Bus Terminal, $$$ · ~$43,444/night. 100% anniversary escape reviews.",
+      "metaTags": [
+        "💰 ~$43,444/night",
+        "📝 4,846 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff went over and above to make sure we were happy.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "The spa and the sunrise yoga classes were our favourite.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Staffs are super helpful with always a beautiful smile.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The staff were so happy to be seeing tourists again.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "The staff were so kind and attentive to every need.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2022.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Alaya Resort Ubud",
+      "agodaUrl": "https://www.agoda.com/alaya-resort-ubud/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/426266/-1/5cf8672e24b67bf965c0603374060806.jpg?va=1&ca=20&ce=0",
+      "score": 9,
+      "reviewCount": 6754,
+      "reviewCountFmt": "6,754 reviews",
+      "priceText": "$$$ · ~$14,528/night",
+      "walkMin": 7,
+      "refLabel": "Sacred Monkey Forest Sanctuary",
+      "star": 5,
+      "propertyId": 426266,
+      "priceKRW": 14528,
+      "priceStatus": "live",
+      "distanceM": 535.67,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Elephant Cave",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 6,754 reviews. 7 min walk to Sacred Monkey Forest Sanctuary, $$$ · ~$14,528/night. 80% anniversary escape reviews.",
+      "metaTags": [
+        "💰 ~$14,528/night",
+        "📝 6,754 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This was one of the best hotels I have ever stayed in.",
+          "score": "10",
+          "country": "日本",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Next to pison ubud n near to lots of good restaurant",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The service and location were both excellent.",
+          "score": "10",
+          "country": "日本",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Location is great and customer service is exceptional.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The rooms, grounds and restaurants are clean and beautiful.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Mulia Resort",
+      "agodaUrl": "https://www.agoda.com/mulia-resort_8/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6532982/-1/033c00f7f5a3cff31e603ba7005216e2.jpg?va=1&ce=0",
+      "score": 9,
+      "reviewCount": 4725,
+      "reviewCountFmt": "4,725 reviews",
+      "priceText": "$$$ · ~$31,339/night",
+      "walkMin": 34,
+      "refLabel": "Nusa Dua Beach",
+      "star": 5,
+      "propertyId": 6532982,
+      "priceKRW": 31339,
+      "priceStatus": "live",
+      "distanceM": 2723.94,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Nusa Dua Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 4,725 reviews. 34 min walk to Nusa Dua Beach, $$$ · ~$31,339/night. 80% anniversary escape reviews.",
+      "metaTags": [
+        "💰 ~$31,339/night",
+        "📝 4,725 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 7.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rooms were spacious, elegant, and well-maintained.",
+          "score": "7.2",
+          "country": "Indonesia",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The food quality, amenities and staff are exceptional.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "My favourite part was chilling in the ocean pool by the bar.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "All the restaurants within the resort are fantastic.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Pool and bar are a great and has direct access to the beach.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Villa Kayu Raja",
+      "agodaUrl": "https://www.agoda.com/villa-kayu-raja/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/281425/0/6b7bf24e5d6b6217d6a5a6ef7948ad94.jpg?va=1&ce=2",
+      "score": 8.9,
+      "reviewCount": 3869,
+      "reviewCountFmt": "3,869 reviews",
+      "priceText": "$$$ · ~$6,721/night",
+      "walkMin": 74,
+      "refLabel": "Tegal Sari Bus Terminal",
+      "star": 5,
+      "propertyId": 281425,
+      "priceKRW": 6721,
+      "priceStatus": "live",
+      "distanceM": 5907.34,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Kuta Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 3,869 reviews. 74 min walk to Tegal Sari Bus Terminal, $$$ · ~$6,721/night. 80% anniversary escape reviews.",
+      "metaTags": [
+        "💰 ~$6,721/night",
+        "📝 3,869 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "business",
+            "label": "Business",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Itt has got every conceiveable amenities you can think of.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "The accommodation was simply breathtaking.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "Very comfortable place to stay at a very strategic location.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "This has rated in our top 3 places to stay for the price.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "And a amazing restaurant right around the corner as well",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "The Kayon Valley Resort",
+      "agodaUrl": "https://www.agoda.com/udhiana-resort-ubud/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1199491/-1/ed5276672015e9964fcb925dd201fb0a.jpg?va=1&ce=0",
+      "score": 9.2,
+      "reviewCount": 1091,
+      "reviewCountFmt": "1,091 reviews",
+      "priceText": "$$$ · ~$27,101/night",
+      "walkMin": 125,
+      "refLabel": "Bangli Bus Terminal",
+      "star": 5,
+      "propertyId": 1199491,
+      "priceKRW": 27101,
+      "priceStatus": "live",
+      "distanceM": 9963.54,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Elephant Cave",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 1,091 reviews. 125 min walk to Bangli Bus Terminal, $$$ · ~$27,101/night. 100% anniversary escape reviews.",
+      "metaTags": [
+        "💰 ~$27,101/night",
+        "📝 1,091 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We were vegetarians and loved amazing food from chef for us.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Clean, Tranquil, Delicious Food and even with amazing staff",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The spa is lovely and our therapists did a great massage.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The resort, view, location and staffs are 5 *",
+          "score": "10",
+          "country": "Việt Nam",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Facilities are good, especially the swimming pool in villa.",
+          "score": "9.2",
+          "country": "中國香港",
+          "date": "2023.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "The Trans Resort Bali",
+      "agodaUrl": "https://www.agoda.com/the-trans-resort-bali/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/781/781134/781134_15072217340032811961.jpg?va=1&ca=4&ce=1",
+      "score": 9.2,
+      "reviewCount": 3506,
+      "reviewCountFmt": "3,506 reviews",
+      "priceText": "$$$ · ~$12,609/night",
+      "walkMin": 65,
+      "refLabel": "Tegal Sari Bus Terminal",
+      "star": 5,
+      "propertyId": 781134,
+      "priceKRW": 12609,
+      "priceStatus": "live",
+      "distanceM": 5194.15,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Kuta Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 3,506 reviews. 65 min walk to Tegal Sari Bus Terminal, $$$ · ~$12,609/night. 60% anniversary escape reviews.",
+      "metaTags": [
+        "💰 ~$12,609/night",
+        "📝 3,506 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "From time of check in what such a professional experience.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "The location of The Trans Resort Bali is simply unbeatable.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "But the best part is the bed, it’s like sleeping on a cloud.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Their warm and attentive service really stood out.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Staff was really good , always smiling and superb with kids.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-01T10:46:14.743Z",
+    "searchCondition": "1 adult · 1 room · 1 night · USD · mid-November 2026",
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-01T10:46:14.743Z",
+    "source": "agoda citySearch",
+    "daysAhead": 46,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    }
+  }
+}
