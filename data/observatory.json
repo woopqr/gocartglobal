@@ -32,6 +32,65 @@
           "url": "https://www.agoda.com/jimbaran-bay-beach-resort-spa-by-prabhu/hotel/bali-id.html?cid=1925461"
         }
       ]
+    },
+    {
+      "city": "Bali",
+      "citySlug": "bali",
+      "cityId": 17193,
+      "observedAt": "2026-10-01T18:09:06.298Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "76588180",
+          "name": "Alaya Suites Ubud",
+          "priceKRW": 21311,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/alaya-suites/hotel/badung-id.html?cid=1925461"
+        },
+        {
+          "key": "65538",
+          "name": "The Patra Bali Resort & Villas",
+          "priceKRW": 7702,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "920599",
+          "name": "Amnaya Resort Kuta",
+          "priceKRW": 7158,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/amnaya-resort-kuta/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "10328",
+          "name": "Ayodya Resort Bali",
+          "priceKRW": 14033,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ayodya-resort/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "10358",
+          "name": "Bintang Bali Resort",
+          "priceKRW": 6045,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/bintang-bali-resort/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "10336",
+          "name": "Griya Santrian a Beach Resort",
+          "priceKRW": 17221,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/griya-santrian-a-beach-resort/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "45555",
+          "name": "Kuta Seaview Beach Resort",
+          "priceKRW": 7078,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kuta-seaview-boutique-resort_3/hotel/bali-id.html?cid=1925461"
+        }
+      ]
     }
   ]
 }
