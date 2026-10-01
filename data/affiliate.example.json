@@ -1,0 +1,6 @@
+{
+  "agoda": {
+    "cid": "YOUR_AGODA_CID",
+    "_comment": "공개 가능한 어필리에이트 링크 ID만. API 토큰/시크릿은 affiliate.secret.json(gitignore) 또는 GitHub Actions Secrets에 저장."
+  }
+}

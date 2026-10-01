@@ -1,0 +1,45 @@
+name: GoCart Global auto-publish
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'   # 4시간마다(하루 6회) 드립 발행 — 회당 2개, 월 ~180빌드
+  workflow_dispatch:
+    inputs:
+      batch:
+        description: '수동 신규 발행 수(미입력 시 2개)'
+        required: false
+        default: '2'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate + build (batched)
+        env:
+          BATCH: ${{ github.event.inputs.batch || '2' }}
+        run: node publish.js
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "gocartglobal-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore: auto-publish $(date -u +%Y-%m-%d)"
+            git pull --rebase -X ours origin main || true
+            git push
+          else
+            echo "변경 없음 — 스킵"
+          fi

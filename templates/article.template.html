@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{title}} | {{site.name}}</title>
+<meta name="description" content="{{metaDescription}}">
+<meta name="robots" content="{{robotsContent}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{metaDescription}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:image" content="{{ogImage}}">
+<meta property="og:site_name" content="{{site.name}}">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<script>(function(){try{var t=localStorage.getItem('mz-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('mz-consent')==='granted')gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{adsense}}" crossorigin="anonymous"></script>
+<script defer src="/assets/consent.js"></script>
+<link rel="stylesheet" href="/assets/css/article.css">
+<script type="application/ld+json">{{{jsonld}}}</script>
+</head>
+<body>
+<button id="themeToggle" class="theme-toggle" aria-label="Toggle dark/light" onclick="__mzToggle()">
+  <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+</button>
+
+<article class="post">
+  <a class="backbar" href="/">← {{site.name}} Home</a>
+  <nav class="crumb" aria-label="Breadcrumb"><a href="/">Home</a> <span>›</span> <a href="/category/{{theme}}">{{audience}}</a> <span>›</span> <span>{{city}} stays</span></nav>
+
+  <!-- hero -->
+  <div class="hero">
+    <img src="{{heroImg}}" alt="{{heroAlt}}">
+    <div class="cap">
+      <div class="kicker"><span class="tag">{{emoji}} {{audience}}</span>{{#season}}<span class="ssn">{{season}}</span>{{/season}}<span class="mon">{{travelMonthLabel}}</span></div>
+      <h1>{{title}}</h1>
+      <p class="lede">{{intro}}</p>
+      <p class="byline">{{authorName}} · Updated {{updatedLabel}} · <a href="/pages/methodology.html">Methodology</a></p>
+    </div>
+  </div>
+
+  <div class="callout verdict"><span class="vlabel">THE VERDICT</span>{{{verdict}}}</div>
+
+  <section class="databox evidence-box">
+    <h2>How we ranked & data scope</h2>
+    <dl class="evidence-list">
+      <div><dt>Data source</dt><dd>{{sourceName}}</dd></div>
+      <div><dt>Fetched</dt><dd>{{fetchedAtLabel}}</dd></div>
+      <div><dt>Search criteria</dt><dd>{{searchCondition}}</dd></div>
+      <div><dt>Type sample</dt><dd>{{sampleTotal}} snippets · {{sampleReliability}}</dd></div>
+    </dl>
+    <p class="dsub">{{sampleNotice}} Prices, availability and amenities may change after the fetch time; unverified values are flagged, not estimated.</p>
+  </section>
+
+  {{#seasonNote}}<p class="ssnnote">🗓️ {{travelMonthLabel}} · {{season}} tip: {{seasonNote}}</p>{{/seasonNote}}
+
+  <!-- data: traveler type distribution -->
+  {{#hasAggregate}}
+  <section class="databox">
+    <h2>📊 Who loves these stays</h2>
+    <p class="dsub">Aggregated from review snippets in the search response for {{city}} {{audience}} candidates, grouped by traveler type. This shows sample direction, not the full review mix.</p>
+    {{{aggregateChartHtml}}}
+  </section>
+  {{/hasAggregate}}
+
+  <!-- hotel cards -->
+  <h2 class="sechd">🏨 The finest {{audience}} stays in {{city}}</h2>
+  {{#hotels}}
+  <section class="hotel">
+    <div class="ph">
+      <img src="{{img}}" alt="{{name}}">
+      <span class="chip">{{priceText}}</span>
+      <div class="cap">
+        <span class="rk {{rankClass}}">{{rankBadge}}</span>
+        <span class="nm">{{name}}</span>
+        <span class="sc">★ {{score}} · {{reviewCountFmt}}</span>
+      </div>
+    </div>
+    <div class="bd">
+      <p class="blurb">{{blurb}}</p>
+      <p class="field-status">Price: {{priceStatus}} · Location: {{locationStatus}} · Type sample: {{sampleCount}}</p>
+      <div class="meta">{{#metaTags}}<span>{{.}}</span>{{/metaTags}}</div>
+      {{#hasTypes}}{{{typeBarsHtml}}}{{/hasTypes}}
+      {{#hasReviews}}
+      <div class="reviews">
+        {{#reviews}}<div class="rv"><div class="rvsc">{{score}}</div><div class="rvc"><p class="q">“{{text}}”</p><div class="rvf">{{country}}{{#date}} · {{date}}{{/date}}{{#translated}} <span class="rv-tr">translated</span>{{/translated}}</div></div></div>{{/reviews}}
+        <a class="rv-more" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">Read more real guest reviews →</a>
+      </div>
+      {{/hasReviews}}
+      <div class="cta"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 Check live rates on Agoda →</a></div>
+    </div>
+  </section>
+  {{/hotels}}
+
+  <div class="callout basis">
+    <p class="bt">🔎 How we chose</p>
+    <p>We use the cumulative rating and total review count from Agoda's search response, the fetched nightly price, and transit distance. Ratings receive a Bayesian adjustment for review volume and combine with the price tier; traveler-type fit is computed only from the snippet sample in the response. Missing prices, amenities and locations are not estimated. This ranking reflects the conditions above — re-check live prices and availability at checkout.</p>
+  </div>
+
+  <div class="outro">
+    <h2>🌙 Planning {{city}}?</h2>
+    <p>These picks are compared on the same criteria from a {{audience}} lens. Once your dates are set, re-check current prices and room options for {{city}}.</p>
+    <a class="bigcta" href="{{cityUrl}}" target="_blank" rel="noopener sponsored nofollow">🏨 Search all {{city}} stays on Agoda</a>
+  </div>
+
+  <p class="disc">This article contains Agoda affiliate links. We may earn a commission on bookings at no extra cost to you. Selections and assessments are written independently, based on real data.</p>
+
+  <nav class="pagenav">
+    <a href="/">← Browse more luxury picks</a>
+    <span><a href="/pages/methodology.html">Methodology</a> · <a href="/pages/editorial-policy.html">Editorial policy</a> · <a href="/pages/privacy.html">Privacy Policy</a> · <a href="/pages/contact.html">Contact</a></span>
+  </nav>
+</article>
+
+<script>function __mzToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('mz-theme',next);}catch(e){}}</script>
+</body>
+</html>

@@ -1,0 +1,95 @@
+{
+  "_comment": "럭셔리 테마 = 오디언스 × 시즌. 선정은 gen.js에서 최고가+리뷰많은순+5성+리조트/풀빌라 기준. hooks는 도시별 회전으로 제목 중복 방지(SEO).",
+  "themes": [
+    {
+      "id": "honeymoon",
+      "audience": "Honeymoon",
+      "emoji": "💍",
+      "preferType": "couple",
+      "titlePattern": "[{city}] {hook}",
+      "hooks": [
+        "The Most Romantic Ultra-Luxury Honeymoon Resorts",
+        "Private Pool Villas Made for Newlyweds",
+        "Five-Star Honeymoon Retreats Worth the Splurge",
+        "Where Couples Splurge: The Finest Honeymoon Stays"
+      ],
+      "keywords": ["honeymoon", "romantic", "private pool villa", "ocean view", "suite", "couple", "luxury resort"],
+      "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+      "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime."
+    },
+    {
+      "id": "anniversary",
+      "audience": "Anniversary Escape",
+      "emoji": "🥂",
+      "preferType": "couple",
+      "titlePattern": "[{city}] {hook}",
+      "hooks": [
+        "Ultra-Luxury Anniversary Escapes for Two",
+        "The Grandest Suites to Celebrate a Milestone",
+        "Timeless Five-Star Resorts for a Special Anniversary",
+        "Where Discerning Couples Celebrate in Style"
+      ],
+      "keywords": ["anniversary", "celebration", "suite", "fine dining", "ocean view", "couple", "luxury"],
+      "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+      "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style."
+    },
+    {
+      "id": "golf",
+      "audience": "Luxury Golf",
+      "emoji": "⛳",
+      "preferType": "friends",
+      "titlePattern": "[{city}] {hook}",
+      "hooks": [
+        "Five-Star Golf Resorts for the Discerning Player",
+        "Luxury Stays by the World's Best Fairways",
+        "Where Golfers Splurge: Premium Resort Picks",
+        "Championship Golf Meets Ultra-Luxury Lodging"
+      ],
+      "keywords": ["golf resort", "fairway", "luxury", "resort", "spa", "club"],
+      "viewpoint": "We surfaced the priciest, best-reviewed resorts favored by luxury and golf travelers.",
+      "intro": "A great golf trip is half course, half clubhouse. These are the top-priced, best-reviewed luxury resorts where the stay is as memorable as the round."
+    },
+    {
+      "id": "wellness",
+      "audience": "Wellness & Spa",
+      "emoji": "🧖",
+      "preferType": "couple",
+      "titlePattern": "[{city}] {hook}",
+      "hooks": [
+        "The Finest Wellness Retreats & Spa Resorts",
+        "Ultra-Luxury Spa Escapes to Reset in Style",
+        "Five-Star Sanctuaries for a Healing Getaway",
+        "Where Serenity Meets Serious Luxury"
+      ],
+      "keywords": ["wellness", "spa", "retreat", "healing", "onsen", "resort", "luxury"],
+      "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+      "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely."
+    },
+    {
+      "id": "ultra",
+      "audience": "Ultra-Luxury",
+      "emoji": "👑",
+      "preferType": "couple",
+      "titlePattern": "[{city}] {hook}",
+      "hooks": [
+        "The Single Most Luxurious Places to Stay",
+        "The World's Priciest, Most Coveted Suites",
+        "Bucket-List Ultra-Luxury Hotels & Villas",
+        "The Best of the Best: Top Luxury Stays"
+      ],
+      "keywords": ["ultra luxury", "iconic", "suite", "penthouse", "private villa", "five star", "bucket list"],
+      "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+      "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market."
+    }
+  ],
+  "seasons": [
+    { "id": "peak", "label": "Peak Season", "months": [7, 8, 12, 1], "note": "Peak-season suites sell out fastest — reserve early." },
+    { "id": "spring", "label": "Spring", "months": [3, 4, 5], "note": "Mild weather makes for ideal resort days." },
+    { "id": "summer", "label": "Summer", "months": [6], "note": "Long days and prime beach-resort season." },
+    { "id": "autumn", "label": "Autumn", "months": [9, 10, 11], "note": "Shoulder season often brings the best value on top suites." }
+  ],
+  "calendar": {
+    "_comment": "현재 월 → 선행발행 대상. monthsAhead 1~2를 더한 여행시점 시즌/오디언스 조합 우선.",
+    "monthsAhead": [1, 2]
+  }
+}

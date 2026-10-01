@@ -1,0 +1,11 @@
+# 생성(빌드) 파일 — 병합 충돌 방지
+# 이 파일들은 node build-all.js 로 언제든 재생성되므로,
+# 병합 시 한쪽 버전을 그대로 두고(ours) 이후 재빌드로 내용을 맞춘다.
+# (수동 push 와 자동 발행 봇이 같은 파일을 건드려도 충돌이 나지 않음)
+index.html      merge=ours
+sitemap.xml     merge=ours
+articles.json   merge=ours
+/articles/**    merge=ours
+/page/**        merge=ours
+/category/**    merge=ours
+/data/specials/*.hotels.json merge=ours

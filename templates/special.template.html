@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{title}} | GoCart Global</title>
+<meta name="description" content="{{metaDescription}}">
+<meta name="keywords" content="{{keywordsCsv}}">
+<link rel="canonical" href="{{canonical}}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="{{title}}">
+<meta property="og:description" content="{{metaDescription}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:site_name" content="GoCart Global">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<script>(function(){try{var t=localStorage.getItem('mz-theme');if(!t)t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';document.documentElement.setAttribute('data-theme',t);}catch(e){document.documentElement.setAttribute('data-theme','light');}})();</script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied',analytics_storage:'denied',wait_for_update:500});try{if(localStorage.getItem('mz-consent')==='granted')gtag('consent','update',{ad_storage:'granted',ad_user_data:'granted',ad_personalization:'granted',analytics_storage:'granted'})}catch(e){}</script>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{adsense}}" crossorigin="anonymous"></script>
+<script defer src="/assets/consent.js"></script>
+<link rel="stylesheet" href="/assets/css/article.css">
+<script type="application/ld+json">{{{jsonld}}}</script>
+</head>
+<body>
+<button id="themeToggle" class="theme-toggle" aria-label="Toggle dark/light" onclick="__mzToggle()">
+  <svg width="20" height="20" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="2"/><path d="M12 3a9 9 0 010 18z" fill="currentColor"/></svg>
+</button>
+
+<article class="post special">
+  <a class="backbar" href="/category/celebrity">← Celebrity &amp; screen escapes</a>
+
+  <header class="sp-hero">
+    <span class="sp-eyebrow">{{heroEyebrow}}</span>
+    <h1 class="sp-title">{{{heroHeadline}}}</h1>
+    <p class="sp-sub">{{heroSub}}</p>
+    <div class="sp-kws">{{#keywords}}<span class="kw">{{.}}</span>{{/keywords}}</div>
+  </header>
+
+  <p class="lede sp-intro">{{{intro}}}</p>
+
+  <div class="cta sp-cta"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">{{topCtaText}}</a></div>
+
+  {{#sections}}
+  <section class="sp-sec">
+    <h2>{{h2}}</h2>
+    <div class="sp-body">{{{body}}}</div>
+  </section>
+  {{/sections}}
+
+  {{#hasHotels}}
+  <section class="sp-sec">
+    <h2>{{hotelHeading}} ({{hotelCount}})</h2>
+    <div class="sp-hotels">
+      {{#hotels}}
+      <a class="sphotel" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">
+        <div class="sph-thumb">{{#img}}<img src="{{img}}" alt="{{name}}" loading="lazy">{{/img}}</div>
+        <div class="sph-body">
+          <span class="sph-name">{{name}}</span>
+          <span class="sph-meta">★ {{score}} · {{reviewCountFmt}}{{#priceText}} · {{priceText}}{{/priceText}}</span>
+          <span class="sph-cta">See it on Agoda →</span>
+        </div>
+      </a>
+      {{/hotels}}
+    </div>
+  </section>
+  {{/hasHotels}}
+
+  <section class="sp-sec">
+    <h2>{{staysHeading}}</h2>
+    <div class="sp-stays">
+      {{#stays}}
+      <a class="staycard" href="{{url}}" target="_blank" rel="noopener sponsored nofollow">
+        <span class="st-area">{{area}}</span>
+        <span class="st-name">{{name}}</span>
+        <span class="st-blurb">{{blurb}}</span>
+        <span class="st-cta">{{cta}} →</span>
+      </a>
+      {{/stays}}
+    </div>
+  </section>
+
+  <section class="sp-sec">
+    <h2>{{nearbyHeading}}</h2>
+    <div class="sp-recs">
+      {{#nearbyFood}}<div class="rec"><span class="rc-tag">{{tag}}</span><b>{{name}}</b><span>{{desc}}</span></div>{{/nearbyFood}}
+      {{#nearbyCafe}}<div class="rec cafe"><span class="rc-tag">{{tag}}</span><b>{{name}}</b><span>{{desc}}</span></div>{{/nearbyCafe}}
+    </div>
+  </section>
+
+  <section class="sp-sec sp-faq">
+    <h2>{{faqHeading}}</h2>
+    {{#faq}}
+    <div class="faq-item">
+      <h3>{{q}}</h3>
+      <p>{{a}}</p>
+    </div>
+    {{/faq}}
+  </section>
+
+  <div class="cta sp-cta big"><a href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">{{bottomCtaText}}</a></div>
+
+  <p class="disc">{{disc}}</p>
+
+  <nav class="pagenav">
+    <a href="/category/celebrity">← More celebrity &amp; screen escapes</a>
+    <span><a href="/pages/about.html">About</a> · <a href="/pages/privacy.html">Privacy Policy</a> · <a href="/pages/contact.html">Contact</a></span>
+  </nav>
+</article>
+
+<script>function __mzToggle(){var r=document.documentElement;var cur=r.getAttribute('data-theme');var eff=cur||(matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light');var next=eff==='dark'?'light':'dark';r.setAttribute('data-theme',next);try{localStorage.setItem('mz-theme',next);}catch(e){}}</script>
+</body>
+</html>

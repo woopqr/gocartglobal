@@ -1,0 +1,44 @@
+# 비밀정보 — 절대 커밋 금지
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.crt
+secrets.json
+data/affiliate.secret.json
+*apikey*
+*api_key*
+*api-key*
+*.secret
+*.secret.*
+*token*
+*password*
+*credentials*
+*.cookies
+*.session
+
+# 의존성
+node_modules/
+**/node_modules/
+package-lock.json
+
+# 대용량 미디어 (Cloudflare 25MB/파일)
+*.mp3
+*.mp4
+*.mov
+
+# OS/에디터
+.DS_Store
+Thumbs.db
+*.log
+
+# 내부 작업 잔여물
+probe.js
+
+# 내부 설계문서 — 공개 배포 금지
+DEVELOP-PLAN.md
+MIGRATION-PLAN.md
+00_*.md
+00_*.html

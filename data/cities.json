@@ -1,0 +1,22 @@
+[
+  { "cityId": 17193,  "slug": "bali",         "name": "Bali" },
+  { "cityId": 16056,  "slug": "phuket",       "name": "Phuket" },
+  { "cityId": 9395,   "slug": "bangkok",      "name": "Bangkok" },
+  { "cityId": 4064,   "slug": "singapore",    "name": "Singapore" },
+  { "cityId": 16808,  "slug": "hongkong",     "name": "Hong Kong" },
+  { "cityId": 16440,  "slug": "danang",       "name": "Da Nang" },
+  { "cityId": 2679,   "slug": "nha-trang",    "name": "Nha Trang" },
+  { "cityId": 8584,   "slug": "pattaya",      "name": "Pattaya" },
+  { "cityId": 7401,   "slug": "chiangmai",    "name": "Chiang Mai" },
+  { "cityId": 14524,  "slug": "kuala-lumpur", "name": "Kuala Lumpur" },
+  { "cityId": 16087,  "slug": "penang",       "name": "Penang" },
+  { "cityId": 15903,  "slug": "boracay",      "name": "Boracay" },
+  { "cityId": 4001,   "slug": "cebu",         "name": "Cebu" },
+  { "cityId": 5085,   "slug": "tokyo",        "name": "Tokyo" },
+  { "cityId": 1784,   "slug": "kyoto",        "name": "Kyoto" },
+  { "cityId": 9590,   "slug": "osaka",        "name": "Osaka" },
+  { "cityId": 18820,  "slug": "okinawa",      "name": "Okinawa" },
+  { "cityId": 3435,   "slug": "sapporo",      "name": "Sapporo" },
+  { "cityId": 14690,  "slug": "seoul",        "name": "Seoul" },
+  { "cityId": 16901,  "slug": "jeju",         "name": "Jeju" }
+]

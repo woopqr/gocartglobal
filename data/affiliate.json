@@ -1,0 +1,7 @@
+{
+  "agoda": {
+    "cid": "1925461",
+    "defaultLang": "en-us",
+    "_comment": "CID는 공개값(발행 링크에 노출되어야 작동). Agoda GraphQL API 키 등 시크릿은 affiliate.secret.json(gitignore) 또는 GitHub Actions Secrets에 보관."
+  }
+}
