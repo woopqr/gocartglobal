@@ -67,3 +67,4 @@ STATUS.md
 *.xls
 *.log
 .cache/
+dist/
