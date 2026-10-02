@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 1,
+  "cursor": 0,
   "observations": [
     {
       "city": "Bali",
@@ -134,6 +134,65 @@
           "priceKRW": 5057,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/jimbaran-bay-beach-resort-spa-by-prabhu/hotel/bali-id.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Phuket",
+      "citySlug": "phuket",
+      "cityId": 16056,
+      "observedAt": "2026-10-02T01:37:49.272Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "28689418",
+          "name": "Panwaburi Beachfront Resort",
+          "priceKRW": 17747,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/panwaburi-beachfront-resort/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "1155608",
+          "name": "Patong Bay Hill Resort",
+          "priceKRW": 6883,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/patong-bay-hill-resort_2/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "108812",
+          "name": "Dewa Phuket Resort & Villas",
+          "priceKRW": 12511,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/dewa-nai-yang-beach-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10933",
+          "name": "Thavorn Beach Village Resort & Spa Phuket",
+          "priceKRW": 23518,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/thavorn-beach-village-resort-spa-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "335179",
+          "name": "Santhiya Koh Yao Yai Resort & Spa - Compulsory Join Santhiya Speedboat from-to Ao Po Grand Marina",
+          "priceKRW": 19725,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/santhiya-koh-yao-yai-resort-and-spa/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "52156",
+          "name": "Phuket Graceland Resort & Spa",
+          "priceKRW": 10697,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/phuket-graceland-resort-spa/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "271635",
+          "name": "IndoChine Resort & Villas",
+          "priceKRW": 14595,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/indochine-resort-villas/hotel/phuket-th.html?cid=1925461"
         }
       ]
     }
