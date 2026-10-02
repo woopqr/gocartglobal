@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 0,
+  "cursor": 1,
   "observations": [
     {
       "city": "Bali",
@@ -193,6 +193,58 @@
           "priceKRW": 14595,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/indochine-resort-villas/hotel/phuket-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Bali",
+      "citySlug": "bali",
+      "cityId": 17193,
+      "observedAt": "2026-10-02T01:39:36.897Z",
+      "daysAhead": 30,
+      "condition": "1 adult, 1 room, 1 night, KRW",
+      "hotels": [
+        {
+          "key": "281425",
+          "name": "Villa Kayu Raja",
+          "priceKRW": 9122,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/villa-kayu-raja/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "781134",
+          "name": "The Trans Resort Bali",
+          "priceKRW": null,
+          "priceStatus": "unavailable",
+          "url": "https://www.agoda.com/the-trans-resort-bali/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "5324904",
+          "name": "The Kayon Jungle Resort",
+          "priceKRW": 34086,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-kayon-jungle-resort/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "1199491",
+          "name": "The Kayon Valley Resort",
+          "priceKRW": 32034,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/udhiana-resort-ubud/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "6532982",
+          "name": "Mulia Resort",
+          "priceKRW": 26927,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mulia-resort_8/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "426266",
+          "name": "Alaya Resort Ubud",
+          "priceKRW": 13019,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/alaya-resort-ubud/hotel/bali-id.html?cid=1925461"
         }
       ]
     }
