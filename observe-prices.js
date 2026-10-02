@@ -22,9 +22,9 @@ function loadStore() {
 function render(store) {
   const latest = new Map();
   for (const o of store.observations) for (const h of o.hotels) latest.set(`${o.citySlug}:${h.key}`, { ...h, city: o.city, observedAt: o.observedAt });
-  const rows = [...latest.values()].filter(h => h.priceKRW).sort((a, b) => a.city.localeCompare(b.city, 'ko') || a.priceKRW - b.priceKRW).slice(0, 200);
-  const body = rows.map(h => `<tr><td>${esc(h.city)}</td><td>${esc(h.name)}</td><td>${Number(h.priceKRW).toLocaleString('ko-KR')}원</td><td>${esc(h.observedAt.slice(0,10))}</td><td><a href="${esc(h.url)}" rel="sponsored nofollow noopener" target="_blank">현재가 확인</a></td></tr>`).join('');
-  const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Price Observatory | GoCart Global</title><meta name="description" content="Nightly price observations recorded under identical search conditions."><link rel="canonical" href="https://gocartglobal.com/pages/price-observatory.html"><link rel="stylesheet" href="/assets/css/article.css"></head><body><article class="post"><a class="backbar" href="/">← GoCart Global Home</a><h1>Price observatory</h1><p>A rotating daily record of nightly prices fetched under 1 adult · 1 room · 1 night · USD. These observations are not confirmed booking totals and can change with taxes, member rates and availability.</p><div class="databox"><strong>${store.observations.length} observations recorded</strong><p>When a price cannot be confirmed, we do not estimate it or substitute a prior value.</p></div><div style="overflow:auto"><table><thead><tr><th>City</th><th>Property</th><th>Observed price</th><th>Fetched</th><th>Source</th></tr></thead><tbody>${body}</tbody></table></div></article></body></html>`;
+  const rows = [...latest.values()].filter(h => h.priceUSD).sort((a, b) => a.city.localeCompare(b.city, 'en') || a.priceUSD - b.priceUSD).slice(0, 200);
+  const body = rows.map(h => `<tr><td>${esc(h.city)}</td><td>${esc(h.name)}</td><td>$${Number(h.priceUSD).toLocaleString('en-US')}</td><td>${esc(h.observedAt.slice(0,10))}</td><td><a href="${esc(h.url)}" rel="sponsored nofollow noopener" target="_blank">Check live price</a></td></tr>`).join('');
+  const html = `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>Price Observatory | GoCart Global</title><meta name="description" content="Nightly price observations recorded under identical search conditions."><link rel="canonical" href="https://gocartglobal.com/pages/price-observatory"><link rel="stylesheet" href="/assets/css/article.css"></head><body><article class="post"><a class="backbar" href="/">← GoCart Global Home</a><h1>Price observatory</h1><p>A rotating daily record of nightly prices fetched under 1 adult · 1 room · 1 night · USD. These observations are not confirmed booking totals and can change with taxes, member rates and availability.</p><div class="databox"><strong>${store.observations.length} observations recorded</strong><p>When a price cannot be confirmed, we do not estimate it or substitute a prior value.</p></div><div style="overflow:auto"><table><thead><tr><th>City</th><th>Property</th><th>Observed price</th><th>Fetched</th><th>Source</th></tr></thead><tbody>${body}</tbody></table></div></article></body></html>`;
   fs.writeFileSync(path.join(ROOT, 'pages/price-observatory.html'), html);
 }
 
@@ -43,9 +43,9 @@ async function observe() {
   for (const h of found) {
     const known = city.hotels.get(norm(h.name));
     if (!known) continue;
-    hotels.push({ key: String(h.propertyId || norm(h.name)), name: h.name, priceKRW: h.priceKRW || null, priceStatus: h.priceKRW ? 'confirmed' : 'unavailable', url: h.agodaUrl });
+    hotels.push({ key: String(h.propertyId || norm(h.name)), name: h.name, priceUSD: h.priceUSD || null, priceStatus: h.priceUSD ? 'confirmed' : 'unavailable', url: h.agodaUrl });
   }
-  store.observations.push({ city: city.city, citySlug: city.citySlug, cityId: city.cityId, observedAt: new Date().toISOString(), daysAhead: DAYS_AHEAD, condition: '1 adult, 1 room, 1 night, KRW', hotels });
+  store.observations.push({ city: city.city, citySlug: city.citySlug, cityId: city.cityId, observedAt: new Date().toISOString(), daysAhead: DAYS_AHEAD, condition: '1 adult, 1 room, 1 night, USD', hotels });
   const cutoff = Date.now() - MAX_DAYS * 86400000;
   store.observations = store.observations.filter(o => Date.parse(o.observedAt) >= cutoff);
   store.cursor = (store.cursor + 1) % cities.length;

@@ -160,7 +160,7 @@ function buildContext(data) {
     hasTypes: !!(h.travelerTypes && h.travelerTypes.distribution && h.travelerTypes.distribution.length),
     typeBarsHtml: typeBars(h.travelerTypes, themeKey),
     img: h.img || data.heroImg,
-    hasPrice: !!h.priceKRW || !/unavailable|price varies/i.test(h.priceText || ''),
+    hasPrice: !!h.priceUSD || !/unavailable|price varies/i.test(h.priceText || ''),
     priceStatus: h.priceStatus || (/unavailable|price varies/i.test(h.priceText || '') ? 'price unavailable' : 'live'),
     locationStatus: h.locationStatus || (h.walkMin && h.refLabel ? 'verified' : 'approx.'),
     sampleCount: h.travelerTypes?.total || (h.travelerTypes?.distribution || []).reduce((n, d) => n + (d.count || 0), 0),

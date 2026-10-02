@@ -84,7 +84,7 @@ const shortName = s => String(s).split('(')[0].trim();
   const isLux = h => /resort|villa|pool ?villa|리조트|빌라|풀빌라|스위트|suite/i.test(
     `${h.accommodationType || ''} ${h.propertyType || ''} ${h.name || ''}`);
   const score = h => {
-    const price = h.priceKRW || 0;                       // 최고가 우선(지배적)
+    const price = (h.priceUSD || 0) * 1400;              // 최고가 우선(지배적) — USD를 기존 KRW 가중치 스케일로 환산
     const revs = Math.log10((h.reviewCount || 0) + 1);   // 리뷰 많은순(1~5)
     const star = h.star || 0;
     const aff = md.affinityFor(theme.preferType, h.travelerTypes); // 테마 적합(부가)
@@ -95,7 +95,11 @@ const shortName = s => String(s).split('(')[0].trim();
       + (h.score || 0) * 15000
       + aff * 1500;
   };
-  const picked = candidates.sort((a, b) => score(b) - score(a)).slice(0, N).map((h, i) => ({ ...h, rank: i + 1, isLux: isLux(h) }));
+  // 럭셔리 하한: 4.5성 이상만(3곳 미만이면 4성까지 허용) — 저가 숙소가 '최고급' 글에 섞이지 않게
+  const luxPool = candidates.filter(h => (h.star || 0) >= 4.5);
+  const pool = luxPool.length >= 3 ? luxPool : candidates.filter(h => (h.star || 0) >= 4);
+  if (pool.length < 3) throw new Error(`4성 이상 숙소 부족(${pool.length}곳) — 건너뜀`);
+  const picked = pool.sort((a, b) => score(b) - score(a)).slice(0, N).map((h, i) => ({ ...h, rank: i + 1, isLux: isLux(h) }));
 
   // 영어 사이트: 리뷰 원문(영어) 유지 — 번역하지 않음
 
@@ -126,7 +130,7 @@ const shortName = s => String(s).split('(')[0].trim();
   const hotels = picked.map(h => {
     const tt = h.travelerTypes;
     const tags = [];
-    if (h.priceKRW) tags.push('💰 ~$' + Number(h.priceKRW).toLocaleString('en-US') + '/night');
+    if (h.priceUSD) tags.push('💰 ~$' + Number(h.priceUSD).toLocaleString('en-US') + '/night');
     tags.push('📝 ' + Number(h.reviewCount).toLocaleString('en-US') + ' reviews');
     if (h.star) tags.push('⭐ ' + h.star + '-star');
     if (h.isLux) tags.push('🏝️ Resort / Villa');
@@ -142,8 +146,8 @@ const shortName = s => String(s).split('(')[0].trim();
       priceText: h.priceText, walkMin: h.walkMin, refLabel,
       star: h.star || null,
       propertyId: h.propertyId,
-      priceKRW: h.priceKRW || null,
-      priceStatus: h.priceKRW ? 'live' : 'price unavailable',
+      priceUSD: h.priceUSD || null,
+      priceStatus: h.priceUSD ? 'live' : 'price unavailable',
       distanceM: h.distanceM ?? null,
       locationStatus: h.distanceM != null && h.refLandmark ? 'verified' : 'approx.',
       facilities: h.featureTitles || [],

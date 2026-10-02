@@ -6,245 +6,37 @@
       "city": "Bali",
       "citySlug": "bali",
       "cityId": 17193,
-      "observedAt": "2026-10-01T10:46:16.479Z",
+      "observedAt": "2026-10-02T03:21:46.523Z",
       "daysAhead": 30,
-      "condition": "1 adult, 1 room, 1 night, KRW",
+      "condition": "1 adult, 1 room, 1 night, USD",
       "hotels": [
-        {
-          "key": "46874759",
-          "name": "Holiday Inn Resort Bali Canggu By IHG",
-          "priceKRW": 1585,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/holiday-inn-resort-bali-canggu/hotel/bali-id.html?cid=1925461"
-        },
         {
           "key": "65538",
           "name": "The Patra Bali Resort & Villas",
-          "priceKRW": 7702,
+          "priceUSD": 70,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
         },
         {
-          "key": "1195948",
-          "name": "Jimbaran Bay Beach Resort & Spa by Prabhu",
-          "priceKRW": 5078,
+          "key": "995",
+          "name": "Discovery Kartika Plaza Hotel",
+          "priceUSD": 89,
           "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/jimbaran-bay-beach-resort-spa-by-prabhu/hotel/bali-id.html?cid=1925461"
-        }
-      ]
-    },
-    {
-      "city": "Bali",
-      "citySlug": "bali",
-      "cityId": 17193,
-      "observedAt": "2026-10-01T18:09:06.298Z",
-      "daysAhead": 30,
-      "condition": "1 adult, 1 room, 1 night, KRW",
-      "hotels": [
-        {
-          "key": "76588180",
-          "name": "Alaya Suites Ubud",
-          "priceKRW": 21311,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/alaya-suites/hotel/badung-id.html?cid=1925461"
+          "url": "https://www.agoda.com/discovery-kartika-plaza-hotel/hotel/bali-id.html?cid=1925461"
         },
         {
-          "key": "65538",
-          "name": "The Patra Bali Resort & Villas",
-          "priceKRW": 7702,
+          "key": "2562742",
+          "name": "Renaissance Bali Uluwatu Resort & Spa",
+          "priceUSD": 180,
           "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
+          "url": "https://www.agoda.com/renaissance-bali-uluwatu-resort-spa_4/hotel/bali-id.html?cid=1925461"
         },
         {
-          "key": "920599",
-          "name": "Amnaya Resort Kuta",
-          "priceKRW": 7158,
+          "key": "6504",
+          "name": "AYANA Resort Bali",
+          "priceUSD": 398,
           "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/amnaya-resort-kuta/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "10328",
-          "name": "Ayodya Resort Bali",
-          "priceKRW": 14033,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/ayodya-resort/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "10358",
-          "name": "Bintang Bali Resort",
-          "priceKRW": 6045,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/bintang-bali-resort/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "10336",
-          "name": "Griya Santrian a Beach Resort",
-          "priceKRW": 17221,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/griya-santrian-a-beach-resort/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "45555",
-          "name": "Kuta Seaview Beach Resort",
-          "priceKRW": 7078,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/kuta-seaview-boutique-resort_3/hotel/bali-id.html?cid=1925461"
-        }
-      ]
-    },
-    {
-      "city": "Bali",
-      "citySlug": "bali",
-      "cityId": 17193,
-      "observedAt": "2026-10-01T23:44:00.605Z",
-      "daysAhead": 30,
-      "condition": "1 adult, 1 room, 1 night, KRW",
-      "hotels": [
-        {
-          "key": "76588180",
-          "name": "Alaya Suites Ubud",
-          "priceKRW": 21217,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/alaya-suites/hotel/badung-id.html?cid=1925461"
-        },
-        {
-          "key": "65538",
-          "name": "The Patra Bali Resort & Villas",
-          "priceKRW": 7702,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "45555",
-          "name": "Kuta Seaview Beach Resort",
-          "priceKRW": 7091,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/kuta-seaview-boutique-resort_3/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "49686",
-          "name": "Grand Barong Resort Bali Managed by Soscomma",
-          "priceKRW": 27,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/grand-barong-resort-bali-managed-by-soscomma/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "1195948",
-          "name": "Jimbaran Bay Beach Resort & Spa by Prabhu",
-          "priceKRW": 5057,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/jimbaran-bay-beach-resort-spa-by-prabhu/hotel/bali-id.html?cid=1925461"
-        }
-      ]
-    },
-    {
-      "city": "Phuket",
-      "citySlug": "phuket",
-      "cityId": 16056,
-      "observedAt": "2026-10-02T01:37:49.272Z",
-      "daysAhead": 30,
-      "condition": "1 adult, 1 room, 1 night, KRW",
-      "hotels": [
-        {
-          "key": "28689418",
-          "name": "Panwaburi Beachfront Resort",
-          "priceKRW": 17747,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/panwaburi-beachfront-resort/hotel/phuket-th.html?cid=1925461"
-        },
-        {
-          "key": "1155608",
-          "name": "Patong Bay Hill Resort",
-          "priceKRW": 6883,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/patong-bay-hill-resort_2/hotel/phuket-th.html?cid=1925461"
-        },
-        {
-          "key": "108812",
-          "name": "Dewa Phuket Resort & Villas",
-          "priceKRW": 12511,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/dewa-nai-yang-beach-phuket/hotel/phuket-th.html?cid=1925461"
-        },
-        {
-          "key": "10933",
-          "name": "Thavorn Beach Village Resort & Spa Phuket",
-          "priceKRW": 23518,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/thavorn-beach-village-resort-spa-phuket/hotel/phuket-th.html?cid=1925461"
-        },
-        {
-          "key": "335179",
-          "name": "Santhiya Koh Yao Yai Resort & Spa - Compulsory Join Santhiya Speedboat from-to Ao Po Grand Marina",
-          "priceKRW": 19725,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/santhiya-koh-yao-yai-resort-and-spa/hotel/phuket-th.html?cid=1925461"
-        },
-        {
-          "key": "52156",
-          "name": "Phuket Graceland Resort & Spa",
-          "priceKRW": 10697,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/phuket-graceland-resort-spa/hotel/phuket-th.html?cid=1925461"
-        },
-        {
-          "key": "271635",
-          "name": "IndoChine Resort & Villas",
-          "priceKRW": 14595,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/indochine-resort-villas/hotel/phuket-th.html?cid=1925461"
-        }
-      ]
-    },
-    {
-      "city": "Bali",
-      "citySlug": "bali",
-      "cityId": 17193,
-      "observedAt": "2026-10-02T01:39:36.897Z",
-      "daysAhead": 30,
-      "condition": "1 adult, 1 room, 1 night, KRW",
-      "hotels": [
-        {
-          "key": "281425",
-          "name": "Villa Kayu Raja",
-          "priceKRW": 9122,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/villa-kayu-raja/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "781134",
-          "name": "The Trans Resort Bali",
-          "priceKRW": null,
-          "priceStatus": "unavailable",
-          "url": "https://www.agoda.com/the-trans-resort-bali/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "5324904",
-          "name": "The Kayon Jungle Resort",
-          "priceKRW": 34086,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/the-kayon-jungle-resort/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "1199491",
-          "name": "The Kayon Valley Resort",
-          "priceKRW": 32034,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/udhiana-resort-ubud/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "6532982",
-          "name": "Mulia Resort",
-          "priceKRW": 26927,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/mulia-resort_8/hotel/bali-id.html?cid=1925461"
-        },
-        {
-          "key": "426266",
-          "name": "Alaya Resort Ubud",
-          "priceKRW": 13019,
-          "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/alaya-resort-ubud/hotel/bali-id.html?cid=1925461"
+          "url": "https://www.agoda.com/ayana-resort-and-spa-bali_2/hotel/bali-id.html?cid=1925461"
         }
       ]
     }

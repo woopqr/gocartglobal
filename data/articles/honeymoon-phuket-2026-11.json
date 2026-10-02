@@ -14,15 +14,15 @@
   "metaDescription": "The 6 finest honeymoon stays in Phuket — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 63% of these stays' reviews come from honeymoon travelers. Our #1 pick is <b>Panwaburi Beachfront Resort</b> — rating 8.4, 10,826 reviews, from ~$11,125/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 67% of these stays' reviews come from honeymoon travelers. Our #1 pick is <b>Dinso Resort & Villas Phuket, Vignette Collection by IHG</b> — rating 8.9, 4,633 reviews, from ~$517/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 19,
-        "pct": 63
+        "count": 20,
+        "pct": 67
       },
       {
         "key": "family",
@@ -33,8 +33,8 @@
       {
         "key": "solo",
         "label": "Solo",
-        "count": 4,
-        "pct": 13
+        "count": 3,
+        "pct": 10
       },
       {
         "key": "group",
@@ -44,24 +44,422 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/28689418/0/5f339a040e432a6fb8d968dcb3057fd5.jpeg?va=1&ce=2",
+  "heroImg": "https://pix8.agoda.net/hotelImages/5752967/0/9247109dffc00713683df8db3e1d8fb1.jpeg?ce=2",
   "heroAlt": "Phuket Honeymoon",
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "hotels": [
     {
       "rank": 1,
+      "name": "Dinso Resort & Villas Phuket, Vignette Collection by IHG",
+      "agodaUrl": "https://www.agoda.com/dinso-resort-sha-plus/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5752967/0/9247109dffc00713683df8db3e1d8fb1.jpeg?ce=2",
+      "score": 8.9,
+      "reviewCount": 4633,
+      "reviewCountFmt": "4,633 reviews",
+      "priceText": "$$$ · ~$517/night",
+      "walkMin": 99,
+      "refLabel": "Minibus Station",
+      "star": 5,
+      "propertyId": 5752967,
+      "priceUSD": 517,
+      "priceStatus": "live",
+      "distanceM": 7951.5,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Patong Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 4,633 reviews. 99 min walk to Minibus Station, $$$ · ~$517/night. 80% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$517/night",
+        "📝 4,633 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This is the best hotel I have ever stayed at in my life.",
+          "score": "10",
+          "country": "TW",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Penthouse was amazing we booked pool villa on 4th floor.",
+          "score": "10",
+          "country": "Pakistan",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "It’s clean, beautiful decorated, quiet, perfect shower.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "I can't wait to return for another visit.",
+          "score": "9.2",
+          "country": "Qatar",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "We’re very happy that we chose this hotel for our honeymoon.",
+          "score": "10",
+          "country": "TW",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "The Shore at Katathani - Adults only",
+      "agodaUrl": "https://www.agoda.com/the-shore-at-katathani-adults-only/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/177991/0/5d54300612eb546d9fc22bdff6546130.jpeg?ce=2",
+      "score": 9.1,
+      "reviewCount": 4913,
+      "reviewCountFmt": "4,913 reviews",
+      "priceText": "$$$ · ~$581/night",
+      "walkMin": 19,
+      "refLabel": "Minibus Station",
+      "star": 5,
+      "propertyId": 177991,
+      "priceUSD": 581,
+      "priceStatus": "live",
+      "distanceM": 1527.23,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Kata Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 4,913 reviews. 19 min walk to Minibus Station, $$$ · ~$581/night. 100% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$581/night",
+        "📝 4,913 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "From checking in to checking out, everything was flawless.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "The location of The Shore is perfect for a romantic getaway.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "I never seen wonderful hotel for couples until - The shore",
+          "score": "9.6",
+          "country": "IL",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "The Shore was the most beautiful place I’ve ever stayed at.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "We loved every minute of our stay at this special hotel.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Santhiya Koh Yao Yai Resort & Spa - Compulsory Join Santhiya Speedboat from-to Ao Po Grand Marina",
+      "agodaUrl": "https://www.agoda.com/santhiya-koh-yao-yai-resort-and-spa/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/335179/0/21834da423f3807ec90b89e3707f2b3d.jpeg?ce=2",
+      "score": 9,
+      "reviewCount": 9597,
+      "reviewCountFmt": "9,597 reviews",
+      "priceText": "$$ · ~$260/night",
+      "walkMin": null,
+      "refLabel": "city center",
+      "star": 5,
+      "propertyId": 335179,
+      "priceUSD": 260,
+      "priceStatus": "live",
+      "distanceM": null,
+      "locationStatus": "approx.",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 9,597 reviews. $$ · ~$260/night. 60% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$260/night",
+        "📝 9,597 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This hotel is so perfect, everyone should spend time there 😻",
+          "score": "10",
+          "country": "Thaïlande",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "My room was stunning, I felt like I was living in a palace.",
+          "score": "10",
+          "country": "Austria",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Waking up to the sea view every morning is so healing.",
+          "score": "10",
+          "country": "CN",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "From the moment you walk in, the facilities are captivating.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I can not put into words just how beautiful this resort is.",
+          "score": "9.2",
+          "country": "India",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "location"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Thavorn Beach Village Resort & Spa Phuket",
+      "agodaUrl": "https://www.agoda.com/thavorn-beach-village-resort-spa-phuket/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10933/0/2d9cd2fb1e8b9505d963689d9a892f13.jpeg?ce=2",
+      "score": 8.4,
+      "reviewCount": 8291,
+      "reviewCountFmt": "8,291 reviews",
+      "priceText": "$$ · ~$226/night",
+      "walkMin": 42,
+      "refLabel": "Patong Beach",
+      "star": 5,
+      "propertyId": 10933,
+      "priceUSD": 226,
+      "priceStatus": "live",
+      "distanceM": 3380.28,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Patong Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.4 · 8,291 reviews. 42 min walk to Patong Beach, $$ · ~$226/night. 40% honeymoon reviews.",
+      "metaTags": [
+        "💰 ~$226/night",
+        "📝 8,291 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Top-Tier Dining (10/10): The food exceeded all expectations.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Magical place one of the most beautiful hotels I've been to",
+          "score": "10",
+          "country": "IL",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "We took the beach front cottages and had an amazing time.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "The location, ambience amd staff everything is very good!",
+          "score": "9.2",
+          "country": "India",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Very green, staff is very friendly, overall great resort!",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
       "name": "Panwaburi Beachfront Resort",
       "agodaUrl": "https://www.agoda.com/panwaburi-beachfront-resort/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/28689418/0/5f339a040e432a6fb8d968dcb3057fd5.jpeg?va=1&ce=2",
+      "img": "https://pix8.agoda.net/hotelImages/28689418/0/5f339a040e432a6fb8d968dcb3057fd5.jpeg?ce=2",
       "score": 8.4,
       "reviewCount": 10826,
       "reviewCountFmt": "10,826 reviews",
-      "priceText": "$$$ · ~$11,125/night",
+      "priceText": "$$ · ~$149/night",
       "walkMin": 96,
       "refLabel": "Phuket Town Local Bus Station",
       "star": 5,
       "propertyId": 28689418,
-      "priceKRW": 11125,
+      "priceUSD": 149,
       "priceStatus": "live",
       "distanceM": 7692.8,
       "locationStatus": "verified",
@@ -76,9 +474,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.4 · 10,826 reviews. 96 min walk to Phuket Town Local Bus Station, $$$ · ~$11,125/night. 80% honeymoon reviews.",
+      "blurb": "Rating 8.4 · 10,826 reviews. 96 min walk to Phuket Town Local Bus Station, $$ · ~$149/night. 80% honeymoon reviews.",
       "metaTags": [
-        "💰 ~$11,125/night",
+        "💰 ~$149/night",
         "📝 10,826 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -150,243 +548,38 @@
       }
     },
     {
-      "rank": 2,
-      "name": "Santhiya Koh Yao Yai Resort & Spa - Compulsory Join Santhiya Speedboat from-to Ao Po Grand Marina",
-      "agodaUrl": "https://www.agoda.com/santhiya-koh-yao-yai-resort-and-spa/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/335179/0/21834da423f3807ec90b89e3707f2b3d.jpeg?va=1&ce=2",
-      "score": 9,
-      "reviewCount": 9598,
-      "reviewCountFmt": "9,598 reviews",
-      "priceText": "$$$ · ~$22,296/night",
-      "walkMin": null,
-      "refLabel": "city center",
+      "rank": 6,
+      "name": "Dusit Thani Laguna Phuket Hotel",
+      "agodaUrl": "https://www.agoda.com/dusit-thani-laguna-phuket-hotel/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/62035155/0/a9f2a491429bf2b3cf869ba72aaf425a.jpeg?ce=3",
+      "score": 8.7,
+      "reviewCount": 3606,
+      "reviewCountFmt": "3,606 reviews",
+      "priceText": "$$ · ~$365/night",
+      "walkMin": 63,
+      "refLabel": "Phuket FantaSea",
       "star": 5,
-      "propertyId": 335179,
-      "priceKRW": 22296,
+      "propertyId": 10895,
+      "priceUSD": 365,
       "priceStatus": "live",
-      "distanceM": null,
-      "locationStatus": "approx.",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Gym/fitness",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9 · 9,598 reviews. $$$ · ~$22,296/night. 60% honeymoon reviews.",
-      "metaTags": [
-        "💰 ~$22,296/night",
-        "📝 9,598 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.7
-          },
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "This hotel is so perfect, everyone should spend time there 😻",
-          "score": "10",
-          "country": "Thaïlande",
-          "date": "2024.10",
-          "translated": false
-        },
-        {
-          "text": "My room was stunning, I felt like I was living in a palace.",
-          "score": "10",
-          "country": "Austria",
-          "date": "2026.08",
-          "translated": false
-        },
-        {
-          "text": "Waking up to the sea view every morning is so healing.",
-          "score": "10",
-          "country": "中国",
-          "date": "2026.08",
-          "translated": false
-        },
-        {
-          "text": "From the moment you walk in, the facilities are captivating.",
-          "score": "10",
-          "country": "United States",
-          "date": "2026.05",
-          "translated": false
-        },
-        {
-          "text": "I can not put into words just how beautiful this resort is.",
-          "score": "9.2",
-          "country": "India",
-          "date": "2024.10",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [
-          "location"
-        ],
-        "critical": false,
-        "completeness": 88,
-        "priceStatus": "confirmed",
-        "locationStatus": "unavailable"
-      }
-    },
-    {
-      "rank": 3,
-      "name": "Dewa Phuket Resort & Villas",
-      "agodaUrl": "https://www.agoda.com/dewa-nai-yang-beach-phuket/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/108812/0/565d8e53d0b3d6e23993f677d48e2b03.jpg?va=1&ce=3",
-      "score": 8.5,
-      "reviewCount": 5090,
-      "reviewCountFmt": "5,090 reviews",
-      "priceText": "$$$ · ~$12,522/night",
-      "walkMin": 1,
-      "refLabel": "Nai Yang Beach",
-      "star": 5,
-      "propertyId": 108812,
-      "priceKRW": 12522,
-      "priceStatus": "live",
-      "distanceM": 110,
+      "distanceM": 5074.23,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
         "Airport transfer",
         "Free Wi-Fi in all rooms!",
-        "Gym/fitness",
+        "Kamala Beach",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.5 · 5,090 reviews. 1 min walk to Nai Yang Beach, $$$ · ~$12,522/night. 80% honeymoon reviews.",
+      "blurb": "Rating 8.7 · 3,606 reviews. 63 min walk to Phuket FantaSea, $$ · ~$365/night. 40% honeymoon reviews.",
       "metaTags": [
-        "💰 ~$12,522/night",
-        "📝 5,090 reviews",
+        "💰 ~$365/night",
+        "📝 3,606 reviews",
         "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 80,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 4,
-            "pct": 80,
-            "rating": 9.7
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.2
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "The breakfast has plenty of variety and is delicious.",
-          "score": "9.2",
-          "country": "Australia",
-          "date": "2026.03",
-          "translated": false
-        },
-        {
-          "text": "Very clean, no hair laying anywhere (that’s a huge plus).",
-          "score": "9.6",
-          "country": "Thailand",
-          "date": "2024.05",
-          "translated": false
-        },
-        {
-          "text": "The beach and national park are just across the road.",
-          "score": "9.6",
-          "country": "Thailand",
-          "date": "2024.05",
-          "translated": false
-        },
-        {
-          "text": "Every aspect of Dewa Phuket exceeded my expectations.",
-          "score": "9.6",
-          "country": "Oman",
-          "date": "2025.07",
-          "translated": false
-        },
-        {
-          "text": "Perfect location, only 8 minutes from the airport.",
-          "score": "10",
-          "country": "ישראל",
-          "date": "2026.07",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 4,
-      "name": "Phuket Graceland Resort & Spa",
-      "agodaUrl": "https://www.agoda.com/phuket-graceland-resort-spa/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/52156/0/0ccdd8f68ae8944501d6e0d11e4f3db6.jpeg?va=1&ce=2",
-      "score": 8.5,
-      "reviewCount": 13622,
-      "reviewCountFmt": "13,622 reviews",
-      "priceText": "$$$ · ~$13,911/night",
-      "walkMin": 120,
-      "refLabel": "Minibus Station",
-      "star": 5,
-      "propertyId": 52156,
-      "priceKRW": 13911,
-      "priceStatus": "live",
-      "distanceM": 9636.56,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Free Wi-Fi in all rooms!",
-        "Sauna",
-        "Patong Beach",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.5 · 13,622 reviews. 120 min walk to Minibus Station, $$$ · ~$13,911/night. 40% honeymoon reviews.",
-      "metaTags": [
-        "💰 ~$13,911/night",
-        "📝 13,622 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
@@ -403,114 +596,13 @@
           {
             "key": "family",
             "label": "Families",
-            "count": 1,
-            "pct": 20,
+            "count": 2,
+            "pct": 40,
             "rating": 10
           },
           {
             "key": "solo",
             "label": "Solo",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Third time I have stayed here and have loved it every time !",
-          "score": "10",
-          "country": "Australia",
-          "date": "2023.03",
-          "translated": false
-        },
-        {
-          "text": "Got an upgrade for my room for the first couple of nights.",
-          "score": "10",
-          "country": "Bangladesh",
-          "date": "2025.06",
-          "translated": false
-        },
-        {
-          "text": "Our room was spotlessly clean, modern, and very comfortable.",
-          "score": "10",
-          "country": "ישראל",
-          "date": "2026.01",
-          "translated": false
-        },
-        {
-          "text": "Our room was spacious and clean, and the pools were amazing.",
-          "score": "10",
-          "country": "Philippines",
-          "date": "2025.06",
-          "translated": false
-        },
-        {
-          "text": "Breakfast was delicious with a wide variety of options.",
-          "score": "10",
-          "country": "ישראל",
-          "date": "2026.01",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
-      "name": "Dinso Resort & Villas Phuket, Vignette Collection by IHG",
-      "agodaUrl": "https://www.agoda.com/dinso-resort-sha-plus/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/5752967/0/9247109dffc00713683df8db3e1d8fb1.jpeg?va=1&ce=2",
-      "score": 8.9,
-      "reviewCount": 4632,
-      "reviewCountFmt": "4,632 reviews",
-      "priceText": "$$$ · ~$4,675/night",
-      "walkMin": 99,
-      "refLabel": "Minibus Station",
-      "star": 5,
-      "propertyId": 5752967,
-      "priceKRW": 4675,
-      "priceStatus": "live",
-      "distanceM": 7951.5,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Patong Beach",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.9 · 4,632 reviews. 99 min walk to Minibus Station, $$$ · ~$4,675/night. 80% honeymoon reviews.",
-      "metaTags": [
-        "💰 ~$4,675/night",
-        "📝 4,632 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 80,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 4,
-            "pct": 80,
-            "rating": 9.8
-          },
-          {
-            "key": "group",
-            "label": "Groups",
             "count": 1,
             "pct": 20,
             "rating": 10
@@ -519,139 +611,38 @@
       },
       "reviews": [
         {
-          "text": "This is the best hotel I have ever stayed at in my life.",
+          "text": "Thank you for making my restorative stay a very healing one.",
           "score": "10",
-          "country": "台灣",
-          "date": "2025.12",
+          "country": "Malaysia",
+          "date": "2022.07",
           "translated": false
         },
         {
-          "text": "Penthouse was amazing we booked pool villa on 4th floor.",
+          "text": "Loved the food, Indian chef was great and so were other.",
           "score": "10",
-          "country": "Pakistan",
-          "date": "2023.08",
+          "country": "India",
+          "date": "2024.05",
           "translated": false
         },
         {
-          "text": "It’s clean, beautiful decorated, quiet, perfect shower.",
+          "text": "The room had everything, like staying in a beach house.",
           "score": "10",
           "country": "Thailand",
-          "date": "2023.05",
+          "date": "2025.06",
           "translated": false
         },
         {
-          "text": "I can't wait to return for another visit.",
-          "score": "9.2",
-          "country": "Qatar",
-          "date": "2023.10",
-          "translated": false
-        },
-        {
-          "text": "We’re very happy that we chose this hotel for our honeymoon.",
-          "score": "10",
-          "country": "台灣",
-          "date": "2025.12",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 6,
-      "name": "Thavorn Beach Village Resort & Spa Phuket",
-      "agodaUrl": "https://www.agoda.com/thavorn-beach-village-resort-spa-phuket/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/10933/0/2d9cd2fb1e8b9505d963689d9a892f13.jpeg?va=1&ce=2",
-      "score": 8.4,
-      "reviewCount": 8290,
-      "reviewCountFmt": "8,290 reviews",
-      "priceText": "$$$ · ~$23,873/night",
-      "walkMin": 42,
-      "refLabel": "Patong Beach",
-      "star": 5,
-      "propertyId": 10933,
-      "priceKRW": 23873,
-      "priceStatus": "live",
-      "distanceM": 3380.28,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Patong Beach",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.4 · 8,290 reviews. 42 min walk to Patong Beach, $$$ · ~$23,873/night. 40% honeymoon reviews.",
-      "metaTags": [
-        "💰 ~$23,873/night",
-        "📝 8,290 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Families"
-      ],
-      "travelerTypes": {
-        "topLabel": "Families",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.6
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.5
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Top-Tier Dining (10/10): The food exceeded all expectations.",
+          "text": "It is on our repeat list to visit the property again.",
           "score": "10",
           "country": "India",
-          "date": "2026.09",
+          "date": "2024.05",
           "translated": false
         },
         {
-          "text": "Magical place one of the most beautiful hotels I've been to",
+          "text": "Breakfast was wonderful with so many options to choose from.",
           "score": "10",
-          "country": "ישראל",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
-          "text": "We took the beach front cottages and had an amazing time.",
-          "score": "8.8",
-          "country": "Singapore",
-          "date": "2022.09",
-          "translated": false
-        },
-        {
-          "text": "The location, ambience amd staff everything is very good!",
-          "score": "9.2",
-          "country": "India",
-          "date": "2022.12",
-          "translated": false
-        },
-        {
-          "text": "Very green, staff is very friendly, overall great resort!",
-          "score": "9.6",
-          "country": "Canada",
-          "date": "2024.03",
+          "country": "United States",
+          "date": "2022.08",
           "translated": false
         }
       ],
@@ -666,12 +657,12 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-01T23:43:58.981Z",
+    "fetchedAt": "2026-10-02T03:23:08.601Z",
     "searchCondition": "1 adult · 1 room · 1 night · USD · mid-November 2026",
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-01T23:43:58.981Z",
+    "fetchedAt": "2026-10-02T03:23:08.601Z",
     "source": "agoda citySearch",
     "daysAhead": 45,
     "targetMonth": "2026-11",
