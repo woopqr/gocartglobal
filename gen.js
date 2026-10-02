@@ -19,6 +19,10 @@ const { qualityForHotel, validateArticle } = require('./lib/content-quality');
 const ROOT = __dirname;
 const THEMES = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/themes.json'), 'utf8'));
 const MIN_REVIEWS = 30;
+// 럭셔리 기준(절대 완화하지 않음): 5성급 + 세금 포함 1박 하한가 + 가격 확인된 숙소만
+const MIN_STAR = 5;
+const MIN_PRICE_USD = Number(process.env.MIN_PRICE_USD) || 150;
+const PAGES = 3;
 
 const [themeId, cityId, citySlug, ymArg, nArg] = process.argv.slice(2);
 const N = Number(nArg) || 6;
@@ -59,13 +63,26 @@ const shortName = s => String(s).split('(')[0].trim();
   const travelMonthLabel = `${MONTHS[tm.m - 1]} ${tm.y}`;
   console.log(`▶ ${theme.audience} · ${citySlug} · 여행시점 ${travelMonthLabel}(D+${daysAhead}) · top ${N}`);
 
+  // 5성급만·가격 높은 순으로 PAGES페이지 수집
   const cs = await af.fetchCitySearch(Number(cityId), { daysAhead });
+  const q = cs._query;
+  const rawProps = [...(cs.properties || [])];
+  for (let pg = 2; pg <= PAGES; pg++) {
+    try { rawProps.push(...((await af.fetchCitySearch(Number(cityId), { daysAhead, page: pg })).properties || [])); }
+    catch (e) { console.warn(`  (page ${pg} 실패 — 1페이지만 사용)`); }
+  }
   const rawCityName = cs?.searchResult?.searchInfo?.objectInfo?.cityName || '';
   const city = rawCityName.split('/')[0].trim() || citySlug;
 
-  const props = (cs.properties || []).map(p => md.mapPropertyRich(p));
-  const eligible = props.filter(h => h.name && h.score != null && h.agodaUrl && h.reviewCount >= MIN_REVIEWS);
-  if (!eligible.length) throw new Error('조건을 만족하는 호텔이 없습니다.');
+  const seenIds = new Set();
+  const props = rawProps.map(p => md.mapPropertyRich(p)).filter(h => !seenIds.has(h.propertyId) && seenIds.add(h.propertyId));
+  // 시크릿 딜(호텔명 비공개)·비라틴 이름(개인 빌라 등) 제외
+  const isSecretDeal = h => /^\d(\.\d)?-star\b/i.test(h.name) || /\bin the .+ neighborhood\b/i.test(h.name);
+  const eligible = props.filter(h => h.name && h.score != null && h.agodaUrl && h.reviewCount >= MIN_REVIEWS
+    && (h.star || 0) >= MIN_STAR && h.priceUSD && h.priceUSD >= MIN_PRICE_USD
+    && h.propertyType === 'Hotel' && !h.isHostListing && h.resultType === 'NormalProperty' // 정식 호텔·리조트만(개인 렌탈·매진·시크릿딜 제외)
+    && !isSecretDeal(h) && !/[^\u0000-\u024F\u2000-\u206F\s]/.test(h.name));
+  if (eligible.length < 3) throw new Error(`5성급·$${MIN_PRICE_USD}+ 숙소 부족(${eligible.length}곳) — 건너뜀`);
 
   // 어메니티 필터: 테마가 특정 시설을 요구하면 실제 보유 숙소만 선정(부정확한 글 방지)
   function featureMatch(h, req) {
@@ -95,11 +112,7 @@ const shortName = s => String(s).split('(')[0].trim();
       + (h.score || 0) * 15000
       + aff * 1500;
   };
-  // 럭셔리 하한: 4.5성 이상만(3곳 미만이면 4성까지 허용) — 저가 숙소가 '최고급' 글에 섞이지 않게
-  const luxPool = candidates.filter(h => (h.star || 0) >= 4.5);
-  const pool = luxPool.length >= 3 ? luxPool : candidates.filter(h => (h.star || 0) >= 4);
-  if (pool.length < 3) throw new Error(`4성 이상 숙소 부족(${pool.length}곳) — 건너뜀`);
-  const picked = pool.sort((a, b) => score(b) - score(a)).slice(0, N).map((h, i) => ({ ...h, rank: i + 1, isLux: isLux(h) }));
+  const picked = candidates.sort((a, b) => score(b) - score(a)).slice(0, N).map((h, i) => ({ ...h, rank: i + 1, isLux: isLux(h) }));
 
   // 영어 사이트: 리뷰 원문(영어) 유지 — 번역하지 않음
 
@@ -130,7 +143,7 @@ const shortName = s => String(s).split('(')[0].trim();
   const hotels = picked.map(h => {
     const tt = h.travelerTypes;
     const tags = [];
-    if (h.priceUSD) tags.push('💰 ~$' + Number(h.priceUSD).toLocaleString('en-US') + '/night');
+    if (h.priceUSD) tags.push('💰 $' + Number(h.priceUSD).toLocaleString('en-US') + '/night');
     tags.push('📝 ' + Number(h.reviewCount).toLocaleString('en-US') + ' reviews');
     if (h.star) tags.push('⭐ ' + h.star + '-star');
     if (h.isLux) tags.push('🏝️ Resort / Villa');
@@ -180,7 +193,8 @@ const shortName = s => String(s).split('(')[0].trim();
     methodology: {
       source: 'Agoda citySearch response',
       fetchedAt: new Date().toISOString(),
-      searchCondition: `1 adult · 1 room · 1 night · USD · mid-${travelMonthLabel}`,
+      searchCondition: `5-star only · ${q.adults} adults · 1 room · 1 night · check-in ${q.checkIn} · USD, taxes & fees included`,
+      checkIn: q.checkIn, adults: q.adults,
       sampleNotice: 'Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set.',
     },
     _meta: { fetchedAt: new Date().toISOString(), source: 'agoda citySearch', daysAhead, targetMonth: `${tm.y}-${pad(tm.m)}`, count: hotels.length },

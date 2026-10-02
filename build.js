@@ -160,8 +160,11 @@ function buildContext(data) {
     hasTypes: !!(h.travelerTypes && h.travelerTypes.distribution && h.travelerTypes.distribution.length),
     typeBarsHtml: typeBars(h.travelerTypes, themeKey),
     img: h.img || data.heroImg,
-    hasPrice: !!h.priceUSD || !/unavailable|price varies/i.test(h.priceText || ''),
-    priceStatus: h.priceStatus || (/unavailable|price varies/i.test(h.priceText || '') ? 'price unavailable' : 'live'),
+    hasPrice: !!h.priceUSD,
+    // 가격 기준을 숙소 카드마다 명시: 세금 포함 · 인원 · 체크인 · 조회 시각
+    priceStatus: h.priceUSD
+      ? `$${Number(h.priceUSD).toLocaleString('en-US')} per room/night incl. taxes & fees · ${data.methodology?.adults || 2} adults · check-in ${data.methodology?.checkIn || '—'} · checked ${String(data.methodology?.fetchedAt || '').slice(0, 10)} (may change — confirm on Agoda)`
+      : 'unavailable at last check — see live price on Agoda',
     locationStatus: h.locationStatus || (h.walkMin && h.refLabel ? 'verified' : 'approx.'),
     sampleCount: h.travelerTypes?.total || (h.travelerTypes?.distribution || []).reduce((n, d) => n + (d.count || 0), 0),
   }));

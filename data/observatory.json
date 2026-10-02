@@ -6,37 +6,51 @@
       "city": "Bali",
       "citySlug": "bali",
       "cityId": 17193,
-      "observedAt": "2026-10-02T03:21:46.523Z",
+      "observedAt": "2026-10-02T04:31:34.627Z",
       "daysAhead": 30,
-      "condition": "1 adult, 1 room, 1 night, USD",
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-01, USD incl. taxes & fees",
       "hotels": [
         {
-          "key": "65538",
-          "name": "The Patra Bali Resort & Villas",
-          "priceUSD": 70,
+          "key": "77182",
+          "name": "Bvlgari Resort Bali",
+          "priceUSD": 1886,
           "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/the-patra-bali-resort-villas_2/hotel/bali-id.html?cid=1925461"
+          "url": "https://www.agoda.com/bulgari-resort-bali/hotel/bali-id.html?cid=1925461"
         },
         {
-          "key": "995",
-          "name": "Discovery Kartika Plaza Hotel",
-          "priceUSD": 89,
+          "key": "5347453",
+          "name": "Capella Ubud",
+          "priceUSD": 1742,
           "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/discovery-kartika-plaza-hotel/hotel/bali-id.html?cid=1925461"
+          "url": "https://www.agoda.com/capella-ubud/hotel/bali-id.html?cid=1925461"
         },
         {
-          "key": "2562742",
-          "name": "Renaissance Bali Uluwatu Resort & Spa",
-          "priceUSD": 180,
+          "key": "984267",
+          "name": "Mandapa, a Ritz-Carlton Reserve",
+          "priceUSD": 1482,
           "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/renaissance-bali-uluwatu-resort-spa_4/hotel/bali-id.html?cid=1925461"
+          "url": "https://www.agoda.com/mandapa-a-ritz-carlton-reserve/hotel/bali-id.html?cid=1925461"
         },
         {
-          "key": "6504",
-          "name": "AYANA Resort Bali",
-          "priceUSD": 398,
+          "key": "34474011",
+          "name": "Ulaman Eco Luxury Resort",
+          "priceUSD": 1460,
           "priceStatus": "confirmed",
-          "url": "https://www.agoda.com/ayana-resort-and-spa-bali_2/hotel/bali-id.html?cid=1925461"
+          "url": "https://www.agoda.com/ulaman-eco-retreat/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "48716",
+          "name": "Four Seasons Resort Bali At Sayan",
+          "priceUSD": 1118,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-resort-bali-at-sayan/hotel/bali-id.html?cid=1925461"
+        },
+        {
+          "key": "31491241",
+          "name": "Buahan, a Banyan Tree Escape",
+          "priceUSD": 1083,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/buahan-a-banyan-tree-escape/hotel/bali-id.html?cid=1925461"
         }
       ]
     }
