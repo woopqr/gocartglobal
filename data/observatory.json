@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 2,
+  "cursor": 3,
   "observations": [
     {
       "city": "Bali",
@@ -131,6 +131,44 @@
           "priceUSD": 344,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/grand-hyatt-erawan-bangkok-hotel/hotel/bangkok-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Bora Bora",
+      "citySlug": "bora-bora",
+      "cityId": 16974,
+      "observedAt": "2026-10-06T00:39:48.549Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-05, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "222414",
+          "name": "The St. Regis Bora Bora Resort",
+          "priceUSD": 3024,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-st-regis-bora-bora-resort/hotel/bora-bora-island-pf.html?cid=1925461"
+        },
+        {
+          "key": "81921",
+          "name": "The Westin Bora Bora Resort & Spa",
+          "priceUSD": 2283,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/le-meridien-bora-bora/hotel/bora-bora-island-pf.html?cid=1925461"
+        },
+        {
+          "key": "336870",
+          "name": "Le Bora Bora by Pearl Resorts",
+          "priceUSD": 1567,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/bora-bora-pearl-beach-resort-and-spa/hotel/bora-bora-island-pf.html?cid=1925461"
+        },
+        {
+          "key": "199353",
+          "name": "Conrad Bora Bora Nui",
+          "priceUSD": 1725,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/conrad-bora-bora-nui/hotel/bora-bora-island-pf.html?cid=1925461"
         }
       ]
     }
