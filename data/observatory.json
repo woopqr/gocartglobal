@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 5,
+  "cursor": 6,
   "observations": [
     {
       "city": "Bali",
@@ -308,6 +308,58 @@
           "priceUSD": 1647,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/the-ritz-carlton-new-york-central-park_3/hotel/new-york-ny-us.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Paris",
+      "citySlug": "paris",
+      "cityId": 15470,
+      "observedAt": "2026-10-06T23:51:34.570Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-05, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "9385518",
+          "name": "Ritz Paris",
+          "priceUSD": 2770,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/ritz-paris_3/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "26039232",
+          "name": "Cheval Blanc Paris & Dior Spa Cheval Blanc Paris",
+          "priceUSD": 2738,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/cheval-blanc-paris-dior-spa-cheval-blanc-paris/hotel/all/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "28854353",
+          "name": "Bvlgari Hotel Paris",
+          "priceUSD": 2569,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/bvlgari-hotel-paris/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "10256407",
+          "name": "Le Bristol Paris - an Oetker Collection Hotel",
+          "priceUSD": 2510,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/le-bristol-paris-an-oetker-collection-hotel_2/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "10256902",
+          "name": "Four Seasons Hotel George V Paris",
+          "priceUSD": 2366,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-hotel-george-v-paris/hotel/paris-fr.html?cid=1925461"
+        },
+        {
+          "key": "10256536",
+          "name": "La Reserve Paris Hotel & Spa",
+          "priceUSD": 2245,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/la-reserve-paris-hotel-and-spa/hotel/paris-fr.html?cid=1925461"
         }
       ]
     }

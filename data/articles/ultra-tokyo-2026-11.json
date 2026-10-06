@@ -6,6 +6,7 @@
   "city": "Tokyo",
   "citySlug": "tokyo",
   "cityId": 5085,
+  "inSeason": true,
   "country": "Japan",
   "region": "east-asia",
   "regionLabel": "East Asia",
@@ -17,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Tokyo — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 71% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Park Hyatt Tokyo</b> — rating 9.1, 402 reviews, from $2,167/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 71% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Park Hyatt Tokyo</b> — rating 9.1, 402 reviews, from $2,146/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 28,
     "distribution": [
@@ -30,8 +31,8 @@
       {
         "key": "family",
         "label": "Families",
-        "count": 4,
-        "pct": 14
+        "count": 3,
+        "pct": 11
       },
       {
         "key": "business",
@@ -40,20 +41,20 @@
         "pct": 7
       },
       {
-        "key": "group",
-        "label": "Groups",
-        "count": 1,
-        "pct": 4
-      },
-      {
         "key": "solo",
         "label": "Solo",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "Groups",
         "count": 1,
         "pct": 4
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/910/0/a1539c8e6dc8062786d95d2197bebb2f.jpg?ce=3",
+  "heroImg": "https://pix8.agoda.net/hotelImages/910/0/a1539c8e6dc8062786d95d2197bebb2f.jpg?va=1&ce=3",
   "heroAlt": "Tokyo Ultra-Luxury",
   "updated": "2026-10-06",
   "hotels": [
@@ -61,16 +62,16 @@
       "rank": 1,
       "name": "Park Hyatt Tokyo",
       "agodaUrl": "https://www.agoda.com/park-hyatt-tokyo/hotel/tokyo-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/910/0/a1539c8e6dc8062786d95d2197bebb2f.jpg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/910/0/a1539c8e6dc8062786d95d2197bebb2f.jpg?va=1&ce=3",
       "score": 9.1,
       "reviewCount": 402,
       "reviewCountFmt": "402 reviews",
-      "priceText": "$$$ · $2,167/night",
+      "priceText": "$$$ · $2,146/night",
       "walkMin": 4,
       "refLabel": "Toei Subway",
       "star": 5,
       "propertyId": 910,
-      "priceUSD": 2167,
+      "priceUSD": 2146,
       "priceStatus": "live",
       "distanceM": 285.01,
       "locationStatus": "verified",
@@ -80,9 +81,9 @@
         "Close to public transportation",
         "Hachiko"
       ],
-      "blurb": "Rating 9.1 · 402 reviews. 4 min walk to Toei Subway. $$$ · $2,167/night.",
+      "blurb": "Rating 9.1 · 402 reviews. 4 min walk to Toei Subway. $$$ · $2,146/night.",
       "metaTags": [
-        "💰 $2,167/night",
+        "💰 $2,146/night",
         "📝 402 reviews",
         "⭐ 5-star",
         "👥 Loved by Business"
@@ -140,397 +141,9 @@
     },
     {
       "rank": 2,
-      "name": "Mandarin Oriental, Tokyo",
-      "agodaUrl": "https://www.agoda.com/mandarin-oriental-tokyo_11/hotel/tokyo-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/3849629/0/a3aac76f7d2defc920d87cdefa98bdf5.jpeg",
-      "score": 9.3,
-      "reviewCount": 849,
-      "reviewCountFmt": "849 reviews",
-      "priceText": "$$$ · $1,867/night",
-      "walkMin": 1,
-      "refLabel": "Mitsukoshimae Subway Station",
-      "star": 5,
-      "propertyId": 3849629,
-      "priceUSD": 1867,
-      "priceStatus": "live",
-      "distanceM": 47.62,
-      "locationStatus": "verified",
-      "facilities": [
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Close to public transportation",
-        "Tokyo Tower",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.3 · 849 reviews. 1 min walk to Mitsukoshimae Subway Station. $$$ · $1,867/night. 100% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,867/night",
-        "📝 849 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 5,
-            "pct": 100,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "If you want a premium experience, this is the place to be!",
-          "score": "10",
-          "country": "Sverige",
-          "date": "2026.01",
-          "translated": false
-        },
-        {
-          "text": "Great location, on top of subway Ginza line.",
-          "score": "10",
-          "country": "United States",
-          "date": "2024.06",
-          "translated": false
-        },
-        {
-          "text": "I would choose to stay there next time I visit Tokyo.",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
-          "text": "Very attentive, professional and friendly approach by staff!",
-          "score": "10",
-          "country": "Sverige",
-          "date": "2026.01",
-          "translated": false
-        },
-        {
-          "text": "Excellent hotel of a very high standard",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2024.04",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 3,
-      "name": "TRUNK(HOTEL) YOYOGI PARK",
-      "agodaUrl": "https://www.agoda.com/trunk-hotel-yoyogi-park/hotel/all/tokyo-jp.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/489665341.jpg?k=114763c12db86b6bb81a76c3e904b0484002d2bf9cfb7b72b464dde8d2d04453&o=",
-      "score": 9.3,
-      "reviewCount": 649,
-      "reviewCountFmt": "649 reviews",
-      "priceText": "$$$ · $1,891/night",
-      "walkMin": 3,
-      "refLabel": "Yoyogi-koen Subway Station",
-      "star": 5,
-      "propertyId": 41409000,
-      "priceUSD": 1891,
-      "priceStatus": "live",
-      "distanceM": 254.95,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Free Wi-Fi in all rooms!",
-        "Close to public transportation",
-        "Tokyo Tower"
-      ],
-      "blurb": "Rating 9.3 · 649 reviews. 3 min walk to Yoyogi-koen Subway Station. $$$ · $1,891/night. 60% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,891/night",
-        "📝 649 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 10
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          },
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 1,
-            "pct": 20,
-            "rating": 8.8
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "It was the best service suitable for the hotel.",
-          "score": "8.8",
-          "country": "South Korea",
-          "date": "2024.08",
-          "translated": false
-        },
-        {
-          "text": "Warm pool and Jacuzzi on the rooftop in Tokyo is insane.",
-          "score": "10",
-          "country": "HK",
-          "date": "2023.12",
-          "translated": false
-        },
-        {
-          "text": "The place, the pool, the people, everything is BEAUTIFUL.",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2024.09",
-          "translated": false
-        },
-        {
-          "text": "And the staff service is excellent and very warm too.",
-          "score": "10",
-          "country": "HK",
-          "date": "2023.12",
-          "translated": false
-        },
-        {
-          "text": "One of the best hotels I’ve ever stayed at!",
-          "score": "10",
-          "country": "Norge",
-          "date": "2024.05",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 4,
-      "name": "The Peninsula Tokyo",
-      "agodaUrl": "https://www.agoda.com/the-peninsula-tokyo/hotel/tokyo-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/497719/-1/36134ca195af611dbbe4b512fa217659.jpg?ce=0",
-      "score": 9.2,
-      "reviewCount": 1522,
-      "reviewCountFmt": "1,522 reviews",
-      "priceText": "$$$ · $1,623/night",
-      "walkMin": 1,
-      "refLabel": "Hibiya Subway Station",
-      "star": 5,
-      "propertyId": 497719,
-      "priceUSD": 1623,
-      "priceStatus": "live",
-      "distanceM": 79.54,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Close to public transportation",
-        "Tokyo Tower",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.2 · 1,522 reviews. 1 min walk to Hibiya Subway Station. $$$ · $1,623/night. 100% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,623/night",
-        "📝 1,522 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.8
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "They remember your name and greet you every time you return.",
-          "score": "9.6",
-          "country": "United Kingdom",
-          "date": "2025.09",
-          "translated": false
-        },
-        {
-          "text": "Best hotel in Tokyo which is located much more convenient.",
-          "score": "10",
-          "country": "Thailand",
-          "date": "2023.05",
-          "translated": false
-        },
-        {
-          "text": "The quality of the room and the breakfast was excellent.",
-          "score": "9.6",
-          "country": "United Kingdom",
-          "date": "2025.09",
-          "translated": false
-        },
-        {
-          "text": "The Peninsula Tokyo Hotel is outstanding in every respect.",
-          "score": "10",
-          "country": "United States",
-          "date": "2023.03",
-          "translated": false
-        },
-        {
-          "text": "We loved our room on 23rd floor with Ginza skyline view.",
-          "score": "9.6",
-          "country": "Türkiye",
-          "date": "2026.07",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
-      "name": "Four Seasons Hotel Tokyo at Marunouchi",
-      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-tokyo-at-marunouchi/hotel/tokyo-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/51491/0/c51ce587d140d05213eb3665ad602887.jpg?ca=8&ce=1",
-      "score": 9,
-      "reviewCount": 396,
-      "reviewCountFmt": "396 reviews",
-      "priceText": "$$$ · $1,652/night",
-      "walkMin": 4,
-      "refLabel": "Kyobashi Subway Station",
-      "star": 5,
-      "propertyId": 51491,
-      "priceUSD": 1652,
-      "priceStatus": "live",
-      "distanceM": 316.13,
-      "locationStatus": "verified",
-      "facilities": [
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Close to public transportation",
-        "Tokyo Tower",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9 · 396 reviews. 4 min walk to Kyobashi Subway Station. $$$ · $1,652/night. 60% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,652/night",
-        "📝 396 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 8.8
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.8
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Best 5 star in Tokyo by far",
-          "score": "10",
-          "country": "United States",
-          "date": "2022.12",
-          "translated": false
-        },
-        {
-          "text": "FS at Marunouchi was very good in location to travel.",
-          "score": "8.8",
-          "country": "South Korea",
-          "date": "2023.10",
-          "translated": false
-        },
-        {
-          "text": "The large bed was quite soft and comfy.",
-          "score": "8.8",
-          "country": "Thailand",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
-          "text": "There is actually a menu for pillows :)",
-          "score": "8.8",
-          "country": "Thailand",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
-          "text": "Great hotel to stay with young children",
-          "score": "9.6",
-          "country": "Singapore",
-          "date": "2024.12",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 6,
       "name": "The Tokyo EDITION, Ginza",
       "agodaUrl": "https://www.agoda.com/the-tokyo-edition-ginza/hotel/tokyo-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/47210524/-1/0c56ffdb743d299bf95022ab0c2c51e5.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/47210524/-1/0c56ffdb743d299bf95022ab0c2c51e5.jpg?va=1&ce=0",
       "score": 9.3,
       "reviewCount": 431,
       "reviewCountFmt": "431 reviews",
@@ -624,20 +237,395 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
+    },
+    {
+      "rank": 3,
+      "name": "The Peninsula Tokyo",
+      "agodaUrl": "https://www.agoda.com/the-peninsula-tokyo/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/497719/-1/36134ca195af611dbbe4b512fa217659.jpg?va=1&ce=0",
+      "score": 9.2,
+      "reviewCount": 1522,
+      "reviewCountFmt": "1,522 reviews",
+      "priceText": "$$$ · $1,515/night",
+      "walkMin": 1,
+      "refLabel": "Hibiya Subway Station",
+      "star": 5,
+      "propertyId": 497719,
+      "priceUSD": 1515,
+      "priceStatus": "live",
+      "distanceM": 79.54,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Tokyo Tower",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 1,522 reviews. 1 min walk to Hibiya Subway Station. $$$ · $1,515/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,515/night",
+        "📝 1,522 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "They remember your name and greet you every time you return.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Best hotel in Tokyo which is located much more convenient.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The quality of the room and the breakfast was excellent.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The Peninsula Tokyo Hotel is outstanding in every respect.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "We loved our room on 23rd floor with Ginza skyline view.",
+          "score": "9.6",
+          "country": "Türkiye",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Four Seasons Hotel Tokyo at Marunouchi",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-tokyo-at-marunouchi/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/51491/0/c51ce587d140d05213eb3665ad602887.jpg?va=1&ca=8&ce=1",
+      "score": 9,
+      "reviewCount": 396,
+      "reviewCountFmt": "396 reviews",
+      "priceText": "$$$ · $1,561/night",
+      "walkMin": 4,
+      "refLabel": "Kyobashi Subway Station",
+      "star": 5,
+      "propertyId": 51491,
+      "priceUSD": 1561,
+      "priceStatus": "live",
+      "distanceM": 316.13,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Tokyo Tower",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 396 reviews. 4 min walk to Kyobashi Subway Station. $$$ · $1,561/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,561/night",
+        "📝 396 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Best 5 star in Tokyo by far",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "FS at Marunouchi was very good in location to travel.",
+          "score": "8.8",
+          "country": "South Korea",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "The large bed was quite soft and comfy.",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "There is actually a menu for pillows :)",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great hotel to stay with young children",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Conrad Tokyo",
+      "agodaUrl": "https://www.agoda.com/conrad-tokyo_8/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2286084/0/7357b5b7e58924d225ab3320f2fad804.jpeg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 1439,
+      "reviewCountFmt": "1,439 reviews",
+      "priceText": "$$$ · $1,483/night",
+      "walkMin": 1,
+      "refLabel": "Shiodome Subway Station",
+      "star": 5,
+      "propertyId": 69184,
+      "priceUSD": 1483,
+      "priceStatus": "live",
+      "distanceM": 81.57,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Tokyo Tower"
+      ],
+      "blurb": "Rating 8.9 · 1,439 reviews. 1 min walk to Shiodome Subway Station. $$$ · $1,483/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,483/night",
+        "📝 1,439 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.5
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Exceptional service and large, comfortable rooms.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Fantastic hotel that’s conveniently located.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Every part of our stay here was great, highly recommended.",
+          "score": "10",
+          "country": "New Zealand",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Would definitely stay again next time I'm in town.",
+          "score": "8.4",
+          "country": "Australia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "This hotel offered stunning views of the city and Bay Area.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Palace Hotel Tokyo",
+      "agodaUrl": "https://www.agoda.com/palace-hotel-tokyo/hotel/tokyo-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/569/569164/569164_16032810190041108872.jpg?va=1&ca=6&ce=1",
+      "score": 9.4,
+      "reviewCount": 1690,
+      "reviewCountFmt": "1,690 reviews",
+      "priceText": "$$$ · $1,362/night",
+      "walkMin": 2,
+      "refLabel": "Otemachi Subway Station",
+      "star": 5,
+      "propertyId": 569164,
+      "priceUSD": 1362,
+      "priceStatus": "live",
+      "distanceM": 187.03,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Tokyo Tower"
+      ],
+      "blurb": "Rating 9.4 · 1,690 reviews. 2 min walk to Otemachi Subway Station. $$$ · $1,362/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,362/night",
+        "📝 1,690 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Our room was wonderful with balcony and a view of the park.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Exceptional service, beautiful hotel, definitely a 5 * hotel",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "I can't wait to be stay there again once I'm back in Tokyo.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The hotel is beautiful and honestly we couldnt fault it.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Wonderful location, amazing pool, everything was lovely.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T00:31:58.390Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
-    "checkIn": "2026-11-16",
+    "fetchedAt": "2026-10-06T23:51:09.893Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T00:31:58.390Z",
+    "fetchedAt": "2026-10-06T23:51:09.893Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 40,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

@@ -6,6 +6,7 @@
   "city": "Dubai",
   "citySlug": "dubai",
   "cityId": 2994,
+  "inSeason": true,
   "country": "United Arab Emirates",
   "region": "middle-east",
   "regionLabel": "Middle East",
@@ -53,7 +54,7 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
   "heroAlt": "Dubai Ultra-Luxury",
   "updated": "2026-10-06",
   "hotels": [
@@ -61,7 +62,7 @@
       "rank": 1,
       "name": "The Biltmore Hotel Villas Dubai",
       "agodaUrl": "https://www.agoda.com/the-biltmore-hotel-villas/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
       "score": 9.5,
       "reviewCount": 109,
       "reviewCountFmt": "109 reviews",
@@ -108,16 +109,16 @@
       "rank": 2,
       "name": "Jumeirah Zabeel Saray Dubai",
       "agodaUrl": "https://www.agoda.com/jumeirah-zabeel-saray-royal-residences-h16254932/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41046751/0/1017d9590d751964134055c473a589ef.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/41046751/-1/dbe305b1bee990ce66a298ddeee29e81.jpg?va=1&ce=0",
       "score": 8.7,
       "reviewCount": 2833,
       "reviewCountFmt": "2,833 reviews",
-      "priceText": "$$$ · $2,058/night",
+      "priceText": "$$$ · $2,120/night",
       "walkMin": 31,
       "refLabel": "Al Ittihad Park Station",
       "star": 5,
       "propertyId": 41046751,
-      "priceUSD": 2058,
+      "priceUSD": 2120,
       "priceStatus": "live",
       "distanceM": 2441.23,
       "locationStatus": "verified",
@@ -132,9 +133,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.7 · 2,833 reviews. $$$ · $2,058/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 8.7 · 2,833 reviews. $$$ · $2,120/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,058/night",
+        "💰 $2,120/night",
         "📝 2,833 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -208,7 +209,7 @@
       "rank": 3,
       "name": "Jumeirah Al Naseem Dubai",
       "agodaUrl": "https://www.agoda.com/jumeirah-al-naseem-madinat-jumeirah-h9844547/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41046756/0/1f34294987e115b4edd3fe114f345601.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/41046756/0/1f34294987e115b4edd3fe114f345601.jpeg?ce=3",
       "score": 9.2,
       "reviewCount": 1288,
       "reviewCountFmt": "1,288 reviews",
@@ -275,17 +276,17 @@
           "translated": false
         },
         {
-          "text": "The rooms are big and comfortable for a family,",
-          "score": "10",
-          "country": "Saudi Arabia",
-          "date": "2023.09",
-          "translated": false
-        },
-        {
           "text": "We’re definitely coming back here!",
           "score": "10",
           "country": "Saudi Arabia",
           "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The rooms are big and comfortable for a family,",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2023.09",
           "translated": false
         },
         {
@@ -308,7 +309,7 @@
       "rank": 4,
       "name": "Jumeirah Marsa Al Arab",
       "agodaUrl": "https://www.agoda.com/jumeirah-marsa-al-arab/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/60156122/0/76bcdcc0b53bf60e2b2473164cb00d00.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/60156122/0/76bcdcc0b53bf60e2b2473164cb00d00.jpeg?ce=3",
       "score": 9.2,
       "reviewCount": 888,
       "reviewCountFmt": "888 reviews",
@@ -354,7 +355,7 @@
       "rank": 5,
       "name": "Bvlgari Resort Dubai",
       "agodaUrl": "https://www.agoda.com/bulgari-resort-dubai/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/5059899/0/48dd8685aca18e37873eec1fe4124797.jpeg?va=1",
+      "img": "https://pix8.agoda.net/hotelImages/5059899/0/48dd8685aca18e37873eec1fe4124797.jpeg",
       "score": 9.4,
       "reviewCount": 554,
       "reviewCountFmt": "554 reviews",
@@ -453,7 +454,7 @@
       "rank": 6,
       "name": "Jumeirah Dar Al Masyaf-Madinat Jumeirah",
       "agodaUrl": "https://www.agoda.com/jumeirah-dar-al-masyaf-madinat-jumeirah/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41046747/0/0efa9fe58d8c259f9cf52c988c72a4cc.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/41046747/0/0efa9fe58d8c259f9cf52c988c72a4cc.jpeg?ce=3",
       "score": 9.3,
       "reviewCount": 1010,
       "reviewCountFmt": "1,010 reviews",
@@ -566,16 +567,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T00:32:02.979Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
-    "checkIn": "2026-11-16",
+    "fetchedAt": "2026-10-06T23:51:19.078Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T00:32:02.979Z",
+    "fetchedAt": "2026-10-06T23:51:19.078Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 40,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

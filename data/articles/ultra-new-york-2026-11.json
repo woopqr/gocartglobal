@@ -6,6 +6,7 @@
   "city": "New York",
   "citySlug": "new-york",
   "cityId": 318,
+  "inSeason": true,
   "country": "United States",
   "region": "americas",
   "regionLabel": "Americas",
@@ -17,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in New York — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 63% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mandarin Oriental, New York</b> — rating 9, 304 reviews, from $3,317/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 63% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mandarin Oriental, New York</b> — rating 9, 304 reviews, from $2,971/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 8,
     "distribution": [
@@ -41,7 +42,7 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg",
+  "heroImg": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg?va=1",
   "heroAlt": "New York Ultra-Luxury",
   "updated": "2026-10-06",
   "hotels": [
@@ -49,16 +50,16 @@
       "rank": 1,
       "name": "Mandarin Oriental, New York",
       "agodaUrl": "https://www.agoda.com/mandarin-oriental-new-york_5/hotel/new-york-ny-us.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg",
+      "img": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg?va=1",
       "score": 9,
       "reviewCount": 304,
       "reviewCountFmt": "304 reviews",
-      "priceText": "$$$ · $3,317/night",
+      "priceText": "$$$ · $2,971/night",
       "walkMin": 2,
       "refLabel": "59th Street-Columbus Circle Subway Station",
       "star": 5,
       "propertyId": 3849617,
-      "priceUSD": 3317,
+      "priceUSD": 2971,
       "priceStatus": "live",
       "distanceM": 169.92,
       "locationStatus": "verified",
@@ -73,9 +74,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 304 reviews. 2 min walk to 59th Street-Columbus Circle Subway Station. $$$ · $3,317/night. 67% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 304 reviews. 2 min walk to 59th Street-Columbus Circle Subway Station. $$$ · $2,971/night. 67% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $3,317/night",
+        "💰 $2,971/night",
         "📝 304 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -135,7 +136,7 @@
       "rank": 2,
       "name": "Four Seasons Hotel New York",
       "agodaUrl": "https://www.agoda.com/four-seasons-hotel-new-york_2/hotel/new-york-ny-us.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/1267104/-1/a25707eb2e4054a316466e1e7eb78f06.jpg?ca=7&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/1267104/-1/a25707eb2e4054a316466e1e7eb78f06.jpg?va=1&ca=7&ce=1",
       "score": 9.3,
       "reviewCount": 77,
       "reviewCountFmt": "77 reviews",
@@ -278,47 +279,6 @@
     },
     {
       "rank": 4,
-      "name": "The Whitby Hotel",
-      "agodaUrl": "https://www.agoda.com/the-whitby-hotel/hotel/new-york-ny-us.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/106790455.jpg?k=fbf2181972455c79b599942277989f2f22285d9872f068dd22ba0980d326bf2a&o=",
-      "score": 9.3,
-      "reviewCount": 299,
-      "reviewCountFmt": "299 reviews",
-      "priceText": "$$$ · $2,178/night",
-      "walkMin": 3,
-      "refLabel": "57th Street Subway Station",
-      "star": 5,
-      "propertyId": 6950151,
-      "priceUSD": 2178,
-      "priceStatus": "live",
-      "distanceM": 219.83,
-      "locationStatus": "verified",
-      "facilities": [
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Close to public transportation",
-        "High Line"
-      ],
-      "blurb": "Rating 9.3 · 299 reviews. 3 min walk to 57th Street Subway Station. $$$ · $2,178/night.",
-      "metaTags": [
-        "💰 $2,178/night",
-        "📝 299 reviews",
-        "⭐ 5-star"
-      ],
-      "travelerTypes": null,
-      "reviews": [],
-      "quality": {
-        "issues": [
-          "reviewSample"
-        ],
-        "critical": false,
-        "completeness": 88,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
       "name": "Crosby Street Hotel",
       "agodaUrl": "https://www.agoda.com/crosby-street-hotel/hotel/new-york-ny-us.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/502103012.jpg?k=d3b33b5175c7366d0198051b93523a767fbbcd48db5002d3b4a4bf58059c6157&o=",
@@ -357,13 +317,13 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "The Greenwich Hotel",
       "agodaUrl": "https://www.agoda.com/the-greenwich-hotel/hotel/new-york-ny-us.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/153450482.jpg?k=f0b3ec31884d3c8982495b77c8e347869d4e33841da7b93571075129dba1a614&o=",
-      "score": 9.5,
-      "reviewCount": 99,
-      "reviewCountFmt": "99 reviews",
+      "score": 9.4,
+      "reviewCount": 101,
+      "reviewCountFmt": "101 reviews",
       "priceText": "$$$ · $1,926/night",
       "walkMin": 3,
       "refLabel": "Franklin Street Subway Station",
@@ -378,10 +338,54 @@
         "Close to public transportation",
         "Statue of Liberty"
       ],
-      "blurb": "Rating 9.5 · 99 reviews. 3 min walk to Franklin Street Subway Station. $$$ · $1,926/night.",
+      "blurb": "Rating 9.4 · 101 reviews. 3 min walk to Franklin Street Subway Station. $$$ · $1,926/night.",
       "metaTags": [
         "💰 $1,926/night",
-        "📝 99 reviews",
+        "📝 101 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Lowell Hotel",
+      "agodaUrl": "https://www.agoda.com/lowell-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4892925/0/1ac53e2e13f5520dca297660b81b724e.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 74,
+      "reviewCountFmt": "74 reviews",
+      "priceText": "$$$ · $1,839/night",
+      "walkMin": 4,
+      "refLabel": "Fifth Avenue-59th Street Subway Station",
+      "star": 5,
+      "propertyId": 7011025,
+      "priceUSD": 1839,
+      "priceStatus": "live",
+      "distanceM": 303.13,
+      "locationStatus": "verified",
+      "facilities": [
+        "Close to public transportation",
+        "High Line",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 74 reviews. 4 min walk to Fifth Avenue-59th Street Subway Station. $$$ · $1,839/night.",
+      "metaTags": [
+        "💰 $1,839/night",
+        "📝 74 reviews",
         "⭐ 5-star"
       ],
       "travelerTypes": null,
@@ -399,16 +403,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T00:32:08.239Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
-    "checkIn": "2026-11-16",
+    "fetchedAt": "2026-10-06T23:51:29.192Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T00:32:08.239Z",
+    "fetchedAt": "2026-10-06T23:51:29.192Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 40,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
@@ -416,9 +420,9 @@
       "errors": [],
       "warnings": [
         "Four Seasons Hotel New York: reviewSample",
-        "The Whitby Hotel: reviewSample",
         "Crosby Street Hotel: reviewSample",
-        "The Greenwich Hotel: reviewSample"
+        "The Greenwich Hotel: reviewSample",
+        "Lowell Hotel: reviewSample"
       ]
     },
     "firstPublished": "2026-10-06"

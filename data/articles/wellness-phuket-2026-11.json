@@ -6,6 +6,7 @@
   "city": "Phuket",
   "citySlug": "phuket",
   "cityId": 16056,
+  "inSeason": true,
   "country": "Thailand",
   "region": "southeast-asia",
   "regionLabel": "Southeast Asia",
@@ -17,15 +18,15 @@
   "metaDescription": "The 6 finest wellness & spa stays in Phuket — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
   "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-  "verdict": "About 53% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Naka Island, a Luxury Collection Resort & Spa, Phuket</b> — rating 9.2, 899 reviews, from $546/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 60% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>JW Marriott Phuket Resort & Spa</b> — rating 8.8, 2,880 reviews, from $555/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 16,
-        "pct": 53
+        "count": 18,
+        "pct": 60
       },
       {
         "key": "family",
@@ -34,142 +35,37 @@
         "pct": 30
       },
       {
-        "key": "solo",
-        "label": "Solo",
-        "count": 4,
-        "pct": 13
-      },
-      {
         "key": "group",
         "label": "Groups",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
         "count": 1,
         "pct": 3
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/399580/0/423f1e79ad7440d996aa1178aea910fc.jpeg?ce=3",
+  "heroImg": "https://pix8.agoda.net/hotelImages/9245/-1/b746bd7feb5c281a7b48edeeeb090982.jpg?ce=0",
   "heroAlt": "Phuket Wellness & Spa",
   "updated": "2026-10-06",
   "hotels": [
     {
       "rank": 1,
-      "name": "The Naka Island, a Luxury Collection Resort & Spa, Phuket",
-      "agodaUrl": "https://www.agoda.com/the-naka-island-a-luxury-collection-resort-spa-phuket_7/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/399580/0/423f1e79ad7440d996aa1178aea910fc.jpeg?ce=3",
-      "score": 9.2,
-      "reviewCount": 899,
-      "reviewCountFmt": "899 reviews",
-      "priceText": "$$$ · $546/night",
-      "walkMin": 12,
-      "refLabel": "Village Beach",
-      "star": 5,
-      "propertyId": 399580,
-      "priceUSD": 546,
-      "priceStatus": "live",
-      "distanceM": 947.83,
-      "locationStatus": "verified",
-      "facilities": [
-        "Daily housekeeping",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.2 · 899 reviews. 12 min walk to Village Beach. $$$ · $546/night. 40% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $546/night",
-        "📝 899 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 40,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 2,
-            "pct": 40,
-            "rating": 9
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.4
-          },
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Friendly staff, beautiful property, nice location.",
-          "score": "9.6",
-          "country": "United States",
-          "date": "2023.09",
-          "translated": false
-        },
-        {
-          "text": "Great Resort, friendly staff with wonderful views and food",
-          "score": "9.6",
-          "country": "Kuwait",
-          "date": "2022.06",
-          "translated": false
-        },
-        {
-          "text": "Overall i would rate the experience as 8.75-9.0.",
-          "score": "9.2",
-          "country": "Canada",
-          "date": "2023.01",
-          "translated": false
-        },
-        {
-          "text": "The Nala island provides a lovely, self-contained getaway.",
-          "score": "9.2",
-          "country": "Hong Kong SAR, China",
-          "date": "2024.06",
-          "translated": false
-        },
-        {
-          "text": "Excellent view of the resort in an quiet island.",
-          "score": "8.8",
-          "country": "Hong Kong SAR, China",
-          "date": "2024.01",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 2,
       "name": "JW Marriott Phuket Resort & Spa",
       "agodaUrl": "https://www.agoda.com/jw-marriott-phuket-resort-spa/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/9245/0/348ca60934a35523fc8803f92f150b13.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/9245/-1/b746bd7feb5c281a7b48edeeeb090982.jpg?ce=0",
       "score": 8.8,
       "reviewCount": 2880,
       "reviewCountFmt": "2,880 reviews",
-      "priceText": "$$ · $405/night",
+      "priceText": "$$$ · $555/night",
       "walkMin": 1,
       "refLabel": "Sai Kaew Beach",
       "star": 5,
       "propertyId": 9245,
-      "priceUSD": 405,
+      "priceUSD": 555,
       "priceStatus": "live",
       "distanceM": 45.4,
       "locationStatus": "verified",
@@ -181,9 +77,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.8 · 2,880 reviews. 1 min walk to Sai Kaew Beach. $$ · $405/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 8.8 · 2,880 reviews. 1 min walk to Sai Kaew Beach. $$$ · $555/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $405/night",
+        "💰 $555/night",
         "📝 2,880 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -262,19 +158,19 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Santhiya Phuket Natai Resort & Spa - Up to THB 3,000 Resort Credit per Night",
       "agodaUrl": "https://www.agoda.com/santhiya-phuket-natai-resort-spa_2/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/6916377/0/145e053478db54a4767f2298085b0ad8.jpg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/6916377/0/145e053478db54a4767f2298085b0ad8.jpg?va=1&ce=3",
       "score": 9,
       "reviewCount": 1560,
       "reviewCountFmt": "1,560 reviews",
-      "priceText": "$$ · $335/night",
+      "priceText": "$$ · $352/night",
       "walkMin": 2,
       "refLabel": "Natai Beach",
       "star": 5,
       "propertyId": 6916377,
-      "priceUSD": 335,
+      "priceUSD": 352,
       "priceStatus": "live",
       "distanceM": 123.02,
       "locationStatus": "verified",
@@ -289,9 +185,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 1,560 reviews. 2 min walk to Natai Beach. $$ · $335/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 1,560 reviews. 2 min walk to Natai Beach. $$ · $352/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $335/night",
+        "💰 $352/night",
         "📝 1,560 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -319,17 +215,17 @@
           "translated": false
         },
         {
-          "text": "Highly recommend the Thai massage and dining on the beach.",
-          "score": "10",
-          "country": "United Kingdom",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
           "text": "They offer a generous 3 liters of bottled water every day.",
           "score": "8.4",
           "country": "India",
           "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend the Thai massage and dining on the beach.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.04",
           "translated": false
         },
         {
@@ -356,116 +252,112 @@
       }
     },
     {
-      "rank": 4,
-      "name": "Santhiya Koh Yao Yai Resort & Spa - Compulsory Join Santhiya Speedboat from-to Ao Po Grand Marina",
-      "agodaUrl": "https://www.agoda.com/santhiya-koh-yao-yai-resort-and-spa/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/335179/0/21834da423f3807ec90b89e3707f2b3d.jpeg?va=1&ce=2",
-      "score": 9,
-      "reviewCount": 9609,
-      "reviewCountFmt": "9,609 reviews",
-      "priceText": "$$ · $289/night",
-      "walkMin": null,
-      "refLabel": "city center",
+      "rank": 3,
+      "name": "Phuket Marriott Resort & Spa, Merlin Beach",
+      "agodaUrl": "https://www.agoda.com/phuket-marriott-resort-spa-merlin-beach/hotel/phuket-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/813459291.jpg?k=5197a38f60896aa161142dfea409e6d24f08564d2e234d64eeba22f37fd60f30&o=",
+      "score": 8.9,
+      "reviewCount": 6829,
+      "reviewCountFmt": "6,829 reviews",
+      "priceText": "$$ · $336/night",
+      "walkMin": 101,
+      "refLabel": "Minibus Station",
       "star": 5,
-      "propertyId": 335179,
-      "priceUSD": 289,
+      "propertyId": 1377626,
+      "priceUSD": 336,
       "priceStatus": "live",
-      "distanceM": null,
-      "locationStatus": "approx.",
+      "distanceM": 8080.86,
+      "locationStatus": "verified",
       "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Gym/fitness",
+        "Daily housekeeping",
+        "Patong Beach",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 9,609 reviews. $$ · $289/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 6,829 reviews. $$ · $336/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $289/night",
-        "📝 9,609 reviews",
+        "💰 $336/night",
+        "📝 6,829 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
+        "👥 Loved by Families"
       ],
       "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
+        "topLabel": "Families",
+        "topPct": 80,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 3,
-            "pct": 60,
+            "count": 1,
+            "pct": 20,
             "rating": 10
           },
           {
-            "key": "solo",
-            "label": "Solo",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
+            "key": "family",
+            "label": "Families",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
           }
         ]
       },
       "reviews": [
         {
-          "text": "This hotel is so perfect, everyone should spend time there 😻",
+          "text": "The staff were incredibly friendly and attentive,",
           "score": "10",
-          "country": "Thaïlande",
-          "date": "2024.10",
-          "translated": false
-        },
-        {
-          "text": "My room was stunning, I felt like I was living in a palace.",
-          "score": "10",
-          "country": "Austria",
+          "country": "Bahrain",
           "date": "2026.08",
           "translated": false
         },
         {
-          "text": "Waking up to the sea view every morning is so healing.",
-          "score": "10",
-          "country": "CN",
-          "date": "2026.08",
+          "text": "At the pool they had fun snacks for kids everyday for 1 hr..",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2022.06",
           "translated": false
         },
         {
-          "text": "From the moment you walk in, the facilities are captivating.",
-          "score": "10",
-          "country": "United States",
-          "date": "2026.05",
+          "text": "Daily activities food, kids club and especially the pool!",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.06",
           "translated": false
         },
         {
-          "text": "We decided to spend 1 more night after staying 2 days here.",
+          "text": "Absolutely one of the best vacations I had at the hotel",
           "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2023.04",
+          "country": "Israel",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The facilities were top-notch, especially the pool.",
+          "score": "9.6",
+          "country": "Indonesia",
+          "date": "2023.11",
           "translated": false
         }
       ],
       "quality": {
-        "issues": [
-          "location"
-        ],
+        "issues": [],
         "critical": false,
-        "completeness": 88,
+        "completeness": 100,
         "priceStatus": "confirmed",
-        "locationStatus": "unavailable"
+        "locationStatus": "confirmed"
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Renaissance Phuket Resort & Spa",
       "agodaUrl": "https://www.agoda.com/renaissance-phuket-resort-spa/hotel/phuket-th.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/178676/0/a5a53c9f0796c5afa8a03eed20f939d0.jpg?va=1&ce=3",
       "score": 9,
-      "reviewCount": 3412,
-      "reviewCountFmt": "3,412 reviews",
+      "reviewCount": 3413,
+      "reviewCountFmt": "3,413 reviews",
       "priceText": "$$ · $300/night",
       "walkMin": 1,
       "refLabel": "Sai Kaew Beach",
@@ -483,10 +375,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 3,412 reviews. 1 min walk to Sai Kaew Beach. $$ · $300/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 3,413 reviews. 1 min walk to Sai Kaew Beach. $$ · $300/night. 80% of sampled reviews from couples.",
       "metaTags": [
         "💰 $300/night",
-        "📝 3,412 reviews",
+        "📝 3,413 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -557,24 +449,26 @@
       }
     },
     {
-      "rank": 6,
-      "name": "Phuket Marriott Resort & Spa, Merlin Beach",
-      "agodaUrl": "https://www.agoda.com/phuket-marriott-resort-spa-merlin-beach/hotel/phuket-th.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/813459291.jpg?k=5197a38f60896aa161142dfea409e6d24f08564d2e234d64eeba22f37fd60f30&o=",
+      "rank": 5,
+      "name": "Kalima Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/kalima-resort-spa/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/287432/-1/dda98b2f8a55152793a4ccfd2d534754.png?va=1&ce=0",
       "score": 8.9,
-      "reviewCount": 6828,
-      "reviewCountFmt": "6,828 reviews",
-      "priceText": "$$ · $335/night",
-      "walkMin": 101,
-      "refLabel": "Minibus Station",
+      "reviewCount": 8504,
+      "reviewCountFmt": "8,504 reviews",
+      "priceText": "$$ · $277/night",
+      "walkMin": 23,
+      "refLabel": "Patong Beach",
       "star": 5,
-      "propertyId": 1377626,
-      "priceUSD": 335,
+      "propertyId": 287432,
+      "priceUSD": 277,
       "priceStatus": "live",
-      "distanceM": 8080.86,
+      "distanceM": 1816.99,
       "locationStatus": "verified",
       "facilities": [
-        "Daily housekeeping",
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
         "Patong Beach",
         "Wi-Fi [free]",
         "Openable window",
@@ -582,68 +476,176 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 6,828 reviews. $$ · $335/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 8,504 reviews. $$ · $277/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $335/night",
-        "📝 6,828 reviews",
+        "💰 $277/night",
+        "📝 8,504 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
-        "👥 Loved by Families"
+        "👥 Loved by Couples"
       ],
       "travelerTypes": {
-        "topLabel": "Families",
-        "topPct": 80,
+        "topLabel": "Couples",
+        "topPct": 60,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "Families",
             "count": 1,
             "pct": 20,
             "rating": 10
           },
           {
-            "key": "family",
-            "label": "Families",
-            "count": 4,
-            "pct": 80,
-            "rating": 9.4
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "The staff were incredibly friendly and attentive,",
+          "text": "The staff are the friendliest staff I have ever met.",
           "score": "10",
-          "country": "Bahrain",
-          "date": "2026.08",
+          "country": "Australia",
+          "date": "2022.12",
           "translated": false
         },
         {
-          "text": "At the pool they had fun snacks for kids everyday for 1 hr..",
+          "text": "The staffs were kind and helpful especially all cleaners.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "Great service from staff nice location beautiful sightseeing",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "She was often the first to respond whenever I had a request.",
+          "score": "8.8",
+          "country": "AE",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The location was excellent and provided breathtaking views.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Maikhao Dream Villa Resort & Spa Phuket",
+      "agodaUrl": "https://www.agoda.com/maikhao-dream-villa-resort-and-spa/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/256028/0/0965988f25beb63e17983a900a5f4cdc.jpeg?va=1&ce=3",
+      "score": 8.4,
+      "reviewCount": 345,
+      "reviewCountFmt": "345 reviews",
+      "priceText": "$$ · $360/night",
+      "walkMin": 1,
+      "refLabel": "Sai Kaew Beach",
+      "star": 5,
+      "propertyId": 256028,
+      "priceUSD": 360,
+      "priceStatus": "live",
+      "distanceM": 96.66,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.4 · 345 reviews. 1 min walk to Sai Kaew Beach. $$ · $360/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $360/night",
+        "📝 345 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.3
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One of the best experiences in Phuket",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Great hotel and very kind stuff",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Other than that we had a great time!! Definitely recommend!!",
+          "score": "8.8",
+          "country": "Russia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "The staff were very friendly and service oriented.",
           "score": "8.4",
           "country": "Singapore",
-          "date": "2022.06",
+          "date": "2023.08",
           "translated": false
         },
         {
-          "text": "Daily activities food, kids club and especially the pool!",
-          "score": "9.6",
-          "country": "Singapore",
-          "date": "2023.06",
-          "translated": false
-        },
-        {
-          "text": "Absolutely one of the best vacations I had at the hotel",
-          "score": "10",
-          "country": "Israel",
-          "date": "2022.08",
-          "translated": false
-        },
-        {
-          "text": "The facilities were top-notch, especially the pool.",
-          "score": "9.6",
-          "country": "Indonesia",
-          "date": "2023.11",
+          "text": "Gorgeous villas and incredibly attentive staff.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.11",
           "translated": false
         }
       ],
@@ -658,24 +660,22 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T00:31:54.586Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
-    "checkIn": "2026-11-16",
+    "fetchedAt": "2026-10-06T23:50:57.806Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T00:31:54.586Z",
+    "fetchedAt": "2026-10-06T23:50:57.806Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 40,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
       "ok": true,
       "errors": [],
-      "warnings": [
-        "Santhiya Koh Yao Yai Resort & Spa - Compulsory Join Santhiya Speedboat from-to Ao Po Grand Marina: location"
-      ]
+      "warnings": []
     },
     "firstPublished": "2026-10-02"
   }
