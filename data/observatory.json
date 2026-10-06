@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 4,
+  "cursor": 5,
   "observations": [
     {
       "city": "Bali",
@@ -221,6 +221,93 @@
           "priceUSD": 628,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/hakone-kowakien-ten-yu/hotel/hakone-jp.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "New York",
+      "citySlug": "new-york",
+      "cityId": 318,
+      "observedAt": "2026-10-06T18:25:00.016Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-05, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "1267104",
+          "name": "Four Seasons Hotel New York",
+          "priceUSD": 2912,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-hotel-new-york_2/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "3849617",
+          "name": "Mandarin Oriental, New York",
+          "priceUSD": 2219,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mandarin-oriental-new-york_5/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "83526",
+          "name": "The Carlyle, A Rosewood Hotel",
+          "priceUSD": 2070,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-carlyle-a-rosewood-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950723",
+          "name": "Baccarat Hotel and Residences New York",
+          "priceUSD": 2124,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/baccarat-hotel-and-residences-new-york_3/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "211821",
+          "name": "The Mark Hotel",
+          "priceUSD": 1961,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-mark-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950574",
+          "name": "The Greenwich Hotel",
+          "priceUSD": 1926,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-greenwich-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950467",
+          "name": "Crosby Street Hotel",
+          "priceUSD": 1914,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/crosby-street-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "6950151",
+          "name": "The Whitby Hotel",
+          "priceUSD": 1834,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-whitby-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "7477",
+          "name": "Waldorf Astoria New York",
+          "priceUSD": 1787,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/waldorf-astoria-new-york-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "174255",
+          "name": "The Peninsula New York Hotel",
+          "priceUSD": 1755,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-peninsula-new-york-hotel/hotel/new-york-ny-us.html?cid=1925461"
+        },
+        {
+          "key": "2456621",
+          "name": "The Ritz-Carlton New York, Central Park",
+          "priceUSD": 1647,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-ritz-carlton-new-york-central-park_3/hotel/new-york-ny-us.html?cid=1925461"
         }
       ]
     }

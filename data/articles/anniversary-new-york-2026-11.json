@@ -1,0 +1,555 @@
+{
+  "slug": "anniversary-new-york-2026-11",
+  "theme": "anniversary",
+  "audience": "Anniversary Escape",
+  "emoji": "🥂",
+  "city": "New York",
+  "citySlug": "new-york",
+  "cityId": 318,
+  "inSeason": true,
+  "country": "United States",
+  "region": "americas",
+  "regionLabel": "Americas",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=318",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[New York] The Grandest Suites to Celebrate a Milestone",
+  "metaDescription": "The 6 finest anniversary escape stays in New York — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
+  "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 53% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Surrey</b> — rating 9.3, 133 reviews, from $2,245/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "aggregate": {
+    "total": 17,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 9,
+        "pct": 53
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 5,
+        "pct": 29
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 3,
+        "pct": 18
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/property/88941492/1390465164/49777cb5106d117d2a6f9de2f8cbbd05.jpeg?va=1&ce=3",
+  "heroAlt": "New York Anniversary Escape",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Surrey",
+      "agodaUrl": "https://www.agoda.com/the-surrey_7/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/88941492/1390465164/49777cb5106d117d2a6f9de2f8cbbd05.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 133,
+      "reviewCountFmt": "133 reviews",
+      "priceText": "$$$ · $2,245/night",
+      "walkMin": 4,
+      "refLabel": "77th Street Subway Station",
+      "star": 5,
+      "propertyId": 1303,
+      "priceUSD": 2245,
+      "priceStatus": "live",
+      "distanceM": 355.62,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Close to public transportation",
+        "High Line",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 133 reviews. 4 min walk to 77th Street Subway Station. $$$ · $2,245/night.",
+      "metaTags": [
+        "💰 $2,245/night",
+        "📝 133 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "The Carlyle, A Rosewood Hotel",
+      "agodaUrl": "https://www.agoda.com/the-carlyle-a-rosewood-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/642942181.jpg?k=1fbdc3bc1bb3a9f7f372f4603191bafa4bac25f24591f43853b17776580b1002&o=",
+      "score": 9,
+      "reviewCount": 210,
+      "reviewCountFmt": "210 reviews",
+      "priceText": "$$$ · $2,046/night",
+      "walkMin": 4,
+      "refLabel": "77th Street Subway Station",
+      "star": 5,
+      "propertyId": 83526,
+      "priceUSD": 2046,
+      "priceStatus": "live",
+      "distanceM": 318.43,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "High Line",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 210 reviews. 4 min walk to 77th Street Subway Station. $$$ · $2,046/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $2,046/night",
+        "📝 210 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Solo"
+      ],
+      "travelerTypes": {
+        "topLabel": "Solo",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Incredible experience in every single way ;)..",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel with lovely room and friendly staff.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Thank you to my friends at The Carlyle.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "This hotel is the most wonderful hotel in New York City.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Windows overlooking Central Park and luxury amenities.",
+          "score": "9.6",
+          "country": "New Zealand",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "The Ritz-Carlton New York, Central Park",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-new-york-central-park_3/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2456621/0/c8bcd2f3237c34c57bf74523f6ba895c.jpeg?va=1&ce=0",
+      "score": 9,
+      "reviewCount": 267,
+      "reviewCountFmt": "267 reviews",
+      "priceText": "$$$ · $1,774/night",
+      "walkMin": 3,
+      "refLabel": "Fifth Avenue-59th Street Subway Station",
+      "star": 5,
+      "propertyId": 2456621,
+      "priceUSD": 1774,
+      "priceStatus": "live",
+      "distanceM": 201.52,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "High Line",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 267 reviews. 3 min walk to Fifth Avenue-59th Street Subway Station. $$$ · $1,774/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,774/night",
+        "📝 267 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I really enjoyed the stay inritz Carlton Central Park.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Vry good sevice",
+          "score": "10",
+          "country": "India",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Waldorf Astoria New York",
+      "agodaUrl": "https://www.agoda.com/waldorf-astoria-new-york-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7477/0/8723574019faec668756869bdeeae5be.jpg?va=1&ca=7&ce=1",
+      "score": 8.7,
+      "reviewCount": 276,
+      "reviewCountFmt": "276 reviews",
+      "priceText": "$$$ · $1,787/night",
+      "walkMin": 1,
+      "refLabel": "51st-53rd Streets-Lexington Avenue Subway Station",
+      "star": 5,
+      "propertyId": 7477,
+      "priceUSD": 1787,
+      "priceStatus": "live",
+      "distanceM": 103.52,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Close to public transportation",
+        "High Line",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.7 · 276 reviews. 1 min walk to 51st-53rd Streets-Lexington Avenue Subway Station. $$$ · $1,787/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,787/night",
+        "📝 276 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We loved every moment and can’t wait to return!",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "It was an amazing stay, and we can’t wait to return!",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Exceptional Hotel, Exceptional Service!",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms luxurious and comfortable,",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The staff were warm and attentive,",
+          "score": "10",
+          "country": "Kuwait",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "The Mark Hotel",
+      "agodaUrl": "https://www.agoda.com/the-mark-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/211/211821/211821_15071800490032545994.jpg?va=1&ca=4&ce=1",
+      "score": 9.2,
+      "reviewCount": 157,
+      "reviewCountFmt": "157 reviews",
+      "priceText": "$$$ · $1,837/night",
+      "walkMin": 4,
+      "refLabel": "77th Street Subway Station",
+      "star": 5,
+      "propertyId": 211821,
+      "priceUSD": 1837,
+      "priceStatus": "live",
+      "distanceM": 352.32,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "High Line",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 157 reviews. 4 min walk to 77th Street Subway Station. $$$ · $1,837/night. 50% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,837/night",
+        "📝 157 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 50,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 50,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 50,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The Perfect hotel in NY",
+          "score": "10",
+          "country": "JP",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The best hotel in NY",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "The Peninsula New York Hotel",
+      "agodaUrl": "https://www.agoda.com/the-peninsula-new-york-hotel/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/617395839.jpg?k=ed49b09385bd8dac46bd61f1ed8612decca69ed630867fe6f789719249424150&o=",
+      "score": 9.1,
+      "reviewCount": 466,
+      "reviewCountFmt": "466 reviews",
+      "priceText": "$$$ · $1,755/night",
+      "walkMin": 2,
+      "refLabel": "Fifth Avenue-53rd Street Subway Station",
+      "star": 5,
+      "propertyId": 174255,
+      "priceUSD": 1755,
+      "priceStatus": "live",
+      "distanceM": 155.87,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "High Line",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 466 reviews. 2 min walk to Fifth Avenue-53rd Street Subway Station. $$$ · $1,755/night.",
+      "metaTags": [
+        "💰 $1,755/night",
+        "📝 466 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Solo"
+      ],
+      "travelerTypes": {
+        "topLabel": "Solo",
+        "topPct": 67,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 33,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 2,
+            "pct": 67,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "With this hotel - one can never go wrong!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Best Hotel Ever!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The best hotel",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T18:24:59.201Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T18:24:59.201Z",
+    "source": "agoda citySearch",
+    "daysAhead": 40,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "The Surrey: reviewSample"
+      ]
+    },
+    "firstPublished": "2026-10-06"
+  }
+}
