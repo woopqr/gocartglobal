@@ -1,0 +1,666 @@
+{
+  "slug": "ultra-mauritius-2026-11",
+  "theme": "ultra",
+  "audience": "Ultra-Luxury",
+  "emoji": "👑",
+  "city": "Mauritius",
+  "citySlug": "mauritius",
+  "cityId": 19226,
+  "country": "Mauritius",
+  "region": "indian-ocean",
+  "regionLabel": "Indian Ocean",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=19226",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Mauritius] The World's Priciest, Most Coveted Suites",
+  "metaDescription": "The 6 finest ultra-luxury stays in Mauritius — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
+  "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 83% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Maradiva Villas Resort & Spa</b> — rating 9, 360 reviews, from $1,606/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 25,
+        "pct": 83
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/750293476.jpg?k=a89de8602e473ce9dd3ed2046629877b02cadee7af92946b621e375ca56168de&o=",
+  "heroAlt": "Mauritius Ultra-Luxury",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Maradiva Villas Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/maradiva-villas-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/750293476.jpg?k=a89de8602e473ce9dd3ed2046629877b02cadee7af92946b621e375ca56168de&o=",
+      "score": 9,
+      "reviewCount": 360,
+      "reviewCountFmt": "360 reviews",
+      "priceText": "$$$ · $1,606/night",
+      "walkMin": 2,
+      "refLabel": "Flic en Flac Beach",
+      "star": 5,
+      "propertyId": 68363,
+      "priceUSD": 1606,
+      "priceStatus": "live",
+      "distanceM": 174.03,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Flic en Flac Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 360 reviews. 2 min walk to Flic en Flac Beach. $$$ · $1,606/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,606/night",
+        "📝 360 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Our stay at this hotel left only the best impressions!",
+          "score": "10",
+          "country": "RU",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The newly renovated villas are wonderful.",
+          "score": "10",
+          "country": "RU",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great villa, space and comfort.",
+          "score": "8.4",
+          "country": "Mauritius",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Great location, great room",
+          "score": "8",
+          "country": "South Korea",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Fabulous, simply fabulous",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Four Seasons Resort Mauritius at Anahita",
+      "agodaUrl": "https://www.agoda.com/four-seasons-resort-mauritius-at-anahita/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5809978/-1/d7ab20c7984bd5cc7080580c8b2cc12e.jpg?va=1&ca=7&ce=1",
+      "score": 9.3,
+      "reviewCount": 156,
+      "reviewCountFmt": "156 reviews",
+      "priceText": "$$$ · $1,521/night",
+      "walkMin": 25,
+      "refLabel": "Ile aux Cerfs",
+      "star": 5,
+      "propertyId": 5809978,
+      "priceUSD": 1521,
+      "priceStatus": "live",
+      "distanceM": 1991.78,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Ile aux Cerfs",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 156 reviews. $$$ · $1,521/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,521/night",
+        "📝 156 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 8.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Best place in four seasons",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Absolutely impeccable",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Very nice stay",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Nice staff",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "2) french resturant the best",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "LUX* Grand Baie",
+      "agodaUrl": "https://www.agoda.com/merville-beach-resort-grand-baie/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/190302/-1/2035d0f7d4f4cd455e36a8b4c16ae2fa.jpg?va=1&ca=25&ce=0",
+      "score": 9,
+      "reviewCount": 1325,
+      "reviewCountFmt": "1,325 reviews",
+      "priceText": "$$$ · $1,305/night",
+      "walkMin": 47,
+      "refLabel": "Mont Choisy Bus Stop",
+      "star": 5,
+      "propertyId": 190302,
+      "priceUSD": 1305,
+      "priceStatus": "live",
+      "distanceM": 3797,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Pereybere Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 1,325 reviews. $$$ · $1,305/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,305/night",
+        "📝 1,325 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "But otherwise restaurants, rooms and beach was superb",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The staff went above and beyond throughout our stay.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel is excellent and best service I had stay",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The staff, facilities, beach, everything is almost perfect.",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Truly a fabulous hotel, staff, location, food & beverages.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "The Oberoi, Mauritius",
+      "agodaUrl": "https://www.agoda.com/the-oberoi-mauritius-hotel/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/522630/0/97f64ff3b441ebe1098e5b6233c42575.jpg?va=1&ce=3",
+      "score": 9.4,
+      "reviewCount": 474,
+      "reviewCountFmt": "474 reviews",
+      "priceText": "$$$ · $1,207/night",
+      "walkMin": 96,
+      "refLabel": "Mont Choisy Bus Stop",
+      "star": 5,
+      "propertyId": 522630,
+      "priceUSD": 1207,
+      "priceStatus": "live",
+      "distanceM": 7704.84,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 474 reviews. $$$ · $1,207/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,207/night",
+        "📝 474 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had an amazing four-day stay at The Oberoi, Mauritius.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "Exceptional stay at The Oberoi Beach Resort",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Accommodation, food and all staff amazing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend to locals and for tourists",
+          "score": "10",
+          "country": "Mauritius",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Exceptional service and luxury at its best",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Constance Prince Maurice",
+      "agodaUrl": "https://www.agoda.com/constance-prince-maurice/hotel/all/mauritius-island-mu.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/384012543.jpg?k=3b4cc46a37b49a9026d645d4913b0b2c94f4b09dd54aaa5c8de55cd0be9aa630&o=",
+      "score": 9.4,
+      "reviewCount": 1068,
+      "reviewCountFmt": "1,068 reviews",
+      "priceText": "$$$ · $1,168/night",
+      "walkMin": 10,
+      "refLabel": "Bras d'Eau Public Beach",
+      "star": 5,
+      "propertyId": 3534613,
+      "priceUSD": 1168,
+      "priceStatus": "live",
+      "distanceM": 790.84,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Daily housekeeping"
+      ],
+      "blurb": "Rating 9.4 · 1,068 reviews. 10 min walk to Bras d'Eau Public Beach. $$$ · $1,168/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,168/night",
+        "📝 1,068 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.4
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Exceptional service and facilities",
+          "score": "8.4",
+          "country": "United Arab Emirates",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Superb hotel with excellent staff.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Very personal and she was so happy with the cake.",
+          "score": "10",
+          "country": "Mauritius",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Great hotel to relax",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent Stay",
+          "score": "9.6",
+          "country": "Taiwan",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "LUX* Belle Mare",
+      "agodaUrl": "https://www.agoda.com/lux-belle-mare/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/188729/0/fc1480112e81e2779e94379ea07e0a5f.jpg?va=1&ca=8&ce=1",
+      "score": 9.2,
+      "reviewCount": 2168,
+      "reviewCountFmt": "2,168 reviews",
+      "priceText": "$$$ · $940/night",
+      "walkMin": 103,
+      "refLabel": "Ile aux Cerfs",
+      "star": 5,
+      "propertyId": 188729,
+      "priceUSD": 940,
+      "priceStatus": "live",
+      "distanceM": 8204.58,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 2,168 reviews. $$$ · $940/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $940/night",
+        "📝 2,168 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The service was 5 star and the staff was just amazing.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Attention to details not seen in other destinations.",
+          "score": "10",
+          "country": "Polska",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "My stay at Lux Belle Mare was nothing short of exceptional.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The staff we amazing, always smiling and willing to help.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Overall probably one of the best hotel we ever staid in!",
+          "score": "10",
+          "country": "Reunion Island",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T00:32:13.934Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T00:32:13.934Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

@@ -15,6 +15,54 @@ const ROOT = __dirname;
 const TPL = fs.readFileSync(path.join(ROOT, 'templates/article.template.html'), 'utf8');
 const SPECIAL_TPL = fs.existsSync(path.join(ROOT, 'templates/special.template.html')) ? fs.readFileSync(path.join(ROOT, 'templates/special.template.html'), 'utf8') : '';
 const SITE = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/site.json'), 'utf8'));
+const readJson = (rel, fb) => { try { return JSON.parse(fs.readFileSync(path.join(ROOT, rel), 'utf8')); } catch (_) { return fb; } };
+const CITIES = readJson('data/cities.json', []);
+const REGIONS = readJson('data/regions.json', []);
+const GUIDES = readJson('data/destinations.json', {});   // 도시별 에디토리얼(개요·시기·지역·테마별 관점) — 글마다 고유 본문
+const THEMES = readJson('data/themes.json', { themes: [] });
+const cityDefOf = slug => CITIES.find(c => c.slug === slug) || null;
+const regionLabelOf = id => (REGIONS.find(r => r.id === id) || {}).label || '';
+const fmtUSD = n => '$' + Number(n).toLocaleString('en-US');
+
+// 관련 글(같은 도시 다른 카테고리 + 같은 카테고리 같은 지역) — 내부 링크
+let _allArticles = null;
+function allArticles() {
+  if (_allArticles) return _allArticles;
+  const dir = path.join(ROOT, 'data/articles');
+  _allArticles = fs.existsSync(dir) ? fs.readdirSync(dir).filter(f => f.endsWith('.json')).map(f => {
+    const d = readJson('data/articles/' + f, null); if (!d) return null;
+    const cd = cityDefOf(d.citySlug);
+    return { slug: d.slug, title: d.title, theme: d.theme, audience: d.audience, emoji: d.emoji, city: d.city, citySlug: d.citySlug, region: d.region || cd?.region || '', month: d._meta?.targetMonth || '', current: isCurrentOrFuture(d) };
+  }).filter(Boolean) : [];
+  return _allArticles;
+}
+function relatedFor(data, region) {
+  const all = allArticles().filter(a => a.slug !== data.slug && a.current);
+  const sameCity = all.filter(a => a.citySlug === data.citySlug && a.theme !== data.theme);
+  const sameTheme = all.filter(a => a.theme === data.theme && a.region === region && a.citySlug !== data.citySlug);
+  const seen = new Set(), out = [];
+  for (const a of [...sameCity, ...sameTheme]) { if (seen.has(a.slug) || out.length >= 6) continue; seen.add(a.slug); out.push(a); }
+  return out;
+}
+
+// 데이터 기반 FAQ(AEO) — 실제 수집값과 도시 가이드만 사용, 추정 금지
+function articleFaq(data, guide, hotels) {
+  const city = data.city, aud = String(data.audience || 'luxury').toLowerCase();
+  const date = String(data.methodology?.fetchedAt || data.updated || '').slice(0, 10);
+  const faq = [];
+  const [h1, h2, h3] = hotels;
+  if (h1) faq.push({ q: `What is the best ${aud} hotel in ${city}?`,
+    a: `In our latest check of Agoda data (${date}), the top pick for a ${aud} stay in ${city} is ${shortName(h1.name)}, rated ${h1.score}/10 across ${Number(h1.reviewCount).toLocaleString('en-US')} reviews${h1.priceUSD ? `, from ${fmtUSD(h1.priceUSD)} per night` : ''}.${h2 ? ` ${shortName(h2.name)}${h3 ? ` and ${shortName(h3.name)}` : ''} round out the top ${h3 ? 'three' : 'two'}.` : ''}` });
+  const prices = hotels.map(h => h.priceUSD).filter(Boolean).sort((a, b) => a - b);
+  if (prices.length >= 2) faq.push({ q: `How much does a five-star ${aud} stay in ${city} cost per night?`,
+    a: `For a ${data.methodology?.checkIn || data.travelMonthLabel} check-in with ${data.methodology?.adults || 2} adults, our shortlisted five-star stays ranged from ${fmtUSD(prices[0])} to ${fmtUSD(prices[prices.length - 1])} per room per night, including taxes and fees (checked ${date}). Rates move with dates and availability, so confirm the live price on Agoda before booking.` });
+  if (guide?.bestTime) faq.push({ q: `When is the best time to visit ${city}?`, a: guide.bestTime });
+  if (guide?.areas?.length) faq.push({ q: `Which area of ${city} is best for a luxury stay?`,
+    a: guide.areas.map(a => `${a.name}: ${a.why}`).join(' ') });
+  faq.push({ q: `How did ${SITE.name} choose these ${city} hotels?`,
+    a: `We only consider five-star hotels and resorts with a confirmed nightly price of at least $250 and at least 30 guest reviews, then rank by price tier, review volume, rating and fit for ${aud} travelers. Private rentals, unnamed "secret deals" and unconfirmed prices are excluded.` });
+  return faq;
+}
 
 // ── 무의존성 Mustache(부분집합) 렌더러 ──
 function escapeHtml(s) { return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;'); }
@@ -109,7 +157,6 @@ const INTRO_OPENERS = [
   'On the same budget, the property you pick is what separates an ordinary trip from an unforgettable one.',
   'Choose one exceptional stay and the whole {city} itinerary falls into place.',
   '{city} is a place where the address and the room make an outsized difference to the experience.',
-  'In peak season the best-reviewed luxury stays sell out faster than most travelers expect.',
   'The properties that rarely disappoint are the ones with deep, consistently strong reviews.',
   'The higher the stakes of the trip, the more a well-reviewed, proven property is worth.',
 ];
@@ -122,7 +169,7 @@ function uniqueIntro(data) {
   const opener = INTRO_OPENERS[hashStr(data.slug || city) % INTRO_OPENERS.length].replace('{aud}', audLc).replace('{city}', city);
   let s = opener + ' ';
   s += `This edition compares the ${n} finest ${audLc} stays in ${city}${mon ? ` for ${mon}` : ''} — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked on real Agoda guest data.`;
-  if (topType && topType.pct) s += ` Around ${topType.pct}% of the selected stays' reviews come from ${String(topType.label).toLowerCase()} travelers, which matches who these places are really for.`;
+  if (topType && topType.pct) s += ` Around ${topType.pct}% of the selected stays' reviews come from ${String(topType.label).toLowerCase()} travelers in the review sample.`;
   if (top && top.score != null) s += ` By the data, the number-one pick is ${shortName(top.name)} (rating ${top.score}).`;
   return s;
 }
@@ -173,6 +220,37 @@ function buildContext(data) {
   const sampleTotal = data.aggregate?.total || 0;
   const title = editorialTitle(data);
   const metaDescription = editorialDescription(data);
+  const cd = cityDefOf(data.citySlug);
+  const region = data.region || cd?.region || '';
+  const regionLabel = data.regionLabel || regionLabelOf(region);
+  const guide = GUIDES[data.citySlug] || null;
+  const themeAngle = guide?.themes?.[themeKey] || '';
+  const faq = articleFaq(data, guide, hotels);
+  const related = relatedFor(data, region).map(a => ({ ...a, url: '/articles/' + a.slug }));
+  const B = `https://${SITE.domain}`;
+  const crumbs = [
+    { name: 'Home', url: '/' },
+    { name: data.audience, url: `/category/${themeKey}` },
+    ...(region ? [{ name: regionLabel, url: `/category/${themeKey}/${region}` }] : []),
+    ...(region ? [{ name: data.city, url: `/category/${themeKey}/${region}/${data.citySlug}` }] : []),
+  ];
+  const ld = [{
+      '@context': 'https://schema.org', '@type': 'Article',
+      headline: title, description: metaDescription,
+      datePublished: data._meta?.firstPublished || data.updated, dateModified: data.updated,
+      image: data.heroImg || undefined,
+      author: { '@type': 'Organization', name: 'GoCart Global data desk', url: `${B}/pages/about.html` },
+      publisher: { '@type': 'Organization', name: SITE.name, url: `${B}/` },
+      about: [{ '@type': 'Place', name: data.city }, { '@type': 'Thing', name: data.audience }],
+      isPartOf: { '@type': 'WebSite', name: SITE.name, url: `${B}/` },
+      mainEntityOfPage: canonical,
+    },
+    { '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+      itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: B + c.url })) },
+    { '@context': 'https://schema.org', '@type': 'ItemList', name: title,
+      itemListElement: hotels.map(h => ({ '@type': 'ListItem', position: h.rank, name: h.name })) },
+    { '@context': 'https://schema.org', '@type': 'FAQPage',
+      mainEntity: faq.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }];
   return {
     ...data, title, metaDescription, site: SITE, hotels,
     intro: uniqueIntro(data),
@@ -190,17 +268,10 @@ function buildContext(data) {
     robotsContent: isCurrentOrFuture(data) ? 'index,follow,max-image-preview:large' : 'noindex,follow',
     authorName: 'GoCart Global data desk',
     updatedLabel: data.updated || String(fetchedAt || '').slice(0, 10),
-    jsonld: JSON.stringify({
-      '@context': 'https://schema.org', '@type': 'Article',
-      headline: title, description: metaDescription,
-      datePublished: data.updated, dateModified: data.updated,
-      image: data.heroImg || undefined,
-      author: { '@type': 'Organization', name: 'GoCart Global data desk', url: `https://${SITE.domain}/pages/about.html` },
-      publisher: { '@type': 'Organization', name: SITE.name, url: `https://${SITE.domain}/` },
-      about: [{ '@type': 'Thing', name: data.city }, { '@type': 'Thing', name: data.audience }],
-      isPartOf: { '@type': 'WebSite', name: SITE.name, url: `https://${SITE.domain}/` },
-      mainEntityOfPage: canonical,
-    }).replace(/</g, '\\u003c'),
+    crumbHtml: crumbs.map((c, i) => i === crumbs.length - 1 ? `<span>${escapeHtml(c.name)}</span>` : `<a href="${c.url}">${escapeHtml(c.name)}</a>`).join(' <span>›</span> '), region, regionLabel, country: data.country || cd?.country || '',
+    guide, hasGuide: !!guide, themeAngle, guideAreas: guide?.areas || [],
+    faq, hasFaq: faq.length > 0, related, hasRelated: related.length > 0,
+    jsonld: JSON.stringify(ld).replace(/</g, '\\u003c'),
   };
 }
 
@@ -214,7 +285,7 @@ function buildOne(slug) {
 
 // ── 국내 특별 기획(에디토리얼) 렌더러 ──
 const AGODA_ULLEUNG = agoda.citySearchById(182676);
-function buildSpecialContext(data, hotels) {
+function buildSpecialContext(data, hotels, hotelsMeta) {
   hotels = hotels || [];
   const canonical = `https://${SITE.domain}/articles/${data.slug}`;
   const agodaUrl = data.agodaUrl || AGODA_ULLEUNG;
@@ -230,11 +301,19 @@ function buildSpecialContext(data, hotels) {
     publisher: { '@type': 'Organization', name: SITE.name },
     mainEntityOfPage: canonical,
   };
-  const jsonld = JSON.stringify(faqLd ? [artLd, faqLd] : artLd).replace(/</g, '\\u003c');
+  const B = `https://${SITE.domain}`;
+  const crumbs = [{ name: 'Home', url: '/' }, { name: data.categoryLabel || 'Destination Guides', url: `/category/${data.category || 'destinations'}` },
+    ...(data.regionId ? [{ name: regionLabelOf(data.regionId), url: `/category/${data.category || 'destinations'}/${data.regionId}` }] : []), { name: data.region || data.title, url: '' }];
+  const bcLd = { '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: c.url ? B + c.url : canonical })) };
+  artLd.author = { '@type': 'Organization', name: 'GoCart Global editors', url: `${B}/pages/about.html` };
+  const jsonld = JSON.stringify([artLd, bcLd, ...(faqLd ? [faqLd] : [])]).replace(/</g, '\\u003c');
   const hero = data.hero || {};
   const region = data.region || 'the destination';
   return {
-    site: SITE, adsense: SITE.adsense, canonical, jsonld, agodaUrl,
+    site: SITE, adsense: SITE.adsense, canonical, jsonld, agodaUrl, updated: data.updated,
+    crumbHtml: crumbs.map((c, i) => i === crumbs.length - 1 ? `<span>${escapeHtml(c.name)}</span>` : `<a href="${c.url}">${escapeHtml(c.name)}</a>`).join(' <span>›</span> '),
+    hotelBasis: (hotelsMeta && hotelsMeta.basis) || 'USD per room/night incl. taxes & fees', hotelsUpdated: (hotelsMeta && hotelsMeta.updated) || data.updated,
     slug: data.slug, title: data.title, metaDescription: data.metaDescription,
     keywordsCsv: (data.keywords || []).join(', '),
     heroEyebrow: hero.eyebrow || '', heroHeadline: escapeHtml(hero.headline || '').replace(/\n/g, '<br>'), heroSub: hero.sub || '',
@@ -260,9 +339,9 @@ function buildSpecialContext(data, hotels) {
 function buildSpecial(fileSlug) {
   const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/specials', fileSlug + '.json'), 'utf8'));
   const sidecar = path.join(ROOT, 'data/specials', fileSlug + '.hotels.json');
-  let hotels = [];
-  if (fs.existsSync(sidecar)) { try { hotels = JSON.parse(fs.readFileSync(sidecar, 'utf8')).hotels || []; } catch (e) {} }
-  const html = render(SPECIAL_TPL, [buildSpecialContext(data, hotels)]);
+  let hotels = [], meta = null;
+  if (fs.existsSync(sidecar)) { try { meta = JSON.parse(fs.readFileSync(sidecar, 'utf8')); hotels = meta.hotels || []; } catch (e) {} }
+  const html = render(SPECIAL_TPL, [buildSpecialContext(data, hotels, meta)]);
   fs.mkdirSync(path.join(ROOT, 'articles'), { recursive: true });
   fs.writeFileSync(path.join(ROOT, 'articles', data.slug + '.html'), html);
   console.log('✓ articles/' + data.slug + '.html (특별기획: ' + (data.region || data.slug) + ')');

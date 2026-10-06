@@ -1,0 +1,528 @@
+{
+  "slug": "wellness-maldives-2026-11",
+  "theme": "wellness",
+  "audience": "Wellness & Spa",
+  "emoji": "🧖",
+  "city": "Maldives",
+  "citySlug": "maldives",
+  "cityId": 17759,
+  "country": "Maldives",
+  "region": "indian-ocean",
+  "regionLabel": "Indian Ocean",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=17759",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Maldives] Five-Star Sanctuaries for a Healing Getaway",
+  "metaDescription": "The 6 finest wellness & spa stays in Maldives — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
+  "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 82% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Kudadoo Maldives Private Island – Luxury All inclusive</b> — rating 9.7, 112 reviews, from $5,044/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "aggregate": {
+    "total": 17,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 14,
+        "pct": 82
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 2,
+        "pct": 12
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 1,
+        "pct": 6
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/5750598/0/a58507c20106a7e1761bc83c5a9ddd4a.jpeg?ce=3",
+  "heroAlt": "Maldives Wellness & Spa",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Kudadoo Maldives Private Island – Luxury All inclusive",
+      "agodaUrl": "https://www.agoda.com/kudadoo-maldives-private-island-luxury-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5750598/0/a58507c20106a7e1761bc83c5a9ddd4a.jpeg?ce=3",
+      "score": 9.7,
+      "reviewCount": 112,
+      "reviewCountFmt": "112 reviews",
+      "priceText": "$$$ · $5,044/night",
+      "walkMin": 1,
+      "refLabel": "Kudadhoo Maldives Beach",
+      "star": 5,
+      "propertyId": 5750598,
+      "priceUSD": 5044,
+      "priceStatus": "live",
+      "distanceM": 39.28,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.7 · 112 reviews. 1 min walk to Kudadhoo Maldives Beach. $$$ · $5,044/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $5,044/night",
+        "📝 112 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff make this resort feel personal and very special.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "I can’t even begin to state how amazing this place is.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "But with amazing staffs and services I would go back again",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Kudadoo is very nice and the staff and very friendly.",
+          "score": "10",
+          "country": "Nigeria",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "We stayed 5 nights at Kudadoo and had wonderful time",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "The Ritz-Carlton Maldives, Fari Islands",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-maldives-fari-islands/hotel/male-city-and-airport-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/23738295/-1/b523e4581d34768f6f01f7ab794f551f.jpg?ca=28&ce=0",
+      "score": 9.7,
+      "reviewCount": 98,
+      "reviewCountFmt": "98 reviews",
+      "priceText": "$$$ · $4,909/night",
+      "walkMin": 45,
+      "refLabel": "OBLU by Atmosphere at Helengeli Beach",
+      "star": 5,
+      "propertyId": 23738295,
+      "priceUSD": 4909,
+      "priceStatus": "live",
+      "distanceM": 3624.98,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.7 · 98 reviews. $$$ · $4,909/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $4,909/night",
+        "📝 98 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "First of all, the room was outstanding.",
+          "score": "10",
+          "country": "JP",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The food , the environment, the service",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "What a surprise hotel for me",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Secondly, the activities were amazing.",
+          "score": "10",
+          "country": "JP",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Everything is astonishing",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "The St. Regis Maldives Vommuli Resort",
+      "agodaUrl": "https://www.agoda.com/the-st-regis-maldives-vommuli-resort/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4880847/1154079662/20f58bb41379b5b1d884c1ae545bce0d.jpeg?ce=3",
+      "score": 9.6,
+      "reviewCount": 63,
+      "reviewCountFmt": "63 reviews",
+      "priceText": "$$$ · $4,280/night",
+      "walkMin": 42,
+      "refLabel": "Rinbudhoo Beach",
+      "star": 5,
+      "propertyId": 1267405,
+      "priceUSD": 4280,
+      "priceStatus": "live",
+      "distanceM": 3327.61,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.6 · 63 reviews. $$$ · $4,280/night.",
+      "metaTags": [
+        "💰 $4,280/night",
+        "📝 63 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Patina Maldives, Fari Islands",
+      "agodaUrl": "https://www.agoda.com/patina-maldives-fari-islands_2/hotel/all/maldive-islands-mv.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/380232020.jpg?k=07bd7084ad42aa9a23826a094f7d2104e95882221649e5282ca1b1bcd5c1a264&o=",
+      "score": 9.7,
+      "reviewCount": 107,
+      "reviewCountFmt": "107 reviews",
+      "priceText": "$$$ · $4,117/night",
+      "walkMin": 15,
+      "refLabel": "OBLU by Atmosphere at Helengeli Beach",
+      "star": 5,
+      "propertyId": 22139529,
+      "priceUSD": 4117,
+      "priceStatus": "live",
+      "distanceM": 1182.03,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.7 · 107 reviews. 15 min walk to OBLU by Atmosphere at Helengeli Beach. $$$ · $4,117/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $4,117/night",
+        "📝 107 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had the best food and our stay was extremely comfortable.",
+          "score": "10",
+          "country": "Oman",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great place and services",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Amazing Vacation place",
+          "score": "10",
+          "country": "Oman",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Everything was available for us.",
+          "score": "10",
+          "country": "Oman",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Naladhu Private Island Maldives",
+      "agodaUrl": "https://www.agoda.com/naladhu-private-island-maldives_2/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/186617/-1/09ade07dcc28c32ffec99a0ab58b19d3.jpg?ca=24&ce=0",
+      "score": 9.6,
+      "reviewCount": 95,
+      "reviewCountFmt": "95 reviews",
+      "priceText": "$$$ · $3,973/night",
+      "walkMin": 87,
+      "refLabel": "Makunufushi Cocoa Island Beach",
+      "star": 5,
+      "propertyId": 186617,
+      "priceUSD": 3973,
+      "priceStatus": "live",
+      "distanceM": 6999.33,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.6 · 95 reviews. $$$ · $3,973/night.",
+      "metaTags": [
+        "💰 $3,973/night",
+        "📝 95 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Park Hyatt Maldives Hadahaa",
+      "agodaUrl": "https://www.agoda.com/park-hyatt-maldives-hadahaa/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2287061/0/4a1392eee5b91682ef086772ed909585.jpeg?ce=0",
+      "score": 9.3,
+      "reviewCount": 81,
+      "reviewCountFmt": "81 reviews",
+      "priceText": "$$$ · $3,683/night",
+      "walkMin": null,
+      "refLabel": "city center",
+      "star": 5,
+      "propertyId": 161831,
+      "priceUSD": 3683,
+      "priceStatus": "live",
+      "distanceM": null,
+      "locationStatus": "approx.",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 81 reviews. $$$ · $3,683/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $3,683/night",
+        "📝 81 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.3
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Everything is nice and staff are very friendly!",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Overwater villa is a must have!",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Love this resort!",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "location"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T00:32:00.374Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T00:32:00.374Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "The St. Regis Maldives Vommuli Resort: reviewSample",
+        "Naladhu Private Island Maldives: reviewSample",
+        "Park Hyatt Maldives Hadahaa: location"
+      ]
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

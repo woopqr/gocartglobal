@@ -18,11 +18,13 @@ const { qualityForHotel, validateArticle } = require('./lib/content-quality');
 
 const ROOT = __dirname;
 const THEMES = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/themes.json'), 'utf8'));
+const CITIES = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/cities.json'), 'utf8'));
+const REGIONS = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/regions.json'), 'utf8'));
 const MIN_REVIEWS = 30;
 // 럭셔리 기준(절대 완화하지 않음): 5성급 + 세금 포함 1박 하한가 + 가격 확인된 숙소만
 const MIN_STAR = 5;
-const MIN_PRICE_USD = Number(process.env.MIN_PRICE_USD) || 150;
-const PAGES = 3;
+const MIN_PRICE_USD = Number(process.env.MIN_PRICE_USD) || 250;
+const PAGES = Number(process.env.PAGES) || 5;
 
 const [themeId, cityId, citySlug, ymArg, nArg] = process.argv.slice(2);
 const N = Number(nArg) || 6;
@@ -72,7 +74,8 @@ const shortName = s => String(s).split('(')[0].trim();
     catch (e) { console.warn(`  (page ${pg} 실패 — 1페이지만 사용)`); }
   }
   const rawCityName = cs?.searchResult?.searchInfo?.objectInfo?.cityName || '';
-  const city = rawCityName.split('/')[0].trim() || citySlug;
+  const cityDef = CITIES.find(c => c.slug === citySlug);
+  const city = cityDef?.name || rawCityName.split('/')[0].trim() || citySlug;
 
   const seenIds = new Set();
   const props = rawProps.map(p => md.mapPropertyRich(p)).filter(h => !seenIds.has(h.propertyId) && seenIds.add(h.propertyId));
@@ -100,17 +103,37 @@ const shortName = s => String(s).split('(')[0].trim();
   // ★ 럭셔리 선정: 최고가 우선 + 리뷰 많은순 + 5성 + 리조트/풀빌라 우선
   const isLux = h => /resort|villa|pool ?villa|리조트|빌라|풀빌라|스위트|suite/i.test(
     `${h.accommodationType || ''} ${h.propertyType || ''} ${h.name || ''}`);
+  const text = h => `${h.name || ''} ${(h.featureTitles || []).join(' ')}`;
+  // 테마별 가중치 — 같은 도시라도 카테고리마다 다른 숙소가 상위에 오도록(중복 콘텐츠 방지)
+  const THEME_BIAS = {
+    honeymoon: h => (/villa|pool/i.test(text(h)) ? 450000 : 0) + (isLux(h) ? 200000 : 0) + md.affinityFor('couple', h.travelerTypes) * 6000,
+    anniversary: h => Math.log10((h.reviewCount || 0) + 1) * 260000 + (h.score || 0) * 30000,
+    wellness: h => (/spa|wellness|retreat|sanctuary|healing|onsen|thermal/i.test(text(h)) ? 700000 : 0) + (isLux(h) ? 150000 : 0),
+    golf: h => (/golf|country club|links/i.test(text(h)) ? 900000 : 0) + md.affinityFor('friends', h.travelerTypes) * 4000,
+    ultra: h => (h.priceUSD || 0) * 700,
+  };
+  // 같은 도시·같은 여행월의 다른 카테고리 글에 이미 실린 숙소는 강하게 감점
+  const siblingUse = new Map();
+  for (const f of fs.readdirSync(path.join(ROOT, 'data/articles')).filter(f => f.endsWith('.json'))) {
+    try {
+      const a = JSON.parse(fs.readFileSync(path.join(ROOT, 'data/articles', f), 'utf8'));
+      if (a.citySlug !== citySlug || a.theme === theme.id || a._meta?.targetMonth !== `${tm.y}-${pad(tm.m)}`) continue;
+      for (const h of a.hotels || []) siblingUse.set(h.propertyId, (siblingUse.get(h.propertyId) || 0) + 1);
+    } catch (_) {}
+  }
   const score = h => {
-    const price = (h.priceUSD || 0) * 1400;              // 최고가 우선(지배적) — USD를 기존 KRW 가중치 스케일로 환산
+    const price = (h.priceUSD || 0) * 1400;              // 최고가 우선(지배적)
     const revs = Math.log10((h.reviewCount || 0) + 1);   // 리뷰 많은순(1~5)
     const star = h.star || 0;
     const aff = md.affinityFor(theme.preferType, h.travelerTypes); // 테마 적합(부가)
     return price * 1.0
-      + revs * 130000        // 리뷰 많을수록 상위
-      + star * 150000        // 5성 우대
-      + (isLux(h) ? 250000 : 0)  // 리조트/풀빌라/스위트 우대
+      + revs * 130000
+      + star * 150000
+      + (isLux(h) ? 250000 : 0)
       + (h.score || 0) * 15000
-      + aff * 1500;
+      + aff * 1500
+      + (THEME_BIAS[theme.id] ? THEME_BIAS[theme.id](h) : 0)
+      - (siblingUse.get(h.propertyId) || 0) * 3000000;
   };
   const picked = candidates.sort((a, b) => score(b) - score(a)).slice(0, N).map((h, i) => ({ ...h, rank: i + 1, isLux: isLux(h) }));
 
@@ -136,7 +159,7 @@ const shortName = s => String(s).split('(')[0].trim();
   const top = picked[0];
   const topPrice = (top.priceText.split('·')[1] || '').trim();
   const themeShareTxt = aggregate
-    ? (() => { const g = aggregate.distribution.find(d => d.key === theme.preferType); return g ? `About ${g.pct}% of these stays' reviews come from ${theme.audience.toLowerCase()} travelers. ` : ''; })()
+    ? (() => { const g = aggregate.distribution.find(d => d.key === theme.preferType); return g ? `About ${g.pct}% of the review sample for these stays comes from ${String(g.label).toLowerCase()} travelers. ` : ''; })()
     : '';
   const verdict = `${themeShareTxt}Our #1 pick is <b>${shortName(top.name)}</b> — rating ${top.score}, ${Number(top.reviewCount).toLocaleString('en-US')} reviews${topPrice ? `, from ${topPrice.trim()}` : ''}. ${theme.viewpoint}`;
 
@@ -149,8 +172,10 @@ const shortName = s => String(s).split('(')[0].trim();
     if (h.isLux) tags.push('🏝️ Resort / Villa');
     if (tt?.topLabel) tags.push('👥 Loved by ' + tt.topLabel);
     const refLabel = h.refLandmark || 'city center';
-    const typeTxt = tt ? `${(tt.distribution.find(d => d.key === theme.preferType) || {}).pct || 0}% ${theme.audience.toLowerCase()} reviews` : '';
-    const blurb = `Rating ${h.score} · ${Number(h.reviewCount).toLocaleString('en-US')} reviews.${h.walkMin ? ` ${h.walkMin} min walk to ${refLabel},` : ''} ${h.priceText}.${typeTxt ? ' ' + typeTxt + '.' : ''}`;
+    const tg = tt ? tt.distribution.find(d => d.key === theme.preferType) : null;
+    const typeTxt = tg ? `${tg.pct}% of sampled reviews from ${String(tg.label).toLowerCase()}` : '';
+    const walkTxt = h.walkMin && h.walkMin <= 20 ? ` ${h.walkMin} min walk to ${refLabel}.` : '';
+    const blurb = `Rating ${h.score} · ${Number(h.reviewCount).toLocaleString('en-US')} reviews.${walkTxt} ${h.priceText}.${typeTxt ? ' ' + typeTxt + '.' : ''}`;
     const hotel = {
       rank: h.rank, name: h.name, agodaUrl: h.agodaUrl,
       img: h.img ? 'https:' + h.img.replace(/^https?:/, '') : '',
@@ -180,6 +205,7 @@ const shortName = s => String(s).split('(')[0].trim();
   const data = {
     slug, theme: theme.id, audience: theme.audience, emoji: theme.emoji,
     city, citySlug, cityId: Number(cityId),
+    country: cityDef?.country || '', region: cityDef?.region || '', regionLabel: (REGIONS.find(r => r.id === cityDef?.region) || {}).label || '',
     cityUrl: agoda.citySearchById(Number(cityId)),
     season: season?.label || '', seasonNote: season?.note || '',
     travelMonthLabel,
@@ -205,6 +231,8 @@ const shortName = s => String(s).split('(')[0].trim();
   if (!validation.ok) throw new Error('품질 검증 실패: ' + validation.errors.join(' / '));
 
   const outPath = path.join(ROOT, 'data/articles', slug + '.json');
+  // 재생성(가격 갱신) 시 최초 발행일 유지
+  try { const prev = JSON.parse(fs.readFileSync(outPath, 'utf8')); data._meta.firstPublished = prev._meta?.firstPublished || prev.updated; } catch (_) { data._meta.firstPublished = data.updated; }
   fs.writeFileSync(outPath, JSON.stringify(data, null, 2));
   console.log(`✓ data/articles/${slug}.json (${hotels.length}곳, 테마=${theme.id}, city="${city}")`);
   console.log('  다음: node build.js ' + slug);

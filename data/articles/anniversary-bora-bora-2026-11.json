@@ -1,0 +1,445 @@
+{
+  "slug": "anniversary-bora-bora-2026-11",
+  "theme": "anniversary",
+  "audience": "Anniversary Escape",
+  "emoji": "🥂",
+  "city": "Bora Bora",
+  "citySlug": "bora-bora",
+  "cityId": 16974,
+  "country": "French Polynesia",
+  "region": "oceania",
+  "regionLabel": "Oceania & South Pacific",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=16974",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Bora Bora] The Grandest Suites to Celebrate a Milestone",
+  "metaDescription": "The 4 finest anniversary escape stays in Bora Bora — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
+  "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 56% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The St. Regis Bora Bora Resort</b> — rating 9.6, 35 reviews, from $2,585/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "aggregate": {
+    "total": 18,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 10,
+        "pct": 56
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 5,
+        "pct": 28
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 2,
+        "pct": 11
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 1,
+        "pct": 6
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/370077361.jpg?k=4e54988520df216acae3a8d95816d349d54dd7ee3614882708ba770ae7836d19&o=",
+  "heroAlt": "Bora Bora Anniversary Escape",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The St. Regis Bora Bora Resort",
+      "agodaUrl": "https://www.agoda.com/the-st-regis-bora-bora-resort/hotel/bora-bora-island-pf.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/370077361.jpg?k=4e54988520df216acae3a8d95816d349d54dd7ee3614882708ba770ae7836d19&o=",
+      "score": 9.6,
+      "reviewCount": 35,
+      "reviewCountFmt": "35 reviews",
+      "priceText": "$$$ · $2,585/night",
+      "walkMin": 92,
+      "refLabel": "Matira Beach",
+      "star": 5,
+      "propertyId": 222414,
+      "priceUSD": 2585,
+      "priceStatus": "live",
+      "distanceM": 7372.37,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.6 · 35 reviews. $$$ · $2,585/night.",
+      "metaTags": [
+        "💰 $2,585/night",
+        "📝 35 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "每天每间屋子有2件免费衣物熨烫，在主沙滩椅上躺着休息时，会有员工主动铺上沙滩巾，端来冰凉饮料及冰水......",
+          "score": "10",
+          "country": "China",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "We were treated like royalty throughout our entire stay!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Facilities are superb!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Customer service at its finest!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Staff are all nice and pleasant.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "The Westin Bora Bora Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/le-meridien-bora-bora/hotel/bora-bora-island-pf.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/81921/0/db8fcae175ea60582845af3889389501.jpeg?ce=3",
+      "score": 9.2,
+      "reviewCount": 318,
+      "reviewCountFmt": "318 reviews",
+      "priceText": "$$$ · $1,603/night",
+      "walkMin": 77,
+      "refLabel": "Matira Beach",
+      "star": 5,
+      "propertyId": 81921,
+      "priceUSD": 1603,
+      "priceStatus": "live",
+      "distanceM": 6132.45,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 318 reviews. $$$ · $1,603/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,603/night",
+        "📝 318 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "An excellent resort with nice facilities and staff.",
+          "score": "10",
+          "country": "HK",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Westin Bora Bora is Perfect!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Expensive but perfect",
+          "score": "10",
+          "country": "Romania",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Conrad Bora Bora Nui",
+      "agodaUrl": "https://www.agoda.com/conrad-bora-bora-nui/hotel/bora-bora-island-pf.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/837685162.jpg?k=1a401a18095d298cfcc6330933a49baf33467ff1c1f5dd2613c5d8d86ba27365&o=",
+      "score": 9,
+      "reviewCount": 214,
+      "reviewCountFmt": "214 reviews",
+      "priceText": "$$$ · $1,571/night",
+      "walkMin": 42,
+      "refLabel": "Matira Beach",
+      "star": 5,
+      "propertyId": 199353,
+      "priceUSD": 1571,
+      "priceStatus": "live",
+      "distanceM": 3396.13,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 214 reviews. $$$ · $1,571/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,571/night",
+        "📝 214 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.3
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Excellent facilities in a high class",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "The guy from Uganda did amazing greeting for us!",
+          "score": "8",
+          "country": "Poland",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Paradise on Earth exists and it's in Bora Bora",
+          "score": "10",
+          "country": "Bahrain",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Pros: Most of the staff were friendly and helpful.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "A place that exceeded my expectations.",
+          "score": "10",
+          "country": "Bahrain",
+          "date": "2024.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Le Bora Bora by Pearl Resorts",
+      "agodaUrl": "https://www.agoda.com/bora-bora-pearl-beach-resort-and-spa/hotel/bora-bora-island-pf.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/336870/-1/ec8b8bb1a1aa051c087d0e189e58ef68.jpg?ca=22&ce=0",
+      "score": 9.3,
+      "reviewCount": 890,
+      "reviewCountFmt": "890 reviews",
+      "priceText": "$$$ · $1,015/night",
+      "walkMin": 100,
+      "refLabel": "Matira Beach",
+      "star": 5,
+      "propertyId": 336870,
+      "priceUSD": 1015,
+      "priceStatus": "live",
+      "distanceM": 8024.28,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness"
+      ],
+      "blurb": "Rating 9.3 · 890 reviews. $$$ · $1,015/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,015/night",
+        "📝 890 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Wonderful resort on an idyllic location",
+          "score": "9.6",
+          "country": "Belgium",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Fantastic hotel with superb location",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Absolutely perfect in every way.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Truly amazing experience, very romantic.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Perfect place with perfect people!",
+          "score": "10",
+          "country": "Polska",
+          "date": "2024.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T00:32:21.938Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T00:32:21.938Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 4,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

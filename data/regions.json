@@ -1,0 +1,30 @@
+[
+  {
+    "id": "southeast-asia",
+    "label": "Southeast Asia"
+  },
+  {
+    "id": "east-asia",
+    "label": "East Asia"
+  },
+  {
+    "id": "indian-ocean",
+    "label": "Indian Ocean"
+  },
+  {
+    "id": "middle-east",
+    "label": "Middle East"
+  },
+  {
+    "id": "europe",
+    "label": "Europe"
+  },
+  {
+    "id": "americas",
+    "label": "Americas"
+  },
+  {
+    "id": "oceania",
+    "label": "Oceania & South Pacific"
+  }
+]

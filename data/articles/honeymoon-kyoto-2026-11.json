@@ -1,0 +1,635 @@
+{
+  "slug": "honeymoon-kyoto-2026-11",
+  "theme": "honeymoon",
+  "audience": "Honeymoon",
+  "emoji": "💍",
+  "city": "Kyoto",
+  "citySlug": "kyoto",
+  "cityId": 1784,
+  "country": "Japan",
+  "region": "east-asia",
+  "regionLabel": "East Asia",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=1784",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Kyoto] Where Couples Splurge: The Finest Honeymoon Stays",
+  "metaDescription": "The 6 finest honeymoon stays in Kyoto — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
+  "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Capella Kyoto</b> — rating 9.7, 50 reviews, from $2,447/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "aggregate": {
+    "total": 24,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 12,
+        "pct": 50
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 5,
+        "pct": 21
+      },
+      {
+        "key": "business",
+        "label": "Business",
+        "count": 4,
+        "pct": 17
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 2,
+        "pct": 8
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 1,
+        "pct": 4
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/863443493.jpg?k=ea62c64be482a7094b943ce963cb3539ef420ffcb4012512b61df6066cda712d&o=",
+  "heroAlt": "Kyoto Honeymoon",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Capella Kyoto",
+      "agodaUrl": "https://www.agoda.com/capella-kyoto/hotel/all/kyoto-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/863443493.jpg?k=ea62c64be482a7094b943ce963cb3539ef420ffcb4012512b61df6066cda712d&o=",
+      "score": 9.7,
+      "reviewCount": 50,
+      "reviewCountFmt": "50 reviews",
+      "priceText": "$$$ · $2,447/night",
+      "walkMin": 6,
+      "refLabel": "Kiyomizu Gojo Train Station",
+      "star": 5,
+      "propertyId": 83946092,
+      "priceUSD": 2447,
+      "priceStatus": "live",
+      "distanceM": 476.43,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Close to public transportation",
+        "Fushimi Inari-taisha Shrine"
+      ],
+      "blurb": "Rating 9.7 · 50 reviews. 6 min walk to Kiyomizu Gojo Train Station. $$$ · $2,447/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $2,447/night",
+        "📝 50 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Peaceful and tranquil stay.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.10",
+          "translated": false
+        },
+        {
+          "text": "Very beautiful hotel",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.10",
+          "translated": false
+        },
+        {
+          "text": "And friendly staff.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Park Hyatt Kyoto",
+      "agodaUrl": "https://www.agoda.com/park-hyatt-kyoto/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/28883603/0/3f924eca84e40bbfd9ab5f6203efe6b9.jpeg?ce=3",
+      "score": 9.6,
+      "reviewCount": 40,
+      "reviewCountFmt": "40 reviews",
+      "priceText": "$$$ · $2,177/night",
+      "walkMin": 12,
+      "refLabel": "Gion Shijo Subway Station",
+      "star": 5,
+      "propertyId": 7652335,
+      "priceUSD": 2177,
+      "priceStatus": "live",
+      "distanceM": 951.86,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Fushimi Inari-taisha Shrine",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.6 · 40 reviews. 12 min walk to Gion Shijo Subway Station. $$$ · $2,177/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $2,177/night",
+        "📝 40 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Did my proposal and spent my fiancée’s birthday there.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Lovely location and friendly staff!",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "Very nice place to stay.",
+          "score": "10",
+          "country": "Taiwan",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Excellent location, service.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Best service and best crew!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "The Ritz-Carlton, Kyoto",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-kyoto/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/626318/0/1cb252b609c4dcae5adf3bd3e2c235df.jpeg?ce=0",
+      "score": 9.4,
+      "reviewCount": 66,
+      "reviewCountFmt": "66 reviews",
+      "priceText": "$$$ · $1,927/night",
+      "walkMin": 5,
+      "refLabel": "Kyoto Shiyakusho-mae Station",
+      "star": 5,
+      "propertyId": 626318,
+      "priceUSD": 1927,
+      "priceStatus": "live",
+      "distanceM": 388.06,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Kyoto Station Building"
+      ],
+      "blurb": "Rating 9.4 · 66 reviews. 5 min walk to Kyoto Shiyakusho-mae Station. $$$ · $1,927/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,927/night",
+        "📝 66 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The Ritz-Carlton Kyoto was EXCEPTIONAL.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "HOTEL THE MITSUI KYOTO, a Luxury Collection Hotel & Spa",
+      "agodaUrl": "https://www.agoda.com/hotel-the-mitsui-kyoto-a-luxury-collection-hotel-spa/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/17526170/-1/63b561f703390b6c7c73ba5d82391a01.jpg?ce=0",
+      "score": 9.3,
+      "reviewCount": 368,
+      "reviewCountFmt": "368 reviews",
+      "priceText": "$$$ · $1,681/night",
+      "walkMin": 4,
+      "refLabel": "Nijojomae Subway Station",
+      "star": 5,
+      "propertyId": 17526170,
+      "priceUSD": 1681,
+      "priceStatus": "live",
+      "distanceM": 302.77,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Kyoto Station Building",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 368 reviews. 4 min walk to Nijojomae Subway Station. $$$ · $1,681/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,681/night",
+        "📝 368 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The setting, room, location, service are all excellent.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "The staff, housekeeping, dining and spa were amazing.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Staff were all very attentive and spoke English well.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Service was excellent and the hotel was beautiful!",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Perfect blend of modern and traditional architecture.",
+          "score": "10",
+          "country": "HK",
+          "date": "2023.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Four Seasons Hotel Kyoto",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-kyoto/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/348465784.jpg?k=e6dafc51518396ebbb76d6eb4360311ab0d1879d43cb251c330b66e25b2113c4&o=",
+      "score": 9.1,
+      "reviewCount": 447,
+      "reviewCountFmt": "447 reviews",
+      "priceText": "$$$ · $1,868/night",
+      "walkMin": 9,
+      "refLabel": "Kyoto Shichijo Train Station",
+      "star": 5,
+      "propertyId": 1329522,
+      "priceUSD": 1868,
+      "priceStatus": "live",
+      "distanceM": 729.1,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Fushimi Inari-taisha Shrine",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 447 reviews. 9 min walk to Kyoto Shichijo Train Station. $$$ · $1,868/night.",
+      "metaTags": [
+        "💰 $1,868/night",
+        "📝 447 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Business"
+      ],
+      "travelerTypes": {
+        "topLabel": "Business",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "business",
+            "label": "Business",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I had a very nice experience staying here.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "One of the great hotel choices in Japan.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel with lovely amenities.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": false
+        },
+        {
+          "text": "Great place to stay",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2022.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Banyan Tree Higashiyama Kyoto ",
+      "agodaUrl": "https://www.agoda.com/banyan-tree-higashiyama-kyoto/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/55605084/-1/73d8cf37b0f359eced329ac500b77917.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 358,
+      "reviewCountFmt": "358 reviews",
+      "priceText": "$$$ · $1,510/night",
+      "walkMin": 15,
+      "refLabel": "Gion Shijo Subway Station",
+      "star": 5,
+      "propertyId": 55605084,
+      "priceUSD": 1510,
+      "priceStatus": "live",
+      "distanceM": 1185.56,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Daily housekeeping",
+        "Fushimi Inari-taisha Shrine",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 358 reviews. 15 min walk to Gion Shijo Subway Station. $$$ · $1,510/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,510/night",
+        "📝 358 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room, the facilities, and the staff are all amazing",
+          "score": "9.6",
+          "country": "Saudi Arabia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Thank you to the entire team for making our stay so special.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Friendly staffs and always welcoming . Feeling like home .",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "I must commend the wonderful team at the Banyan Tree Hotel.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "It was an excellent location and the property is brand new.",
+          "score": "8.8",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T00:32:12.295Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T00:32:12.295Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

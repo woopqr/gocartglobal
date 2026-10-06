@@ -1,5 +1,5 @@
 {
-  "_comment": "럭셔리 테마 = 오디언스 × 시즌. 선정은 gen.js에서 최고가+리뷰많은순+5성+리조트/풀빌라 기준. hooks는 도시별 회전으로 제목 중복 방지(SEO).",
+  "_comment": "럭셔리 테마 = 오디언스 × 시즌. 도시별 허용 테마는 data/cities.json themes. 골프는 '골프 여행 거점'으로만 표현(호텔 내 코스 보유 주장 금지).",
   "themes": [
     {
       "id": "honeymoon",
@@ -13,7 +13,15 @@
         "Five-Star Honeymoon Retreats Worth the Splurge",
         "Where Couples Splurge: The Finest Honeymoon Stays"
       ],
-      "keywords": ["honeymoon", "romantic", "private pool villa", "ocean view", "suite", "couple", "luxury resort"],
+      "keywords": [
+        "honeymoon",
+        "romantic",
+        "private pool villa",
+        "ocean view",
+        "suite",
+        "couple",
+        "luxury resort"
+      ],
       "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
       "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime."
     },
@@ -29,7 +37,15 @@
         "Timeless Five-Star Resorts for a Special Anniversary",
         "Where Discerning Couples Celebrate in Style"
       ],
-      "keywords": ["anniversary", "celebration", "suite", "fine dining", "ocean view", "couple", "luxury"],
+      "keywords": [
+        "anniversary",
+        "celebration",
+        "suite",
+        "fine dining",
+        "ocean view",
+        "couple",
+        "luxury"
+      ],
       "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
       "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style."
     },
@@ -40,14 +56,21 @@
       "preferType": "friends",
       "titlePattern": "[{city}] {hook}",
       "hooks": [
-        "Five-Star Golf Resorts for the Discerning Player",
-        "Luxury Stays by the World's Best Fairways",
-        "Where Golfers Splurge: Premium Resort Picks",
-        "Championship Golf Meets Ultra-Luxury Lodging"
+        "The Finest Five-Star Bases for a Golf Trip",
+        "Where Golfers Stay in Five-Star Style",
+        "Luxury Stays for a Golf-Focused Escape",
+        "Five-Star Hotels for Golfers Who Want More Than a Round"
       ],
-      "keywords": ["golf resort", "fairway", "luxury", "resort", "spa", "club"],
-      "viewpoint": "We surfaced the priciest, best-reviewed resorts favored by luxury and golf travelers.",
-      "intro": "A great golf trip is half course, half clubhouse. These are the top-priced, best-reviewed luxury resorts where the stay is as memorable as the round."
+      "keywords": [
+        "golf resort",
+        "fairway",
+        "luxury",
+        "resort",
+        "spa",
+        "club"
+      ],
+      "viewpoint": "We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
+      "intro": "A great golf trip is half course, half recovery. These are the top-tier, best-reviewed five-star stays in a destination with a serious golf scene — chosen as a base, not as a promise of an on-site course."
     },
     {
       "id": "wellness",
@@ -61,7 +84,15 @@
         "Five-Star Sanctuaries for a Healing Getaway",
         "Where Serenity Meets Serious Luxury"
       ],
-      "keywords": ["wellness", "spa", "retreat", "healing", "onsen", "resort", "luxury"],
+      "keywords": [
+        "wellness",
+        "spa",
+        "retreat",
+        "healing",
+        "onsen",
+        "resort",
+        "luxury"
+      ],
       "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
       "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely."
     },
@@ -77,19 +108,65 @@
         "Bucket-List Ultra-Luxury Hotels & Villas",
         "The Best of the Best: Top Luxury Stays"
       ],
-      "keywords": ["ultra luxury", "iconic", "suite", "penthouse", "private villa", "five star", "bucket list"],
+      "keywords": [
+        "ultra luxury",
+        "iconic",
+        "suite",
+        "penthouse",
+        "private villa",
+        "five star",
+        "bucket list"
+      ],
       "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
       "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market."
     }
   ],
   "seasons": [
-    { "id": "peak", "label": "Peak Season", "months": [7, 8, 12, 1], "note": "Peak-season suites sell out fastest — reserve early." },
-    { "id": "spring", "label": "Spring", "months": [3, 4, 5], "note": "Mild weather makes for ideal resort days." },
-    { "id": "summer", "label": "Summer", "months": [6], "note": "Long days and prime beach-resort season." },
-    { "id": "autumn", "label": "Autumn", "months": [9, 10, 11], "note": "Shoulder season often brings the best value on top suites." }
+    {
+      "id": "peak",
+      "label": "Peak Season",
+      "months": [
+        7,
+        8,
+        12,
+        1
+      ],
+      "note": "Peak-season suites sell out fastest — reserve early."
+    },
+    {
+      "id": "spring",
+      "label": "Spring",
+      "months": [
+        3,
+        4,
+        5
+      ],
+      "note": "Mild weather makes for ideal resort days."
+    },
+    {
+      "id": "summer",
+      "label": "Summer",
+      "months": [
+        6
+      ],
+      "note": "Long days and prime beach-resort season."
+    },
+    {
+      "id": "autumn",
+      "label": "Autumn",
+      "months": [
+        9,
+        10,
+        11
+      ],
+      "note": "Shoulder season often brings the best value on top suites."
+    }
   ],
   "calendar": {
     "_comment": "현재 월 → 선행발행 대상. monthsAhead 1~2를 더한 여행시점 시즌/오디언스 조합 우선.",
-    "monthsAhead": [1, 2]
+    "monthsAhead": [
+      1,
+      2
+    ]
   }
 }

@@ -1,0 +1,631 @@
+{
+  "slug": "honeymoon-honolulu-2026-11",
+  "theme": "honeymoon",
+  "audience": "Honeymoon",
+  "emoji": "💍",
+  "city": "Honolulu",
+  "citySlug": "honolulu",
+  "cityId": 10921,
+  "country": "United States",
+  "region": "americas",
+  "regionLabel": "Americas",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=10921",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Honolulu] The Most Romantic Ultra-Luxury Honeymoon Resorts",
+  "metaDescription": "The 6 finest honeymoon stays in Honolulu — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
+  "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 52% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>ESPACIO The Jewel of Waikiki</b> — rating 9, 86 reviews, from $3,562/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "aggregate": {
+    "total": 25,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 13,
+        "pct": 52
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 10,
+        "pct": 40
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 2,
+        "pct": 8
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/295044/-1/aca429b12a2fa5d37f0cb0df3b75770c.jpg?ce=0",
+  "heroAlt": "Honolulu Honeymoon",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "ESPACIO The Jewel of Waikiki",
+      "agodaUrl": "https://www.agoda.com/aqua-waikiki-beachside-h24809787/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/295044/-1/aca429b12a2fa5d37f0cb0df3b75770c.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 86,
+      "reviewCountFmt": "86 reviews",
+      "priceText": "$$$ · $3,562/night",
+      "walkMin": 19,
+      "refLabel": "Monsarrat Avenue Station",
+      "star": 5,
+      "propertyId": 295044,
+      "priceUSD": 3562,
+      "priceStatus": "live",
+      "distanceM": 1483.32,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Waikiki Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 86 reviews. 19 min walk to Monsarrat Avenue Station. $$$ · $3,562/night.",
+      "metaTags": [
+        "💰 $3,562/night",
+        "📝 86 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Ka La‘i Waikiki Beach, LXR Hotels & Resorts",
+      "agodaUrl": "https://www.agoda.com/jet-luxury-h27518129/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/212225/0/67e0bc896f4f2b00b94cf177c958b82c.jpeg?ce=3",
+      "score": 9.1,
+      "reviewCount": 2522,
+      "reviewCountFmt": "2,522 reviews",
+      "priceText": "$$$ · $817/night",
+      "walkMin": 25,
+      "refLabel": "Kalia Station",
+      "star": 5,
+      "propertyId": 212225,
+      "priceUSD": 817,
+      "priceStatus": "live",
+      "distanceM": 1981.76,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Waikiki Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 2,522 reviews. $$$ · $817/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $817/night",
+        "📝 2,522 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was a really comfortable and friendly hotel",
+          "score": "8.8",
+          "country": "South Korea",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Especially the staff is always good, smile and professional.",
+          "score": "10",
+          "country": "JP",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "We loved that room condition, location and kind service.",
+          "score": "9.2",
+          "country": "South Korea",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "There was plenty of room and we were very comfortable.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Outstanding Japanese staff super attentive to details.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Halekulani - NO RESORT FEE",
+      "agodaUrl": "https://www.agoda.com/halekulani-hotel/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/49107/0/786950a5b24c94fcc2f8db2886a90510.jpeg",
+      "score": 9.2,
+      "reviewCount": 2569,
+      "reviewCountFmt": "2,569 reviews",
+      "priceText": "$$$ · $697/night",
+      "walkMin": 27,
+      "refLabel": "Kalia Station",
+      "star": 5,
+      "propertyId": 49107,
+      "priceUSD": 697,
+      "priceStatus": "live",
+      "distanceM": 2163.24,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Waikiki Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 2,569 reviews. $$$ · $697/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $697/night",
+        "📝 2,569 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "If you haven’t stayed here, this hotel is a must.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Room was super clean and equipped with necessary amenities.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Always the best service, most beautiful hotel in the World",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Perfectly appointed and beautifully executed.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Halekulani- very sophisticated and top notch service.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "The Royal Hawaiian, a Luxury Collection Resort, Waikiki",
+      "agodaUrl": "https://www.agoda.com/the-royal-hawaiian-a-luxury-collection-resort-waikiki/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/161224/74570586/c3c1cbbc59ffd9e504db30216f48eac2.jpeg?ce=3",
+      "score": 8.5,
+      "reviewCount": 803,
+      "reviewCountFmt": "803 reviews",
+      "priceText": "$$$ · $551/night",
+      "walkMin": 24,
+      "refLabel": "Monsarrat Avenue Station",
+      "star": 5,
+      "propertyId": 161224,
+      "priceUSD": 551,
+      "priceStatus": "live",
+      "distanceM": 1928.96,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Waikiki Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.5 · 803 reviews. $$$ · $551/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $551/night",
+        "📝 803 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Gorgeous hotel, spectacular gardens.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "As always, we were taken good care of by the staff.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The perfect stay",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Perfect for our family gathering.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "We will visit again!",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Alohilani Resort Waikiki Beach",
+      "agodaUrl": "https://www.agoda.com/alohilani-resort-waikiki-beach/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/46259/0/e3761215926c9b65d74c5f7622f70901.jpeg?va=1&ce=2",
+      "score": 8.2,
+      "reviewCount": 3139,
+      "reviewCountFmt": "3,139 reviews",
+      "priceText": "$$ · $363/night",
+      "walkMin": 17,
+      "refLabel": "Monsarrat Avenue Station",
+      "star": 5,
+      "propertyId": 46259,
+      "priceUSD": 363,
+      "priceStatus": "live",
+      "distanceM": 1340.9,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Waikiki Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.2 · 3,139 reviews. 17 min walk to Monsarrat Avenue Station. $$ · $363/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $363/night",
+        "📝 3,139 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The pool is best ever, spacious with fabulous ocean view.",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "We got housekeeping clean everyday without having to ask.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "From the location to the facilities it’s just amazing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The facilities were amazing and staffs was friendly.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "I would highly recommend staying at this Resort.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "The Ritz-Carlton Residences, Waikiki Beach",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-residences-waikiki-beach/hotel/honolulu-hi-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/538653707.jpg?k=39f962523fb3df1d03b3b11fba318dc650ea49a70a36acea6eb4e0c224159c88&o=",
+      "score": 9.1,
+      "reviewCount": 292,
+      "reviewCountFmt": "292 reviews",
+      "priceText": "$$$ · $778/night",
+      "walkMin": 24,
+      "refLabel": "Kalia Station",
+      "star": 5,
+      "propertyId": 2452173,
+      "priceUSD": 778,
+      "priceStatus": "live",
+      "distanceM": 1912.94,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Waikiki Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 292 reviews. $$$ · $778/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $778/night",
+        "📝 292 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I loved our room with a view and a balcony that opens.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel attendants were exceptionally kind and helpful.",
+          "score": "10",
+          "country": "US",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "It was so a gorgeous and lovely experience for my family.",
+          "score": "9.6",
+          "country": "JP",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Wonderful place, detailed touch in all services",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "I have nothing but praise for this hotel",
+          "score": "10",
+          "country": "JP",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T00:32:20.174Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T00:32:20.174Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "ESPACIO The Jewel of Waikiki: reviewSample"
+      ]
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

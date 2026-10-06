@@ -16,14 +16,26 @@ const MAX_AGE_H = Number(process.env.PRICE_MAX_AGE_H) || 20;
 
 function refreshPrices() {
   if (!fs.existsSync(ART)) return 0;
+  const MAX_GROUPS = Number(process.env.PRICE_MAX_GROUPS) || 10; // 회당 도시·월 묶음 수(같은 묶음은 캐시로 검색 1회)
+  const stale = fs.readdirSync(ART).filter(f => f.endsWith('.json')).map(f => {
+    const a = JSON.parse(fs.readFileSync(path.join(ART, f), 'utf8'));
+    return { f, a, age: (Date.now() - Date.parse(a._meta?.fetchedAt || 0)) / 3600000 };
+  }).filter(x => x.age >= MAX_AGE_H).filter(x => {
+    const [y, m] = String(x.a._meta?.targetMonth || '0-0').split('-').map(Number);
+    const now = new Date(); return y * 12 + m >= now.getUTCFullYear() * 12 + now.getUTCMonth() + 1; // 지난 달 글은 noindex — 갱신 생략
+  });
+  const groups = new Map();
+  for (const x of stale) {
+    const k = `${x.a.citySlug}|${x.a._meta?.targetMonth}`;
+    (groups.get(k) || groups.set(k, []).get(k)).push(x);
+  }
+  const order = [...groups.values()].sort((g1, g2) => Math.max(...g2.map(x => x.age)) - Math.max(...g1.map(x => x.age))).slice(0, MAX_GROUPS);
   let n = 0;
-  for (const f of fs.readdirSync(ART).filter(f => f.endsWith('.json'))) {
+  for (const g of order) for (const { f, a } of g) {
     const file = path.join(ART, f);
-    const a = JSON.parse(fs.readFileSync(file, 'utf8'));
-    const age = (Date.now() - Date.parse(a._meta?.fetchedAt || 0)) / 3600000;
-    if (age < MAX_AGE_H) continue;
     const city = CITIES.find(c => c.slug === a.citySlug);
     const ym = a._meta?.targetMonth;
+    if (!city || !(city.themes || []).includes(a.theme)) { console.warn(`  ↳ 건너뜀(구성에서 제외된 도시/테마): ${a.slug}`); continue; }
     try {
       execSync(`node gen.js ${a.theme} ${city.cityId} ${city.slug} ${ym}`, { cwd: ROOT, stdio: 'pipe', timeout: 240000 });
       n++;

@@ -1,0 +1,538 @@
+{
+  "slug": "anniversary-paris-2026-11",
+  "theme": "anniversary",
+  "audience": "Anniversary Escape",
+  "emoji": "🥂",
+  "city": "Paris",
+  "citySlug": "paris",
+  "cityId": 15470,
+  "country": "France",
+  "region": "europe",
+  "regionLabel": "Europe",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=15470",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Paris] The Grandest Suites to Celebrate a Milestone",
+  "metaDescription": "The 6 finest anniversary escape stays in Paris — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
+  "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 59% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Le Bristol Paris - an Oetker Collection Hotel</b> — rating 9.4, 143 reviews, from $2,896/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "aggregate": {
+    "total": 17,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 10,
+        "pct": 59
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 4,
+        "pct": 24
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 2,
+        "pct": 12
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 1,
+        "pct": 6
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/715778144.jpg?k=680e998f69dcdbc3e97c96ee2a48bfd6363a6d0b5ba9c7fa36c2bc34427d6f3d&o=",
+  "heroAlt": "Paris Anniversary Escape",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Le Bristol Paris - an Oetker Collection Hotel",
+      "agodaUrl": "https://www.agoda.com/le-bristol-paris-an-oetker-collection-hotel_2/hotel/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/715778144.jpg?k=680e998f69dcdbc3e97c96ee2a48bfd6363a6d0b5ba9c7fa36c2bc34427d6f3d&o=",
+      "score": 9.4,
+      "reviewCount": 143,
+      "reviewCountFmt": "143 reviews",
+      "priceText": "$$$ · $2,896/night",
+      "walkMin": 3,
+      "refLabel": "Miromesnil Metro Station",
+      "star": 5,
+      "propertyId": 10256407,
+      "priceUSD": 2896,
+      "priceStatus": "live",
+      "distanceM": 248.15,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Luxembourg Gardens"
+      ],
+      "blurb": "Rating 9.4 · 143 reviews. 3 min walk to Miromesnil Metro Station. $$$ · $2,896/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $2,896/night",
+        "📝 143 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had such a lovely stay at Le Bristol.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The most luxurious hotel I’ve stayed in.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "We loved the gym and pilates room too.",
+          "score": "10",
+          "country": "Monaco",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The food was excellent.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "What is there not to like at Le Bristol!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "La Reserve Paris Hotel & Spa",
+      "agodaUrl": "https://www.agoda.com/la-reserve-paris-hotel-and-spa/hotel/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/190511067.jpg?k=905c0f3081945aead2eee3c42a4ed34ca0cfb8eb25a78516a91fb4ef15e3bb9d&o=",
+      "score": 9.7,
+      "reviewCount": 97,
+      "reviewCountFmt": "97 reviews",
+      "priceText": "$$$ · $2,615/night",
+      "walkMin": 3,
+      "refLabel": "Franklin D. Roosevelt Metro Station",
+      "star": 5,
+      "propertyId": 10256536,
+      "priceUSD": 2615,
+      "priceStatus": "live",
+      "distanceM": 247.25,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Luxembourg Gardens",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.7 · 97 reviews. 3 min walk to Franklin D. Roosevelt Metro Station. $$$ · $2,615/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $2,615/night",
+        "📝 97 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "A very elegant and comfortable hotel, conveniently located.",
+          "score": "10",
+          "country": "HK",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "We will stay at La Reserve next time we visit Paris.",
+          "score": "10",
+          "country": "HK",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Impeccable quality and of a very high standard.",
+          "score": "10",
+          "country": "HK",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "La Réserve will spoil you!",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Everything was perfect.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Hotel Plaza Athenee - Dorchester Collection",
+      "agodaUrl": "https://www.agoda.com/hotel-plaza-athenee-dorchester-collection_2/hotel/paris-fr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10257516/0/86fd292c7d020677ca6785bdc381ca02.jpeg?va=1",
+      "score": 9.2,
+      "reviewCount": 323,
+      "reviewCountFmt": "323 reviews",
+      "priceText": "$$$ · $2,437/night",
+      "walkMin": 4,
+      "refLabel": "Alma - Marceau Metro Station",
+      "star": 5,
+      "propertyId": 10257516,
+      "priceUSD": 2437,
+      "priceStatus": "live",
+      "distanceM": 311.03,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Close to public transportation",
+        "Luxembourg Gardens"
+      ],
+      "blurb": "Rating 9.2 · 323 reviews. 4 min walk to Alma - Marceau Metro Station. $$$ · $2,437/night.",
+      "metaTags": [
+        "💰 $2,437/night",
+        "📝 323 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Groups"
+      ],
+      "travelerTypes": {
+        "topLabel": "Groups",
+        "topPct": 75,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 25,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 3,
+            "pct": 75,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I would stay here again and again and again and again ….",
+          "score": "10",
+          "country": "Cambodia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "All staff at the hotel are the very best hospitality.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The place is very clean and close to the shopping center.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Professional staff",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Bvlgari Hotel Paris",
+      "agodaUrl": "https://www.agoda.com/bvlgari-hotel-paris/hotel/paris-fr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/28854353/-1/596aaadda85535a4ad1ed0c5c7df5018.jpg?va=1&ce=0",
+      "score": 9.4,
+      "reviewCount": 165,
+      "reviewCountFmt": "165 reviews",
+      "priceText": "$$$ · $2,391/night",
+      "walkMin": 5,
+      "refLabel": "Alma - Marceau Metro Station",
+      "star": 5,
+      "propertyId": 28854353,
+      "priceUSD": 2391,
+      "priceStatus": "live",
+      "distanceM": 362.88,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Luxembourg Gardens",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 165 reviews. 5 min walk to Alma - Marceau Metro Station. $$$ · $2,391/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $2,391/night",
+        "📝 165 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The most nice staff i have ever seen since 2019",
+          "score": "9.2",
+          "country": "Qatar",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Love the hotel its really the meaning of luxury",
+          "score": "9.2",
+          "country": "Qatar",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Four Seasons Hotel George V Paris",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-george-v-paris/hotel/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/232783611.jpg?k=70a6c58744856c165976306d8e3be5ec4c29435ea93147f644df677ed512f6e5&o=",
+      "score": 9.6,
+      "reviewCount": 332,
+      "reviewCountFmt": "332 reviews",
+      "priceText": "$$$ · $2,357/night",
+      "walkMin": 4,
+      "refLabel": "George V Metro Station",
+      "star": 5,
+      "propertyId": 10256902,
+      "priceUSD": 2357,
+      "priceStatus": "live",
+      "distanceM": 354.97,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Luxembourg Gardens",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.6 · 332 reviews. 4 min walk to George V Metro Station. $$$ · $2,357/night.",
+      "metaTags": [
+        "💰 $2,357/night",
+        "📝 332 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Cheval Blanc Paris & Dior Spa Cheval Blanc Paris",
+      "agodaUrl": "https://www.agoda.com/cheval-blanc-paris-dior-spa-cheval-blanc-paris/hotel/all/paris-fr.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/570774323.jpg?k=5fc9e42e82c18e13c1d30fca8bb903c9ec20bc92e10666bfa90a834027b82b56&o=",
+      "score": 9.5,
+      "reviewCount": 146,
+      "reviewCountFmt": "146 reviews",
+      "priceText": "$$$ · $2,391/night",
+      "walkMin": 1,
+      "refLabel": "Pont Neuf Metro Station",
+      "star": 5,
+      "propertyId": 26039232,
+      "priceUSD": 2391,
+      "priceStatus": "live",
+      "distanceM": 41.58,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Close to public transportation",
+        "Luxembourg Gardens"
+      ],
+      "blurb": "Rating 9.5 · 146 reviews. 1 min walk to Pont Neuf Metro Station. $$$ · $2,391/night.",
+      "metaTags": [
+        "💰 $2,391/night",
+        "📝 146 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Solo"
+      ],
+      "travelerTypes": {
+        "topLabel": "Solo",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was best hotel I’ve ever stayed",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T00:32:06.018Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T00:32:06.018Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Four Seasons Hotel George V Paris: reviewSample"
+      ]
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

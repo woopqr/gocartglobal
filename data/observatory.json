@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 1,
+  "cursor": 2,
   "observations": [
     {
       "city": "Bali",
@@ -51,6 +51,86 @@
           "priceUSD": 1083,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/buahan-a-banyan-tree-escape/hotel/bali-id.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Bangkok",
+      "citySlug": "bangkok",
+      "cityId": 9395,
+      "observedAt": "2026-10-06T00:35:27.336Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-05, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "16997294",
+          "name": "Capella Bangkok",
+          "priceUSD": 1614,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/capella-bangkok-sha-plus-certified/hotel/all/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "8634385",
+          "name": "Four Seasons Hotel Bangkok at Chao Phraya River",
+          "priceUSD": 1275,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-hotel-bangkok-at-chao-praya-river/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "10713",
+          "name": "Mandarin Oriental, Bangkok",
+          "priceUSD": 713,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/mandarin-oriental-bangkok_12/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "296765",
+          "name": "The Siam Hotel",
+          "priceUSD": 644,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-siam-hotel/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "61425890",
+          "name": "The Ritz-Carlton, Bangkok",
+          "priceUSD": 454,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-ritz-carlton-bangkok/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "178063",
+          "name": "Siam Kempinski Hotel Bangkok",
+          "priceUSD": 437,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/siam-kempinski-hotel-bangkok/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "10306365",
+          "name": "Kimpton Maa-Lai Bangkok by IHG",
+          "priceUSD": 353,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kimpton-maa-lai-bangkok/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "81182503",
+          "name": "Andaz One Bangkok, By Hyatt",
+          "priceUSD": 352,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/andaz-one-bangkok/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "10664",
+          "name": "JW Marriott Hotel Bangkok",
+          "priceUSD": 349,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jw-marriott-hotel-bangkok/hotel/bangkok-th.html?cid=1925461"
+        },
+        {
+          "key": "10656",
+          "name": "Grand Hyatt Erawan Bangkok",
+          "priceUSD": 344,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/grand-hyatt-erawan-bangkok-hotel/hotel/bangkok-th.html?cid=1925461"
         }
       ]
     }

@@ -2,13 +2,13 @@ name: GoCart Global auto-publish
 
 on:
   schedule:
-    - cron: '0 */4 * * *'   # 4시간마다(하루 6회) 드립 발행 — 회당 2개, 월 ~180빌드
+    - cron: '17 */4 * * *'   # 4시간마다(하루 6회) 드립 발행 — 회당 1개(하루 6개) + 오래된 가격 순환 갱신
   workflow_dispatch:
     inputs:
       batch:
-        description: '수동 신규 발행 수(미입력 시 2개)'
+        description: '수동 신규 발행 수(미입력 시 1개)'
         required: false
-        default: '2'
+        default: '1'
 
 permissions:
   contents: write
@@ -28,7 +28,7 @@ jobs:
 
       - name: Generate + build (batched)
         env:
-          BATCH: ${{ github.event.inputs.batch || '2' }}
+          BATCH: ${{ github.event.inputs.batch || '1' }}
         run: node publish.js
 
       - name: Commit & push if changed

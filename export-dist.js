@@ -11,7 +11,7 @@ const ROOT = __dirname;
 const OUT = path.join(ROOT, 'dist');
 
 // 공개 대상: 빌드된 HTML·정적 자산·크롤러용 파일만
-const FILES = ['index.html', '404.html', 'favicon.svg', 'ads.txt', 'robots.txt', 'sitemap.xml', 'articles.json', '_headers', '_redirects'];
+const FILES = ['index.html', '404.html', 'favicon.svg', 'ads.txt', 'robots.txt', 'sitemap.xml', 'articles.json', 'llms.txt', '_headers', '_redirects'];
 const DIRS = ['articles', 'category', 'page', 'pages', 'assets'];
 const PATTERNS = [/^naver[0-9a-f]+\.html$/, /^google[0-9a-f]+\.html$/]; // 검색엔진 소유 확인 파일
 

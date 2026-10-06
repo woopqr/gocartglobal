@@ -1,0 +1,201 @@
+{
+  "type": "special",
+  "slug": "kyoto-hakone-ryokan-vs-luxury-hotel",
+  "category": "destinations",
+  "categoryLabel": "Destination Guides",
+  "emoji": "🧭",
+  "region": "Kyoto & Hakone",
+  "regionId": "east-asia",
+  "citySlugs": [
+    "kyoto",
+    "hakone"
+  ],
+  "cities": [
+    {
+      "cityId": 1784,
+      "cityNameMatch": "kyoto",
+      "label": "Kyoto"
+    },
+    {
+      "cityId": 79849,
+      "cityNameMatch": "hakone",
+      "label": "Hakone"
+    }
+  ],
+  "luxury": {
+    "minStar": 5,
+    "minScore": 8.6,
+    "minReviews": 100,
+    "minPriceUSD": 300,
+    "excludeName": "hostel|b&b|bnb|\\binn\\b|guest ?house|apartment|homestay",
+    "pages": 3,
+    "perCity": 8
+  },
+  "agodaUrl": "https://www.agoda.com/search?cid=1925461&city=1784",
+  "title": "Ryokan vs Luxury Hotel in Kyoto and Hakone: How to Choose and Combine",
+  "metaDescription": "Ryokan or five-star hotel in Kyoto and Hakone? What a ryokan stay includes, onsen etiquette, kaiseki, a Tokyo–Hakone–Kyoto route and the best seasons.",
+  "kicker": "Destination Guide · Kyoto & Hakone",
+  "hero": {
+    "eyebrow": "Tatami and onsen, or marble and room service",
+    "headline": "Ryokan or luxury hotel\nin Kyoto and Hakone",
+    "sub": "The best Japan itineraries use both — a ryokan for ritual, a hotel for freedom."
+  },
+  "keywords": [
+    "ryokan vs hotel japan",
+    "luxury ryokan hakone private onsen",
+    "kyoto luxury ryokan",
+    "onsen etiquette for tourists",
+    "what is kaiseki dinner",
+    "tokyo hakone kyoto itinerary",
+    "hakone ryokan with view of mount fuji",
+    "ryokan with private hot spring bath",
+    "kyoto cherry blossom season",
+    "kyoto autumn leaves best time",
+    "what to expect at a ryokan",
+    "tattoo friendly onsen japan"
+  ],
+  "updated": "2026-10-06",
+  "intro": "This guide is for travelers planning a luxury trip through Japan who are weighing a traditional ryokan against an international five-star hotel. The answer for most people: <b>do both, and put the ryokan in Hakone</b>. Hakone is a hot-spring town, and a high-end ryokan there — with a <b>private open-air onsen</b>, a multi-course <b>kaiseki dinner</b> served in your room or a private dining space, and futons laid on tatami — is the most complete version of the experience. In Kyoto, a five-star hotel gives you flexibility for early temple visits and late dinners, though a Kyoto ryokan is superb for cuisine and gardens. One or two ryokan nights is the right dose for most first-timers.",
+  "sections": [
+    {
+      "h2": "What is a luxury ryokan stay really like?",
+      "body": "<p>A ryokan is a traditional Japanese inn, and at the top end it is less a hotel than a <b>carefully choreographed evening and morning</b>. You arrive in mid-afternoon, remove your shoes at the entrance, and are shown to a room floored with <b>tatami mats</b>, often with a low table, a garden or mountain view and sometimes a private hot-spring bath on the terrace.</p><p>Staff serve green tea and a seasonal sweet, then leave you to change into a <b>yukata</b>, the cotton robe worn throughout the inn, including to the baths and dinner. Dinner is served at an agreed time, course by course. While you eat, your room is transformed: the table is moved and <b>futon bedding is laid out</b> on the tatami. Breakfast, usually Japanese, is equally considered.</p><p>The appeal is immersion, attentive service and food that expresses the season. The constraints are structure — fixed meal times, set check-in hours — and, for some, sleeping on futons. Many luxury ryokan now offer raised beds or Western-style rooms if you ask.</p>"
+    },
+    {
+      "h2": "Ryokan or international five-star hotel: which suits you?",
+      "body": "<p><b>Choose a ryokan</b> if you want the most distinctly Japanese experience, love food, and are happy to stay in for the evening. It is the best way to experience onsen culture and seasonal cuisine in one place, and it suits couples especially well.</p><p><b>Choose a five-star hotel</b> if you want flexible dining, a gym, a bar, English-speaking concierge services as a matter of course, and a bed rather than a futon. In Kyoto, a hotel lets you start at a temple at dawn, eat at a counter restaurant at night and come back whenever you like — valuable in a city where the best experiences are spread across the day.</p><p>The middle ground is growing: several international hotels in Kyoto and Hakone incorporate <b>tatami suites, in-room cypress baths and Japanese breakfast</b>, while some ryokan have added lounges and spas. For most itineraries, the ideal is <b>one or two nights in a ryokan</b> and the rest in hotels. Longer ryokan stays are lovely, but the elaborate dinners every night can become a lot.</p>"
+    },
+    {
+      "h2": "Onsen etiquette: how to bathe like a local",
+      "body": "<p>Onsen, or hot-spring baths, have clear customs, and following them is easy once you know them.</p><ul><li><b>Wash first.</b> At the seated shower stations, scrub and rinse thoroughly before entering the bath. The bath is for soaking, not washing.</li><li><b>Bathe nude.</b> Swimsuits are not worn in traditional onsen. Baths are separated by gender, marked with curtains — usually red for women and blue for men, often with the characters for each.</li><li><b>Keep the small towel out of the water.</b> Fold it on your head or leave it at the side.</li><li><b>Tie up long hair</b> so it does not touch the water.</li><li><b>Keep quiet and calm;</b> no diving or swimming, and no photography.</li><li><b>Hydrate</b> and limit soaks if the water is very hot.</li></ul><p><b>Tattoos</b> are still restricted at many public baths. The simplest solution is a ryokan with an <b>in-room or reservable private bath</b>, which also suits couples, families and anyone shy about communal bathing.</p>"
+    },
+    {
+      "h2": "Kaiseki dinners and ryokan manners",
+      "body": "<p><b>Kaiseki</b> is Japan's multi-course haute cuisine, built around the season and served in a set progression: a small appetizer, sashimi, a clear soup, grilled, simmered and steamed dishes, rice with pickles and miso, and a light dessert. Presentation matters as much as flavor, and each course arrives on carefully chosen ceramics or lacquerware.</p><p>Tips for enjoying it:</p><ul><li><b>Declare dietary needs when booking.</b> Kitchens plan days in advance; vegetarian or allergy menus need notice.</li><li><b>Keep to the dinner time</b> you agreed; the courses are timed.</li><li><b>Pair with sake</b> — staff are happy to suggest a local brew.</li></ul><p>Around the inn: remove shoes at the entrance and switch to slippers, but <b>take slippers off before stepping on tatami</b>. Use the separate toilet slippers only in the bathroom. Wear your yukata with the <b>left side folded over the right</b> — the reverse is used for the deceased. Tipping is not customary in Japan.</p>"
+    },
+    {
+      "h2": "Hakone: Japan's classic onsen retreat",
+      "body": "<p>Hakone lies in the mountains southwest of Tokyo within the <b>Fuji-Hakone-Izu National Park</b>, and has been a hot-spring resort for centuries. It is easily reached from Tokyo by limited-express train from Shinjuku or by shinkansen to Odawara, followed by local trains, buses or a car.</p><p>The classic loop takes in the switchbacking <b>Hakone Tozan mountain railway</b>, the ropeway over the steaming volcanic vents of <b>Owakudani</b>, where eggs are boiled black in the sulfurous springs, and a boat across <b>Lake Ashi</b>, with its red torii gate standing in the water. The Hakone Open-Air Museum sets sculpture against the mountains.</p><p>Views of <b>Mount Fuji</b> are a bonus rather than a guarantee; they are clearest on cold, dry mornings in late autumn and winter. If a Fuji view matters, choose a ryokan around Lake Ashi or the higher ground and ask which rooms face the mountain. Two nights is ideal, giving you a full day to explore between long evening baths.</p>"
+    },
+    {
+      "h2": "Kyoto: where to stay and how to see it well",
+      "body": "<p>Kyoto was Japan's imperial capital for over a thousand years, and its temples, shrines and gardens draw visitors throughout the year. Where you stay shapes how you experience it.</p><ul><li><b>Higashiyama and Gion</b> — the historic eastern district of lantern-lit lanes, teahouses and temples such as Kiyomizu-dera. Ideal for walking at dawn and dusk.</li><li><b>Along the Kamo River</b> — central, with views of the eastern hills and easy access to Pontocho's narrow dining alley.</li><li><b>Central Kyoto</b> — practical for transport, shopping and the Nishiki food market.</li><li><b>Arashiyama</b> — on the western edge, with the bamboo grove, river views and a slower, more rural pace.</li></ul><p>The secret to Kyoto is timing. Arrive at <b>Fushimi Inari's torii-lined paths</b>, the Philosopher's Path or Arashiyama early in the morning, before tour groups. Book private tea ceremonies, temple garden visits and kaiseki or counter dining in advance. Kyoto ryokan tend to be prized for <b>cuisine and gardens</b> rather than hot springs.</p>"
+    },
+    {
+      "h2": "How to combine Tokyo, Hakone and Kyoto",
+      "body": "<p>Hakone sits neatly between Tokyo and Kyoto on the Tokaido corridor, so a route of <b>Tokyo, then Hakone, then Kyoto</b> flows naturally, with no backtracking.</p><ul><li><b>Tokyo (3–4 nights):</b> recover from jet lag in a city hotel, explore neighborhoods and dining.</li><li><b>Hakone (1–2 nights):</b> travel southwest for the ryokan and onsen experience.</li><li><b>Kyoto (3–4 nights):</b> continue by shinkansen from Odawara. Add a day trip to Nara or Osaka.</li></ul><p>Practical tips: Japan's <b>luggage-forwarding services</b> let you send large suitcases ahead between hotels, so you can travel to Hakone with only an overnight bag — useful on Hakone's mountain trains and buses. Reserve shinkansen seats with luggage space in busy periods. A private car and driver for the Hakone leg adds comfort and lets you explore at your own pace.</p>"
+    },
+    {
+      "h2": "Best seasons: cherry blossom, autumn leaves and beyond",
+      "body": "<ul><li><b>Cherry blossom (late March to early April):</b> Kyoto's temples and riverbanks at their most celebrated, and the busiest time of year. Book ryokan and hotels many months ahead; exact bloom dates vary by year.</li><li><b>Autumn leaves (mid-November to early December in Kyoto):</b> maples turn crimson in temple gardens, with Hakone's higher slopes coloring a little earlier. Equally popular, with crisp, clear weather.</li><li><b>Winter:</b> cold, quieter and ideal for onsen. The best chance of clear views of Mount Fuji from Hakone.</li><li><b>Early summer:</b> the June rainy season brings lush moss gardens and hydrangeas, followed by hot, humid weather in July and August. Kyoto's Gion Matsuri festival takes place in July.</li></ul><p>Avoid Golden Week, the cluster of national holidays from late April to early May, and the mid-August Obon period if you want fewer crowds. Spring and autumn deliver the best combination of weather and scenery.</p>"
+    }
+  ],
+  "stays": [
+    {
+      "area": "Hakone",
+      "name": "Ryokan with private open-air onsen",
+      "blurb": "Tatami suites, in-room hot-spring baths and kaiseki dinners in the mountains — the definitive ryokan night.",
+      "cta": "Compare Hakone ryokan and resorts",
+      "url": "https://www.agoda.com/search?cid=1925461&city=79849"
+    },
+    {
+      "area": "Hakone — Lake Ashi",
+      "name": "Lakeside hotels with Fuji views",
+      "blurb": "Higher-altitude stays around the lake, with the best odds of seeing Mount Fuji on clear mornings.",
+      "cta": "Compare Lake Ashi stays",
+      "url": "https://www.agoda.com/search?cid=1925461&city=79849"
+    },
+    {
+      "area": "Kyoto — Higashiyama & Kamo River",
+      "name": "Five-star city hotels",
+      "blurb": "Flexible bases close to Gion and the eastern temples, ideal for dawn walks and late dinners.",
+      "cta": "Compare Kyoto luxury hotels",
+      "url": "https://www.agoda.com/search?cid=1925461&city=1784"
+    },
+    {
+      "area": "Kyoto — Arashiyama",
+      "name": "Riverside ryokan retreats",
+      "blurb": "Gardens, river views and refined cuisine on Kyoto's quieter western edge.",
+      "cta": "Compare Arashiyama stays",
+      "url": "https://www.agoda.com/search?cid=1925461&city=1784"
+    }
+  ],
+  "nearby": {
+    "food": [
+      {
+        "name": "Kaiseki dinner",
+        "tag": "Seasonal haute cuisine",
+        "desc": "A progression of small, exquisitely plated courses reflecting the month — the centerpiece of any luxury ryokan stay."
+      },
+      {
+        "name": "Yudofu in Kyoto",
+        "tag": "Temple cuisine",
+        "desc": "Silken tofu simmered in kombu broth, a delicate Zen-influenced dish traditionally served near Kyoto's temples."
+      },
+      {
+        "name": "Kuro-tamago at Owakudani",
+        "tag": "Hakone tradition",
+        "desc": "Eggs boiled in volcanic springs until the shells turn black — a playful snack on the Hakone loop."
+      }
+    ],
+    "cafe": [
+      {
+        "name": "Private tea ceremony",
+        "tag": "Kyoto",
+        "desc": "A host prepares matcha with precise, meditative gestures, explaining the ritual's history and etiquette."
+      },
+      {
+        "name": "Early-morning Fushimi Inari",
+        "tag": "Kyoto",
+        "desc": "Walk the thousands of vermilion torii gates up the mountain before the crowds arrive."
+      },
+      {
+        "name": "Lake Ashi cruise and ropeway",
+        "tag": "Hakone",
+        "desc": "Glide over Owakudani's steaming vents, then cross the lake toward the torii gate standing in the water."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is it worth staying in a ryokan in Japan?",
+      "a": "Yes, for at least one night. A luxury ryokan combines tatami rooms, hot-spring bathing, a seasonal kaiseki dinner and highly personal service in a way no hotel replicates. One or two nights is enough for most travelers; pair it with hotels for flexibility in cities like Kyoto and Tokyo."
+    },
+    {
+      "q": "Should I stay in a ryokan in Kyoto or Hakone?",
+      "a": "Hakone is the better choice for a classic onsen ryokan, since it is a hot-spring town in the mountains. Kyoto ryokan excel at cuisine, gardens and atmosphere but usually lack natural hot springs. Many travelers book a ryokan in Hakone and a five-star hotel in Kyoto."
+    },
+    {
+      "q": "Do you wear clothes in an onsen?",
+      "a": "No. Traditional onsen are entered nude after washing thoroughly at the shower stations. Baths are separated by gender. If you are uncomfortable with communal bathing, book a ryokan with a private in-room bath or a reservable private bath, which many luxury properties offer."
+    },
+    {
+      "q": "Can you use an onsen with tattoos?",
+      "a": "Many public and shared onsen still restrict tattoos, though policies vary and some places allow covered tattoos. The most reliable solution is a ryokan with a private open-air bath attached to your room, which lets you bathe without concern. Check the policy when booking."
+    },
+    {
+      "q": "What is included in a ryokan stay?",
+      "a": "High-end ryokan stays usually include dinner and breakfast, with rates typically quoted per person. Expect a kaiseki dinner served in your room or a private dining room, a Japanese breakfast, yukata robes, access to the hot-spring baths and futons laid out while you dine. Drinks are usually extra."
+    },
+    {
+      "q": "How many nights should I spend in Hakone?",
+      "a": "One night delivers the ryokan experience, but two nights is better: it gives you a full day to ride the mountain railway, ropeway and Lake Ashi boat, visit the museums and enjoy unhurried baths. Send large luggage ahead to your next hotel to travel lightly."
+    },
+    {
+      "q": "When is the best time to visit Kyoto?",
+      "a": "Spring cherry blossom season, around late March to early April, and autumn foliage, typically mid-November to early December, are the most beautiful times — and the busiest. Winter is quieter and atmospheric, while June is rainy and July and August are hot and humid."
+    },
+    {
+      "q": "Is tipping expected at a ryokan?",
+      "a": "No. Tipping is not customary in Japan, and handing over loose cash can cause awkwardness. A sincere thank-you is the expected gesture; at traditional inns some guests leave a small sum in an envelope for their attendant, but it is entirely optional."
+    }
+  ],
+  "hotelHeading": "🏨 Five-star stays in Kyoto & Hakone (live Agoda data)",
+  "topCtaText": "🏨 Compare live rates in Kyoto & Hakone →",
+  "staysHeading": "🏯 Where to stay: ryokan and hotel bases in Kyoto and Hakone",
+  "nearbyHeading": "🍽️ Experiences worth planning around",
+  "faqHeading": "❓ Frequently asked questions",
+  "bottomCtaText": "🏨 Check availability in Kyoto & Hakone →",
+  "disc": "Some links are Agoda affiliate links; we may earn a commission at no extra cost to you. Hotel lists are refreshed from Agoda's public data and prices are indicative at the time of the last check. Destination details are compiled from general, publicly available information and may change — confirm transfers, visas and opening times before you travel.",
+  "relatedMatch": "Kyoto|Hakone"
+}

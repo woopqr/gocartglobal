@@ -27,13 +27,14 @@
 </button>
 
 <article class="post special">
-  <a class="backbar" href="/category/celebrity">← Celebrity &amp; screen escapes</a>
+  <a class="backbar" href="/">← {{site.name}} Home</a>
+  <nav class="crumb" aria-label="Breadcrumb">{{{crumbHtml}}}</nav>
 
   <header class="sp-hero">
     <span class="sp-eyebrow">{{heroEyebrow}}</span>
     <h1 class="sp-title">{{{heroHeadline}}}</h1>
     <p class="sp-sub">{{heroSub}}</p>
-    <div class="sp-kws">{{#keywords}}<span class="kw">{{.}}</span>{{/keywords}}</div>
+    <p class="byline">GoCart Global editors · Updated {{updated}} · <a href="/pages/methodology.html">How we choose</a></p>
   </header>
 
   <p class="lede sp-intro">{{{intro}}}</p>
@@ -50,13 +51,14 @@
   {{#hasHotels}}
   <section class="sp-sec">
     <h2>{{hotelHeading}} ({{hotelCount}})</h2>
+    <p class="dsub">Five-star only, ranked by nightly price. {{hotelBasis}} — checked {{hotelsUpdated}}; confirm the live rate on Agoda.</p>
     <div class="sp-hotels">
       {{#hotels}}
       <a class="sphotel" href="{{agodaUrl}}" target="_blank" rel="noopener sponsored nofollow">
         <div class="sph-thumb">{{#img}}<img src="{{img}}" alt="{{name}}" loading="lazy">{{/img}}</div>
         <div class="sph-body">
           <span class="sph-name">{{name}}</span>
-          <span class="sph-meta">★ {{score}} · {{reviewCountFmt}}{{#priceText}} · {{priceText}}{{/priceText}}</span>
+          <span class="sph-meta">{{#badge}}{{badge}} · {{/badge}}★ {{score}} · {{reviewCountFmt}}{{#priceText}} · {{priceText}}{{/priceText}}</span>
           <span class="sph-cta">See it on Agoda →</span>
         </div>
       </a>

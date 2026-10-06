@@ -1,0 +1,560 @@
+{
+  "slug": "ultra-cancun-2026-11",
+  "theme": "ultra",
+  "audience": "Ultra-Luxury",
+  "emoji": "👑",
+  "city": "Cancun",
+  "citySlug": "cancun",
+  "cityId": 5954,
+  "country": "Mexico",
+  "region": "americas",
+  "regionLabel": "Americas",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=5954",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Cancun] The World's Priciest, Most Coveted Suites",
+  "metaDescription": "The 6 finest ultra-luxury stays in Cancun — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
+  "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 90% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Impression Isla Mujeres by Secrets – Adults only – All Inclusive</b> — rating 9.3, 194 reviews, from $1,827/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "aggregate": {
+    "total": 20,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 18,
+        "pct": 90
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 1,
+        "pct": 5
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 1,
+        "pct": 5
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/33406879/0/16bc0e0f3b34b390877be35637ec4e10.jpeg?ce=3",
+  "heroAlt": "Cancun Ultra-Luxury",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Impression Isla Mujeres by Secrets – Adults only – All Inclusive",
+      "agodaUrl": "https://www.agoda.com/secrets-impression-isla-mujeres/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/33406879/0/16bc0e0f3b34b390877be35637ec4e10.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 194,
+      "reviewCountFmt": "194 reviews",
+      "priceText": "$$$ · $1,827/night",
+      "walkMin": 1,
+      "refLabel": "Indios Beach",
+      "star": 5,
+      "propertyId": 33406879,
+      "priceUSD": 1827,
+      "priceStatus": "live",
+      "distanceM": 65.97,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 194 reviews. 1 min walk to Indios Beach. $$$ · $1,827/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,827/night",
+        "📝 194 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We will definitely come back again.",
+          "score": "10",
+          "country": "CA",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "We really appreciated his kindness and attention.",
+          "score": "10",
+          "country": "CA",
+          "date": "2026.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Le Blanc Spa Resort Cancun – Adults Only – All Inclusive",
+      "agodaUrl": "https://www.agoda.com/le-blanc-spa-resort-all-inclusive-adults-only_2/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2457916/0/cb11caa64fda5484405f0a6977cb2eee.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 421,
+      "reviewCountFmt": "421 reviews",
+      "priceText": "$$$ · $1,154/night",
+      "walkMin": 108,
+      "refLabel": "Cancun Bus Station",
+      "star": 5,
+      "propertyId": 2457916,
+      "priceUSD": 1154,
+      "priceStatus": "live",
+      "distanceM": 8662.86,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Playa Tortugas",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 421 reviews. $$$ · $1,154/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,154/night",
+        "📝 421 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Food, Service, crazyness for a good way.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "Beautiful pool views and direct access to the beach.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "But we have been here before and it is an incredible hotel!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Great service, staff and food.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Way over a 5 star resort in Can Cun!",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Waldorf Astoria Riviera Maya",
+      "agodaUrl": "https://www.agoda.com/waldorf-astoria-cancun/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/18694436/0/e15d00a64d9acca876d49410b1c14e39.jpeg?ce=3",
+      "score": 9.2,
+      "reviewCount": 151,
+      "reviewCountFmt": "151 reviews",
+      "priceText": "$$$ · $950/night",
+      "walkMin": 41,
+      "refLabel": "Xoximilco Cancun by Xcaret",
+      "star": 5,
+      "propertyId": 21964836,
+      "priceUSD": 950,
+      "priceStatus": "live",
+      "distanceM": 3316.59,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Xoximilco Cancun by Xcaret",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 151 reviews. $$$ · $950/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $950/night",
+        "📝 151 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff is so friendly, they go above and beyond.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The Waldorf makes you feel like an absolute princess.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "BOOK IT! Amazing!!",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Hotel Mousai Cancun All-Inclusive Adults Only",
+      "agodaUrl": "https://www.agoda.com/hotel-mousai-cancun-adults-only/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/740484165.jpg?k=ca9045a8385bf6ff99e8b8dfc19764ae312520cefc7fde0aceeae4c6a5e17339&o=",
+      "score": 9.2,
+      "reviewCount": 103,
+      "reviewCountFmt": "103 reviews",
+      "priceText": "$$$ · $903/night",
+      "walkMin": 96,
+      "refLabel": "Cancun Bus Station",
+      "star": 5,
+      "propertyId": 54626516,
+      "priceUSD": 903,
+      "priceStatus": "live",
+      "distanceM": 7640.26,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 103 reviews. $$$ · $903/night.",
+      "metaTags": [
+        "💰 $903/night",
+        "📝 103 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Atelier Playa Mujeres - All Inclusive - Adults Only",
+      "agodaUrl": "https://www.agoda.com/inspira-by-atelier-playa-mujeres-all-inclusive-resort/hotel/cancun-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9771240/0/0ab5337b2f12a1f3f46c4d7e1c9f555e.jpeg?ce=3",
+      "score": 8.9,
+      "reviewCount": 264,
+      "reviewCountFmt": "264 reviews",
+      "priceText": "$$$ · $803/night",
+      "walkMin": 124,
+      "refLabel": "Cancun Bus Station",
+      "star": 5,
+      "propertyId": 9771240,
+      "priceUSD": 803,
+      "priceStatus": "live",
+      "distanceM": 9945.61,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 264 reviews. $$$ · $803/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $803/night",
+        "📝 264 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Great food and drinks (inlcuding mocktails)",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Loved this resort and will definitely be returning.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "This resort is one of a kind and i highly recommend",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "A great vacation for a relaxing couples getaway..",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "20 restaurants, cafe and bars to choose from..",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Secrets Playa Blanca Costa Mujeres - All Inclusive - Adults Only",
+      "agodaUrl": "https://www.agoda.com/secrets-playa-blanca-costa-mujeres/hotel/cuautitlan-izcalli-mx.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/42552525/0/9d164c067e9b677beb8be55e861ff0af.jpeg?ce=3",
+      "score": 9.3,
+      "reviewCount": 573,
+      "reviewCountFmt": "573 reviews",
+      "priceText": "$$$ · $743/night",
+      "walkMin": 40,
+      "refLabel": "Mujeres Beach",
+      "star": 5,
+      "propertyId": 42552525,
+      "priceUSD": 743,
+      "priceStatus": "live",
+      "distanceM": 3174.74,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 573 reviews. $$$ · $743/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $743/night",
+        "📝 573 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Location was great with barely any Sargassum.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend this resort to everyone!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "From food to rooms it’s luxury!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Easy to get seats, fantastic quality.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "Amazing 5 star all inclusive resort.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T00:32:36.489Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T00:32:36.489Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Hotel Mousai Cancun All-Inclusive Adults Only: reviewSample"
+      ]
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

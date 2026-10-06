@@ -1,0 +1,664 @@
+{
+  "slug": "wellness-ras-al-khaimah-2026-11",
+  "theme": "wellness",
+  "audience": "Wellness & Spa",
+  "emoji": "🧖",
+  "city": "Ras Al Khaimah",
+  "citySlug": "ras-al-khaimah",
+  "cityId": 12050,
+  "country": "United Arab Emirates",
+  "region": "middle-east",
+  "regionLabel": "Middle East",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=12050",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Ras Al Khaimah] Ultra-Luxury Spa Escapes to Reset in Style",
+  "metaDescription": "The 6 finest wellness & spa stays in Ras Al Khaimah — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
+  "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 67% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert</b> — rating 9.4, 2,001 reviews, from $793/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 20,
+        "pct": 67
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 4,
+        "pct": 13
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/729915615.jpg?k=34f2d72541b95bcbd1c116a17d82faf4c1661a74c5e76e2964d5b1c95d9702f5&o=",
+  "heroAlt": "Ras Al Khaimah Wellness & Spa",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-ras-al-khaimah-al-wadi-desert/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/729915615.jpg?k=34f2d72541b95bcbd1c116a17d82faf4c1661a74c5e76e2964d5b1c95d9702f5&o=",
+      "score": 9.4,
+      "reviewCount": 2001,
+      "reviewCountFmt": "2,001 reviews",
+      "priceText": "$$$ · $793/night",
+      "walkMin": null,
+      "refLabel": "city center",
+      "star": 5,
+      "propertyId": 1781723,
+      "priceUSD": 793,
+      "priceStatus": "live",
+      "distanceM": null,
+      "locationStatus": "approx.",
+      "facilities": [
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 2,001 reviews. $$$ · $793/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $793/night",
+        "📝 2,001 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Saber ensured we were warmly greeted upon arrival.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Beautiful location and extremely attentive staff.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "I went with my friend and our villa was upgraded for free.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "My experience at The Ritz-Carlton was absolutely amazing 🤍",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "Pablo ensured we left with a smile on our faces.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "location"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "The Ritz-Carlton Ras Al Khaimah, Al Hamra Beach",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-ras-al-khaimah-al-hamra-beach_2/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/479647854.jpg?k=da5ce430c622746b62083b047c19e4a71020ef72f19b65ee2658dac264773b81&o=",
+      "score": 8.9,
+      "reviewCount": 776,
+      "reviewCountFmt": "776 reviews",
+      "priceText": "$$$ · $786/night",
+      "walkMin": 6,
+      "refLabel": "Fortress Al Jazeera Al Hamra",
+      "star": 5,
+      "propertyId": 2987322,
+      "priceUSD": 786,
+      "priceStatus": "live",
+      "distanceM": 448.3,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Al Hamra Mall",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 776 reviews. 6 min walk to Fortress Al Jazeera Al Hamra. $$$ · $786/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $786/night",
+        "📝 776 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Perfect destination hotel to unwind for the week end.",
+          "score": "8",
+          "country": "United Arab Emirates",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Their outstanding service made our stay even more enjoyable.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "We stayed in the villa with private pool",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Great staff, villas nicer in real life than in the pictures",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "A flawless experience at the RC Al Hamra in RAK.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Anantara Mina Ras Al Khaimah Resort",
+      "agodaUrl": "https://www.agoda.com/anantara-mina-al-arab-ras-al-khaimah-resort/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/525370390.jpg?k=fddba8c1e6ea25a6f828e273a036c2e4aafc37d4a6e098eadd0d3c4c017ba234&o=",
+      "score": 9.1,
+      "reviewCount": 2235,
+      "reviewCountFmt": "2,235 reviews",
+      "priceText": "$$ · $326/night",
+      "walkMin": 89,
+      "refLabel": "Rak Bus Station",
+      "star": 5,
+      "propertyId": 44853232,
+      "priceUSD": 326,
+      "priceStatus": "live",
+      "distanceM": 7156.39,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Iceland Water  Park",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 2,235 reviews. $$ · $326/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $326/night",
+        "📝 2,235 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Sulaiman make sure everything was perfect during the stay",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Will come back so many times for the best service",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Thank you, Anantara team, for your amazing hospitality!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The hotel is absolutely perfect with no faults at all",
+          "score": "10",
+          "country": "Egypt",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Genuinely an amazing hotel, with amazing staff.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "SO/ RAS AL KHAIMAH ADULTS ONLY 13+",
+      "agodaUrl": "https://www.agoda.com/so-ras-al-khaimah-hotel-resort/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/81666305/0/79addcf3af2eaee105bdec1c7577850d.jpg?ce=3",
+      "score": 9.5,
+      "reviewCount": 548,
+      "reviewCountFmt": "548 reviews",
+      "priceText": "$$$ · $501/night",
+      "walkMin": 43,
+      "refLabel": "Al Hamra Mall",
+      "star": 5,
+      "propertyId": 81666305,
+      "priceUSD": 501,
+      "priceStatus": "live",
+      "distanceM": 3453.63,
+      "locationStatus": "verified",
+      "facilities": [
+        "Al Hamra Mall",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.5 · 548 reviews. $$$ · $501/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $501/night",
+        "📝 548 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The beach experience is one of the best I've ever had.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The beach experience is where this place really shines.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "You turned a great weekend into an unforgettable one.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.04",
+          "translated": false
+        },
+        {
+          "text": "The quality and presentation are always excellent.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "I can't wait to come back for my sixth visit.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Rixos Al Mairid Ras Al Khaimah",
+      "agodaUrl": "https://www.agoda.com/hilton-ras-al-khaimah-resort-amp-spa/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59337288/-1/59a02920a3e91ade327091cfd2328833.png?ce=0",
+      "score": 8.9,
+      "reviewCount": 1268,
+      "reviewCountFmt": "1,268 reviews",
+      "priceText": "$$$ · $537/night",
+      "walkMin": 101,
+      "refLabel": "Rak Bus Station",
+      "star": 5,
+      "propertyId": 59337288,
+      "priceUSD": 537,
+      "priceStatus": "live",
+      "distanceM": 8086.88,
+      "locationStatus": "verified",
+      "facilities": [
+        "Al Manar Mall",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 1,268 reviews. $$$ · $537/night.",
+      "metaTags": [
+        "💰 $537/night",
+        "📝 1,268 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "In a nutshell, an amazing stay in an amazing resort!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "One of the best hotel ever iFantastic experience",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I liked it so much the kids enjoyed the pools and the beach!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The team is extremely friendly, welcoming, and helpful.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Overall we enjoyed our overnight staycation.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Rixos Bab Al Bahr",
+      "agodaUrl": "https://www.agoda.com/rixos-bab-al-bahr-hotel/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/487326/0/cfd20879b54ee48c11c614a66b850b04.jpg?ce=3",
+      "score": 8.6,
+      "reviewCount": 389,
+      "reviewCountFmt": "389 reviews",
+      "priceText": "$$ · $322/night",
+      "walkMin": 50,
+      "refLabel": "Al Hamra Mall",
+      "star": 5,
+      "propertyId": 487326,
+      "priceUSD": 322,
+      "priceStatus": "live",
+      "distanceM": 3975.04,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Al Hamra Mall",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.6 · 389 reviews. $$ · $322/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $322/night",
+        "📝 389 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.5
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "From check-in to check-out, everything was perfect.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended & look forward to our next stay.",
+          "score": "8.4",
+          "country": "India",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Lots of things to do and the shows we're amazing",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "But the service, facilities, staff, meals, etc. are amazing.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Almost every hotel in the UAE, RIXOS BAB AL BAHAR WINS !",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T00:32:48.976Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T00:32:48.976Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert: location"
+      ]
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

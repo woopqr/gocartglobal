@@ -19,13 +19,29 @@ function targetMonths() {
   return ahead.map(a => { const d = new Date(); d.setMonth(d.getMonth() + a); return { y: d.getFullYear(), m: d.getMonth() + 1 }; });
 }
 
-// 생성 우선순위: 가까운 달 → 도시 → 테마(도시별로 테마를 번갈아 → 카테고리 다양성 확보)
+// 생성 우선순위: 가까운 달 → 라운드로빈(지역·도시·테마가 연속으로 겹치지 않게 교차)
+//  - 도시별 허용 테마(cities.json themes)만 생성
+function interleaveByRegion(cities) {
+  const groups = {};
+  cities.forEach(c => (groups[c.region || 'other'] = groups[c.region || 'other'] || []).push(c));
+  const lists = Object.values(groups), out = [];
+  for (let i = 0; out.length < cities.length; i++) lists.forEach(l => { if (l[i]) out.push(l[i]); });
+  return out;
+}
 function combos() {
   const out = [];
-  for (const tm of targetMonths())
-    for (const c of CITIES)
-      for (const t of THEMES.themes)
-        out.push({ theme: t.id, city: c, ym: `${tm.y}-${pad(tm.m)}`, slug: `${t.id}-${c.slug}-${tm.y}-${pad(tm.m)}` });
+  const order = interleaveByRegion(CITIES);
+  const themeIds = new Set(THEMES.themes.map(t => t.id));
+  for (const tm of targetMonths()) {
+    const maxThemes = Math.max(...order.map(c => (c.themes || []).length));
+    for (let r = 0; r < maxThemes; r++)
+      order.forEach((c, i) => {
+        const ts = (c.themes || [...themeIds]).filter(t => themeIds.has(t));
+        if (r >= ts.length) return;
+        const t = ts[(i + r) % ts.length];
+        out.push({ theme: t, city: c, ym: `${tm.y}-${pad(tm.m)}`, slug: `${t}-${c.slug}-${tm.y}-${pad(tm.m)}` });
+      });
+  }
   return out;
 }
 

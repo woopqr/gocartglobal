@@ -1,0 +1,505 @@
+{
+  "slug": "ultra-london-2026-11",
+  "theme": "ultra",
+  "audience": "Ultra-Luxury",
+  "emoji": "👑",
+  "city": "London",
+  "citySlug": "london",
+  "cityId": 233,
+  "country": "United Kingdom",
+  "region": "europe",
+  "regionLabel": "Europe",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=233",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[London] The Single Most Luxurious Places to Stay",
+  "metaDescription": "The 6 finest ultra-luxury stays in London — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
+  "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 57% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Corinthia Hotel London</b> — rating 9.4, 614 reviews, from $4,599/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "aggregate": {
+    "total": 14,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 8,
+        "pct": 57
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 4,
+        "pct": 29
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 2,
+        "pct": 14
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/402935870.jpg?k=ee56114175b5623c758f87665d0b324905f4b604430238bb482f5a99de0de2cd&o=",
+  "heroAlt": "London Ultra-Luxury",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Corinthia Hotel London",
+      "agodaUrl": "https://www.agoda.com/corinthia-hotel-london/hotel/london-gb.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/402935870.jpg?k=ee56114175b5623c758f87665d0b324905f4b604430238bb482f5a99de0de2cd&o=",
+      "score": 9.4,
+      "reviewCount": 614,
+      "reviewCountFmt": "614 reviews",
+      "priceText": "$$$ · $4,599/night",
+      "walkMin": 2,
+      "refLabel": "Embankment Tube Station",
+      "star": 5,
+      "propertyId": 263767,
+      "priceUSD": 4599,
+      "priceStatus": "live",
+      "distanceM": 159.32,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Westminster Abbey",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 614 reviews. 2 min walk to Embankment Tube Station. $$$ · $4,599/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $4,599/night",
+        "📝 614 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff are generally very cheerful and customer-friendly!",
+          "score": "10",
+          "country": "États-Unis",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The Corinthia London is top tier 5 star luxury hotel.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Impeccable service, beautiful spaces and excellent location.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Fantastic hotel and service as always",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The room is so comforable and cleanness.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "The Chancery Rosewood",
+      "agodaUrl": "https://www.agoda.com/the-chancery-rosewood/hotel/all/westminster-gb.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/737479717.jpg?k=11023238da6c693337ba59ece74dee214acc423ee8b0f815c19a18eecf7cc58c&o=",
+      "score": 9.4,
+      "reviewCount": 74,
+      "reviewCountFmt": "74 reviews",
+      "priceText": "$$$ · $3,172/night",
+      "walkMin": 5,
+      "refLabel": "Bond Street Tube Station",
+      "star": 5,
+      "propertyId": 71143983,
+      "priceUSD": 3172,
+      "priceStatus": "live",
+      "distanceM": 418.3,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Westminster Abbey",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 74 reviews. 5 min walk to Bond Street Tube Station. $$$ · $3,172/night.",
+      "metaTags": [
+        "💰 $3,172/night",
+        "📝 74 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "The Peninsula London",
+      "agodaUrl": "https://www.agoda.com/the-peninsula-london/hotel/all/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/80085630/0/3ebcaa767d72aeff58decb768b2b9e1d.jpeg?ce=2",
+      "score": 9.5,
+      "reviewCount": 382,
+      "reviewCountFmt": "382 reviews",
+      "priceText": "$$$ · $2,114/night",
+      "walkMin": 2,
+      "refLabel": "Hyde Park Corner Tube Station",
+      "star": 5,
+      "propertyId": 47498371,
+      "priceUSD": 2114,
+      "priceStatus": "live",
+      "distanceM": 160.63,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Westminster Abbey"
+      ],
+      "blurb": "Rating 9.5 · 382 reviews. 2 min walk to Hyde Park Corner Tube Station. $$$ · $2,114/night.",
+      "metaTags": [
+        "💰 $2,114/night",
+        "📝 382 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Everything from the service to the atmosphere was flawless.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "We can’t wait to come back!",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Mandarin Oriental Mayfair, London",
+      "agodaUrl": "https://www.agoda.com/mandarin-oriental-mayfair-london/hotel/london-gb.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/566024097.jpg?k=5727028e8a20598f5ad70c004ec6eb17175bc6f074e97711fa6e9fc1e80aefbe&o=",
+      "score": 8.9,
+      "reviewCount": 158,
+      "reviewCountFmt": "158 reviews",
+      "priceText": "$$$ · $2,040/night",
+      "walkMin": 3,
+      "refLabel": "Oxford Circus Tube Station",
+      "star": 5,
+      "propertyId": 82325668,
+      "priceUSD": 2040,
+      "priceStatus": "live",
+      "distanceM": 243.31,
+      "locationStatus": "verified",
+      "facilities": [],
+      "blurb": "Rating 8.9 · 158 reviews. 3 min walk to Oxford Circus Tube Station. $$$ · $2,040/night.",
+      "metaTags": [
+        "💰 $2,040/night",
+        "📝 158 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Solo"
+      ],
+      "travelerTypes": {
+        "topLabel": "Solo",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 100,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Beautiful new hotel … a hidden gem",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "The Dorchester",
+      "agodaUrl": "https://www.agoda.com/the-dorchester/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/34354053/1326450842/4d81d177a1964b2d6c21930eb58f877f.jpeg?ce=3",
+      "score": 9.5,
+      "reviewCount": 684,
+      "reviewCountFmt": "684 reviews",
+      "priceText": "$$$ · $1,586/night",
+      "walkMin": 6,
+      "refLabel": "Hyde Park Corner Tube Station",
+      "star": 5,
+      "propertyId": 304,
+      "priceUSD": 1586,
+      "priceStatus": "live",
+      "distanceM": 440.04,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Close to public transportation",
+        "Westminster Abbey",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.5 · 684 reviews. 6 min walk to Hyde Park Corner Tube Station. $$$ · $1,586/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,586/night",
+        "📝 684 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It was the best hotel in my trip",
+          "score": "9.6",
+          "country": "Kuwait",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "Best hotel",
+          "score": "9.6",
+          "country": "Kuwait",
+          "date": "2026.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "The Connaught",
+      "agodaUrl": "https://www.agoda.com/the-connaught/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6755401/0/1563c74b0ed03e98afa160998601d254.jpeg",
+      "score": 9.7,
+      "reviewCount": 233,
+      "reviewCountFmt": "233 reviews",
+      "priceText": "$$$ · $1,546/night",
+      "walkMin": 6,
+      "refLabel": "Bond Street Tube Station",
+      "star": 5,
+      "propertyId": 6755401,
+      "priceUSD": 1546,
+      "priceStatus": "live",
+      "distanceM": 461.46,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Westminster Abbey",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.7 · 233 reviews. 6 min walk to Bond Street Tube Station. $$$ · $1,546/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,546/night",
+        "📝 233 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Staff are the heart beat of the hotel",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Anticipating our every need",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Perfection",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T00:32:18.424Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T00:32:18.424Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "The Chancery Rosewood: reviewSample"
+      ]
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

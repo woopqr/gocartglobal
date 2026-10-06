@@ -1,0 +1,63 @@
+# GoCart Global
+
+> Hand-picked ultra-luxury hotels, resorts and private pool villas around the world — for honeymoons, anniversaries, golf and wellness escapes. Data-backed picks, bookable on Agoda.
+
+GoCart Global publishes data-backed guides to five-star hotels, resorts and private villas worldwide. Every hotel list comes from live Agoda search data (five-star only, confirmed nightly price incl. taxes, 30+ reviews) and is refreshed regularly; prices are indicative at the time of the last check.
+
+## Destination guides
+- [Where to Stay in Bali for Luxury: Uluwatu, Ubud, Nusa Dua and More](https://gocartglobal.com/articles/bali-where-to-stay-luxury): Where to stay in Bali for a luxury trip: Uluwatu cliffs, Ubud jungle, Nusa Dua beaches, Seminyak and Jimbaran compared, plus how to split a stay and when to go.
+- [Dubai vs Abu Dhabi: Where to Stay for an Ultra-Luxury Beach or City Trip](https://gocartglobal.com/articles/dubai-vs-abu-dhabi-ultra-luxury): Dubai or Abu Dhabi for an ultra-luxury stay? Palm Jumeirah, Downtown and Saadiyat compared, plus culture, desert trips, dress etiquette and best months.
+- [Maldives vs Mauritius vs Seychelles: Choosing Your Honeymoon Island](https://gocartglobal.com/articles/indian-ocean-honeymoon-maldives-mauritius-seychelles): Maldives, Mauritius or Seychelles for a honeymoon? Compare island character, daily life, flights, combining islands and the best season for each.
+- [Ryokan vs Luxury Hotel in Kyoto and Hakone: How to Choose and Combine](https://gocartglobal.com/articles/kyoto-hakone-ryokan-vs-luxury-hotel): Ryokan or five-star hotel in Kyoto and Hakone? What a ryokan stay includes, onsen etiquette, kaiseki, a Tokyo–Hakone–Kyoto route and the best seasons.
+- [Maldives Overwater Villas: How to Choose the Right Luxury Resort](https://gocartglobal.com/articles/maldives-overwater-villas-how-to-choose): How to choose a Maldives overwater villa resort: which atoll, seaplane vs speedboat, house reefs, beach vs water villas, meal plans and the best months.
+- [Phuket vs Koh Samui: Which Thai Island Is Best for a Luxury Trip?](https://gocartglobal.com/articles/phuket-vs-koh-samui-luxury): Phuket or Koh Samui for a luxury Thai island trip? Compare access, beaches, villas and monsoon timing on the Andaman and Gulf coasts, plus how to combine both.
+
+## Collections
+- [Destination Guides](https://gocartglobal.com/category/destinations)
+- [Honeymoon](https://gocartglobal.com/category/honeymoon)
+- [Anniversary Escape](https://gocartglobal.com/category/anniversary)
+- [Luxury Golf](https://gocartglobal.com/category/golf)
+- [Wellness & Spa](https://gocartglobal.com/category/wellness)
+- [Ultra-Luxury](https://gocartglobal.com/category/ultra)
+
+## Latest luxury picks
+- [[Bali] Ultra-Luxury Anniversary Escapes for Two](https://gocartglobal.com/articles/anniversary-bali-2026-11)
+- [[Bangkok] Timeless Five-Star Resorts for a Special Anniversary](https://gocartglobal.com/articles/anniversary-bangkok-2026-11)
+- [[Bora Bora] The Grandest Suites to Celebrate a Milestone](https://gocartglobal.com/articles/anniversary-bora-bora-2026-11)
+- [[Hakone] Ultra-Luxury Anniversary Escapes for Two](https://gocartglobal.com/articles/anniversary-hakone-2026-11)
+- [[Paris] The Grandest Suites to Celebrate a Milestone](https://gocartglobal.com/articles/anniversary-paris-2026-11)
+- [[Phuket] Where Discerning Couples Celebrate in Style](https://gocartglobal.com/articles/anniversary-phuket-2026-11)
+- [[Sydney] The Grandest Suites to Celebrate a Milestone](https://gocartglobal.com/articles/anniversary-sydney-2026-11)
+- [[Abu Dhabi] Where Golfers Stay in Five-Star Style](https://gocartglobal.com/articles/golf-abu-dhabi-2026-11)
+- [[Phuket] Five-Star Hotels for Golfers Who Want More Than a Round](https://gocartglobal.com/articles/golf-phuket-2026-11)
+- [[Bali] The Most Romantic Ultra-Luxury Honeymoon Resorts](https://gocartglobal.com/articles/honeymoon-bali-2026-11)
+- [[Honolulu] The Most Romantic Ultra-Luxury Honeymoon Resorts](https://gocartglobal.com/articles/honeymoon-honolulu-2026-11)
+- [[Krabi] The Most Romantic Ultra-Luxury Honeymoon Resorts](https://gocartglobal.com/articles/honeymoon-krabi-2026-11)
+- [[Kyoto] Where Couples Splurge: The Finest Honeymoon Stays](https://gocartglobal.com/articles/honeymoon-kyoto-2026-11)
+- [[Los Cabos] Where Couples Splurge: The Finest Honeymoon Stays](https://gocartglobal.com/articles/honeymoon-los-cabos-2026-11)
+- [[Phuket] Where Couples Splurge: The Finest Honeymoon Stays](https://gocartglobal.com/articles/honeymoon-phuket-2026-11)
+- [[Rome] Private Pool Villas Made for Newlyweds](https://gocartglobal.com/articles/honeymoon-rome-2026-11)
+- [[Santorini] Where Couples Splurge: The Finest Honeymoon Stays](https://gocartglobal.com/articles/honeymoon-santorini-2026-11)
+- [[Seychelles] The Most Romantic Ultra-Luxury Honeymoon Resorts](https://gocartglobal.com/articles/honeymoon-seychelles-2026-11)
+- [[Bali] The Single Most Luxurious Places to Stay](https://gocartglobal.com/articles/ultra-bali-2026-11)
+- [[Bangkok] Bucket-List Ultra-Luxury Hotels & Villas](https://gocartglobal.com/articles/ultra-bangkok-2026-11)
+- [[Cancun] The World's Priciest, Most Coveted Suites](https://gocartglobal.com/articles/ultra-cancun-2026-11)
+- [[Doha] The Best of the Best: Top Luxury Stays](https://gocartglobal.com/articles/ultra-doha-2026-11)
+- [[Dubai] The World's Priciest, Most Coveted Suites](https://gocartglobal.com/articles/ultra-dubai-2026-11)
+- [[London] The Single Most Luxurious Places to Stay](https://gocartglobal.com/articles/ultra-london-2026-11)
+- [[Mauritius] The World's Priciest, Most Coveted Suites](https://gocartglobal.com/articles/ultra-mauritius-2026-11)
+- [[New York] The World's Priciest, Most Coveted Suites](https://gocartglobal.com/articles/ultra-new-york-2026-11)
+- [[Osaka] The World's Priciest, Most Coveted Suites](https://gocartglobal.com/articles/ultra-osaka-2026-11)
+- [[Phuket] The Best of the Best: Top Luxury Stays](https://gocartglobal.com/articles/ultra-phuket-2026-11)
+- [[Tokyo] The Single Most Luxurious Places to Stay](https://gocartglobal.com/articles/ultra-tokyo-2026-11)
+- [[Bali] The Finest Wellness Retreats & Spa Resorts](https://gocartglobal.com/articles/wellness-bali-2026-11)
+- [[Galle] Where Serenity Meets Serious Luxury](https://gocartglobal.com/articles/wellness-galle-2026-11)
+- [[Koh Samui] Ultra-Luxury Spa Escapes to Reset in Style](https://gocartglobal.com/articles/wellness-koh-samui-2026-11)
+- [[Maldives] Five-Star Sanctuaries for a Healing Getaway](https://gocartglobal.com/articles/wellness-maldives-2026-11)
+- [[Phuket] Where Serenity Meets Serious Luxury](https://gocartglobal.com/articles/wellness-phuket-2026-11)
+- [[Ras Al Khaimah] Ultra-Luxury Spa Escapes to Reset in Style](https://gocartglobal.com/articles/wellness-ras-al-khaimah-2026-11)
+
+## About
+- [About](https://gocartglobal.com/pages/about.html)
+- [Methodology](https://gocartglobal.com/pages/methodology.html)
+- [Editorial policy](https://gocartglobal.com/pages/editorial-policy.html)

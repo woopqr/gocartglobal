@@ -1,0 +1,192 @@
+{
+  "type": "special",
+  "slug": "phuket-vs-koh-samui-luxury",
+  "category": "destinations",
+  "categoryLabel": "Destination Guides",
+  "emoji": "🧭",
+  "region": "Phuket & Koh Samui",
+  "regionId": "southeast-asia",
+  "citySlugs": [
+    "phuket",
+    "koh-samui"
+  ],
+  "cities": [
+    {
+      "cityId": 16056,
+      "cityNameMatch": "phuket",
+      "label": "Phuket"
+    },
+    {
+      "cityId": 17198,
+      "cityNameMatch": "samui",
+      "label": "Koh Samui"
+    }
+  ],
+  "luxury": {
+    "minStar": 5,
+    "minScore": 8.6,
+    "minReviews": 100,
+    "minPriceUSD": 300,
+    "excludeName": "hostel|b&b|bnb|\\binn\\b|guest ?house|apartment|homestay",
+    "pages": 3,
+    "perCity": 8
+  },
+  "agodaUrl": "https://www.agoda.com/search?cid=1925461&city=16056",
+  "title": "Phuket vs Koh Samui: Which Thai Island Is Best for a Luxury Trip?",
+  "metaDescription": "Phuket or Koh Samui for a luxury Thai island trip? Compare access, beaches, villas and monsoon timing on the Andaman and Gulf coasts, plus how to combine both.",
+  "kicker": "Destination Guide · Phuket & Koh Samui",
+  "hero": {
+    "eyebrow": "Andaman Sea or Gulf of Thailand",
+    "headline": "Phuket or Koh Samui?\nChoosing your Thai island",
+    "sub": "Two very different islands on opposite coasts, with weather that peaks at different times of year."
+  },
+  "keywords": [
+    "phuket vs koh samui",
+    "phuket or koh samui for honeymoon",
+    "koh samui luxury villa",
+    "phuket luxury resort beach",
+    "best time to visit koh samui",
+    "best time to visit phuket",
+    "phuket monsoon season",
+    "gulf of thailand weather by month",
+    "phuket and koh samui itinerary",
+    "quietest beaches in phuket",
+    "koh samui best area to stay"
+  ],
+  "updated": "2026-10-06",
+  "intro": "This guide is for travelers deciding between Thailand's two great luxury islands. The short answer: <b>choose Phuket for access, variety and dramatic island-hopping</b>; choose <b>Koh Samui for a quieter, more intimate villa escape</b>. Phuket, in the Andaman Sea, has a large international airport, a long west coast of resort beaches and day trips to the limestone karsts of Phang Nga Bay. Samui, in the Gulf of Thailand, is smaller, greener and slower, with a strong private-villa culture and a boutique airport. The deciding factor is often the calendar: <b>the two coasts have different monsoon timing</b>, so Samui is frequently the better bet in the middle of the year, and Phuket from November to April.",
+  "sections": [
+    {
+      "h2": "How do Phuket and Koh Samui compare at a glance?",
+      "body": "<ul><li><b>Location:</b> Phuket lies off Thailand's west coast in the Andaman Sea, linked to the mainland by bridge. Samui sits in the Gulf of Thailand on the east side of the peninsula.</li><li><b>Size and feel:</b> Phuket is Thailand's largest island, with towns, shopping, an old quarter and real traffic. Samui is considerably smaller and more rural, with coconut plantations and a jungle-covered interior.</li><li><b>Access:</b> Phuket's airport has extensive international and domestic connections. Samui's smaller, privately operated airport has fewer routes; many visitors connect through Bangkok, and ferries run from the mainland.</li><li><b>Luxury style:</b> both have excellent five-star resorts, but Samui is especially strong in hillside pool villas with staff, while Phuket offers a wider range of beachfront resorts and integrated resort complexes.</li><li><b>Best for:</b> Phuket for first-timers, families and travelers who want choice; Samui for honeymooners and repeat visitors seeking calm.</li></ul>"
+    },
+    {
+      "h2": "Why the monsoon timing changes everything",
+      "body": "<p>The two islands sit on opposite coasts of the Thai peninsula, and their wet seasons do not line up — which is the single most useful fact for planning.</p><p><b>Phuket and the Andaman coast</b> are driest from roughly <b>November to April</b>, with calm, clear seas ideal for boat trips. The <b>southwest monsoon, roughly May to October</b>, brings heavier rain, stronger winds and rough surf on west-facing beaches, where red flags signal dangerous rip currents. Rain often arrives in bursts, and resort rates soften.</p><p><b>Koh Samui and the Gulf</b> follow a different pattern. Much of the year is relatively dry, including the middle months when Phuket is wet. The main rainy period comes with the <b>northeast monsoon, roughly October to December</b>, with November usually the wettest month. January through August is generally a good window.</p><p>So: for a Christmas or February trip, Phuket is the classic pick; for July or August, Samui usually wins. In the shoulder months of April and September, both can work well.</p>"
+    },
+    {
+      "h2": "Phuket's beaches: choosing the right stretch of coast",
+      "body": "<p>Phuket's best beaches line its west coast, and they differ sharply in character.</p><ul><li><b>Patong</b> — the island's nightlife center; lively, crowded and best avoided as a luxury base.</li><li><b>Kamala and Surin</b> — smaller bays with cliffside villas and a more polished, residential feel.</li><li><b>Bang Tao</b> — a long beach with an integrated resort area, golf and family-friendly calm.</li><li><b>Layan and Nai Thon</b> — quieter northwest coves with forested headlands.</li><li><b>Mai Khao</b> — a long, uncrowded strand in the north near the airport, within a national park.</li><li><b>Kata, Kata Noi and Nai Harn</b> — southern bays with good swimming in the dry season and a relaxed atmosphere, close to the Promthep Cape sunset viewpoint.</li></ul><p>On the east side, the coast faces the mangroves and islands of <b>Phang Nga Bay</b>, with marinas and yacht charters rather than swimming beaches. Phuket Old Town, with its Sino-Portuguese shophouses and street food, rewards an evening visit.</p>"
+    },
+    {
+      "h2": "Koh Samui's coasts: where to base yourself",
+      "body": "<ul><li><b>Chaweng</b> — the longest, busiest beach on the east coast, with soft sand and plenty of dining and nightlife; book a quieter northern end if you stay here.</li><li><b>Choeng Mon and the northeast</b> — a cluster of small, sheltered bays with high-end resorts and easy access to the airport.</li><li><b>Bophut</b> — home to the Fisherman's Village, a lane of old wooden shophouses turned restaurants and boutiques, busiest on its weekly walking-street night.</li><li><b>Maenam and the north coast</b> — calm, shallow water facing Koh Phangan, popular with families and long-stayers.</li><li><b>Lamai</b> — a more local, laid-back alternative to Chaweng on the southeast coast.</li><li><b>The southwest and west</b> — Taling Ngam and Lipa Noi offer sunset views, mangroves and a sense of real seclusion, with hilltop villa estates looking over the islands of Ang Thong.</li></ul><p>Samui's hills behind the coast are dotted with private villas, many with staff, chefs and infinity pools — the island's defining luxury format.</p>"
+    },
+    {
+      "h2": "What do you actually do on each island?",
+      "body": "<p><b>Phuket's strength is the water around it.</b> Day trips by private speedboat or yacht reach the towering karsts and sea caves of Phang Nga Bay, the Phi Phi Islands and, in season, the Similan Islands, a marine national park known for clear-water diving that closes during the southwest monsoon. On land: the Big Buddha on Nakkerd Hill, the old town, cooking classes, golf and a wide spread of restaurants.</p><p><b>Samui rewards slowing down.</b> The headline excursion is <b>Ang Thong National Marine Park</b>, an archipelago of limestone islands with kayaking, lagoons and viewpoints. Neighboring Koh Phangan offers quiet northern beaches away from its famous party coast, and Koh Tao is one of Thailand's best-known dive training centers. On Samui itself: the Big Buddha temple at Wat Phra Yai, jungle waterfalls, Muay Thai, wellness retreats and long, unhurried lunches at the beach.</p><p>If your idea of luxury is choice, Phuket delivers. If it is a villa you barely leave, Samui does.</p>"
+    },
+    {
+      "h2": "Villa culture versus resort culture",
+      "body": "<p>Both islands offer world-class resorts, but the private villa experience is more central on Samui. A <b>staffed villa</b> — with a housekeeper, chef, sometimes a butler and driver — works beautifully for families, multigenerational groups or friends traveling together, and it gives you a private setting that resorts cannot match.</p><p>Things to confirm when renting a villa on either island:</p><ul><li><b>Exactly which staff are included</b> and their hours; whether the chef's service covers groceries.</li><li><b>Location relative to beaches and restaurants</b> — hillside villas offer views but often require a car and steep driveways.</li><li><b>Pool safety</b> features if children are traveling.</li><li><b>Backup power and water</b> arrangements in more remote areas.</li></ul><p>Resorts, meanwhile, offer spas, kids' clubs, multiple restaurants and beach access without logistics. A popular approach is to <b>combine the two</b>: a few nights in a resort to settle in, followed by a villa once you know the island.</p>"
+    },
+    {
+      "h2": "Can you combine Phuket and Koh Samui in one trip?",
+      "body": "<p>Yes, and it is a good way to hedge the weather or see two very different islands. <b>Direct flights connect the two islands</b>, avoiding a return to Bangkok, though schedules are limited; the alternative is routing through Bangkok or traveling overland and by ferry, which takes most of a day.</p><p>Suggested shapes for a ten- to fourteen-night trip:</p><ul><li><b>Phuket then Samui:</b> start with island-hopping and dining on the Andaman, finish with a quiet villa in the Gulf.</li><li><b>Add Krabi or Phang Nga:</b> the mainland coast near Phuket has dramatic limestone scenery and resorts reachable by road or boat.</li><li><b>Add Bangkok:</b> two or three nights in the capital at the start or end, with temples, riverside hotels and its restaurant scene.</li></ul><p>In the shoulder months, consider leaning toward whichever coast has the better outlook. Weather can vary year to year, and local conditions on the day matter more than averages.</p>"
+    }
+  ],
+  "stays": [
+    {
+      "area": "Phuket — Kamala, Surin & Layan",
+      "name": "Cliffside villas and bay resorts",
+      "blurb": "Quiet west-coast bays with polished resorts, sunset views and easy access to the island's dining.",
+      "cta": "Compare Phuket west-coast resorts",
+      "url": "https://www.agoda.com/search?cid=1925461&city=16056"
+    },
+    {
+      "area": "Phuket — Mai Khao & the north",
+      "name": "Long-beach retreats near the airport",
+      "blurb": "An uncrowded national-park beach, ideal for short stays and travelers who value space.",
+      "cta": "Compare north Phuket resorts",
+      "url": "https://www.agoda.com/search?cid=1925461&city=16056"
+    },
+    {
+      "area": "Koh Samui — Choeng Mon & the northeast",
+      "name": "Sheltered-bay luxury resorts",
+      "blurb": "Small, calm bays close to the airport with some of the island's most refined resorts.",
+      "cta": "Compare northeast Samui resorts",
+      "url": "https://www.agoda.com/search?cid=1925461&city=17198"
+    },
+    {
+      "area": "Koh Samui — hillside west coast",
+      "name": "Staffed private pool villas",
+      "blurb": "Sunset-facing estates over the Gulf islands, with chefs and housekeepers on hand.",
+      "cta": "Compare Koh Samui pool villas",
+      "url": "https://www.agoda.com/search?cid=1925461&city=17198"
+    }
+  ],
+  "nearby": {
+    "food": [
+      {
+        "name": "Southern Thai curries",
+        "tag": "Regional flavor",
+        "desc": "Fiery kua kling dry curry and turmeric-rich gaeng som fish curry — the bold heat of the south, distinct from Bangkok cooking."
+      },
+      {
+        "name": "Phuket Old Town street food",
+        "tag": "Peranakan heritage",
+        "desc": "Hokkien noodles, dim sum breakfasts and o-tao oyster omelets reflect the island's Chinese and Peranakan roots."
+      },
+      {
+        "name": "Private beach barbecue",
+        "tag": "Villa dining",
+        "desc": "A villa chef grilling the day's catch — tiger prawns, squid and whole fish — with nam jim seafood dipping sauce."
+      }
+    ],
+    "cafe": [
+      {
+        "name": "Phang Nga Bay by private boat",
+        "tag": "Phuket",
+        "desc": "Sea caves, hongs (hidden lagoons) and karst islands explored by speedboat and sea kayak, ideally early before day-trip crowds."
+      },
+      {
+        "name": "Ang Thong Marine Park kayaking",
+        "tag": "Koh Samui",
+        "desc": "A day among limestone islets, with a climb to a viewpoint over the archipelago and an emerald inland lake."
+      },
+      {
+        "name": "Muay Thai training session",
+        "tag": "Both islands",
+        "desc": "Private sessions at a local camp offer a workout and an insight into Thailand's national sport."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": "Is Phuket or Koh Samui better for a honeymoon?",
+      "a": "Koh Samui is often preferred for honeymoons thanks to its quieter atmosphere, secluded bays and private pool villas. Phuket suits couples who want more dining options, island-hopping and activities. Timing matters too: Phuket is usually best from November to April, while Samui is often drier in mid-year."
+    },
+    {
+      "q": "When is the rainy season in Koh Samui?",
+      "a": "Koh Samui's main rainy season comes with the northeast monsoon, roughly October to December, with November typically the wettest month. Much of the rest of the year is comparatively dry, which makes Samui a strong alternative when Phuket and the Andaman coast are in their wetter season."
+    },
+    {
+      "q": "When is the monsoon season in Phuket?",
+      "a": "Phuket's southwest monsoon runs roughly from May to October, bringing heavier showers, stronger winds and rough seas on west-facing beaches. Swimming can be dangerous when red flags are flying. The dry season from November to April offers calmer water and clearer skies for boat trips."
+    },
+    {
+      "q": "How do you get from Phuket to Koh Samui?",
+      "a": "The quickest way is a direct flight between the two islands, though departures are limited. You can also fly via Bangkok, or travel overland across the peninsula and take a ferry from the mainland, which takes most of a day. Book flights early in peak season."
+    },
+    {
+      "q": "Which is quieter, Phuket or Koh Samui?",
+      "a": "Koh Samui is generally quieter and more rural, with less traffic and a slower pace. Phuket is larger and busier, but its north and northwest coasts, such as Mai Khao and Layan, offer calm alternatives far removed from the nightlife of Patong."
+    },
+    {
+      "q": "Where is the best area to stay in Phuket for luxury?",
+      "a": "Kamala, Surin, Layan and Bang Tao on the west coast offer refined resorts and villas, while Mai Khao in the north provides a long, uncrowded beach. Kata Noi and Nai Harn in the south suit travelers who want swimming beaches and a relaxed feel. Patong is best avoided as a base."
+    },
+    {
+      "q": "Is Koh Samui good for families?",
+      "a": "Yes. The north coast around Maenam and Bophut has calmer, shallower water, and staffed private villas give families space and flexibility. Many resorts in Choeng Mon and the northeast offer kids' clubs. Check villa pool safety and the steepness of hillside access roads before booking."
+    }
+  ],
+  "hotelHeading": "🏨 Five-star stays in Phuket & Koh Samui (live Agoda data)",
+  "topCtaText": "🏨 Compare live rates in Phuket & Koh Samui →",
+  "staysHeading": "🏝️ Where to stay: the best coasts on each island",
+  "nearbyHeading": "🍽️ Experiences worth planning around",
+  "faqHeading": "❓ Frequently asked questions",
+  "bottomCtaText": "🏨 Check availability in Phuket & Koh Samui →",
+  "disc": "Some links are Agoda affiliate links; we may earn a commission at no extra cost to you. Hotel lists are refreshed from Agoda's public data and prices are indicative at the time of the last check. Destination details are compiled from general, publicly available information and may change — confirm transfers, visas and opening times before you travel.",
+  "relatedMatch": "Phuket|Koh Samui"
+}
