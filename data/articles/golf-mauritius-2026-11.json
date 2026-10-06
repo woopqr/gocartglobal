@@ -1,0 +1,658 @@
+{
+  "slug": "golf-mauritius-2026-11",
+  "theme": "golf",
+  "audience": "Luxury Golf",
+  "emoji": "⛳",
+  "city": "Mauritius",
+  "citySlug": "mauritius",
+  "cityId": 19226,
+  "inSeason": true,
+  "country": "Mauritius",
+  "region": "indian-ocean",
+  "regionLabel": "Indian Ocean",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=19226",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Mauritius] Where Golfers Stay in Five-Star Style",
+  "metaDescription": "The 6 finest luxury golf stays in Mauritius — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "A great golf trip is half course, half recovery. These are the top-tier, best-reviewed five-star stays in a destination with a serious golf scene — chosen as a base, not as a promise of an on-site course.",
+  "viewpoint": "We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
+  "verdict": "Our #1 pick is <b>Heritage Awali Golf & Spa Resort - All Inclusive</b> — rating 8.7, 430 reviews, from $784/night. We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
+  "aggregate": {
+    "total": 29,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 15,
+        "pct": 52
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 11,
+        "pct": 38
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/592/59245/59245_15081914220034600870.jpg?va=1&ca=5&ce=1",
+  "heroAlt": "Mauritius Luxury Golf",
+  "updated": "2026-10-06",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Heritage Awali Golf & Spa Resort - All Inclusive",
+      "agodaUrl": "https://www.agoda.com/heritage-awali-golf-spa-resort-all-inclusive/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/592/59245/59245_15081914220034600870.jpg?va=1&ca=5&ce=1",
+      "score": 8.7,
+      "reviewCount": 430,
+      "reviewCountFmt": "430 reviews",
+      "priceText": "$$$ · $784/night",
+      "walkMin": 95,
+      "refLabel": "Chamarel Waterfall",
+      "star": 5,
+      "propertyId": 59245,
+      "priceUSD": 784,
+      "priceStatus": "live",
+      "distanceM": 7574.86,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.7 · 430 reviews. $$$ · $784/night.",
+      "metaTags": [
+        "💰 $784/night",
+        "📝 430 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 7.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Wonderful hotel in stunning location.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Excellent place to stay on Mauritius",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms themselves were comfortable and very clean.",
+          "score": "7.2",
+          "country": "India",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The ladies at the spa were incredibly sweet and welcoming.",
+          "score": "7.2",
+          "country": "India",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Fantastic hotel",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Sofitel Mauritius L’Imperial Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/sofitel-mauritius-l-imperial-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/79031/0/c5fa1398b01bcd6923ea1e155c82397e.jpeg?va=1&ce=3",
+      "score": 8.1,
+      "reviewCount": 489,
+      "reviewCountFmt": "489 reviews",
+      "priceText": "$$$ · $868/night",
+      "walkMin": 1,
+      "refLabel": "Flic en Flac Beach",
+      "star": 5,
+      "propertyId": 79031,
+      "priceUSD": 868,
+      "priceStatus": "live",
+      "distanceM": 64.2,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Flic en Flac Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.1 · 489 reviews. 1 min walk to Flic en Flac Beach. $$$ · $868/night.",
+      "metaTags": [
+        "💰 $868/night",
+        "📝 489 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 75,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 75,
+            "rating": 8.7
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 25,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "And we will be returning and seeing them again.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Great staff: Nessa, Mariola & Pravin",
+          "score": "8.4",
+          "country": "India",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Outstanding seaview with mountain",
+          "score": "9.2",
+          "country": "Thailand",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Great experience",
+          "score": "8.4",
+          "country": "India",
+          "date": "2025.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Shanti Maurice Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/shanti-maurice-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/293435/-1/dcbacd955138b01a1b3e7bf82160417b.jpg?va=1&ca=10&ce=1",
+      "score": 9.1,
+      "reviewCount": 975,
+      "reviewCountFmt": "975 reviews",
+      "priceText": "$$$ · $759/night",
+      "walkMin": 122,
+      "refLabel": "La Vanille Nature Park",
+      "star": 5,
+      "propertyId": 293435,
+      "priceUSD": 759,
+      "priceStatus": "live",
+      "distanceM": 9786.03,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness"
+      ],
+      "blurb": "Rating 9.1 · 975 reviews. $$$ · $759/night.",
+      "metaTags": [
+        "💰 $759/night",
+        "📝 975 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "All the staff were so polite, welcoming and kind.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Rooms are spacious and the views are spectacular!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The staff were outstanding: warm, attentive, and discreet.",
+          "score": "10",
+          "country": "România",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Would definitely go back again, again and again forever",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "A real luxury stay at a beautiful resort.",
+          "score": "9.2",
+          "country": "South Africa",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Paradise Cove Boutique Hotel",
+      "agodaUrl": "https://www.agoda.com/paradise-cove-boutique-hotel/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/221670/0/55fa50755fb7a7dd07c935a688b7a0f8.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 309,
+      "reviewCountFmt": "309 reviews",
+      "priceText": "$$$ · $980/night",
+      "walkMin": 113,
+      "refLabel": "Mont Choisy Bus Stop",
+      "star": 5,
+      "propertyId": 221670,
+      "priceUSD": 980,
+      "priceStatus": "live",
+      "distanceM": 9014.56,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Pereybere Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 309 reviews. $$$ · $980/night.",
+      "metaTags": [
+        "💰 $980/night",
+        "📝 309 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Outstanding resort and outstanding staff all along.",
+          "score": "10",
+          "country": "Germany",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Everything lived up to — and even exceeded — its reputation.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Overall, it was a truly wonderful experience.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Excellent food and everything was so fine.",
+          "score": "9.6",
+          "country": "IL",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "They made us feel as if they know us.",
+          "score": "9.6",
+          "country": "IL",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Hilton Mauritius Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/hilton-mauritius-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/857092688.jpg?k=e471849a9349d42989566213401fceb570a7251194884ced41e4c791cb5747f1&o=",
+      "score": 8.8,
+      "reviewCount": 702,
+      "reviewCountFmt": "702 reviews",
+      "priceText": "$$$ · $721/night",
+      "walkMin": 1,
+      "refLabel": "Flic en Flac Beach",
+      "star": 5,
+      "propertyId": 59248,
+      "priceUSD": 721,
+      "priceStatus": "live",
+      "distanceM": 23,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Flic en Flac Beach"
+      ],
+      "blurb": "Rating 8.8 · 702 reviews. 1 min walk to Flic en Flac Beach. $$$ · $721/night.",
+      "metaTags": [
+        "💰 $721/night",
+        "📝 702 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "P.s. The food in all the restaurants are to die for!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Special Thanks to Jonas and Prem at the welcome lobby.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Wonderful stay at Hilton Mauritius with great staff.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Excellent property with very good and friendly staff",
+          "score": "10",
+          "country": "India",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "A bit away from beach but apart from that a great property!",
+          "score": "9.2",
+          "country": "India",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Constance Belle Mare Plage",
+      "agodaUrl": "https://www.agoda.com/constance-belle-mare-plage_6/hotel/all/mauritius-island-mu.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/103936927.jpg?k=4359e0ffb1488039c903fe933039029796adbc970fcff6ce369ba933e4e24c68&o=",
+      "score": 8.8,
+      "reviewCount": 3357,
+      "reviewCountFmt": "3,357 reviews",
+      "priceText": "$$$ · $800/night",
+      "walkMin": 1,
+      "refLabel": "Belle Mare Beach",
+      "star": 5,
+      "propertyId": 3534614,
+      "priceUSD": 800,
+      "priceStatus": "live",
+      "distanceM": 54.22,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Daily housekeeping"
+      ],
+      "blurb": "Rating 8.8 · 3,357 reviews. 1 min walk to Belle Mare Beach. $$$ · $800/night.",
+      "metaTags": [
+        "💰 $800/night",
+        "📝 3,357 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "#each day was a new experience to stay here .",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Well maintained beach lot activities to do on beach",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "#walk at the beautiful and calm beach.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Enjoyed my stay .",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Awesome property",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-06T11:18:41.478Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-06T11:18:41.478Z",
+    "source": "agoda citySearch",
+    "daysAhead": 41,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    },
+    "firstPublished": "2026-10-06"
+  }
+}

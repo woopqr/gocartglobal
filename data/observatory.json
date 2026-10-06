@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 3,
+  "cursor": 4,
   "observations": [
     {
       "city": "Bali",
@@ -169,6 +169,58 @@
           "priceUSD": 1725,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/conrad-bora-bora-nui/hotel/bora-bora-island-pf.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Hakone",
+      "citySlug": "hakone",
+      "cityId": 79849,
+      "observedAt": "2026-10-06T11:18:42.297Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-05, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "43452957",
+          "name": "KANAYA RESORT HAKONE",
+          "priceUSD": 1259,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kanaya-resort-hakone_2/hotel/hakone-jp.html?cid=1925461"
+        },
+        {
+          "key": "65446077",
+          "name": "Hakone Gora Karaku (ORIX HOTELS & RESORTS)",
+          "priceUSD": 1234,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hakone-gora-karaku-h35392310/hotel/hakone-jp.html?cid=1925461"
+        },
+        {
+          "key": "5000565",
+          "name": "Hakone Retreat villa 1/f",
+          "priceUSD": 961,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hakone-retreat-villa-1-f_2/hotel/hakone-jp.html?cid=1925461"
+        },
+        {
+          "key": "19926842",
+          "name": "Suiun -Kyoritsu Resort",
+          "priceUSD": 898,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/suiun-kyoritsu-resort-h19926842/hotel/hakone-jp.html?cid=1925461"
+        },
+        {
+          "key": "65416630",
+          "name": "Atami Izusan Karaku ORIX HOTELS & RESORTS",
+          "priceUSD": 698,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/atami-izusan-karaku-h46623414/hotel/atami-jp.html?cid=1925461"
+        },
+        {
+          "key": "1410571",
+          "name": "Hakone Kowakien TEN-YU",
+          "priceUSD": 628,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hakone-kowakien-ten-yu/hotel/hakone-jp.html?cid=1925461"
         }
       ]
     }
