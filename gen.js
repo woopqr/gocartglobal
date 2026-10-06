@@ -205,6 +205,7 @@ const shortName = s => String(s).split('(')[0].trim();
   const data = {
     slug, theme: theme.id, audience: theme.audience, emoji: theme.emoji,
     city, citySlug, cityId: Number(cityId),
+    inSeason: (cityDef?.bestMonths || []).includes(tm.m),
     country: cityDef?.country || '', region: cityDef?.region || '', regionLabel: (REGIONS.find(r => r.id === cityDef?.region) || {}).label || '',
     cityUrl: agoda.citySearchById(Number(cityId)),
     season: season?.label || '', seasonNote: season?.note || '',

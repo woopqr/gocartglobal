@@ -269,6 +269,7 @@ function buildContext(data) {
     authorName: 'GoCart Global data desk',
     updatedLabel: data.updated || String(fetchedAt || '').slice(0, 10),
     crumbHtml: crumbs.map((c, i) => i === crumbs.length - 1 ? `<span>${escapeHtml(c.name)}</span>` : `<a href="${c.url}">${escapeHtml(c.name)}</a>`).join(' <span>›</span> '), region, regionLabel, country: data.country || cd?.country || '',
+    inSeason: (cd?.bestMonths || []).includes(Number(String(data._meta?.targetMonth || '').split('-')[1])),
     guide, hasGuide: !!guide, themeAngle, guideAreas: guide?.areas || [],
     faq, hasFaq: faq.length > 0, related, hasRelated: related.length > 0,
     jsonld: JSON.stringify(ld).replace(/</g, '\\u003c'),

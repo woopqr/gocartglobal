@@ -30,9 +30,11 @@ function interleaveByRegion(cities) {
 }
 function combos() {
   const out = [];
-  const order = interleaveByRegion(CITIES);
   const themeIds = new Set(THEMES.themes.map(t => t.id));
   for (const tm of targetMonths()) {
+    // 계절 감각: 그 달이 베스트 시즌인 여행지를 먼저(선행 소개), 나머지는 뒤로
+    const inSeason = c => (c.bestMonths || []).includes(tm.m);
+    const order = [...interleaveByRegion(CITIES.filter(inSeason)), ...interleaveByRegion(CITIES.filter(c => !inSeason(c)))];
     const maxThemes = Math.max(...order.map(c => (c.themes || []).length));
     for (let r = 0; r < maxThemes; r++)
       order.forEach((c, i) => {

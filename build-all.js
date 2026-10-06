@@ -47,6 +47,7 @@ function specialMetas() {
       city: d.region || '', region: d.regionId || '', citySlugs: d.citySlugs || [], special: true,
       season: 'Featured', travelMonthLabel: 'Destination guide',
       heroImg: img || specialCardImg(d.region || d.slug), updated: d.updated || '', indexable: true,
+      nHotels: (side?.hotels || []).length, nCities: (d.cities || []).length,
     };
   });
 }
@@ -60,15 +61,27 @@ function articleMetas() {
       city: d.city, citySlug: d.citySlug, region: d.region || cityOf(d.citySlug)?.region || '', citySlugs: [d.citySlug],
       season: d.season || '', travelMonthLabel: d.travelMonthLabel || '',
       heroImg: d.heroImg || '', updated: d.updated || (d._meta && d._meta.fetchedAt) || '', indexable: isCurrentOrFuture(d),
+      fromUSD: Math.min(...(d.hotels || []).map(h => h.priceUSD).filter(Boolean)) || null,
+      topScore: Math.max(...(d.hotels || []).map(h => Number(h.score) || 0)) || null, nHotels: (d.hotels || []).length,
     };
   }).sort((a, b) => String(b.updated).localeCompare(String(a.updated)));
 }
 
 function cardHtml(m) {
+  const data = m.special
+    ? [m.nHotels ? `<span><b>${m.nHotels}</b> five-star stays</span>` : '', m.nCities > 1 ? `<span><b>${m.nCities}</b> destinations</span>` : '', '<span>Editor\'s guide</span>']
+    : [m.fromUSD && isFinite(m.fromUSD) ? `<span>From <b>$${Number(m.fromUSD).toLocaleString('en-US')}</b></span>` : '', m.topScore ? `<span>Top <b>★ ${m.topScore}</b></span>` : '', m.nHotels ? `<span><b>${m.nHotels}</b> hotels</span>` : ''];
   return `      <a class="card" href="/articles/${m.slug}">
-        <div class="cthumb"><img src="${m.heroImg}" alt="${String(m.title || '').replace(/"/g, '&quot;')}" loading="lazy"><span class="ctag">${m.emoji} ${m.audience}</span></div>
-        <div class="cbody"><span class="cmeta">${[m.season, m.travelMonthLabel].filter(Boolean).join(' · ')}</span><h2>${m.title}</h2></div>
+        <div class="cthumb"><img src="${m.heroImg}" alt="${String(m.title || '').replace(/"/g, '&quot;')}" loading="lazy"><span class="ctag">${m.audience}</span></div>
+        <div class="cbody"><span class="cmeta">${[m.city, m.special ? 'Destination guide' : m.travelMonthLabel].filter(Boolean).join(' · ')}</span><h2>${m.title}</h2><div class="cdata">${data.filter(Boolean).join('')}</div></div>
       </a>`;
+}
+
+function regionTilesHtml(metas) {
+  return REGIONS.map(r => {
+    const n = new Set(metas.filter(m => m.region === r.id && !m.special).map(m => m.citySlug)).size;
+    return n ? `<a href="/category/ultra/${r.id}"><b>${r.label}</b><small>${n} destination${n > 1 ? 's' : ''}</small></a>` : '';
+  }).join('');
 }
 
 function chunk(arr, n) {
@@ -104,7 +117,7 @@ function pagerHtml(base, cur, total) {
 function catnavHtml(activeCats, currentId) {
   const chip = (href, label, on) => `<a class="cchip${on ? ' on' : ''}" href="${href}">${label}</a>`;
   let html = chip('/', 'All', currentId === 'all');
-  activeCats.forEach(c => { html += chip(`/category/${c.id}`, `${c.emoji} ${c.label}`, currentId === c.id); });
+  activeCats.forEach(c => { html += chip(`/category/${c.id}`, c.label, currentId === c.id); });
   return html;
 }
 
@@ -126,7 +139,7 @@ function hubHeaderHtml(hub) {
   if (!hub) return '';
   const crumbs = hub.crumbs.map((c, i) => i === hub.crumbs.length - 1 ? `<span>${esc(c.name)}</span>` : `<a href="${c.url}">${esc(c.name)}</a>`).join(' <span>›</span> ');
   const chips = (hub.chips || []).map(c => `<a class="${c.on ? 'on' : ''}" href="${c.url}">${esc(c.label)}${c.count != null ? `<small>${c.count}</small>` : ''}</a>`).join('');
-  return `<div class="hubhead"><nav class="crumb" aria-label="Breadcrumb">${crumbs}</nav>${hub.intro ? `<p>${esc(hub.intro)}</p>` : ''}${chips ? `<div class="subchips">${chips}</div>` : ''}</div>`;
+  return `<div class="hubhead"><nav class="crumb" aria-label="Breadcrumb">${crumbs}</nav><h1>${esc(hub.title || '')}</h1>${hub.intro ? `<p>${esc(hub.intro)}</p>` : ''}${chips ? `<div class="subchips">${chips}</div>` : ''}</div>`;
 }
 
 function writePages(shell, ctx, activeCats) {
@@ -154,6 +167,8 @@ function writePages(shell, ctx, activeCats) {
       opts.title = `GoCart Global — page ${p} · The world's finest luxury stays`;
     }
     let html = applyShell(shell, opts);
+    if (ctx.kind === 'category') html = html.replace(/<!--HERO_START-->[\s\S]*?<!--HERO_END-->/, '<!--HERO_START--><!--HERO_END-->').replace(/<!--REGIONS_START-->[\s\S]*?<!--REGIONS_END-->/, '<!--REGIONS_START--><!--REGIONS_END-->');
+    else if (ctx.regionsHtml != null) html = html.replace(/<!--REGIONS_START-->[\s\S]*?<!--REGIONS_END-->/, `<!--REGIONS_START-->${ctx.regionsHtml}<!--REGIONS_END-->`);
     if (opts.hubHtml) html = html.replace('<div class="seclabel" id="seclabel">', opts.hubHtml + '<div class="seclabel" id="seclabel">');
     if (opts.description) html = html.replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${esc(opts.description)}">`)
       .replace(/(<meta property="og:description" content=")[^"]*(">)/, `$1${esc(opts.description)}$2`);
@@ -194,7 +209,7 @@ function regenAll(metas) {
   cleanDir(path.join(ROOT, 'category'), /\.html$/);
 
   // 홈(전체 최신 피드)
-  const homePages = writePages(shell, { kind: 'home', base: '/', metas }, activeCats);
+  const homePages = writePages(shell, { kind: 'home', base: '/', metas, regionsHtml: regionTilesHtml(metas) }, activeCats);
 
   // 카테고리 › 지역 › 도시 (허브 페이지)
   const catPageInfo = [];
@@ -202,7 +217,7 @@ function regenAll(metas) {
   const regionOrder = id => { const i = REGIONS.findIndex(r => r.id === id); return i < 0 ? 99 : i; };
   activeCats.forEach(c => {
     const list = byCat[c.id];
-    const catLabel = `${c.emoji} ${c.label}`;
+    const catLabel = c.label;
     const regionIds = [...new Set(list.map(m => m.region).filter(Boolean))].sort((a, b) => regionOrder(a) - regionOrder(b));
     const regionChips = cur => [{ label: 'All regions', url: `/category/${c.id}`, on: !cur }, ...regionIds.map(r => ({ label: regionLabel(r), url: `/category/${c.id}/${r}`, count: list.filter(m => m.region === r).length, on: cur === r }))];
     const catBase = `/category/${c.id}`;
