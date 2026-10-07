@@ -18,107 +18,54 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Dubai — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 40% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Biltmore Hotel Villas Dubai</b> — rating 9.5, 109 reviews, from $2,153/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 45% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Jumeirah Zabeel Saray Dubai</b> — rating 8.7, 2,833 reviews, from $2,308/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 20,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 8,
-        "pct": 40
+        "count": 9,
+        "pct": 45
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 8,
-        "pct": 40
-      },
-      {
-        "key": "group",
-        "label": "Groups",
-        "count": 2,
-        "pct": 10
+        "count": 7,
+        "pct": 35
       },
       {
         "key": "business",
         "label": "Business",
-        "count": 1,
-        "pct": 5
+        "count": 3,
+        "pct": 15
       },
       {
-        "key": "solo",
-        "label": "Solo",
+        "key": "group",
+        "label": "Groups",
         "count": 1,
         "pct": 5
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/41046751/0/1017d9590d751964134055c473a589ef.jpeg?va=1&ce=3",
   "heroAlt": "Dubai Ultra-Luxury",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
-      "name": "The Biltmore Hotel Villas Dubai",
-      "agodaUrl": "https://www.agoda.com/the-biltmore-hotel-villas/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
-      "score": 9.5,
-      "reviewCount": 109,
-      "reviewCountFmt": "109 reviews",
-      "priceText": "$$$ · $2,153/night",
-      "walkMin": 10,
-      "refLabel": "Mall of the Emirates Metro Station",
-      "star": 5,
-      "propertyId": 59031518,
-      "priceUSD": 2153,
-      "priceStatus": "live",
-      "distanceM": 787.55,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Close to public transportation",
-        "Ski Dubai",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.5 · 109 reviews. 10 min walk to Mall of the Emirates Metro Station. $$$ · $2,153/night.",
-      "metaTags": [
-        "💰 $2,153/night",
-        "📝 109 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa"
-      ],
-      "travelerTypes": null,
-      "reviews": [],
-      "quality": {
-        "issues": [
-          "reviewSample"
-        ],
-        "critical": false,
-        "completeness": 88,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 2,
       "name": "Jumeirah Zabeel Saray Dubai",
       "agodaUrl": "https://www.agoda.com/jumeirah-zabeel-saray-royal-residences-h16254932/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41046751/-1/dbe305b1bee990ce66a298ddeee29e81.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/41046751/0/1017d9590d751964134055c473a589ef.jpeg?va=1&ce=3",
       "score": 8.7,
       "reviewCount": 2833,
       "reviewCountFmt": "2,833 reviews",
-      "priceText": "$$$ · $2,120/night",
+      "priceText": "$$$ · $2,308/night",
       "walkMin": 31,
       "refLabel": "Al Ittihad Park Station",
       "star": 5,
       "propertyId": 41046751,
-      "priceUSD": 2120,
+      "priceUSD": 2308,
       "priceStatus": "live",
       "distanceM": 2441.23,
       "locationStatus": "verified",
@@ -133,9 +80,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.7 · 2,833 reviews. $$$ · $2,120/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 8.7 · 2,833 reviews. $$$ · $2,308/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,120/night",
+        "💰 $2,308/night",
         "📝 2,833 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -206,26 +153,26 @@
       }
     },
     {
-      "rank": 3,
-      "name": "Jumeirah Al Naseem Dubai",
-      "agodaUrl": "https://www.agoda.com/jumeirah-al-naseem-madinat-jumeirah-h9844547/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41046756/0/1f34294987e115b4edd3fe114f345601.jpeg?ce=3",
-      "score": 9.2,
-      "reviewCount": 1288,
-      "reviewCountFmt": "1,288 reviews",
-      "priceText": "$$$ · $1,840/night",
-      "walkMin": 26,
+      "rank": 2,
+      "name": "The Biltmore Hotel Villas Dubai",
+      "agodaUrl": "https://www.agoda.com/the-biltmore-hotel-villas/hotel/dubai-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
+      "score": 9.5,
+      "reviewCount": 109,
+      "reviewCountFmt": "109 reviews",
+      "priceText": "$$$ · $2,153/night",
+      "walkMin": 10,
       "refLabel": "Mall of the Emirates Metro Station",
       "star": 5,
-      "propertyId": 41046756,
-      "priceUSD": 1840,
+      "propertyId": 59031518,
+      "priceUSD": 2153,
       "priceStatus": "live",
-      "distanceM": 2067.66,
+      "distanceM": 787.55,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
         "Airport transfer",
-        "Sauna",
+        "Close to public transportation",
         "Ski Dubai",
         "Wi-Fi [free]",
         "Openable window",
@@ -233,86 +180,33 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 1,288 reviews. $$$ · $1,840/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.5 · 109 reviews. 10 min walk to Mall of the Emirates Metro Station. $$$ · $2,153/night.",
       "metaTags": [
-        "💰 $1,840/night",
-        "📝 1,288 reviews",
+        "💰 $2,153/night",
+        "📝 109 reviews",
         "⭐ 5-star",
-        "👥 Loved by Families"
+        "🏝️ Resort / Villa"
       ],
-      "travelerTypes": {
-        "topLabel": "Families",
-        "topPct": 80,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 4,
-            "pct": 80,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Multi fine dining restaurants in the same resort.",
-          "score": "10",
-          "country": "Saudi Arabia",
-          "date": "2023.09",
-          "translated": false
-        },
-        {
-          "text": "Al Naseem is heaven on earth",
-          "score": "10",
-          "country": "South Africa",
-          "date": "2022.09",
-          "translated": false
-        },
-        {
-          "text": "We’re definitely coming back here!",
-          "score": "10",
-          "country": "Saudi Arabia",
-          "date": "2023.06",
-          "translated": false
-        },
-        {
-          "text": "The rooms are big and comfortable for a family,",
-          "score": "10",
-          "country": "Saudi Arabia",
-          "date": "2023.09",
-          "translated": false
-        },
-        {
-          "text": "Best hotel in dubai",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2022.07",
-          "translated": false
-        }
-      ],
+      "travelerTypes": null,
+      "reviews": [],
       "quality": {
-        "issues": [],
+        "issues": [
+          "reviewSample"
+        ],
         "critical": false,
-        "completeness": 100,
+        "completeness": 88,
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "name": "Jumeirah Marsa Al Arab",
       "agodaUrl": "https://www.agoda.com/jumeirah-marsa-al-arab/hotel/dubai-ae.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/60156122/0/76bcdcc0b53bf60e2b2473164cb00d00.jpeg?ce=3",
       "score": 9.2,
-      "reviewCount": 888,
-      "reviewCountFmt": "888 reviews",
+      "reviewCount": 889,
+      "reviewCountFmt": "889 reviews",
       "priceText": "$$$ · $1,840/night",
       "walkMin": 34,
       "refLabel": "First Gulf Bank Metro Station",
@@ -333,10 +227,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 888 reviews. $$$ · $1,840/night.",
+      "blurb": "Rating 9.2 · 889 reviews. $$$ · $1,840/night.",
       "metaTags": [
         "💰 $1,840/night",
-        "📝 888 reviews",
+        "📝 889 reviews",
         "⭐ 5-star"
       ],
       "travelerTypes": null,
@@ -352,7 +246,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Bvlgari Resort Dubai",
       "agodaUrl": "https://www.agoda.com/bulgari-resort-dubai/hotel/dubai-ae.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/5059899/0/48dd8685aca18e37873eec1fe4124797.jpeg",
@@ -451,26 +345,26 @@
       }
     },
     {
-      "rank": 6,
-      "name": "Jumeirah Dar Al Masyaf-Madinat Jumeirah",
-      "agodaUrl": "https://www.agoda.com/jumeirah-dar-al-masyaf-madinat-jumeirah/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41046747/0/0efa9fe58d8c259f9cf52c988c72a4cc.jpeg?ce=3",
-      "score": 9.3,
-      "reviewCount": 1010,
-      "reviewCountFmt": "1,010 reviews",
-      "priceText": "$$$ · $1,634/night",
-      "walkMin": 27,
-      "refLabel": "Mashreq Metro Station",
+      "rank": 5,
+      "name": "Jumeirah Al Naseem Dubai",
+      "agodaUrl": "https://www.agoda.com/jumeirah-al-naseem-madinat-jumeirah-h9844547/hotel/dubai-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41046756/0/1f34294987e115b4edd3fe114f345601.jpeg?ce=3",
+      "score": 9.2,
+      "reviewCount": 1288,
+      "reviewCountFmt": "1,288 reviews",
+      "priceText": "$$$ · $1,640/night",
+      "walkMin": 26,
+      "refLabel": "Mall of the Emirates Metro Station",
       "star": 5,
-      "propertyId": 41046747,
-      "priceUSD": 1634,
+      "propertyId": 41046756,
+      "priceUSD": 1640,
       "priceStatus": "live",
-      "distanceM": 2156.78,
+      "distanceM": 2067.66,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
         "Airport transfer",
-        "Free Wi-Fi in all rooms!",
+        "Sauna",
         "Ski Dubai",
         "Wi-Fi [free]",
         "Openable window",
@@ -478,16 +372,16 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 1,010 reviews. $$$ · $1,634/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 1,288 reviews. $$$ · $1,640/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,634/night",
-        "📝 1,010 reviews",
+        "💰 $1,640/night",
+        "📝 1,288 reviews",
         "⭐ 5-star",
-        "👥 Loved by Groups"
+        "👥 Loved by Families"
       ],
       "travelerTypes": {
-        "topLabel": "Groups",
-        "topPct": 40,
+        "topLabel": "Families",
+        "topPct": 80,
         "distribution": [
           {
             "key": "couple",
@@ -499,20 +393,113 @@
           {
             "key": "family",
             "label": "Families",
-            "count": 1,
-            "pct": 20,
+            "count": 4,
+            "pct": 80,
             "rating": 10
-          },
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Multi fine dining restaurants in the same resort.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Al Naseem is heaven on earth",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2022.09",
+          "translated": false
+        },
+        {
+          "text": "The rooms are big and comfortable for a family,",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "We’re definitely coming back here!",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Best hotel in dubai",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Mandarin Oriental Jumeira, Dubai",
+      "agodaUrl": "https://www.agoda.com/mandarin-oriental-jumeira-dubai/hotel/dubai-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/640585371.jpg?k=232358b97ee114738ea0bcb7eba5bd167693a475fffc63f45b54c839be1b2ebf&o=",
+      "score": 9.3,
+      "reviewCount": 860,
+      "reviewCountFmt": "860 reviews",
+      "priceText": "$$$ · $1,606/night",
+      "walkMin": 31,
+      "refLabel": "Burj Khalifa/Dubai Mall Metro Station",
+      "star": 5,
+      "propertyId": 5797891,
+      "priceUSD": 1606,
+      "priceStatus": "live",
+      "distanceM": 2485.34,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Gym/fitness",
+        "The Dubai Fountain",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 860 reviews. $$$ · $1,606/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,606/night",
+        "📝 860 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
           {
-            "key": "solo",
-            "label": "Solo",
-            "count": 1,
-            "pct": 20,
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
             "rating": 10
           },
           {
             "key": "group",
             "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "business",
+            "label": "Business",
             "count": 2,
             "pct": 40,
             "rating": 10
@@ -521,38 +508,38 @@
       },
       "reviews": [
         {
-          "text": "Great service , beautiful property and good location",
+          "text": "The staff were incredibly attentive and accommodating.",
           "score": "10",
-          "country": "United States",
-          "date": "2026.05",
+          "country": "United Arab Emirates",
+          "date": "2024.09",
           "translated": false
         },
         {
-          "text": "Every things nice & amazing",
+          "text": "The property exceeded expectations in every aspect.",
           "score": "10",
-          "country": "AE",
-          "date": "2023.07",
+          "country": "United Arab Emirates",
+          "date": "2024.09",
           "translated": false
         },
         {
-          "text": "Really amazing",
-          "score": "10",
-          "country": "AE",
-          "date": "2023.07",
+          "text": "Room is huge and spacious with a chic decor.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.08",
           "translated": false
         },
         {
-          "text": "The hotel is very clean and comfortable",
+          "text": "Booked the club room and so so glad that I did!",
           "score": "10",
-          "country": "CN",
-          "date": "2025.02",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.09",
           "translated": false
         },
         {
-          "text": "The best hotel we have ever stayed at.",
+          "text": "Great view of the water front and impeccable service!!",
           "score": "10",
-          "country": "Australia",
-          "date": "2025.08",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.09",
           "translated": false
         }
       ],
@@ -567,16 +554,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T23:51:19.078Z",
+    "fetchedAt": "2026-10-07T21:20:23.920Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T23:51:19.078Z",
+    "fetchedAt": "2026-10-07T21:20:23.920Z",
     "source": "agoda citySearch",
-    "daysAhead": 40,
+    "daysAhead": 39,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

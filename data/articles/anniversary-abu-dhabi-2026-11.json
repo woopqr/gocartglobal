@@ -1,0 +1,699 @@
+{
+  "slug": "anniversary-abu-dhabi-2026-11",
+  "theme": "anniversary",
+  "audience": "Anniversary Escape",
+  "emoji": "🥂",
+  "city": "Abu Dhabi",
+  "citySlug": "abu-dhabi",
+  "cityId": 10182,
+  "inSeason": true,
+  "country": "United Arab Emirates",
+  "region": "middle-east",
+  "regionLabel": "Middle East",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=10182",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Abu Dhabi] The Grandest Suites to Celebrate a Milestone",
+  "metaDescription": "The 6 finest anniversary escape stays in Abu Dhabi — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
+  "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>ERTH Hotel.</b> — rating 8.9, 1,562 reviews, from $882/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 15,
+        "pct": 50
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 9,
+        "pct": 30
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 2,
+        "pct": 7
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/253683/-1/cd8d3feb434acd8e952f67b4ff642ac9.jpg?va=1&ce=0",
+  "heroAlt": "Abu Dhabi Anniversary Escape",
+  "updated": "2026-10-07",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "ERTH Hotel.",
+      "agodaUrl": "https://www.agoda.com/officers-club-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/253683/-1/cd8d3feb434acd8e952f67b4ff642ac9.jpg?va=1&ce=0",
+      "score": 8.9,
+      "reviewCount": 1562,
+      "reviewCountFmt": "1,562 reviews",
+      "priceText": "$$$ · $882/night",
+      "walkMin": 15,
+      "refLabel": "Sheikh Zayed Grand Mosque Center",
+      "star": 5,
+      "propertyId": 253683,
+      "priceUSD": 882,
+      "priceStatus": "live",
+      "distanceM": 1225.76,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Sheikh Zayed Grand Mosque Center",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 1,562 reviews. 15 min walk to Sheikh Zayed Grand Mosque Center. $$$ · $882/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $882/night",
+        "📝 1,562 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I had the best deep tissue massage I've ever had in the UAE.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Breakfast buffet is so vast and using fresh ingredients.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Clean, unique and just overall relaxed vibe to the place",
+          "score": "9.2",
+          "country": "Saudi Arabia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Staffs are very helpful and will help with any inquiry.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "The breakfast and dinner at the main restaurant excellent.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Staybridge Suites Yas Island Abu Dhabi By IHG",
+      "agodaUrl": "https://www.agoda.com/staybridge-suites-yas-island-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4884232/0/2b1613e3e7ad1f8c91e37a4e5042161b.jpg?va=1&ca=23&ce=0",
+      "score": 8.9,
+      "reviewCount": 2010,
+      "reviewCountFmt": "2,010 reviews",
+      "priceText": "$$$ · $512/night",
+      "walkMin": 48,
+      "refLabel": "Murur Abu Dhabi Bus Station",
+      "star": 5,
+      "propertyId": 168798,
+      "priceUSD": 512,
+      "priceStatus": "live",
+      "distanceM": 3821.74,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Yas Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 2,010 reviews. $$$ · $512/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $512/night",
+        "📝 2,010 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.2
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Will definitely come back for our future stay in Abu dhabi",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Amazing staffs, pool is ok for kids and very good location .",
+          "score": "9.6",
+          "country": "India",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Staying at this hotel is always enjoyable for us.",
+          "score": "7.2",
+          "country": "United Arab Emirates",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "The staff are also very pleasantly social and expressing.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Staff were kind, food was good, pool and rooms were nice.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2025.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Sheraton Abu Dhabi Hotel & Resort",
+      "agodaUrl": "https://www.agoda.com/sheraton-abu-dhabi-hotel-resort_12/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/886105952.jpg?k=96bf4afb37830d37249e99b246e4a3a33818a9a235a5774a0378dad36b87a5ad&o=",
+      "score": 9.1,
+      "reviewCount": 7972,
+      "reviewCountFmt": "7,972 reviews",
+      "priceText": "$$ · $302/night",
+      "walkMin": 43,
+      "refLabel": "Abu Dhabi Central Bus Station",
+      "star": 5,
+      "propertyId": 182665,
+      "priceUSD": 302,
+      "priceStatus": "live",
+      "distanceM": 3436,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Heritage Village",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 7,972 reviews. $$ · $302/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $302/night",
+        "📝 7,972 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room was also clean, the breakfast was also amazing.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "And from reception mr sajid very smiling and very helpful",
+          "score": "10",
+          "country": "Birleşik Arap Emirlikleri",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Nice resort stay, absolutely loved everything about it",
+          "score": "10",
+          "country": "Sri Lanka",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Room was very good size, nice bathroom and amenities.",
+          "score": "10",
+          "country": "Netherlands",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "The room was extraordinary, clean and with an awesome view.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2023.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "The St. Regis Abu Dhabi",
+      "agodaUrl": "https://www.agoda.com/the-st-regis-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/600114174.jpg?k=a844a691ad6f35067644a981ec0b510f06b93d124739f68d949be00546fd4e38&o=",
+      "score": 9.4,
+      "reviewCount": 2245,
+      "reviewCountFmt": "2,245 reviews",
+      "priceText": "$$$ · $539/night",
+      "walkMin": 26,
+      "refLabel": "Abu Dhabi EK Bus Station",
+      "star": 5,
+      "propertyId": 520310,
+      "priceUSD": 539,
+      "priceStatus": "live",
+      "distanceM": 2067.59,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Emirates Palace"
+      ],
+      "blurb": "Rating 9.4 · 2,245 reviews. $$$ · $539/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $539/night",
+        "📝 2,245 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Our stay at the st regis was everything we could dream of.",
+          "score": "10",
+          "country": "IL",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "These thoughtful touches made the experience exceptional.",
+          "score": "9.6",
+          "country": "Malaysia",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "Staff were excellent and restaurant was superb!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "We were treated like royalty throughout our time there.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "It was really a pleasant and refreshing stay",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2023.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Al Wathba, a Luxury Collection Desert Resort & Spa, Abu Dhabi",
+      "agodaUrl": "https://www.agoda.com/jumeirah-al-wathba-desert-resort-and-spa/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/13754269/-1/8ff2e32e09942c8c86d2f9fa75fef33c.jpg?va=1&ce=0",
+      "score": 9.4,
+      "reviewCount": 900,
+      "reviewCountFmt": "900 reviews",
+      "priceText": "$$ · $488/night",
+      "walkMin": null,
+      "refLabel": "city center",
+      "star": 5,
+      "propertyId": 13754269,
+      "priceUSD": 488,
+      "priceStatus": "live",
+      "distanceM": null,
+      "locationStatus": "approx.",
+      "facilities": [
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 900 reviews. $$ · $488/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $488/night",
+        "📝 900 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "All the facilities, services, food and staff are too good",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The staff were incredibly kind, welcoming and helpful.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "And the service was excellent from start to finish.",
+          "score": "10",
+          "country": "France",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Their teams made every meal a pleasure.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Definitely the best hotel during my trip in Abu Dhabi",
+          "score": "10",
+          "country": "TW",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [
+          "location"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "unavailable"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Four Seasons Hotel Abu Dhabi at Al Maryah Island",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-abu-dhabi-at-al-maryah-island/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/126/1267025/1267025_16120819440049549504.jpg?va=1&ca=6&ce=1",
+      "score": 9.3,
+      "reviewCount": 1268,
+      "reviewCountFmt": "1,268 reviews",
+      "priceText": "$$$ · $535/night",
+      "walkMin": 47,
+      "refLabel": "Abu Dhabi Central Bus Station",
+      "star": 5,
+      "propertyId": 1267025,
+      "priceUSD": 535,
+      "priceStatus": "live",
+      "distanceM": 3795.87,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Louvre Abu Dhabi",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 1,268 reviews. $$$ · $535/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $535/night",
+        "📝 1,268 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This is by far the best Hotel I stayed at my whole life.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "The hotel is super clean and the service is incredible.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Excellent hotel very well located in Abu Dhabi",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "All I can say - my favorite hotel in the world!!!!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Great place and location is very close to Cleveland hospital",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-07T21:19:46.926Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-07T21:19:46.926Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": [
+        "Al Wathba, a Luxury Collection Desert Resort & Spa, Abu Dhabi: location"
+      ]
+    },
+    "firstPublished": "2026-10-07"
+  }
+}

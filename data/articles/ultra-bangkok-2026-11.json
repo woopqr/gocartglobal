@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Bangkok — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 40% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mandarin Oriental, Bangkok</b> — rating 9.3, 1,589 reviews, from $670/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 40% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mandarin Oriental, Bangkok</b> — rating 9.3, 1,591 reviews, from $669/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -54,24 +54,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/10713/0/e8ba6b072e363423f6e622538e2a06c5.jpeg?ce=3",
+  "heroImg": "https://pix8.agoda.net/hotelImages/10713/-1/dcb71e7fb1704cee26ab545111a360c6.jpg?va=1&ca=9&ce=1",
   "heroAlt": "Bangkok Ultra-Luxury",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
       "name": "Mandarin Oriental, Bangkok",
       "agodaUrl": "https://www.agoda.com/mandarin-oriental-bangkok_12/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/10713/0/e8ba6b072e363423f6e622538e2a06c5.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/10713/-1/dcb71e7fb1704cee26ab545111a360c6.jpg?va=1&ca=9&ce=1",
       "score": 9.3,
-      "reviewCount": 1589,
-      "reviewCountFmt": "1,589 reviews",
-      "priceText": "$$$ · $670/night",
+      "reviewCount": 1591,
+      "reviewCountFmt": "1,591 reviews",
+      "priceText": "$$$ · $669/night",
       "walkMin": 7,
       "refLabel": "Saphan Taksin BTS Station",
       "star": 5,
       "propertyId": 10713,
-      "priceUSD": 670,
+      "priceUSD": 669,
       "priceStatus": "live",
       "distanceM": 580.81,
       "locationStatus": "verified",
@@ -86,10 +86,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 1,589 reviews. 7 min walk to Saphan Taksin BTS Station. $$$ · $670/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 1,591 reviews. 7 min walk to Saphan Taksin BTS Station. $$$ · $669/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $670/night",
-        "📝 1,589 reviews",
+        "💰 $669/night",
+        "📝 1,591 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -129,17 +129,17 @@
           "translated": false
         },
         {
-          "text": "It has been an excellent stay and service has been great.",
-          "score": "10",
-          "country": "India",
-          "date": "2023.03",
-          "translated": false
-        },
-        {
           "text": "One of the most luxurious stays i have ever had",
           "score": "9.6",
           "country": "Kuwait",
           "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "It has been an excellent stay and service has been great.",
+          "score": "10",
+          "country": "India",
+          "date": "2023.03",
           "translated": false
         }
       ],
@@ -155,10 +155,10 @@
       "rank": 2,
       "name": "Four Seasons Hotel Bangkok at Chao Phraya River",
       "agodaUrl": "https://www.agoda.com/four-seasons-hotel-bangkok-at-chao-praya-river/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/8634385/0/92e7410da49726758c252974fc929764.jpeg?ce=2",
+      "img": "https://pix8.agoda.net/hotelImages/8634385/-1/3e51423e3a7bb4ed873ce428cb01469a.jpg?va=1&ca=16&ce=1",
       "score": 9.3,
-      "reviewCount": 1702,
-      "reviewCountFmt": "1,702 reviews",
+      "reviewCount": 1704,
+      "reviewCountFmt": "1,704 reviews",
       "priceText": "$$$ · $680/night",
       "walkMin": 11,
       "refLabel": "Saphan Taksin BTS Station",
@@ -179,10 +179,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 1,702 reviews. 11 min walk to Saphan Taksin BTS Station. $$$ · $680/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 1,704 reviews. 11 min walk to Saphan Taksin BTS Station. $$$ · $680/night. 60% of sampled reviews from couples.",
       "metaTags": [
         "💰 $680/night",
-        "📝 1,702 reviews",
+        "📝 1,704 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -262,16 +262,16 @@
       "rank": 3,
       "name": "Siam Kempinski Hotel Bangkok",
       "agodaUrl": "https://www.agoda.com/siam-kempinski-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/178063/3210695/6f4800ffacc658f74d56ce98c5468772.jpeg?ce=2",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/922285807.jpg?k=655eb077cf37580f3c769c9112240847c634c0da061f82ec82be90d5f7dbf209&o=",
       "score": 9.3,
-      "reviewCount": 7692,
-      "reviewCountFmt": "7,692 reviews",
-      "priceText": "$$ · $445/night",
+      "reviewCount": 7697,
+      "reviewCountFmt": "7,697 reviews",
+      "priceText": "$$ · $444/night",
       "walkMin": 4,
       "refLabel": "Siam BTS Station",
       "star": 5,
       "propertyId": 178063,
-      "priceUSD": 445,
+      "priceUSD": 444,
       "priceStatus": "live",
       "distanceM": 320.73,
       "locationStatus": "verified",
@@ -286,10 +286,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 7,692 reviews. 4 min walk to Siam BTS Station. $$ · $445/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 7,697 reviews. 4 min walk to Siam BTS Station. $$ · $444/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $445/night",
-        "📝 7,692 reviews",
+        "💰 $444/night",
+        "📝 7,697 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
       ],
@@ -362,7 +362,7 @@
       "rank": 4,
       "name": "Park Hyatt Bangkok",
       "agodaUrl": "https://www.agoda.com/park-hyatt-bangkok/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/1994765/0/674e97396d6174d15d98eabd8499d09a.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/1994765/-1/6adfe9931fd7fb28aade66db992417b6.jpg?va=1&ca=8&ce=1",
       "score": 9.1,
       "reviewCount": 1775,
       "reviewCountFmt": "1,775 reviews",
@@ -589,10 +589,10 @@
       "rank": 6,
       "name": "The St. Regis Bangkok",
       "agodaUrl": "https://www.agoda.com/the-st-regis-bangkok_15/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/5076674/1153983018/91eb8f543f6ed23feb4646b65a9f4631.jpeg?ce=3",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/688625650.jpg?k=cb2c394605ea59aee207976d1cd7e752c88f1bcc1e320b4cbc04bcee4485f033&o=",
       "score": 9.1,
-      "reviewCount": 1129,
-      "reviewCountFmt": "1,129 reviews",
+      "reviewCount": 1127,
+      "reviewCountFmt": "1,127 reviews",
       "priceText": "$$ · $490/night",
       "walkMin": 1,
       "refLabel": "Ratchadamri BTS Station",
@@ -612,10 +612,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,129 reviews. 1 min walk to Ratchadamri BTS Station. $$ · $490/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 1,127 reviews. 1 min walk to Ratchadamri BTS Station. $$ · $490/night. 20% of sampled reviews from couples.",
       "metaTags": [
         "💰 $490/night",
-        "📝 1,129 reviews",
+        "📝 1,127 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
       ],
@@ -694,16 +694,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T23:51:04.159Z",
+    "fetchedAt": "2026-10-07T21:20:09.716Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T23:51:04.159Z",
+    "fetchedAt": "2026-10-07T21:20:09.716Z",
     "source": "agoda citySearch",
-    "daysAhead": 40,
+    "daysAhead": 39,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

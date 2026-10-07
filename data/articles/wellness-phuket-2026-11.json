@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest wellness & spa stays in Phuket — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
   "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-  "verdict": "About 60% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>JW Marriott Phuket Resort & Spa</b> — rating 8.8, 2,880 reviews, from $555/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 60% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>JW Marriott Phuket Resort & Spa</b> — rating 8.8, 2,880 reviews, from $554/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -48,24 +48,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/9245/-1/b746bd7feb5c281a7b48edeeeb090982.jpg?ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/9245/0/348ca60934a35523fc8803f92f150b13.jpeg?ce=3",
   "heroAlt": "Phuket Wellness & Spa",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
       "name": "JW Marriott Phuket Resort & Spa",
       "agodaUrl": "https://www.agoda.com/jw-marriott-phuket-resort-spa/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/9245/-1/b746bd7feb5c281a7b48edeeeb090982.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/9245/0/348ca60934a35523fc8803f92f150b13.jpeg?ce=3",
       "score": 8.8,
       "reviewCount": 2880,
       "reviewCountFmt": "2,880 reviews",
-      "priceText": "$$$ · $555/night",
+      "priceText": "$$$ · $554/night",
       "walkMin": 1,
       "refLabel": "Sai Kaew Beach",
       "star": 5,
       "propertyId": 9245,
-      "priceUSD": 555,
+      "priceUSD": 554,
       "priceStatus": "live",
       "distanceM": 45.4,
       "locationStatus": "verified",
@@ -77,9 +77,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.8 · 2,880 reviews. 1 min walk to Sai Kaew Beach. $$$ · $555/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 8.8 · 2,880 reviews. 1 min walk to Sai Kaew Beach. $$$ · $554/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $555/night",
+        "💰 $554/night",
         "📝 2,880 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -165,12 +165,12 @@
       "score": 9,
       "reviewCount": 1560,
       "reviewCountFmt": "1,560 reviews",
-      "priceText": "$$ · $352/night",
+      "priceText": "$$ · $347/night",
       "walkMin": 2,
       "refLabel": "Natai Beach",
       "star": 5,
       "propertyId": 6916377,
-      "priceUSD": 352,
+      "priceUSD": 347,
       "priceStatus": "live",
       "distanceM": 123.02,
       "locationStatus": "verified",
@@ -185,9 +185,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 1,560 reviews. 2 min walk to Natai Beach. $$ · $352/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 1,560 reviews. 2 min walk to Natai Beach. $$ · $347/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $352/night",
+        "💰 $347/night",
         "📝 1,560 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -215,17 +215,17 @@
           "translated": false
         },
         {
-          "text": "They offer a generous 3 liters of bottled water every day.",
-          "score": "8.4",
-          "country": "India",
-          "date": "2024.11",
-          "translated": false
-        },
-        {
           "text": "Highly recommend the Thai massage and dining on the beach.",
           "score": "10",
           "country": "United Kingdom",
           "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "They offer a generous 3 liters of bottled water every day.",
+          "score": "8.4",
+          "country": "India",
+          "date": "2024.11",
           "translated": false
         },
         {
@@ -259,12 +259,12 @@
       "score": 8.9,
       "reviewCount": 6829,
       "reviewCountFmt": "6,829 reviews",
-      "priceText": "$$ · $336/night",
+      "priceText": "$$ · $370/night",
       "walkMin": 101,
       "refLabel": "Minibus Station",
       "star": 5,
       "propertyId": 1377626,
-      "priceUSD": 336,
+      "priceUSD": 370,
       "priceStatus": "live",
       "distanceM": 8080.86,
       "locationStatus": "verified",
@@ -277,9 +277,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 6,829 reviews. $$ · $336/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 6,829 reviews. $$ · $370/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $336/night",
+        "💰 $370/night",
         "📝 6,829 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -356,8 +356,8 @@
       "agodaUrl": "https://www.agoda.com/renaissance-phuket-resort-spa/hotel/phuket-th.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/178676/0/a5a53c9f0796c5afa8a03eed20f939d0.jpg?va=1&ce=3",
       "score": 9,
-      "reviewCount": 3413,
-      "reviewCountFmt": "3,413 reviews",
+      "reviewCount": 3411,
+      "reviewCountFmt": "3,411 reviews",
       "priceText": "$$ · $300/night",
       "walkMin": 1,
       "refLabel": "Sai Kaew Beach",
@@ -375,10 +375,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 3,413 reviews. 1 min walk to Sai Kaew Beach. $$ · $300/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 3,411 reviews. 1 min walk to Sai Kaew Beach. $$ · $300/night. 80% of sampled reviews from couples.",
       "metaTags": [
         "💰 $300/night",
-        "📝 3,413 reviews",
+        "📝 3,411 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -426,17 +426,17 @@
           "translated": false
         },
         {
-          "text": "I reccomend this place and will definitely come back!",
-          "score": "10",
-          "country": "Israel",
-          "date": "2022.09",
-          "translated": false
-        },
-        {
           "text": "Just book! The best resort thus far in Phuket for us!",
           "score": "10",
           "country": "Malaysia",
           "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "I reccomend this place and will definitely come back!",
+          "score": "10",
+          "country": "Israel",
+          "date": "2022.09",
           "translated": false
         }
       ],
@@ -454,14 +454,14 @@
       "agodaUrl": "https://www.agoda.com/kalima-resort-spa/hotel/phuket-th.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/287432/-1/dda98b2f8a55152793a4ccfd2d534754.png?va=1&ce=0",
       "score": 8.9,
-      "reviewCount": 8504,
-      "reviewCountFmt": "8,504 reviews",
-      "priceText": "$$ · $277/night",
+      "reviewCount": 8502,
+      "reviewCountFmt": "8,502 reviews",
+      "priceText": "$$ · $276/night",
       "walkMin": 23,
       "refLabel": "Patong Beach",
       "star": 5,
       "propertyId": 287432,
-      "priceUSD": 277,
+      "priceUSD": 276,
       "priceStatus": "live",
       "distanceM": 1816.99,
       "locationStatus": "verified",
@@ -476,10 +476,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 8,504 reviews. $$ · $277/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 8,502 reviews. $$ · $276/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $277/night",
-        "📝 8,504 reviews",
+        "💰 $276/night",
+        "📝 8,502 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -564,12 +564,12 @@
       "score": 8.4,
       "reviewCount": 345,
       "reviewCountFmt": "345 reviews",
-      "priceText": "$$ · $360/night",
+      "priceText": "$$ · $358/night",
       "walkMin": 1,
       "refLabel": "Sai Kaew Beach",
       "star": 5,
       "propertyId": 256028,
-      "priceUSD": 360,
+      "priceUSD": 358,
       "priceStatus": "live",
       "distanceM": 96.66,
       "locationStatus": "verified",
@@ -584,9 +584,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.4 · 345 reviews. 1 min walk to Sai Kaew Beach. $$ · $360/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 8.4 · 345 reviews. 1 min walk to Sai Kaew Beach. $$ · $358/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $360/night",
+        "💰 $358/night",
         "📝 345 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -660,16 +660,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T23:50:57.806Z",
+    "fetchedAt": "2026-10-07T21:20:03.526Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T23:50:57.806Z",
+    "fetchedAt": "2026-10-07T21:20:03.526Z",
     "source": "agoda citySearch",
-    "daysAhead": 40,
+    "daysAhead": 39,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

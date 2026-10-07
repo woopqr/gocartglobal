@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Phuket — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 72% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Trisara Villas & Residences Phuket</b> — rating 8.8, 135 reviews, from $1,464/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 72% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Trisara Villas & Residences Phuket</b> — rating 8.8, 134 reviews, from $1,555/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 25,
     "distribution": [
@@ -35,8 +35,8 @@
         "pct": 24
       },
       {
-        "key": "group",
-        "label": "Groups",
+        "key": "solo",
+        "label": "Solo",
         "count": 1,
         "pct": 4
       }
@@ -44,7 +44,7 @@
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/361751114.jpg?k=cf34be186e1fa1874365841c81800c1f5ed9a25699a1fa6f89461ba0c32ca5bd&o=",
   "heroAlt": "Phuket Ultra-Luxury",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
@@ -52,14 +52,14 @@
       "agodaUrl": "https://www.agoda.com/trisara-sha-plus_2/hotel/all/phuket-th.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/361751114.jpg?k=cf34be186e1fa1874365841c81800c1f5ed9a25699a1fa6f89461ba0c32ca5bd&o=",
       "score": 8.8,
-      "reviewCount": 135,
-      "reviewCountFmt": "135 reviews",
-      "priceText": "$$$ · $1,464/night",
+      "reviewCount": 134,
+      "reviewCountFmt": "134 reviews",
+      "priceText": "$$$ · $1,555/night",
       "walkMin": 116,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 3073929,
-      "priceUSD": 1464,
+      "priceUSD": 1555,
       "priceStatus": "live",
       "distanceM": 9292.44,
       "locationStatus": "verified",
@@ -74,10 +74,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.8 · 135 reviews. $$$ · $1,464/night.",
+      "blurb": "Rating 8.8 · 134 reviews. $$$ · $1,555/night.",
       "metaTags": [
-        "💰 $1,464/night",
-        "📝 135 reviews",
+        "💰 $1,555/night",
+        "📝 134 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa"
       ],
@@ -99,14 +99,14 @@
       "agodaUrl": "https://www.agoda.com/v-villas-phuket-mgallery/hotel/phuket-th.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/908138182.jpg?k=e58066b8af0b9015941d32da79cb4c0626433bb727c8e95f85a6bfacbf21d993&o=",
       "score": 9.2,
-      "reviewCount": 308,
-      "reviewCountFmt": "308 reviews",
-      "priceText": "$$$ · $1,271/night",
+      "reviewCount": 307,
+      "reviewCountFmt": "307 reviews",
+      "priceText": "$$$ · $1,270/night",
       "walkMin": 96,
       "refLabel": "Phuket Town Local Bus Station",
       "star": 5,
       "propertyId": 17641654,
-      "priceUSD": 1271,
+      "priceUSD": 1270,
       "priceStatus": "live",
       "distanceM": 7687.78,
       "locationStatus": "verified",
@@ -121,10 +121,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 308 reviews. $$$ · $1,271/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 307 reviews. $$$ · $1,270/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,271/night",
-        "📝 308 reviews",
+        "💰 $1,270/night",
+        "📝 307 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -198,7 +198,7 @@
       "rank": 3,
       "name": "The Shore at Katathani - Adults only",
       "agodaUrl": "https://www.agoda.com/the-shore-at-katathani-adults-only/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/177991/-1/c6a95ed2259d285a0155b52ec65d4ba4.jpg?ca=9&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/177991/0/5d54300612eb546d9fc22bdff6546130.jpeg?ce=2",
       "score": 9.1,
       "reviewCount": 4919,
       "reviewCountFmt": "4,919 reviews",
@@ -289,18 +289,123 @@
     },
     {
       "rank": 4,
+      "name": "The Naka Island, a Luxury Collection Resort & Spa, Phuket",
+      "agodaUrl": "https://www.agoda.com/the-naka-island-a-luxury-collection-resort-spa-phuket_7/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/399580/0/423f1e79ad7440d996aa1178aea910fc.jpeg?va=1&ce=3",
+      "score": 9.2,
+      "reviewCount": 900,
+      "reviewCountFmt": "900 reviews",
+      "priceText": "$$$ · $547/night",
+      "walkMin": 12,
+      "refLabel": "Village Beach",
+      "star": 5,
+      "propertyId": 399580,
+      "priceUSD": 547,
+      "priceStatus": "live",
+      "distanceM": 947.83,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 900 reviews. 12 min walk to Village Beach. $$$ · $547/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $547/night",
+        "📝 900 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Friendly staff, beautiful property, nice location.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Great Resort, friendly staff with wonderful views and food",
+          "score": "9.6",
+          "country": "Kuwait",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "The Nala island provides a lovely, self-contained getaway.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Overall i would rate the experience as 8.75-9.0.",
+          "score": "9.2",
+          "country": "Canada",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "Excellent view of the resort in an quiet island.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
       "name": "Bandara Pool Villas Phuket",
       "agodaUrl": "https://www.agoda.com/bandara-villas-phuket/hotel/phuket-th.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/793044744.jpg?k=06a0dfc40667ea8e22548b079a25e614dd4a5042f5bd0a35d99e51dd46d2be6d&o=",
       "score": 8.7,
       "reviewCount": 2575,
       "reviewCountFmt": "2,575 reviews",
-      "priceText": "$$ · $466/night",
+      "priceText": "$$ · $465/night",
       "walkMin": 99,
       "refLabel": "Phuket Town Local Bus Station",
       "star": 5,
       "propertyId": 782182,
-      "priceUSD": 466,
+      "priceUSD": 465,
       "priceStatus": "live",
       "distanceM": 7904.98,
       "locationStatus": "verified",
@@ -315,9 +420,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.7 · 2,575 reviews. $$ · $466/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 8.7 · 2,575 reviews. $$ · $465/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $466/night",
+        "💰 $465/night",
         "📝 2,575 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -382,19 +487,19 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Twinpalms Surin Beach Phuket",
       "agodaUrl": "https://www.agoda.com/twinpalms-phuket_5/hotel/all/phuket-th.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/707933122.jpg?k=f3b4cf34066370b8d44d7f920689ff447c288f414dc173dee7dfe94ff5cd3bff&o=",
       "score": 9.1,
       "reviewCount": 857,
       "reviewCountFmt": "857 reviews",
-      "priceText": "$$$ · $618/night",
+      "priceText": "$$$ · $617/night",
       "walkMin": 30,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 3090444,
-      "priceUSD": 618,
+      "priceUSD": 617,
       "priceStatus": "live",
       "distanceM": 2416.48,
       "locationStatus": "verified",
@@ -409,9 +514,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 857 reviews. $$$ · $618/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 857 reviews. $$$ · $617/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $618/night",
+        "💰 $617/night",
         "📝 857 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -466,118 +571,10 @@
           "translated": false
         },
         {
-          "text": "The spa and massage were amazing and the breakfast diverse.",
+          "text": "The staff went above and beyond to make our stay memorable.",
           "score": "10",
-          "country": "North Macedonia",
-          "date": "2025.11",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 6,
-      "name": "Sri Panwa Phuket Luxury Pool Villa Hotel",
-      "agodaUrl": "https://www.agoda.com/sri-panwa-phuket-luxury-pool-villa-hotel/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/74388/0/69a3c145475e95ded937b041d79a193d.jpeg?va=1&ce=3",
-      "score": 8.9,
-      "reviewCount": 3798,
-      "reviewCountFmt": "3,798 reviews",
-      "priceText": "$$ · $465/night",
-      "walkMin": 116,
-      "refLabel": "Phuket Town Local Bus Station",
-      "star": 5,
-      "propertyId": 74388,
-      "priceUSD": 465,
-      "priceStatus": "live",
-      "distanceM": 9267.57,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Gym/fitness",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.9 · 3,798 reviews. $$ · $465/night. 40% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $465/night",
-        "📝 3,798 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 40,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.4
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          },
-          {
-            "key": "group",
-            "label": "Groups",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "What really sets Sri Panwa apart, though, is the service.",
-          "score": "9.6",
-          "country": "Singapore",
-          "date": "2025.12",
-          "translated": false
-        },
-        {
-          "text": "The luxury villa with its amenities and the wonderful staff.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2023.11",
-          "translated": false
-        },
-        {
-          "text": "My stay at the resort was nothing short of extraordinary.",
-          "score": "10",
-          "country": "Vietnam",
-          "date": "2024.01",
-          "translated": false
-        },
-        {
-          "text": "I cannot put into words the beauty of this property.",
-          "score": "10",
-          "country": "United States",
-          "date": "2025.12",
-          "translated": false
-        },
-        {
-          "text": "The staffs are very attentive and provide excellent service.",
-          "score": "8.8",
-          "country": "TH",
-          "date": "2024.09",
+          "country": "Malaysia",
+          "date": "2024.07",
           "translated": false
         }
       ],
@@ -592,16 +589,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T23:50:57.692Z",
+    "fetchedAt": "2026-10-07T21:20:03.419Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T23:50:57.692Z",
+    "fetchedAt": "2026-10-07T21:20:03.419Z",
     "source": "agoda citySearch",
-    "daysAhead": 40,
+    "daysAhead": 39,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

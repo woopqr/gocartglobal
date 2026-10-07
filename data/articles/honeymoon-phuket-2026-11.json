@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest honeymoon stays in Phuket — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 93% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Paresa Resort Phuket</b> — rating 8.9, 1,818 reviews, from $657/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 93% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Paresa Resort Phuket</b> — rating 8.9, 1,820 reviews, from $671/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -42,24 +42,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/159289/-1/ae02e77b6200b6c9dceb4bb53dd866d3.jpg?ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/159289/0/bb8b23d2c81acd95d05a95e12003c602.jpeg?ce=3",
   "heroAlt": "Phuket Honeymoon",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
       "name": "Paresa Resort Phuket",
       "agodaUrl": "https://www.agoda.com/paresa-resort-phuket/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/159289/-1/ae02e77b6200b6c9dceb4bb53dd866d3.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/159289/0/bb8b23d2c81acd95d05a95e12003c602.jpeg?ce=3",
       "score": 8.9,
-      "reviewCount": 1818,
-      "reviewCountFmt": "1,818 reviews",
-      "priceText": "$$$ · $657/night",
+      "reviewCount": 1820,
+      "reviewCountFmt": "1,820 reviews",
+      "priceText": "$$$ · $671/night",
       "walkMin": 46,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 159289,
-      "priceUSD": 657,
+      "priceUSD": 671,
       "priceStatus": "live",
       "distanceM": 3675.14,
       "locationStatus": "verified",
@@ -74,10 +74,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 1,818 reviews. $$$ · $657/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 1,820 reviews. $$$ · $671/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $657/night",
-        "📝 1,818 reviews",
+        "💰 $671/night",
+        "📝 1,820 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -111,17 +111,17 @@
           "translated": false
         },
         {
-          "text": "The staff is welcoming and the rooms are clean 🙏❤️",
-          "score": "10",
-          "country": "Saudi Arabia",
-          "date": "2024.12",
-          "translated": false
-        },
-        {
           "text": "Paresa has undergone renovations and the villas are a dream.",
           "score": "9.2",
           "country": "Singapore",
           "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The staff is welcoming and the rooms are clean 🙏❤️",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2024.12",
           "translated": false
         },
         {
@@ -155,12 +155,12 @@
       "score": 8.5,
       "reviewCount": 1816,
       "reviewCountFmt": "1,816 reviews",
-      "priceText": "$$ · $432/night",
+      "priceText": "$$ · $428/night",
       "walkMin": 1,
       "refLabel": "Natai Beach",
       "star": 5,
       "propertyId": 78253,
-      "priceUSD": 432,
+      "priceUSD": 428,
       "priceStatus": "live",
       "distanceM": 0,
       "locationStatus": "verified",
@@ -175,9 +175,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.5 · 1,816 reviews. 1 min walk to Natai Beach. $$ · $432/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 8.5 · 1,816 reviews. 1 min walk to Natai Beach. $$ · $428/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $432/night",
+        "💰 $428/night",
         "📝 1,816 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -249,12 +249,12 @@
       "score": 8.9,
       "reviewCount": 4638,
       "reviewCountFmt": "4,638 reviews",
-      "priceText": "$$ · $462/night",
+      "priceText": "$$ · $469/night",
       "walkMin": 99,
       "refLabel": "Minibus Station",
       "star": 5,
       "propertyId": 5752967,
-      "priceUSD": 462,
+      "priceUSD": 469,
       "priceStatus": "live",
       "distanceM": 7951.5,
       "locationStatus": "verified",
@@ -269,9 +269,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 4,638 reviews. $$ · $462/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 4,638 reviews. $$ · $469/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $462/night",
+        "💰 $469/night",
         "📝 4,638 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -350,12 +350,12 @@
       "score": 9.3,
       "reviewCount": 174,
       "reviewCountFmt": "174 reviews",
-      "priceText": "$$ · $425/night",
+      "priceText": "$$ · $424/night",
       "walkMin": 65,
       "refLabel": "Phuket Bus Terminal 2",
       "star": 5,
       "propertyId": 46046843,
-      "priceUSD": 425,
+      "priceUSD": 424,
       "priceStatus": "live",
       "distanceM": 5225.88,
       "locationStatus": "verified",
@@ -370,9 +370,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 174 reviews. $$ · $425/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 174 reviews. $$ · $424/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $425/night",
+        "💰 $424/night",
         "📝 174 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -444,12 +444,12 @@
       "score": 9.1,
       "reviewCount": 814,
       "reviewCountFmt": "814 reviews",
-      "priceText": "$$$ · $684/night",
+      "priceText": "$$$ · $680/night",
       "walkMin": 24,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 3072111,
-      "priceUSD": 684,
+      "priceUSD": 680,
       "priceStatus": "live",
       "distanceM": 1952.38,
       "locationStatus": "verified",
@@ -459,9 +459,9 @@
         "Sauna",
         "Patong Beach"
       ],
-      "blurb": "Rating 9.1 · 814 reviews. $$$ · $684/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 814 reviews. $$$ · $680/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $684/night",
+        "💰 $680/night",
         "📝 814 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -621,16 +621,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T23:50:57.580Z",
+    "fetchedAt": "2026-10-07T21:20:03.315Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T23:50:57.580Z",
+    "fetchedAt": "2026-10-07T21:20:03.315Z",
     "source": "agoda citySearch",
-    "daysAhead": 40,
+    "daysAhead": 39,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
