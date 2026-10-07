@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 7,
+  "cursor": 8,
   "observations": [
     {
       "city": "Bali",
@@ -475,6 +475,100 @@
           "priceUSD": 536,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/cafe-del-mar-hotel/hotel/kammala-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Sydney",
+      "citySlug": "sydney",
+      "cityId": 14370,
+      "observedAt": "2026-10-07T15:35:26.549Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-06, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "41730116",
+          "name": "Park Hyatt - Sydney",
+          "priceUSD": 1230,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/park-hyatt-sydney_5/hotel/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "45894224",
+          "name": "Capella Sydney",
+          "priceUSD": 670,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/capella-sydney-h41691969/hotel/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "148868",
+          "name": "Meriton Suites World Tower",
+          "priceUSD": 639,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/meriton-suites-world-tower/hotel/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "32586621",
+          "name": "Crown Towers Sydney",
+          "priceUSD": 607,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/crown-towers-sydney_2/hotel/all/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "2853",
+          "name": "Pullman Quay Grand Sydney Harbour",
+          "priceUSD": 527,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/pullman-quay-grand-sydney-harbour/hotel/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "2870",
+          "name": "InterContinental Sydney By IHG",
+          "priceUSD": 465,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/intercontinental-sydney/hotel/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "11875",
+          "name": "Four Seasons Hotel Sydney",
+          "priceUSD": 454,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-hotel-sydney/hotel/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "3135685",
+          "name": "Shangri-La Sydney",
+          "priceUSD": 449,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/shangri-la-sydney_15/hotel/all/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "8707172",
+          "name": "Meriton Suites North Sydney",
+          "priceUSD": 440,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/meriton-suites-north-sydney/hotel/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "148869",
+          "name": "Meriton Suites Kent Street",
+          "priceUSD": 416,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/meriton-suites-kent-street/hotel/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "4761",
+          "name": "The Sebel Quay West Suites Sydney",
+          "priceUSD": 416,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/quay-west-suites-sydney/hotel/sydney-au.html?cid=1925461"
+        },
+        {
+          "key": "8673927",
+          "name": "Meriton Suites Sussex Street",
+          "priceUSD": 409,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/meriton-suites-sussex-street_2/hotel/sydney-au.html?cid=1925461"
         }
       ]
     }

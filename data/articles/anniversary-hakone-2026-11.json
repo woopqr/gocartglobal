@@ -6,6 +6,7 @@
   "city": "Hakone",
   "citySlug": "hakone",
   "cityId": 79849,
+  "inSeason": true,
   "country": "Japan",
   "region": "east-asia",
   "regionLabel": "East Asia",
@@ -17,54 +18,154 @@
   "metaDescription": "The 6 finest anniversary escape stays in Hakone — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 63% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Hakone Gora Karaku</b> — rating 9.3, 876 reviews, from $1,171/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 69% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Hakone Kowakien TEN-YU</b> — rating 9, 7,796 reviews, from $1,136/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
-    "total": 30,
+    "total": 29,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 19,
-        "pct": 63
+        "count": 20,
+        "pct": 69
       },
       {
         "key": "group",
         "label": "Groups",
-        "count": 5,
-        "pct": 17
-      },
-      {
-        "key": "family",
-        "label": "Families",
-        "count": 3,
-        "pct": 10
+        "count": 4,
+        "pct": 14
       },
       {
         "key": "solo",
         "label": "Solo",
         "count": 3,
         "pct": 10
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 2,
+        "pct": 7
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/65446077/0/9f638cac82143cf54856c3bf00ec01a9.jpeg?ce=3",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1410571/0/7b7946d01e5cb7b692eb9d9a2f10891f.jpeg?ce=2",
   "heroAlt": "Hakone Anniversary Escape",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
+      "name": "Hakone Kowakien TEN-YU",
+      "agodaUrl": "https://www.agoda.com/hakone-kowakien-ten-yu/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1410571/0/7b7946d01e5cb7b692eb9d9a2f10891f.jpeg?ce=2",
+      "score": 9,
+      "reviewCount": 7796,
+      "reviewCountFmt": "7,796 reviews",
+      "priceText": "$$$ · $1,136/night",
+      "walkMin": 4,
+      "refLabel": "Horaien Bus Station",
+      "star": 5,
+      "propertyId": 1410571,
+      "priceUSD": 1136,
+      "priceStatus": "live",
+      "distanceM": 343.1,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Narukawa Art Museum",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 7,796 reviews. 4 min walk to Horaien Bus Station. $$$ · $1,136/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,136/night",
+        "📝 7,796 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Each day they swap them around, so you can experience both.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Amazing hospitality, great onsen, and very relaxing.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "Loved the hotel and the garden ! Such a magical experience!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The room and facilities were all very clean and well kept.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.02",
+          "translated": false
+        },
+        {
+          "text": "My favorite perk was the onsen—it was absolutely stunning!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
       "name": "Hakone Gora Karaku (ORIX HOTELS & RESORTS)",
       "agodaUrl": "https://www.agoda.com/hakone-gora-karaku-h35392310/hotel/hakone-jp.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/65446077/0/9f638cac82143cf54856c3bf00ec01a9.jpeg?ce=3",
       "score": 9.3,
       "reviewCount": 876,
       "reviewCountFmt": "876 reviews",
-      "priceText": "$$$ · $1,171/night",
+      "priceText": "$$$ · $1,039/night",
       "walkMin": 2,
       "refLabel": "Hakone Tozan Cable Car",
       "star": 5,
       "propertyId": 65446077,
-      "priceUSD": 1171,
+      "priceUSD": 1039,
       "priceStatus": "live",
       "distanceM": 146.92,
       "locationStatus": "verified",
@@ -79,9 +180,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 876 reviews. 2 min walk to Hakone Tozan Cable Car. $$$ · $1,171/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 876 reviews. 2 min walk to Hakone Tozan Cable Car. $$$ · $1,039/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,171/night",
+        "💰 $1,039/night",
         "📝 876 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -153,220 +254,19 @@
       }
     },
     {
-      "rank": 2,
-      "name": "KANAYA RESORT HAKONE",
-      "agodaUrl": "https://www.agoda.com/kanaya-resort-hakone_2/hotel/hakone-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/43452957/-1/ba24b9b3078e850141125bf6a1a8dbe4.jpg?ce=0",
-      "score": 9.2,
-      "reviewCount": 133,
-      "reviewCountFmt": "133 reviews",
-      "priceText": "$$$ · $1,212/night",
-      "walkMin": 12,
-      "refLabel": "Sounzan Funicular Station",
-      "star": 5,
-      "propertyId": 43452957,
-      "priceUSD": 1212,
-      "priceStatus": "live",
-      "distanceM": 961.27,
-      "locationStatus": "verified",
-      "facilities": [
-        "Free Wi-Fi in all rooms!",
-        "Daily housekeeping",
-        "Close to public transportation",
-        "Okada Museum of Art",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.2 · 133 reviews. 12 min walk to Sounzan Funicular Station. $$$ · $1,212/night.",
-      "metaTags": [
-        "💰 $1,212/night",
-        "📝 133 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Groups"
-      ],
-      "travelerTypes": {
-        "topLabel": "Groups",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.2
-          },
-          {
-            "key": "group",
-            "label": "Groups",
-            "count": 3,
-            "pct": 60,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Nice and clean hotel, delicious food and good atmosphere.",
-          "score": "9.2",
-          "country": "United States",
-          "date": "2023.12",
-          "translated": false
-        },
-        {
-          "text": "All the staffs are very friendly and supportive.",
-          "score": "9.2",
-          "country": "United States",
-          "date": "2023.12",
-          "translated": false
-        },
-        {
-          "text": "Our group had an excellent stay at this property.",
-          "score": "10",
-          "country": "Canada",
-          "date": "2023.11",
-          "translated": false
-        },
-        {
-          "text": "The one of the best onsen hotel I have stayed",
-          "score": "10",
-          "country": "Canada",
-          "date": "2023.11",
-          "translated": false
-        },
-        {
-          "text": "Once again, the food is amazing and you should try!",
-          "score": "10",
-          "country": "Canada",
-          "date": "2023.11",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
       "rank": 3,
-      "name": "Hakone Kowakien TEN-YU",
-      "agodaUrl": "https://www.agoda.com/hakone-kowakien-ten-yu/hotel/hakone-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/1410571/0/7b7946d01e5cb7b692eb9d9a2f10891f.jpeg?ce=2",
-      "score": 9,
-      "reviewCount": 7790,
-      "reviewCountFmt": "7,790 reviews",
-      "priceText": "$$$ · $654/night",
-      "walkMin": 4,
-      "refLabel": "Horaien Bus Station",
-      "star": 5,
-      "propertyId": 1410571,
-      "priceUSD": 654,
-      "priceStatus": "live",
-      "distanceM": 343.1,
-      "locationStatus": "verified",
-      "facilities": [
-        "Free Wi-Fi in all rooms!",
-        "Daily housekeeping",
-        "Close to public transportation",
-        "Narukawa Art Museum",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9 · 7,790 reviews. 4 min walk to Horaien Bus Station. $$$ · $654/night. 80% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $654/night",
-        "📝 7,790 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 80,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 4,
-            "pct": 80,
-            "rating": 10
-          },
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.2
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Each day they swap them around, so you can experience both.",
-          "score": "9.2",
-          "country": "Australia",
-          "date": "2025.06",
-          "translated": false
-        },
-        {
-          "text": "Amazing hospitality, great onsen, and very relaxing.",
-          "score": "10",
-          "country": "United States",
-          "date": "2024.05",
-          "translated": false
-        },
-        {
-          "text": "Loved the hotel and the garden ! Such a magical experience!",
-          "score": "10",
-          "country": "United States",
-          "date": "2025.05",
-          "translated": false
-        },
-        {
-          "text": "My favorite perk was the onsen—it was absolutely stunning!",
-          "score": "10",
-          "country": "United States",
-          "date": "2024.12",
-          "translated": false
-        },
-        {
-          "text": "The room and facilities were all very clean and well kept.",
-          "score": "10",
-          "country": "United States",
-          "date": "2026.02",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 4,
       "name": "Hakone Retreat villa 1/f",
       "agodaUrl": "https://www.agoda.com/hakone-retreat-villa-1-f_2/hotel/hakone-jp.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/5000565/0/099ac4218703a4d40cd92a5c42f2fa18.jpeg?ce=3",
       "score": 9.1,
       "reviewCount": 964,
       "reviewCountFmt": "964 reviews",
-      "priceText": "$$$ · $555/night",
+      "priceText": "$$$ · $960/night",
       "walkMin": 4,
       "refLabel": "Shinanok Bus Station",
       "star": 5,
       "propertyId": 5000565,
-      "priceUSD": 555,
+      "priceUSD": 960,
       "priceStatus": "live",
       "distanceM": 295.78,
       "locationStatus": "verified",
@@ -381,9 +281,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 964 reviews. 4 min walk to Shinanok Bus Station. $$$ · $555/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 964 reviews. 4 min walk to Shinanok Bus Station. $$$ · $960/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $555/night",
+        "💰 $960/night",
         "📝 964 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -455,19 +355,19 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Suiun -Kyoritsu Resort",
       "agodaUrl": "https://www.agoda.com/suiun-kyoritsu-resort-h19926842/hotel/hakone-jp.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/19926842/0/b582a4a7e7ad01288635935735ee6c1a.jpeg?ce=3",
       "score": 9.4,
       "reviewCount": 1096,
       "reviewCountFmt": "1,096 reviews",
-      "priceText": "$$ · $459/night",
+      "priceText": "$$$ · $898/night",
       "walkMin": 1,
       "refLabel": "Hakone Tozan Cable Car Koen Shimo Station",
       "star": 5,
       "propertyId": 19926842,
-      "priceUSD": 459,
+      "priceUSD": 898,
       "priceStatus": "live",
       "distanceM": 32.54,
       "locationStatus": "verified",
@@ -482,9 +382,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 1,096 reviews. 1 min walk to Hakone Tozan Cable Car Koen Shimo Station. $$ · $459/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 1,096 reviews. 1 min walk to Hakone Tozan Cable Car Koen Shimo Station. $$$ · $898/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $459/night",
+        "💰 $898/night",
         "📝 1,096 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -549,102 +449,175 @@
       }
     },
     {
-      "rank": 6,
-      "name": "Atami Izusan Karaku ORIX HOTELS & RESORTS",
-      "agodaUrl": "https://www.agoda.com/atami-izusan-karaku-h46623414/hotel/atami-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/65416630/0/18ef1fba1b1dbefe9e18d6a954c290f3.jpeg?ce=3",
-      "score": 9.1,
-      "reviewCount": 170,
-      "reviewCountFmt": "170 reviews",
-      "priceText": "$$$ · $731/night",
-      "walkMin": 17,
-      "refLabel": "Atami Station",
+      "rank": 5,
+      "name": "KANAYA RESORT HAKONE",
+      "agodaUrl": "https://www.agoda.com/kanaya-resort-hakone_2/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/43452957/-1/ba24b9b3078e850141125bf6a1a8dbe4.jpg?ce=0",
+      "score": 9.2,
+      "reviewCount": 133,
+      "reviewCountFmt": "133 reviews",
+      "priceText": "$$$ · $1,249/night",
+      "walkMin": 12,
+      "refLabel": "Sounzan Funicular Station",
       "star": 5,
-      "propertyId": 65416630,
-      "priceUSD": 731,
+      "propertyId": 43452957,
+      "priceUSD": 1249,
       "priceStatus": "live",
-      "distanceM": 1329.17,
+      "distanceM": 961.27,
       "locationStatus": "verified",
       "facilities": [
         "Free Wi-Fi in all rooms!",
-        "Sauna",
-        "Gym/fitness",
-        "Atami Sun Beach",
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Okada Museum of Art",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 170 reviews. 17 min walk to Atami Station. $$$ · $731/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 133 reviews. 12 min walk to Sounzan Funicular Station. $$$ · $1,249/night.",
       "metaTags": [
-        "💰 $731/night",
-        "📝 170 reviews",
+        "💰 $1,249/night",
+        "📝 133 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
+        "👥 Loved by Groups"
       ],
       "travelerTypes": {
-        "topLabel": "Couples",
+        "topLabel": "Groups",
         "topPct": 60,
         "distribution": [
           {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.6
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
+            "key": "solo",
+            "label": "Solo",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
           },
           {
             "key": "group",
             "label": "Groups",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
+            "count": 3,
+            "pct": 60,
+            "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "I had a super good and enjoyable stay here.",
-          "score": "9.6",
+          "text": "Nice and clean hotel, delicious food and good atmosphere.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "All the staffs are very friendly and supportive.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Our group had an excellent stay at this property.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "The one of the best onsen hotel I have stayed",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Once again, the food is amazing and you should try!",
+          "score": "10",
+          "country": "Canada",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "HAKONE NICA",
+      "agodaUrl": "https://www.agoda.com/hakone-nica_3/hotel/all/hakone-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/415839919.jpg?k=457d9389cca3cad5d4cdaea7e4f4975b817a04053e6612646e6ae2ffe72e397d&o=",
+      "score": 9.2,
+      "reviewCount": 142,
+      "reviewCountFmt": "142 reviews",
+      "priceText": "$$$ · $1,014/night",
+      "walkMin": 7,
+      "refLabel": "Miyagino Sales Office Bus Stop",
+      "star": 5,
+      "propertyId": 41201335,
+      "priceUSD": 1014,
+      "priceStatus": "live",
+      "distanceM": 577.01,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Okada Museum of Art"
+      ],
+      "blurb": "Rating 9.2 · 142 reviews. 7 min walk to Miyagino Sales Office Bus Stop. $$$ · $1,014/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,014/night",
+        "📝 142 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Me and my wife had a wonderful time in Hakone Nica.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Super helpful and proactive staff",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Everything was perfect",
+          "score": "10",
           "country": "Hong Kong SAR, China",
           "date": "2026.03",
           "translated": false
         },
         {
-          "text": "Very pleased to come.",
-          "score": "9.6",
-          "country": "HK",
-          "date": "2024.07",
-          "translated": false
-        },
-        {
-          "text": "Excellent service with nice hotel",
+          "text": "Perfect stay",
           "score": "10",
-          "country": "MO",
+          "country": "Australia",
           "date": "2024.09",
-          "translated": false
-        },
-        {
-          "text": "We had an amazing stay and truly loved every moment.",
-          "score": "10",
-          "country": "HK",
-          "date": "2026.07",
-          "translated": false
-        },
-        {
-          "text": "Service, dinner and breakfast were excellent!",
-          "score": "9.2",
-          "country": "Hong Kong SAR, China",
-          "date": "2025.11",
           "translated": false
         }
       ],
@@ -659,16 +632,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T00:32:44.894Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
-    "checkIn": "2026-11-16",
+    "fetchedAt": "2026-10-07T15:35:04.914Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T00:32:44.894Z",
+    "fetchedAt": "2026-10-07T15:35:04.914Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 39,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

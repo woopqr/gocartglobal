@@ -6,6 +6,7 @@
   "city": "Los Cabos",
   "citySlug": "los-cabos",
   "cityId": 17820,
+  "inSeason": true,
   "country": "Mexico",
   "region": "americas",
   "regionLabel": "Americas",
@@ -17,7 +18,7 @@
   "metaDescription": "The 5 finest honeymoon stays in Los Cabos — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 100% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>1 Homes Preview Cabo</b> — rating 9.8, 64 reviews, from $1,733/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 100% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Esperanza, Auberge Collection</b> — rating 10, 66 reviews, from $2,921/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
     "total": 5,
     "distribution": [
@@ -29,65 +30,24 @@
       }
     ]
   },
-  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/288109826.jpg?k=804da76b1a1a10ae0d7630fda06554025ed25a9a78d3afa0c0fc8b12f0840b29&o=",
+  "heroImg": "https://pix8.agoda.net/hotelImages/189448/0/948506a7ff1cdb21f0727be4355af180.jpeg?va=1",
   "heroAlt": "Los Cabos Honeymoon",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
-      "name": "1 Homes Preview Cabo",
-      "agodaUrl": "https://www.agoda.com/1-homes-preview-cabo/hotel/all/cabo-san-lucas-mx.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/288109826.jpg?k=804da76b1a1a10ae0d7630fda06554025ed25a9a78d3afa0c0fc8b12f0840b29&o=",
-      "score": 9.8,
-      "reviewCount": 64,
-      "reviewCountFmt": "64 reviews",
-      "priceText": "$$$ · $1,733/night",
-      "walkMin": 1,
-      "refLabel": "Playa Médano",
-      "star": 5,
-      "propertyId": 22769587,
-      "priceUSD": 1733,
-      "priceStatus": "live",
-      "distanceM": 0.58,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Free Wi-Fi in all rooms!",
-        "Sauna",
-        "Gym/fitness"
-      ],
-      "blurb": "Rating 9.8 · 64 reviews. 1 min walk to Playa Médano. $$$ · $1,733/night.",
-      "metaTags": [
-        "💰 $1,733/night",
-        "📝 64 reviews",
-        "⭐ 5-star"
-      ],
-      "travelerTypes": null,
-      "reviews": [],
-      "quality": {
-        "issues": [
-          "reviewSample"
-        ],
-        "critical": false,
-        "completeness": 88,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 2,
       "name": "Esperanza, Auberge Collection",
       "agodaUrl": "https://www.agoda.com/esperanza-auberge-resorts-collection_7/hotel/all/cabo-san-lucas-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/189448/0/948506a7ff1cdb21f0727be4355af180.jpeg",
+      "img": "https://pix8.agoda.net/hotelImages/189448/0/948506a7ff1cdb21f0727be4355af180.jpeg?va=1",
       "score": 10,
       "reviewCount": 66,
       "reviewCountFmt": "66 reviews",
-      "priceText": "$$$ · $1,557/night",
+      "priceText": "$$$ · $2,921/night",
       "walkMin": 30,
       "refLabel": "Playa Médano",
       "star": 5,
       "propertyId": 189448,
-      "priceUSD": 1557,
+      "priceUSD": 2921,
       "priceStatus": "live",
       "distanceM": 2438.71,
       "locationStatus": "verified",
@@ -102,9 +62,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 10 · 66 reviews. $$$ · $1,557/night.",
+      "blurb": "Rating 10 · 66 reviews. $$$ · $2,921/night.",
       "metaTags": [
-        "💰 $1,557/night",
+        "💰 $2,921/night",
         "📝 66 reviews",
         "⭐ 5-star"
       ],
@@ -121,19 +81,19 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "name": "Waldorf Astoria Los Cabos Pedregal",
       "agodaUrl": "https://www.agoda.com/the-resort-at-pedregal/hotel/cabo-san-lucas-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/9389743/-1/9410219aa8715856693522645090de48.jpg?ca=9&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/9389743/-1/9410219aa8715856693522645090de48.jpg?va=1&ca=9&ce=1",
       "score": 9.7,
-      "reviewCount": 77,
-      "reviewCountFmt": "77 reviews",
-      "priceText": "$$$ · $1,553/night",
+      "reviewCount": 78,
+      "reviewCountFmt": "78 reviews",
+      "priceText": "$$$ · $2,493/night",
       "walkMin": 11,
       "refLabel": "Playa Médano",
       "star": 5,
       "propertyId": 9389743,
-      "priceUSD": 1553,
+      "priceUSD": 2493,
       "priceStatus": "live",
       "distanceM": 912.55,
       "locationStatus": "verified",
@@ -141,10 +101,51 @@
         "Free Wi-Fi in all rooms!",
         "Daily housekeeping"
       ],
-      "blurb": "Rating 9.7 · 77 reviews. 11 min walk to Playa Médano. $$$ · $1,553/night.",
+      "blurb": "Rating 9.7 · 78 reviews. 11 min walk to Playa Médano. $$$ · $2,493/night.",
       "metaTags": [
-        "💰 $1,553/night",
-        "📝 77 reviews",
+        "💰 $2,493/night",
+        "📝 78 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "1 Homes Preview Cabo",
+      "agodaUrl": "https://www.agoda.com/1-homes-preview-cabo/hotel/all/cabo-san-lucas-mx.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/288109826.jpg?k=804da76b1a1a10ae0d7630fda06554025ed25a9a78d3afa0c0fc8b12f0840b29&o=",
+      "score": 9.8,
+      "reviewCount": 64,
+      "reviewCountFmt": "64 reviews",
+      "priceText": "$$$ · $2,012/night",
+      "walkMin": 1,
+      "refLabel": "Playa Médano",
+      "star": 5,
+      "propertyId": 22769587,
+      "priceUSD": 2012,
+      "priceStatus": "live",
+      "distanceM": 0.58,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Gym/fitness"
+      ],
+      "blurb": "Rating 9.8 · 64 reviews. 1 min walk to Playa Médano. $$$ · $2,012/night.",
+      "metaTags": [
+        "💰 $2,012/night",
+        "📝 64 reviews",
         "⭐ 5-star"
       ],
       "travelerTypes": null,
@@ -163,7 +164,7 @@
       "rank": 4,
       "name": "ME Cabo by Meliá – Adults Only",
       "agodaUrl": "https://www.agoda.com/me-cabo-hotel/hotel/cabo-san-lucas-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/173417/0/8f89def83741c956dbcb24dccef5dbc4.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/173417/-1/34a58d3b30821d8b23c11e429e975e29.jpg?va=1&ca=26&ce=0",
       "score": 8.6,
       "reviewCount": 260,
       "reviewCountFmt": "260 reviews",
@@ -256,25 +257,25 @@
       "rank": 5,
       "name": "The Cape, A Thompson Hotel By Hyatt",
       "agodaUrl": "https://www.agoda.com/the-cape-a-thompson-hotel/hotel/cabo-san-lucas-mx.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/62272965.jpg?k=94c94830f635749b277699c82152abcc5bb3409fba86941620378d0fe6ef9ec7&o=",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/917491346.jpg?k=4a66ea2d9544f01349cdfd5d99708b837c0f11b64593789f3e725308793be463&o=",
       "score": 9.2,
       "reviewCount": 172,
       "reviewCountFmt": "172 reviews",
-      "priceText": "$$$ · $1,220/night",
+      "priceText": "$$$ · $1,287/night",
       "walkMin": 8,
       "refLabel": "Playa Médano",
       "star": 5,
       "propertyId": 21614917,
-      "priceUSD": 1220,
+      "priceUSD": 1287,
       "priceStatus": "live",
       "distanceM": 674.13,
       "locationStatus": "verified",
       "facilities": [
         "Daily housekeeping"
       ],
-      "blurb": "Rating 9.2 · 172 reviews. 8 min walk to Playa Médano. $$$ · $1,220/night.",
+      "blurb": "Rating 9.2 · 172 reviews. 8 min walk to Playa Médano. $$$ · $1,287/night.",
       "metaTags": [
-        "💰 $1,220/night",
+        "💰 $1,287/night",
         "📝 172 reviews",
         "⭐ 5-star"
       ],
@@ -293,25 +294,25 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T00:32:53.201Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
-    "checkIn": "2026-11-16",
+    "fetchedAt": "2026-10-07T15:35:15.708Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T00:32:53.201Z",
+    "fetchedAt": "2026-10-07T15:35:15.708Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 39,
     "targetMonth": "2026-11",
     "count": 5,
     "quality": {
       "ok": true,
       "errors": [],
       "warnings": [
-        "1 Homes Preview Cabo: reviewSample",
         "Esperanza, Auberge Collection: reviewSample",
         "Waldorf Astoria Los Cabos Pedregal: reviewSample",
+        "1 Homes Preview Cabo: reviewSample",
         "The Cape, A Thompson Hotel By Hyatt: reviewSample"
       ]
     },
