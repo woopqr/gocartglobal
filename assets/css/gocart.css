@@ -98,3 +98,18 @@ body{letter-spacing:-.003em}
 .sp-sub{margin-left:0}
 .sphotel,.sp-stay{border-radius:2px!important}
 footer{border-top:3px solid var(--navy)}
+
+/* at a glance (answer-first) · trust line · about this data */
+.glance{border-left:3px solid var(--accent)}
+.glance-list{list-style:none;padding:0;margin:8px 0 0;display:grid;gap:8px}
+.glance-list li{line-height:1.6}
+.glance-list b{font-weight:700;color:var(--text);margin-right:4px}
+.trustline{font-size:.86rem;color:var(--muted);margin:0}
+.trustline a{color:var(--accent-d);text-decoration:underline}
+.aboutdata{margin-top:10px}
+.aboutdata summary{cursor:pointer;font-size:.86rem;font-weight:600;color:var(--text)}
+.aboutdata ul{margin:10px 0 0 18px;font-size:.88rem;color:var(--muted);line-height:1.65}
+.evidence-box h2{display:none}
+.gdata{margin-top:18px;font-size:.92rem;color:rgba(255,255,255,.72);max-width:62ch}
+.gdata b{color:#fff;font-weight:600}
+.glance .glance-list b{background:none!important;padding:0!important;border-radius:0!important;color:var(--text)!important;box-shadow:none!important;font-size:inherit!important}

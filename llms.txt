@@ -4,6 +4,8 @@
 
 GoCart Global publishes data-backed guides to five-star hotels, resorts and private villas worldwide. Every hotel list comes from live Agoda search data (five-star only, confirmed nightly price incl. taxes, 30+ reviews) and is refreshed regularly; prices are indicative at the time of the last check.
 
+Right now we track live nightly rates at 223 five-star hotels across 28 destinations — 231 rates checked, most recently on October 6, 2026.
+
 ## Destination guides
 - [Where to Stay in Bali for Luxury: Uluwatu, Ubud, Nusa Dua and More](https://gocartglobal.com/articles/bali-where-to-stay-luxury): Where to stay in Bali for a luxury trip: Uluwatu cliffs, Ubud jungle, Nusa Dua beaches, Seminyak and Jimbaran compared, plus how to split a stay and when to go.
 - [Dubai vs Abu Dhabi: Where to Stay for an Ultra-Luxury Beach or City Trip](https://gocartglobal.com/articles/dubai-vs-abu-dhabi-ultra-luxury): Dubai or Abu Dhabi for an ultra-luxury stay? Palm Jumeirah, Downtown and Saadiyat compared, plus culture, desert trips, dress etiquette and best months.

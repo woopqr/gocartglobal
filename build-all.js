@@ -77,6 +77,21 @@ function cardHtml(m) {
       </a>`;
 }
 
+// 원본 데이터 요약 문장(GEO) — 과정이 아니라 결과를 사람 말로. STYLE-GUIDE §4-3
+function dataLineHtml() {
+  const ids = new Set(); let rates = 0, latest = '';
+  const cities = new Set();
+  for (const f of fs.readdirSync(ART).filter(f => f.endsWith('.json'))) {
+    const d = readJson('data/articles/' + f, null); if (!d || !isCurrentOrFuture(d)) continue;
+    cities.add(d.citySlug);
+    for (const h of d.hotels || []) { ids.add(h.propertyId); if (h.priceUSD) rates++; }
+    const t = String(d.methodology?.fetchedAt || '').slice(0, 10); if (t > latest) latest = t;
+  }
+  if (!rates) return '';
+  const when = new Date(latest).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+  return `Right now we track live nightly rates at <b>${ids.size} five-star hotels</b> across <b>${cities.size} destinations</b> — ${rates} rates checked, most recently on ${when}.`;
+}
+
 function regionTilesHtml(metas) {
   return REGIONS.map(r => {
     const n = new Set(metas.filter(m => m.region === r.id && !m.special).map(m => m.citySlug)).size;
@@ -168,7 +183,8 @@ function writePages(shell, ctx, activeCats) {
     }
     let html = applyShell(shell, opts);
     if (ctx.kind === 'category') html = html.replace(/<!--HERO_START-->[\s\S]*?<!--HERO_END-->/, '<!--HERO_START--><!--HERO_END-->').replace(/<!--REGIONS_START-->[\s\S]*?<!--REGIONS_END-->/, '<!--REGIONS_START--><!--REGIONS_END-->');
-    else if (ctx.regionsHtml != null) html = html.replace(/<!--REGIONS_START-->[\s\S]*?<!--REGIONS_END-->/, `<!--REGIONS_START-->${ctx.regionsHtml}<!--REGIONS_END-->`);
+    else if (ctx.regionsHtml != null) html = html.replace(/<!--REGIONS_START-->[\s\S]*?<!--REGIONS_END-->/, `<!--REGIONS_START-->${ctx.regionsHtml}<!--REGIONS_END-->`)
+      .replace(/<!--DATA_START-->[\s\S]*?<!--DATA_END-->/, `<!--DATA_START-->${ctx.dataLine || ''}<!--DATA_END-->`);
     if (opts.hubHtml) html = html.replace('<div class="seclabel" id="seclabel">', opts.hubHtml + '<div class="seclabel" id="seclabel">');
     if (opts.description) html = html.replace(/<meta name="description" content="[^"]*">/, `<meta name="description" content="${esc(opts.description)}">`)
       .replace(/(<meta property="og:description" content=")[^"]*(">)/, `$1${esc(opts.description)}$2`);
@@ -209,7 +225,7 @@ function regenAll(metas) {
   cleanDir(path.join(ROOT, 'category'), /\.html$/);
 
   // 홈(전체 최신 피드)
-  const homePages = writePages(shell, { kind: 'home', base: '/', metas, regionsHtml: regionTilesHtml(metas) }, activeCats);
+  const homePages = writePages(shell, { kind: 'home', base: '/', metas, regionsHtml: regionTilesHtml(metas), dataLine: dataLineHtml() }, activeCats);
 
   // 카테고리 › 지역 › 도시 (허브 페이지)
   const catPageInfo = [];
@@ -290,6 +306,7 @@ function regenSitemap(metas, info) {
 function regenLlms(metas) {
   const lines = [`# ${SITE.name}`, '', `> ${SITE.description}`, '',
     'GoCart Global publishes data-backed guides to five-star hotels, resorts and private villas worldwide. Every hotel list comes from live Agoda search data (five-star only, confirmed nightly price incl. taxes, 30+ reviews) and is refreshed regularly; prices are indicative at the time of the last check.', '',
+    ...(dataLineHtml() ? [dataLineHtml().replace(/<[^>]+>/g, ''), ''] : []),
     '## Destination guides'];
   metas.filter(m => m.special).forEach(m => lines.push(`- [${m.title}](${BASE}/articles/${m.slug}): ${m.description || ''}`));
   lines.push('', '## Collections');

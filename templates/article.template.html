@@ -43,7 +43,10 @@
     </div>
   </div>
 
-  <div class="callout verdict"><span class="vlabel">THE VERDICT</span>{{{verdict}}}</div>
+  <section class="callout verdict glance" aria-label="At a glance">
+    <span class="vlabel">AT A GLANCE</span>
+    <ul class="glance-list">{{#glance}}<li><b>{{k}}</b> {{{v}}}</li>{{/glance}}</ul>
+  </section>
 
   {{#hasGuide}}
   <section class="guide">
@@ -58,14 +61,15 @@
   {{/hasGuide}}
 
   <section class="databox evidence-box">
-    <h2>How we ranked & data scope</h2>
-    <dl class="evidence-list">
-      <div><dt>Data source</dt><dd>{{sourceName}}</dd></div>
-      <div><dt>Fetched</dt><dd>{{fetchedAtLabel}}</dd></div>
-      <div><dt>Search criteria</dt><dd>{{searchCondition}}</dd></div>
-      <div><dt>Type sample</dt><dd>{{sampleTotal}} snippets · {{sampleReliability}}</dd></div>
-    </dl>
-    <p class="dsub">{{sampleNotice}} Prices, availability and amenities may change after the fetch time; unverified values are flagged, not estimated.</p>
+    <p class="trustline">Live Agoda rates · Five-star only · Prices checked {{checkedLabel}} · <a href="/pages/methodology.html">How we rank</a></p>
+    <details class="aboutdata"><summary>About this data</summary>
+      <ul>
+        <li>Prices are Agoda's live rates for {{adultsN}} adults, one room, one night, checking in {{checkInLabel}} — taxes and fees included.</li>
+        <li>Only five-star hotels and resorts from $250 a night with at least 30 guest reviews are considered; private rentals are excluded.</li>
+        <li>"Who loves these stays" is based on a sample of {{sampleTotal}} recent guest reviews — a guide to who each hotel suits, not the full picture.</li>
+        <li>Rates and availability change. Confirm the live price on Agoda before you book.</li>
+      </ul>
+    </details>
   </section>
 
   {{#seasonNote}}<p class="ssnnote">🗓️ {{travelMonthLabel}} · {{season}} tip: {{seasonNote}}</p>{{/seasonNote}}
@@ -74,7 +78,7 @@
   {{#hasAggregate}}
   <section class="databox">
     <h2>📊 Who loves these stays</h2>
-    <p class="dsub">Aggregated from review snippets in the search response for {{city}} {{audience}} candidates, grouped by traveler type. This shows sample direction, not the full review mix.</p>
+    <p class="dsub">Based on a sample of recent guest reviews for these {{city}} stays — a guide to who they suit, not the full review mix.</p>
     {{{aggregateChartHtml}}}
   </section>
   {{/hasAggregate}}
@@ -94,7 +98,7 @@
     </div>
     <div class="bd">
       <p class="blurb">{{blurb}}</p>
-      <p class="field-status">Price: {{priceStatus}} · Location: {{locationStatus}} · Type sample: {{sampleCount}}</p>
+      <p class="field-status">{{priceLine}}</p>
       <div class="meta">{{#metaTags}}<span>{{.}}</span>{{/metaTags}}</div>
       {{#hasTypes}}{{{typeBarsHtml}}}{{/hasTypes}}
       {{#hasReviews}}
@@ -110,7 +114,7 @@
 
   <div class="callout basis">
     <p class="bt">🔎 How we chose</p>
-    <p>Only five-star hotels and resorts with a confirmed nightly price (at least $250, taxes and fees included) and 30+ guest reviews qualify. We rank by price tier, review volume, rating and resort/villa character, add a {{audience}}-specific weighting, and avoid repeating the same hotels across our other {{city}} guides for the same month. Traveler-type fit comes only from the review snippets in Agoda's response. Missing prices, amenities and locations are never estimated — re-check live rates at checkout.</p>
+    <p>Five-star only, from $250 a night with 30+ guest reviews. We rank by price tier, guest rating and review depth, weight what matters most for a {{audience}} trip, and feature a different set of hotels in each of our {{city}} guides. <a href="/pages/methodology.html">Read the full methodology</a>.</p>
   </div>
 
   <div class="outro">

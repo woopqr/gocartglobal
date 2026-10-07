@@ -23,6 +23,7 @@ const THEMES = readJson('data/themes.json', { themes: [] });
 const cityDefOf = slug => CITIES.find(c => c.slug === slug) || null;
 const regionLabelOf = id => (REGIONS.find(r => r.id === id) || {}).label || '';
 const fmtUSD = n => '$' + Number(n).toLocaleString('en-US');
+const fmtDate = d => { const t = new Date(d); return isNaN(t) ? String(d || '') : t.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' }); };
 
 // 관련 글(같은 도시 다른 카테고리 + 같은 카테고리 같은 지역) — 내부 링크
 let _allArticles = null;
@@ -214,6 +215,13 @@ function buildContext(data) {
       : 'unavailable at last check — see live price on Agoda',
     locationStatus: h.locationStatus || (h.walkMin && h.refLabel ? 'verified' : 'approx.'),
     sampleCount: h.travelerTypes?.total || (h.travelerTypes?.distribution || []).reduce((n, d) => n + (d.count || 0), 0),
+    // 사람 말 요약(내부 용어 없이) — STYLE-GUIDE §4-2
+    blurb: `Rated ${h.score}/10 by ${Number(h.reviewCount).toLocaleString('en-US')} guests.`
+      + (h.walkMin && h.walkMin <= 20 && h.refLabel ? ` ${h.walkMin} min walk to ${h.refLabel}.` : '')
+      + (h.travelerTypes?.topLabel ? ` Most popular with ${String(h.travelerTypes.topLabel).toLowerCase()}.` : ''),
+    priceLine: h.priceUSD
+      ? `From $${Number(h.priceUSD).toLocaleString('en-US')} a night · taxes & fees included · checked ${fmtDate(data.methodology?.fetchedAt || data.updated)}`
+      : 'Live price on Agoda',
   }));
   const canonical = `https://${SITE.domain}/articles/${data.slug}`;
   const fetchedAt = data.methodology?.fetchedAt || data._meta?.fetchedAt || data.updated;
@@ -237,7 +245,8 @@ function buildContext(data) {
   const ld = [{
       '@context': 'https://schema.org', '@type': 'Article',
       headline: title, description: metaDescription,
-      datePublished: data._meta?.firstPublished || data.updated, dateModified: data.updated,
+      datePublished: data._meta?.firstPublished || data.updated, dateModified: String(data.methodology?.fetchedAt || data.updated).slice(0, 10),
+      isBasedOn: 'https://www.agoda.com/',
       image: data.heroImg || undefined,
       author: { '@type': 'Organization', name: 'GoCart Global data desk', url: `${B}/pages/about.html` },
       publisher: { '@type': 'Organization', name: SITE.name, url: `${B}/` },
@@ -247,8 +256,14 @@ function buildContext(data) {
     },
     { '@context': 'https://schema.org', '@type': 'BreadcrumbList',
       itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: B + c.url })) },
-    { '@context': 'https://schema.org', '@type': 'ItemList', name: title,
-      itemListElement: hotels.map(h => ({ '@type': 'ListItem', position: h.rank, name: h.name })) },
+    { '@context': 'https://schema.org', '@type': 'ItemList', name: title, numberOfItems: hotels.length,
+      itemListElement: hotels.map(h => ({ '@type': 'ListItem', position: h.rank, item: {
+        '@type': 'Hotel', name: h.name, image: h.img || undefined,
+        starRating: h.star ? { '@type': 'Rating', ratingValue: h.star } : undefined,
+        aggregateRating: h.score ? { '@type': 'AggregateRating', ratingValue: h.score, bestRating: 10, reviewCount: h.reviewCount } : undefined,
+        priceRange: h.priceUSD ? `From $${h.priceUSD} per night` : undefined,
+        address: { '@type': 'PostalAddress', addressLocality: data.city, addressCountry: data.country || cd?.country || undefined },
+      } })) },
     { '@context': 'https://schema.org', '@type': 'FAQPage',
       mainEntity: faq.map(f => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })) }];
   return {
@@ -269,6 +284,18 @@ function buildContext(data) {
     authorName: 'GoCart Global data desk',
     updatedLabel: data.updated || String(fetchedAt || '').slice(0, 10),
     crumbHtml: crumbs.map((c, i) => i === crumbs.length - 1 ? `<span>${escapeHtml(c.name)}</span>` : `<a href="${c.url}">${escapeHtml(c.name)}</a>`).join(' <span>›</span> '), region, regionLabel, country: data.country || cd?.country || '',
+    glance: (() => {
+      const top = hotels[0], prices = hotels.map(h => h.priceUSD).filter(Boolean).sort((a, b) => a - b);
+      const checked = fmtDate(data.methodology?.fetchedAt || data.updated);
+      const out = [];
+      if (top) out.push({ k: `Best ${String(data.audience).toLowerCase()} hotel in ${data.city}:`, v: `${escapeHtml(shortName(top.name))} — rated ${top.score}/10 by ${Number(top.reviewCount).toLocaleString('en-US')} guests${top.priceUSD ? `, from ${fmtUSD(top.priceUSD)} a night` : ''}.` });
+      if (prices.length >= 2) out.push({ k: 'Price range:', v: `${fmtUSD(prices[0])}–${fmtUSD(prices[prices.length - 1])} a night for these ${hotels.length} five-star stays (2 adults, taxes included, checked ${checked}).` });
+      if (guide?.bestTime) out.push({ k: 'Best time to go:', v: escapeHtml(String(guide.bestTime).split(/(?<=\.)\s/)[0]) });
+      return out;
+    })(),
+    checkedLabel: fmtDate(data.methodology?.fetchedAt || data.updated),
+    checkInLabel: fmtDate(data.methodology?.checkIn || ''),
+    adultsN: data.methodology?.adults || 2,
     inSeason: (cd?.bestMonths || []).includes(Number(String(data._meta?.targetMonth || '').split('-')[1])),
     guide, hasGuide: !!guide, themeAngle, guideAreas: guide?.areas || [],
     faq, hasFaq: faq.length > 0, related, hasRelated: related.length > 0,
@@ -314,7 +341,7 @@ function buildSpecialContext(data, hotels, hotelsMeta) {
   return {
     site: SITE, adsense: SITE.adsense, canonical, jsonld, agodaUrl, updated: data.updated,
     crumbHtml: crumbs.map((c, i) => i === crumbs.length - 1 ? `<span>${escapeHtml(c.name)}</span>` : `<a href="${c.url}">${escapeHtml(c.name)}</a>`).join(' <span>›</span> '),
-    hotelBasis: (hotelsMeta && hotelsMeta.basis) || 'USD per room/night incl. taxes & fees', hotelsUpdated: (hotelsMeta && hotelsMeta.updated) || data.updated,
+    hotelBasis: 'Live Agoda rates for 2 adults, taxes and fees included', hotelsUpdated: (hotelsMeta && hotelsMeta.updated) || data.updated,
     slug: data.slug, title: data.title, metaDescription: data.metaDescription,
     keywordsCsv: (data.keywords || []).join(', '),
     heroEyebrow: hero.eyebrow || '', heroHeadline: escapeHtml(hero.headline || '').replace(/\n/g, '<br>'), heroSub: hero.sub || '',
