@@ -6,6 +6,7 @@
   "city": "Seychelles",
   "citySlug": "seychelles",
   "cityId": 669661,
+  "inSeason": true,
   "country": "Seychelles",
   "region": "indian-ocean",
   "regionLabel": "Indian Ocean",
@@ -17,105 +18,97 @@
   "metaDescription": "The 6 finest honeymoon stays in Seychelles — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 81% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Constance Lemuria</b> — rating 9.4, 998 reviews, from $4,275/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 76% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Resort Seychelles</b> — rating 9.4, 250 reviews, from $24,133/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
-    "total": 26,
+    "total": 21,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 21,
-        "pct": 81
+        "count": 16,
+        "pct": 76
       },
       {
         "key": "family",
         "label": "Families",
         "count": 5,
-        "pct": 19
+        "pct": 24
       }
     ]
   },
-  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/495013411.jpg?k=d2143f7b714993f7779b705cb6ac2d956d0d2fc7d898f4e48385adb6098fca1c&o=",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/765555032.jpg?k=ff8d48e8b96381d8b101349d219837af378f13737270a68c90d1327cae632437&o=",
   "heroAlt": "Seychelles Honeymoon",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
-      "name": "Constance Lemuria",
-      "agodaUrl": "https://www.agoda.com/constance-lemuria_2/hotel/all/seychelles-islands-sc.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/495013411.jpg?k=d2143f7b714993f7779b705cb6ac2d956d0d2fc7d898f4e48385adb6098fca1c&o=",
+      "name": "Four Seasons Resort Seychelles",
+      "agodaUrl": "https://www.agoda.com/four-seasons-resort-seychelles/hotel/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/765555032.jpg?k=ff8d48e8b96381d8b101349d219837af378f13737270a68c90d1327cae632437&o=",
       "score": 9.4,
-      "reviewCount": 998,
-      "reviewCountFmt": "998 reviews",
-      "priceText": "$$$ · $4,275/night",
-      "walkMin": 6,
-      "refLabel": "Anse Georgette Beach",
+      "reviewCount": 250,
+      "reviewCountFmt": "250 reviews",
+      "priceText": "$$$ · $24,133/night",
+      "walkMin": 63,
+      "refLabel": "Anse Intendance",
       "star": 5,
-      "propertyId": 3534615,
-      "priceUSD": 4275,
+      "propertyId": 182766,
+      "priceUSD": 24133,
       "priceStatus": "live",
-      "distanceM": 448.43,
+      "distanceM": 5047.58,
       "locationStatus": "verified",
       "facilities": [
+        "Swimming pool",
         "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Daily housekeeping",
-        "Anse Lazio Beach"
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
       ],
-      "blurb": "Rating 9.4 · 998 reviews. 6 min walk to Anse Georgette Beach. $$$ · $4,275/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 250 reviews. $$$ · $24,133/night. 50% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $4,275/night",
-        "📝 998 reviews",
+        "💰 $24,133/night",
+        "📝 250 reviews",
         "⭐ 5-star",
+        "🏝️ Resort / Villa",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
         "topLabel": "Couples",
-        "topPct": 100,
+        "topPct": 50,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.8
+            "count": 1,
+            "pct": 50,
+            "rating": 8.8
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 50,
+            "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "The rooms are spacious, clean, and very comfortable.",
-          "score": "10",
-          "country": "Guatemala",
-          "date": "2025.12",
-          "translated": false
-        },
-        {
-          "text": "The staff were outstanding and the service was exceptional.",
-          "score": "10",
-          "country": "United States",
-          "date": "2025.08",
-          "translated": false
-        },
-        {
-          "text": "The flora and fauna around the resort were just amazing.",
+          "text": "One of the best resorts we have ever been….",
           "score": "10",
           "country": "Canada",
-          "date": "2025.05",
+          "date": "2024.03",
           "translated": false
         },
         {
-          "text": "The crab bisque was out of this world we enjoyed it a lot.",
-          "score": "10",
-          "country": "Canada",
-          "date": "2025.05",
-          "translated": false
-        },
-        {
-          "text": "The staff went above & beyond to satisfy all our requests.",
+          "text": "Amazing stay .. loved the room and the vibes",
           "score": "8.8",
-          "country": "Saudi Arabia",
-          "date": "2024.06",
+          "country": "United Arab Emirates",
+          "date": "2022.12",
           "translated": false
         }
       ],
@@ -135,12 +128,12 @@
       "score": 9.5,
       "reviewCount": 169,
       "reviewCountFmt": "169 reviews",
-      "priceText": "$$$ · $3,077/night",
+      "priceText": "$$$ · $3,078/night",
       "walkMin": 98,
       "refLabel": "Morne Blanc",
       "star": 5,
       "propertyId": 199059,
-      "priceUSD": 3077,
+      "priceUSD": 3078,
       "priceStatus": "live",
       "distanceM": 7830.61,
       "locationStatus": "verified",
@@ -155,9 +148,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 169 reviews. $$$ · $3,077/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.5 · 169 reviews. $$$ · $3,078/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $3,077/night",
+        "💰 $3,078/night",
         "📝 169 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -223,98 +216,18 @@
     },
     {
       "rank": 3,
-      "name": "Four Seasons Resort Seychelles",
-      "agodaUrl": "https://www.agoda.com/four-seasons-resort-seychelles/hotel/seychelles-islands-sc.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/765555032.jpg?k=ff8d48e8b96381d8b101349d219837af378f13737270a68c90d1327cae632437&o=",
-      "score": 9.4,
-      "reviewCount": 250,
-      "reviewCountFmt": "250 reviews",
-      "priceText": "$$$ · $2,301/night",
-      "walkMin": 63,
-      "refLabel": "Anse Intendance",
-      "star": 5,
-      "propertyId": 182766,
-      "priceUSD": 2301,
-      "priceStatus": "live",
-      "distanceM": 5047.58,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Gym/fitness",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.4 · 250 reviews. $$$ · $2,301/night. 50% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $2,301/night",
-        "📝 250 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 50,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 1,
-            "pct": 50,
-            "rating": 8.8
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 50,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "One of the best resorts we have ever been….",
-          "score": "10",
-          "country": "Canada",
-          "date": "2024.03",
-          "translated": false
-        },
-        {
-          "text": "Amazing stay .. loved the room and the vibes",
-          "score": "8.8",
-          "country": "United Arab Emirates",
-          "date": "2022.12",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 4,
       "name": "Six Senses Zil Pasyon",
       "agodaUrl": "https://www.agoda.com/six-senses-zil-pasyon/hotel/seychelles-islands-sc.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/160287664.jpg?k=291e49dfedcb6091d5e088ac0b8cc7f63a80a6622d12f2db6a6f39bb7ec0a68c&o=",
       "score": 9.2,
       "reviewCount": 36,
       "reviewCountFmt": "36 reviews",
-      "priceText": "$$$ · $2,262/night",
+      "priceText": "$$$ · $2,286/night",
       "walkMin": 16,
       "refLabel": "Coco Island",
       "star": 5,
       "propertyId": 1282255,
-      "priceUSD": 2262,
+      "priceUSD": 2286,
       "priceStatus": "live",
       "distanceM": 1276.87,
       "locationStatus": "verified",
@@ -329,9 +242,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 36 reviews. 16 min walk to Coco Island. $$$ · $2,262/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 36 reviews. 16 min walk to Coco Island. $$$ · $2,286/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,262/night",
+        "💰 $2,286/night",
         "📝 36 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -388,19 +301,19 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Raffles Seychelles",
       "agodaUrl": "https://www.agoda.com/raffles-praslin-seychelles/hotel/seychelles-islands-sc.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/285373/-1/4237af3e2a809ec7764a244679fb069c.jpg?ca=9&ce=1",
       "score": 9.2,
       "reviewCount": 198,
       "reviewCountFmt": "198 reviews",
-      "priceText": "$$$ · $2,131/night",
+      "priceText": "$$$ · $2,139/night",
       "walkMin": 27,
       "refLabel": "Anse Lazio Beach",
       "star": 5,
       "propertyId": 285373,
-      "priceUSD": 2131,
+      "priceUSD": 2139,
       "priceStatus": "live",
       "distanceM": 2171.37,
       "locationStatus": "verified",
@@ -415,9 +328,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 198 reviews. $$$ · $2,131/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 198 reviews. $$$ · $2,139/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,131/night",
+        "💰 $2,139/night",
         "📝 198 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -488,19 +401,19 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Four Seasons Resort Seychelles at Desroches Island",
       "agodaUrl": "https://www.agoda.com/four-seasons-resort-seychelles-at-desroches-island/hotel/seychelles-islands-sc.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/5547511/-1/9af7f8956d24caa9248ba051a295e787.jpg?ca=7&ce=1",
       "score": 9.5,
       "reviewCount": 95,
       "reviewCountFmt": "95 reviews",
-      "priceText": "$$$ · $1,801/night",
+      "priceText": "$$$ · $1,611/night",
       "walkMin": 2,
       "refLabel": "Desroches Island Beach",
       "star": 5,
       "propertyId": 5547511,
-      "priceUSD": 1801,
+      "priceUSD": 1611,
       "priceStatus": "live",
       "distanceM": 175.82,
       "locationStatus": "verified",
@@ -515,9 +428,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 95 reviews. 2 min walk to Desroches Island Beach. $$$ · $1,801/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.5 · 95 reviews. 2 min walk to Desroches Island Beach. $$$ · $1,611/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,801/night",
+        "💰 $1,611/night",
         "📝 95 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -587,26 +500,69 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
+    },
+    {
+      "rank": 6,
+      "name": "Denis Private Island Seychelles",
+      "agodaUrl": "https://www.agoda.com/denis-private-island-seychelles_2/hotel/all/seychelles-islands-sc.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/90042263.jpg?k=9fee6d7a6d86b401e8b5c2f32990d53e2d6e805e744f14142850962f6d5765b3&o=",
+      "score": 9.6,
+      "reviewCount": 79,
+      "reviewCountFmt": "79 reviews",
+      "priceText": "$$$ · $2,043/night",
+      "walkMin": 1,
+      "refLabel": "Denis Private Island Beach",
+      "star": 5,
+      "propertyId": 7415495,
+      "priceUSD": 2043,
+      "priceStatus": "live",
+      "distanceM": 79.37,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping"
+      ],
+      "blurb": "Rating 9.6 · 79 reviews. 1 min walk to Denis Private Island Beach. $$$ · $2,043/night.",
+      "metaTags": [
+        "💰 $2,043/night",
+        "📝 79 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T00:32:28.362Z",
+    "fetchedAt": "2026-10-07T06:04:58.539Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T00:32:28.362Z",
+    "fetchedAt": "2026-10-07T06:04:58.539Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 40,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
       "ok": true,
       "errors": [],
-      "warnings": []
+      "warnings": [
+        "Denis Private Island Seychelles: reviewSample"
+      ]
     },
     "firstPublished": "2026-10-06"
   }

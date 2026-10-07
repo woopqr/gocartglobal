@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 6,
+  "cursor": 7,
   "observations": [
     {
       "city": "Bali",
@@ -360,6 +360,121 @@
           "priceUSD": 2245,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/la-reserve-paris-hotel-and-spa/hotel/paris-fr.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Phuket",
+      "citySlug": "phuket",
+      "cityId": 16056,
+      "observedAt": "2026-10-07T06:05:08.210Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-06, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "2838322",
+          "name": "Rosewood Phuket",
+          "priceUSD": 1943,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/rosewood-phuket_3/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "296788",
+          "name": "Villa Baan Phu Prana",
+          "priceUSD": 1504,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/villa-baan-phu-prana/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3073929",
+          "name": "Trisara Villas & Residences Phuket",
+          "priceUSD": 1424,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/trisara-sha-plus_2/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "17641654",
+          "name": "V Villas Phuket - Mgallery",
+          "priceUSD": 1271,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/v-villas-phuket-mgallery/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3072111",
+          "name": "Keemala",
+          "priceUSD": 1024,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/keemala-sha-plus_3/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3078894",
+          "name": "Kata Rocks",
+          "priceUSD": 971,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/kata-rocks-sha-extra-plus_2/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "527702",
+          "name": "Anantara Layan Phuket Resort",
+          "priceUSD": 860,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/anantara-layan-phuket-resort/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "177991",
+          "name": "The Shore at Katathani - Adults only",
+          "priceUSD": 766,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-shore-at-katathani-adults-only/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "159289",
+          "name": "Paresa Resort Phuket",
+          "priceUSD": 758,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/paresa-resort-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "37161110",
+          "name": "Three Monkeys Villas",
+          "priceUSD": 744,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/three-monkeys-villas/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "3082798",
+          "name": "Andara Resort Villas",
+          "priceUSD": 784,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/andara-resort-villas_4/hotel/all/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10936",
+          "name": "The Surin Phuket",
+          "priceUSD": 697,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-surin-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "109870",
+          "name": "Anantara Mai Khao Phuket Villas",
+          "priceUSD": 601,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/anantara-mai-khao-phuket-villas/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10884",
+          "name": "Banyan Tree Phuket ",
+          "priceUSD": 595,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/banyan-tree-phuket/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "61919855",
+          "name": "Cafe del Mar Phuket -Suite & Penthouse ",
+          "priceUSD": 536,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/cafe-del-mar-hotel/hotel/kammala-th.html?cid=1925461"
         }
       ]
     }

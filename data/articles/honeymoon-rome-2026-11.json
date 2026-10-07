@@ -6,6 +6,7 @@
   "city": "Rome",
   "citySlug": "rome",
   "cityId": 16594,
+  "inSeason": false,
   "country": "Italy",
   "region": "europe",
   "regionLabel": "Europe",
@@ -17,42 +18,36 @@
   "metaDescription": "The 6 finest honeymoon stays in Rome — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 96% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Rocco Forte Hotel de Russie</b> — rating 9.2, 55 reviews, from $2,501/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 100% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Rocco Forte Hotel de Russie</b> — rating 9.2, 55 reviews, from $2,354/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
-    "total": 28,
+    "total": 26,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 27,
-        "pct": 96
-      },
-      {
-        "key": "group",
-        "label": "Groups",
-        "count": 1,
-        "pct": 4
+        "count": 26,
+        "pct": 100
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/287809/0/93606a44c277bc270e94fb147379e98e.jpg?ca=0&ce=1",
+  "heroImg": "https://pix8.agoda.net/hotelImages/287809/0/93606a44c277bc270e94fb147379e98e.jpg?va=1&ca=0&ce=1",
   "heroAlt": "Rome Honeymoon",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "hotels": [
     {
       "rank": 1,
       "name": "Rocco Forte Hotel de Russie",
       "agodaUrl": "https://www.agoda.com/rocco-forte-hotel-de-russie/hotel/rome-it.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/287809/0/93606a44c277bc270e94fb147379e98e.jpg?ca=0&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/287809/0/93606a44c277bc270e94fb147379e98e.jpg?va=1&ca=0&ce=1",
       "score": 9.2,
       "reviewCount": 55,
       "reviewCountFmt": "55 reviews",
-      "priceText": "$$$ · $2,501/night",
+      "priceText": "$$$ · $2,354/night",
       "walkMin": 4,
       "refLabel": "Flaminio - Piazza del Popolo Underground Station",
       "star": 5,
       "propertyId": 287809,
-      "priceUSD": 2501,
+      "priceUSD": 2354,
       "priceStatus": "live",
       "distanceM": 320.54,
       "locationStatus": "verified",
@@ -67,9 +62,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 55 reviews. 4 min walk to Flaminio - Piazza del Popolo Underground Station. $$$ · $2,501/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 55 reviews. 4 min walk to Flaminio - Piazza del Popolo Underground Station. $$$ · $2,354/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,501/night",
+        "💰 $2,354/night",
         "📝 55 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -140,12 +135,12 @@
       "score": 9.6,
       "reviewCount": 59,
       "reviewCountFmt": "59 reviews",
-      "priceText": "$$$ · $1,446/night",
+      "priceText": "$$$ · $1,554/night",
       "walkMin": 1,
       "refLabel": "Spagna Underground Station",
       "star": 5,
       "propertyId": 6724242,
-      "priceUSD": 1446,
+      "priceUSD": 1554,
       "priceStatus": "live",
       "distanceM": 84,
       "locationStatus": "verified",
@@ -160,9 +155,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.6 · 59 reviews. 1 min walk to Spagna Underground Station. $$$ · $1,446/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.6 · 59 reviews. 1 min walk to Spagna Underground Station. $$$ · $1,554/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,446/night",
+        "💰 $1,554/night",
         "📝 59 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -233,12 +228,12 @@
       "score": 9.2,
       "reviewCount": 184,
       "reviewCountFmt": "184 reviews",
-      "priceText": "$$$ · $1,246/night",
+      "priceText": "$$$ · $1,251/night",
       "walkMin": 4,
       "refLabel": "Spagna Underground Station",
       "star": 5,
       "propertyId": 1005,
-      "priceUSD": 1246,
+      "priceUSD": 1251,
       "priceStatus": "live",
       "distanceM": 304.52,
       "locationStatus": "verified",
@@ -253,9 +248,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 184 reviews. 4 min walk to Spagna Underground Station. $$$ · $1,246/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 184 reviews. 4 min walk to Spagna Underground Station. $$$ · $1,251/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,246/night",
+        "💰 $1,251/night",
         "📝 184 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -308,16 +303,16 @@
       "rank": 4,
       "name": "Portrait Roma - Lungarno Collection",
       "agodaUrl": "https://www.agoda.com/portrait-roma-lungarno-collection/hotel/all/rome-it.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/295942/0/1b77316d1405353fcc6077d677b9beae.jpeg",
+      "img": "https://pix8.agoda.net/hotelImages/295942/0/1b77316d1405353fcc6077d677b9beae.jpeg?va=1",
       "score": 9.6,
-      "reviewCount": 110,
-      "reviewCountFmt": "110 reviews",
-      "priceText": "$$$ · $1,247/night",
+      "reviewCount": 111,
+      "reviewCountFmt": "111 reviews",
+      "priceText": "$$$ · $1,252/night",
       "walkMin": 3,
       "refLabel": "Spagna Underground Station",
       "star": 5,
       "propertyId": 295942,
-      "priceUSD": 1247,
+      "priceUSD": 1252,
       "priceStatus": "live",
       "distanceM": 256.31,
       "locationStatus": "verified",
@@ -332,10 +327,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.6 · 110 reviews. 3 min walk to Spagna Underground Station. $$$ · $1,247/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.6 · 111 reviews. 3 min walk to Spagna Underground Station. $$$ · $1,252/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,247/night",
-        "📝 110 reviews",
+        "💰 $1,252/night",
+        "📝 111 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -401,16 +396,16 @@
       "rank": 5,
       "name": "The St. Regis Rome",
       "agodaUrl": "https://www.agoda.com/the-st-regis-rome/hotel/rome-it.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/801501216.jpg?k=8261df55aa6264427195989b90c8a7bf471abcd6c0332179829baee0d1e6c4bc&o=",
+      "img": "https://pix8.agoda.net/hotelImages/4870055/0/e84fdd6c5802f1c8307324b8eec251a2.jpeg?va=1&ce=3",
       "score": 9.3,
-      "reviewCount": 281,
-      "reviewCountFmt": "281 reviews",
-      "priceText": "$$$ · $1,176/night",
+      "reviewCount": 282,
+      "reviewCountFmt": "282 reviews",
+      "priceText": "$$$ · $1,180/night",
       "walkMin": 2,
       "refLabel": "Repubblica - Teatro dell'Opera Metro Station",
       "star": 5,
       "propertyId": 4042,
-      "priceUSD": 1176,
+      "priceUSD": 1180,
       "priceStatus": "live",
       "distanceM": 141.38,
       "locationStatus": "verified",
@@ -425,10 +420,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 281 reviews. 2 min walk to Repubblica - Teatro dell'Opera Metro Station. $$$ · $1,176/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 282 reviews. 2 min walk to Repubblica - Teatro dell'Opera Metro Station. $$$ · $1,180/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,176/night",
-        "📝 281 reviews",
+        "💰 $1,180/night",
+        "📝 282 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -492,24 +487,24 @@
     },
     {
       "rank": 6,
-      "name": "Umilta 36 - Preferred Hotels & Resorts",
-      "agodaUrl": "https://www.agoda.com/umilta-36_2/hotel/all/rome-it.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/593207611.jpg?k=44578679a6f37a413cbd9d1475d152c33cd096b165fdf356d2d94534f96dd626&o=",
-      "score": 9.5,
-      "reviewCount": 2188,
-      "reviewCountFmt": "2,188 reviews",
-      "priceText": "$$$ · $767/night",
-      "walkMin": 9,
+      "name": "Six Senses Rome",
+      "agodaUrl": "https://www.agoda.com/six-senses-rome/hotel/all/rome-it.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/602232451.jpg?k=bf2ca1b313d78c08aabe2105081344f374c8b38a76d20044ba37ae2f9258fe86&o=",
+      "score": 9.4,
+      "reviewCount": 35,
+      "reviewCountFmt": "35 reviews",
+      "priceText": "$$$ · $1,182/night",
+      "walkMin": 10,
       "refLabel": "Barberini - Fontana di Trevi Underground Station",
       "star": 5,
-      "propertyId": 31589020,
-      "priceUSD": 767,
+      "propertyId": 35239902,
+      "priceUSD": 1182,
       "priceStatus": "live",
-      "distanceM": 719.11,
+      "distanceM": 836.73,
       "locationStatus": "verified",
       "facilities": [
-        "Rome top guest-rated area",
         "Free Wi-Fi in all rooms!",
+        "Sauna",
         "Close to public transportation",
         "Arcibasilica di San Giovanni in Laterano",
         "Wi-Fi [free]",
@@ -518,68 +513,46 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 2,188 reviews. 9 min walk to Barberini - Fontana di Trevi Underground Station. $$$ · $767/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 35 reviews. 10 min walk to Barberini - Fontana di Trevi Underground Station. $$$ · $1,182/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $767/night",
-        "📝 2,188 reviews",
+        "💰 $1,182/night",
+        "📝 35 reviews",
         "⭐ 5-star",
-        "🏝️ Resort / Villa",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
         "topLabel": "Couples",
-        "topPct": 80,
+        "topPct": 100,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 4,
-            "pct": 80,
+            "count": 3,
+            "pct": 100,
             "rating": 9.7
-          },
-          {
-            "key": "group",
-            "label": "Groups",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
           }
         ]
       },
       "reviews": [
         {
-          "text": "Good location , modern decorations and excellent service.",
-          "score": "9.6",
-          "country": "HK",
-          "date": "2024.12",
-          "translated": false
-        },
-        {
-          "text": "The rooms are spacious and have a great decor.",
-          "score": "9.6",
-          "country": "Israel",
-          "date": "2022.10",
-          "translated": false
-        },
-        {
-          "text": "Truly one of the best hotels in my life.",
+          "text": "Fantastic location and superb service.",
           "score": "10",
-          "country": "Singapore",
-          "date": "2025.11",
+          "country": "Philippines",
+          "date": "2025.02",
           "translated": false
         },
         {
-          "text": "The food especially the breakfast is amazing and delicious.",
-          "score": "9.6",
-          "country": "Saudi Arabia",
-          "date": "2023.12",
+          "text": "We spent a wonderful time in a great hotel in Rome.",
+          "score": "9.2",
+          "country": "Japan",
+          "date": "2026.03",
           "translated": false
         },
         {
-          "text": "Brilliant, Exceptional, Convenient, Absolutely Enjoyable",
-          "score": "9.6",
-          "country": "Australia",
-          "date": "2025.09",
+          "text": "The best hotel in Rome",
+          "score": "10",
+          "country": "Bulgaria",
+          "date": "2026.04",
           "translated": false
         }
       ],
@@ -594,16 +567,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-06T00:32:34.269Z",
+    "fetchedAt": "2026-10-07T06:05:07.064Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-06T00:32:34.269Z",
+    "fetchedAt": "2026-10-07T06:05:07.064Z",
     "source": "agoda citySearch",
-    "daysAhead": 41,
+    "daysAhead": 40,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
