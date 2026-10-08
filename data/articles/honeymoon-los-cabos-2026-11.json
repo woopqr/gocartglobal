@@ -18,7 +18,7 @@
   "metaDescription": "The 5 finest honeymoon stays in Los Cabos — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 100% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Esperanza, Auberge Collection</b> — rating 10, 66 reviews, from $2,921/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 100% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Esperanza, Auberge Collection</b> — rating 10, 66 reviews, from $3,076/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
     "total": 5,
     "distribution": [
@@ -30,24 +30,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/189448/0/948506a7ff1cdb21f0727be4355af180.jpeg?va=1",
+  "heroImg": "https://pix8.agoda.net/hotelImages/189448/0/948506a7ff1cdb21f0727be4355af180.jpeg",
   "heroAlt": "Los Cabos Honeymoon",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
       "name": "Esperanza, Auberge Collection",
       "agodaUrl": "https://www.agoda.com/esperanza-auberge-resorts-collection_7/hotel/all/cabo-san-lucas-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/189448/0/948506a7ff1cdb21f0727be4355af180.jpeg?va=1",
+      "img": "https://pix8.agoda.net/hotelImages/189448/0/948506a7ff1cdb21f0727be4355af180.jpeg",
       "score": 10,
       "reviewCount": 66,
       "reviewCountFmt": "66 reviews",
-      "priceText": "$$$ · $2,921/night",
+      "priceText": "$$$ · $3,076/night",
       "walkMin": 30,
       "refLabel": "Playa Médano",
       "star": 5,
       "propertyId": 189448,
-      "priceUSD": 2921,
+      "priceUSD": 3076,
       "priceStatus": "live",
       "distanceM": 2438.71,
       "locationStatus": "verified",
@@ -62,9 +62,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 10 · 66 reviews. $$$ · $2,921/night.",
+      "blurb": "Rating 10 · 66 reviews. $$$ · $3,076/night.",
       "metaTags": [
-        "💰 $2,921/night",
+        "💰 $3,076/night",
         "📝 66 reviews",
         "⭐ 5-star"
       ],
@@ -84,16 +84,16 @@
       "rank": 2,
       "name": "Waldorf Astoria Los Cabos Pedregal",
       "agodaUrl": "https://www.agoda.com/the-resort-at-pedregal/hotel/cabo-san-lucas-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/9389743/-1/9410219aa8715856693522645090de48.jpg?va=1&ca=9&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/9389743/-1/9410219aa8715856693522645090de48.jpg?ca=9&ce=1",
       "score": 9.7,
       "reviewCount": 78,
       "reviewCountFmt": "78 reviews",
-      "priceText": "$$$ · $2,493/night",
+      "priceText": "$$$ · $2,474/night",
       "walkMin": 11,
       "refLabel": "Playa Médano",
       "star": 5,
       "propertyId": 9389743,
-      "priceUSD": 2493,
+      "priceUSD": 2474,
       "priceStatus": "live",
       "distanceM": 912.55,
       "locationStatus": "verified",
@@ -101,9 +101,9 @@
         "Free Wi-Fi in all rooms!",
         "Daily housekeeping"
       ],
-      "blurb": "Rating 9.7 · 78 reviews. 11 min walk to Playa Médano. $$$ · $2,493/night.",
+      "blurb": "Rating 9.7 · 78 reviews. 11 min walk to Playa Médano. $$$ · $2,474/night.",
       "metaTags": [
-        "💰 $2,493/night",
+        "💰 $2,474/night",
         "📝 78 reviews",
         "⭐ 5-star"
       ],
@@ -164,7 +164,7 @@
       "rank": 4,
       "name": "ME Cabo by Meliá – Adults Only",
       "agodaUrl": "https://www.agoda.com/me-cabo-hotel/hotel/cabo-san-lucas-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/173417/-1/34a58d3b30821d8b23c11e429e975e29.jpg?va=1&ca=26&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/173417/0/8f89def83741c956dbcb24dccef5dbc4.jpeg?ce=3",
       "score": 8.6,
       "reviewCount": 260,
       "reviewCountFmt": "260 reviews",
@@ -294,16 +294,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T15:35:15.708Z",
+    "fetchedAt": "2026-10-08T15:40:00.819Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T15:35:15.708Z",
+    "fetchedAt": "2026-10-08T15:40:00.819Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 5,
     "quality": {

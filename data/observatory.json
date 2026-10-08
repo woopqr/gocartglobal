@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 10,
+  "cursor": 11,
   "observations": [
     {
       "city": "Bali",
@@ -736,6 +736,86 @@
           "priceUSD": 387,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/meriton-suites-kent-street/hotel/sydney-au.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Mauritius",
+      "citySlug": "mauritius",
+      "cityId": 19226,
+      "observedAt": "2026-10-08T15:40:05.213Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-07, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "68363",
+          "name": "Maradiva Villas Resort & Spa",
+          "priceUSD": 1604,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/maradiva-villas-resort-spa/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "3532999",
+          "name": "One&Only Le Saint Geran, Mauritius",
+          "priceUSD": 1424,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/one-only-le-saint-geran-mauritius_2/hotel/all/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "5809978",
+          "name": "Four Seasons Resort Mauritius at Anahita",
+          "priceUSD": 1407,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/four-seasons-resort-mauritius-at-anahita/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "3534613",
+          "name": "Constance Prince Maurice",
+          "priceUSD": 1166,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/constance-prince-maurice/hotel/all/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "190302",
+          "name": "LUX* Grand Baie",
+          "priceUSD": 1140,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/merville-beach-resort-grand-baie/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "59248",
+          "name": "Hilton Mauritius Resort & Spa",
+          "priceUSD": 942,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hilton-mauritius-resort-spa/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "293435",
+          "name": "Shanti Maurice Resort & Spa",
+          "priceUSD": 907,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/shanti-maurice-resort-spa/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "199836",
+          "name": "La Pirogue Mauritius",
+          "priceUSD": 775,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/la-pirogue-a-sun-resort/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "59245",
+          "name": "Heritage Awali Golf & Spa Resort - All Inclusive",
+          "priceUSD": 723,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/heritage-awali-golf-spa-resort-all-inclusive/hotel/mauritius-island-mu.html?cid=1925461"
+        },
+        {
+          "key": "79031",
+          "name": "Sofitel Mauritius L’Imperial Resort & Spa",
+          "priceUSD": 617,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sofitel-mauritius-l-imperial-resort-spa/hotel/mauritius-island-mu.html?cid=1925461"
         }
       ]
     }

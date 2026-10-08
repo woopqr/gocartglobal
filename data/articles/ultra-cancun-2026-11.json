@@ -36,15 +36,15 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/33406879/-1/29cbda9a78a4c39ed38d046464aa21d5.jpg?ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/33406879/0/16bc0e0f3b34b390877be35637ec4e10.jpeg?va=1&ce=3",
   "heroAlt": "Cancun Ultra-Luxury",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
       "name": "Impression Isla Mujeres by Secrets – Adults only – All Inclusive",
       "agodaUrl": "https://www.agoda.com/secrets-impression-isla-mujeres/hotel/cancun-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/33406879/-1/29cbda9a78a4c39ed38d046464aa21d5.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/33406879/0/16bc0e0f3b34b390877be35637ec4e10.jpeg?va=1&ce=3",
       "score": 9.3,
       "reviewCount": 194,
       "reviewCountFmt": "194 reviews",
@@ -116,7 +116,7 @@
       "rank": 2,
       "name": "Le Blanc Spa Resort Cancun – Adults Only – All Inclusive",
       "agodaUrl": "https://www.agoda.com/le-blanc-spa-resort-all-inclusive-adults-only_2/hotel/cancun-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/2457916/-1/4d909e149c27df8cca636bcabde2a2ea.jpg?ca=26&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/2457916/0/cb11caa64fda5484405f0a6977cb2eee.jpeg?va=1&ce=3",
       "score": 9.3,
       "reviewCount": 421,
       "reviewCountFmt": "421 reviews",
@@ -217,7 +217,7 @@
       "rank": 3,
       "name": "Waldorf Astoria Riviera Maya",
       "agodaUrl": "https://www.agoda.com/waldorf-astoria-cancun/hotel/cancun-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/18694436/0/e15d00a64d9acca876d49410b1c14e39.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/18694436/0/e15d00a64d9acca876d49410b1c14e39.jpeg?va=1&ce=3",
       "score": 9.2,
       "reviewCount": 151,
       "reviewCountFmt": "151 reviews",
@@ -294,16 +294,16 @@
       "rank": 4,
       "name": "Atelier Playa Mujeres - All Inclusive - Adults Only",
       "agodaUrl": "https://www.agoda.com/inspira-by-atelier-playa-mujeres-all-inclusive-resort/hotel/cancun-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/9771240/-1/9e1f34b349465a176872dafa9bb3462f.jpg?ca=9&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/9771240/0/0ab5337b2f12a1f3f46c4d7e1c9f555e.jpeg?va=1&ce=3",
       "score": 8.9,
       "reviewCount": 264,
       "reviewCountFmt": "264 reviews",
-      "priceText": "$$$ · $891/night",
+      "priceText": "$$$ · $902/night",
       "walkMin": 124,
       "refLabel": "Cancun Bus Station",
       "star": 5,
       "propertyId": 9771240,
-      "priceUSD": 891,
+      "priceUSD": 902,
       "priceStatus": "live",
       "distanceM": 9945.61,
       "locationStatus": "verified",
@@ -318,9 +318,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 264 reviews. $$$ · $891/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 264 reviews. $$$ · $902/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $891/night",
+        "💰 $902/night",
         "📝 264 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -347,17 +347,17 @@
           "translated": false
         },
         {
-          "text": "Loved this resort and will definitely be returning.",
-          "score": "10",
-          "country": "United States",
-          "date": "2026.06",
-          "translated": false
-        },
-        {
           "text": "This resort is one of a kind and i highly recommend",
           "score": "9.2",
           "country": "United States",
           "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Loved this resort and will definitely be returning.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
           "translated": false
         },
         {
@@ -385,35 +385,35 @@
     },
     {
       "rank": 5,
-      "name": "Hotel Mousai Cancun All-Inclusive Adults Only",
-      "agodaUrl": "https://www.agoda.com/hotel-mousai-cancun-adults-only/hotel/cancun-mx.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/740484165.jpg?k=ca9045a8385bf6ff99e8b8dfc19764ae312520cefc7fde0aceeae4c6a5e17339&o=",
-      "score": 9.2,
-      "reviewCount": 103,
-      "reviewCountFmt": "103 reviews",
-      "priceText": "$$$ · $903/night",
-      "walkMin": 96,
-      "refLabel": "Cancun Bus Station",
+      "name": "Waldorf Astoria Riviera Maya, an All-Inclusive Experience",
+      "agodaUrl": "https://www.agoda.com/waldorf-astoria-cancun_13/hotel/all/cancun-mx.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/833739628.jpg?k=4722ac603dc055f2108ef7eea532c19e1c048e4d091654e625c91b0729345a20&o=",
+      "score": 9.3,
+      "reviewCount": 136,
+      "reviewCountFmt": "136 reviews",
+      "priceText": "$$$ · $950/night",
+      "walkMin": 41,
+      "refLabel": "Xoximilco Cancun by Xcaret",
       "star": 5,
-      "propertyId": 54626516,
-      "priceUSD": 903,
+      "propertyId": 26982443,
+      "priceUSD": 950,
       "priceStatus": "live",
-      "distanceM": 7640.26,
+      "distanceM": 3316.59,
       "locationStatus": "verified",
       "facilities": [
         "Free Wi-Fi in all rooms!",
-        "Gym/fitness",
-        "Daily housekeeping",
+        "Sauna",
+        "Xoximilco Cancun by Xcaret",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 103 reviews. $$$ · $903/night.",
+      "blurb": "Rating 9.3 · 136 reviews. $$$ · $950/night.",
       "metaTags": [
-        "💰 $903/night",
-        "📝 103 reviews",
+        "💰 $950/night",
+        "📝 136 reviews",
         "⭐ 5-star"
       ],
       "travelerTypes": null,
@@ -432,7 +432,7 @@
       "rank": 6,
       "name": "Moon Palace The Grand Cancun - All Inclusive",
       "agodaUrl": "https://www.agoda.com/the-grand-at-moon-palace-all-inclusive_6/hotel/cancun-mx.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/7011046/-1/f72ade992f78d5133ea5e321b005dd89.jpg?ca=27&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/7011046/0/1098a5567ec0f3d39fd7a61518a84722.jpeg?va=1&ce=3",
       "score": 8.2,
       "reviewCount": 516,
       "reviewCountFmt": "516 reviews",
@@ -477,23 +477,23 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T15:34:59.292Z",
+    "fetchedAt": "2026-10-08T15:39:44.184Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T15:34:59.292Z",
+    "fetchedAt": "2026-10-08T15:39:44.184Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
       "ok": true,
       "errors": [],
       "warnings": [
-        "Hotel Mousai Cancun All-Inclusive Adults Only: reviewSample",
+        "Waldorf Astoria Riviera Maya, an All-Inclusive Experience: reviewSample",
         "Moon Palace The Grand Cancun - All Inclusive: reviewSample"
       ]
     },

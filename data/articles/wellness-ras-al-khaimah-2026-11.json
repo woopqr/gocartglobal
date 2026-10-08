@@ -18,21 +18,21 @@
   "metaDescription": "The 6 finest wellness & spa stays in Ras Al Khaimah — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
   "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-  "verdict": "About 67% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert</b> — rating 9.4, 2,001 reviews, from $793/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert</b> — rating 9.4, 2,001 reviews, from $793/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 20,
-        "pct": 67
+        "count": 15,
+        "pct": 50
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 6,
-        "pct": 20
+        "count": 11,
+        "pct": 37
       },
       {
         "key": "group",
@@ -44,7 +44,7 @@
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/729915615.jpg?k=34f2d72541b95bcbd1c116a17d82faf4c1661a74c5e76e2964d5b1c95d9702f5&o=",
   "heroAlt": "Ras Al Khaimah Wellness & Spa",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
@@ -64,12 +64,7 @@
       "distanceM": null,
       "locationStatus": "approx.",
       "facilities": [
-        "Daily housekeeping",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
+        "Daily housekeeping"
       ],
       "blurb": "Rating 9.4 · 2,001 reviews. $$$ · $793/night. 80% of sampled reviews from couples.",
       "metaTags": [
@@ -128,7 +123,7 @@
           "translated": false
         },
         {
-          "text": "Akshay at the front desk was fast and efficient.",
+          "text": "Pablo ensured we left with a smile on our faces.",
           "score": "9.6",
           "country": "United Arab Emirates",
           "date": "2026.03",
@@ -214,17 +209,17 @@
           "translated": false
         },
         {
-          "text": "Their outstanding service made our stay even more enjoyable.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2026.08",
-          "translated": false
-        },
-        {
           "text": "We stayed in the villa with private pool",
           "score": "10",
           "country": "United Arab Emirates",
           "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "Their outstanding service made our stay even more enjoyable.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.08",
           "translated": false
         },
         {
@@ -256,8 +251,8 @@
       "agodaUrl": "https://www.agoda.com/anantara-mina-al-arab-ras-al-khaimah-resort/hotel/ras-al-khaimah-ae.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/525370390.jpg?k=fddba8c1e6ea25a6f828e273a036c2e4aafc37d4a6e098eadd0d3c4c017ba234&o=",
       "score": 9.1,
-      "reviewCount": 2235,
-      "reviewCountFmt": "2,235 reviews",
+      "reviewCount": 2236,
+      "reviewCountFmt": "2,236 reviews",
       "priceText": "$$ · $326/night",
       "walkMin": 89,
       "refLabel": "Rak Bus Station",
@@ -278,10 +273,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 2,235 reviews. $$ · $326/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 2,236 reviews. $$ · $326/night. 80% of sampled reviews from couples.",
       "metaTags": [
         "💰 $326/night",
-        "📝 2,235 reviews",
+        "📝 2,236 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -353,99 +348,9 @@
     },
     {
       "rank": 4,
-      "name": "SO/ RAS AL KHAIMAH ADULTS ONLY 13+",
-      "agodaUrl": "https://www.agoda.com/so-ras-al-khaimah-hotel-resort/hotel/ras-al-khaimah-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/81666305/0/dd88dccc6f593353ce43e99776e5502b.jpeg?va=1&ce=3",
-      "score": 9.5,
-      "reviewCount": 548,
-      "reviewCountFmt": "548 reviews",
-      "priceText": "$$$ · $531/night",
-      "walkMin": 43,
-      "refLabel": "Al Hamra Mall",
-      "star": 5,
-      "propertyId": 81666305,
-      "priceUSD": 531,
-      "priceStatus": "live",
-      "distanceM": 3453.63,
-      "locationStatus": "verified",
-      "facilities": [
-        "Al Hamra Mall",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.5 · 548 reviews. $$$ · $531/night. 100% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $531/night",
-        "📝 548 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 5,
-            "pct": 100,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "The beach experience is one of the best I've ever had.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2026.06",
-          "translated": false
-        },
-        {
-          "text": "The beach experience is where this place really shines.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2026.04",
-          "translated": false
-        },
-        {
-          "text": "You turned a great weekend into an unforgettable one.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2026.04",
-          "translated": false
-        },
-        {
-          "text": "The quality and presentation are always excellent.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2026.06",
-          "translated": false
-        },
-        {
-          "text": "I can't wait to come back for my sixth visit.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2026.06",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
       "name": "Rixos Al Mairid Ras Al Khaimah",
       "agodaUrl": "https://www.agoda.com/hilton-ras-al-khaimah-resort-amp-spa/hotel/ras-al-khaimah-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/59337288/0/5e8698f6a64cf842f042d2d8b669296d.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/59337288/-1/59a02920a3e91ade327091cfd2328833.png?va=1&ce=0",
       "score": 8.9,
       "reviewCount": 1268,
       "reviewCountFmt": "1,268 reviews",
@@ -539,10 +444,10 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Rixos Bab Al Bahr",
       "agodaUrl": "https://www.agoda.com/rixos-bab-al-bahr-hotel/hotel/ras-al-khaimah-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/487326/0/24a8c913a1065c08a4363d40160ce84e.jpeg?va=1",
+      "img": "https://pix8.agoda.net/hotelImages/487326/0/cfd20879b54ee48c11c614a66b850b04.jpg?va=1&ce=3",
       "score": 8.6,
       "reviewCount": 391,
       "reviewCountFmt": "391 reviews",
@@ -637,20 +542,112 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
+    },
+    {
+      "rank": 6,
+      "name": "Waldorf Astoria Ras Al Khaimah",
+      "agodaUrl": "https://www.agoda.com/waldorf-astoria-ras-al-khaimah/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2291118/0/529c16ee5d61949453a8573baf61cd26.jpg?va=1&ce=0",
+      "score": 8.9,
+      "reviewCount": 1546,
+      "reviewCountFmt": "1,546 reviews",
+      "priceText": "$$ · $334/night",
+      "walkMin": 6,
+      "refLabel": "Fortress Al Jazeera Al Hamra",
+      "star": 5,
+      "propertyId": 272261,
+      "priceUSD": 334,
+      "priceStatus": "live",
+      "distanceM": 482.29,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Al Hamra Mall",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 1,546 reviews. 6 min walk to Fortress Al Jazeera Al Hamra. $$ · $334/night.",
+      "metaTags": [
+        "💰 $334/night",
+        "📝 1,546 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had a great time very nice hotel, clean and staff amazing",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Staff assigned at towel & pool station are friendly also.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "All staff are helpful, with wonderful smiles & friendly.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Giving water to your customers is a very generous idea!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Fantastic stay with a beautiful upgrade of facilities.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T15:35:10.036Z",
+    "fetchedAt": "2026-10-08T15:39:55.350Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T15:35:10.036Z",
+    "fetchedAt": "2026-10-08T15:39:55.350Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

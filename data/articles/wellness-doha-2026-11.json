@@ -1,0 +1,673 @@
+{
+  "slug": "wellness-doha-2026-11",
+  "theme": "wellness",
+  "audience": "Wellness & Spa",
+  "emoji": "🧖",
+  "city": "Doha",
+  "citySlug": "doha",
+  "cityId": 4472,
+  "inSeason": true,
+  "country": "Qatar",
+  "region": "middle-east",
+  "regionLabel": "Middle East",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=4472",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Doha] Where Serenity Meets Serious Luxury",
+  "metaDescription": "The 6 finest wellness & spa stays in Doha — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
+  "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 10% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Sharq Village & Spa, a Ritz-Carlton Hotel</b> — rating 9.3, 1,036 reviews, from $303/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 22,
+        "pct": 73
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/4880846/0/217705a06684e640f9c18d800d0fadaa.jpeg?va=1&ce=3",
+  "heroAlt": "Doha Wellness & Spa",
+  "updated": "2026-10-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "Sharq Village & Spa, a Ritz-Carlton Hotel",
+      "agodaUrl": "https://www.agoda.com/sharq-village-spa_8/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/4880846/0/217705a06684e640f9c18d800d0fadaa.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 1036,
+      "reviewCountFmt": "1,036 reviews",
+      "priceText": "$$ · $303/night",
+      "walkMin": 10,
+      "refLabel": "National Museum Station",
+      "star": 5,
+      "propertyId": 84960,
+      "priceUSD": 303,
+      "priceStatus": "live",
+      "distanceM": 812.87,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "National Museum of Qatar",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 1,036 reviews. 10 min walk to National Museum Station. $$ · $303/night.",
+      "metaTags": [
+        "💰 $303/night",
+        "📝 1,036 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rooms are very clean as they get cleaned twice per day.",
+          "score": "8.8",
+          "country": "United Arab Emirates",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Other than that the facilities were great and on point.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "They provide a late check out policy which is very helpful",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Top tier services and amenities.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "Overalll the hotel and people are ecellenr",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2025.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Kempinski Residences & Suites",
+      "agodaUrl": "https://www.agoda.com/kempinski-residences-suites/hotel/doha-qa.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/922730823.jpg?k=938db9d1496728888c46fa5dc6a3123c2fb3294b080bd233686268e06e7bf2d6&o=",
+      "score": 9,
+      "reviewCount": 1561,
+      "reviewCountFmt": "1,561 reviews",
+      "priceText": "$$ · $329/night",
+      "walkMin": 9,
+      "refLabel": "DECC Station",
+      "star": 5,
+      "propertyId": 179940,
+      "priceUSD": 329,
+      "priceStatus": "live",
+      "distanceM": 705.89,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "National Museum of Qatar",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 1,561 reviews. 9 min walk to DECC Station. $$ · $329/night.",
+      "metaTags": [
+        "💰 $329/night",
+        "📝 1,561 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "One of the best experience I had yet",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Great swimming pool for kids and play area is wonderful.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Great ambience, by the staff and excellent facilities.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Housekeeping excellent, not a spec of dust.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Rooms immaculate with lots of space.",
+          "score": "9.2",
+          "country": "United Kingdom",
+          "date": "2025.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "The Chedi Katara Hotel & Resort",
+      "agodaUrl": "https://www.agoda.com/the-chedi-katara-hotel-resort/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34418905/-1/e184d0d26ac9cb80b3ec11252777ff70.jpg?va=1&ce=0",
+      "score": 9.4,
+      "reviewCount": 402,
+      "reviewCountFmt": "402 reviews",
+      "priceText": "$$ · $346/night",
+      "walkMin": 5,
+      "refLabel": "Katara Station",
+      "star": 5,
+      "propertyId": 34418905,
+      "priceUSD": 346,
+      "priceStatus": "live",
+      "distanceM": 364.3,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Museum of Illusions",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 402 reviews. 5 min walk to Katara Station. $$ · $346/night.",
+      "metaTags": [
+        "💰 $346/night",
+        "📝 402 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 5,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "By far the most beautiful hotel we’ve ever been in Qatar.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Our recent stay at The Chedi was nothing short of exemplary.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Very proactive and always attentive to our needs.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The pool and the beach is def worth visiting…",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Special thanks to Krys and Jen from the reception area.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Marsa Malaz Kempinski The Pearl Doha",
+      "agodaUrl": "https://www.agoda.com/marsa-malaz-kempinski-the-pearl-doha/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/785647/-1/97d9ad7774e914a8d410cdbcf434e52d.jpg?va=1&ca=27&ce=0",
+      "score": 8.9,
+      "reviewCount": 3403,
+      "reviewCountFmt": "3,403 reviews",
+      "priceText": "$$ · $420/night",
+      "walkMin": 32,
+      "refLabel": "Legtaifiya Station",
+      "star": 5,
+      "propertyId": 785647,
+      "priceUSD": 420,
+      "priceStatus": "live",
+      "distanceM": 2551.59,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Katara Cultural Village",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 3,403 reviews. $$ · $420/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $420/night",
+        "📝 3,403 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Room layout was superb, very spacious with walk-in closet.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The room was cozy, spotless, and thoughtfully prepared.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The staff are incredibly friendly and welcoming.",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Excellent gym spa facilites and very high quality food..",
+          "score": "9.6",
+          "country": "Switzerland",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "The rooms are large and the bed is very comfortable.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Pullman Doha West Bay",
+      "agodaUrl": "https://www.agoda.com/pullman-doha-west-bay/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/16795118/0/762db172e3e07f91737454c76ae87954.jpg?va=1&ce=3",
+      "score": 9,
+      "reviewCount": 3740,
+      "reviewCountFmt": "3,740 reviews",
+      "priceText": "$$ · $457/night",
+      "walkMin": 2,
+      "refLabel": "DECC Station",
+      "star": 5,
+      "propertyId": 16795118,
+      "priceUSD": 457,
+      "priceStatus": "live",
+      "distanceM": 166.9,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "National Museum of Qatar",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 3,740 reviews. 2 min walk to DECC Station. $$ · $457/night.",
+      "metaTags": [
+        "💰 $457/night",
+        "📝 3,740 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I would like to thank the whole team of pullman West Bay.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Everything felt modern, spacious, and very comfortable.",
+          "score": "9.2",
+          "country": "Qatar",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Every interaction with any member of the staff is pleasant.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "All thanks to Pullman West Bay and the team.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "The rooms were amazing the vibe was amazing.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Dusit Hotel & Suites – Doha",
+      "agodaUrl": "https://www.agoda.com/dusit-doha-hotel-suites/hotel/doha-qa.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/34563323/0/a842d37bfec50ab62e914a1c668caacf.jpg?va=1&ce=0",
+      "score": 8.6,
+      "reviewCount": 247,
+      "reviewCountFmt": "247 reviews",
+      "priceText": "$$ · $280/night",
+      "walkMin": 9,
+      "refLabel": "DECC Station",
+      "star": 5,
+      "propertyId": 34563323,
+      "priceUSD": 280,
+      "priceStatus": "live",
+      "distanceM": 698.47,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "National Museum of Qatar",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.6 · 247 reviews. 9 min walk to DECC Station. $$ · $280/night.",
+      "metaTags": [
+        "💰 $280/night",
+        "📝 247 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I highly recommended your hotel to my guest who are asking.",
+          "score": "9.6",
+          "country": "Qatar",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "It's a beautiful hotel, suite are very spacious and luxury.",
+          "score": "10",
+          "country": "South Africa",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Beautiful place, very spacious and we got free upgrade!",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Very clean and nice place and very good staff",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2023.02",
+          "translated": false
+        },
+        {
+          "text": "Thank you for all the staff for the excellent service.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-08T15:39:30.618Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-08T15:39:30.618Z",
+    "source": "agoda citySearch",
+    "daysAhead": 38,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    },
+    "firstPublished": "2026-10-08"
+  }
+}

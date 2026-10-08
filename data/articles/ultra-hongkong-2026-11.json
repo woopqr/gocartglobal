@@ -18,51 +18,160 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Hong Kong — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 63% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Upper House Hong Kong</b> — rating 9.2, 1,795 reviews, from $1,778/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 53% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Townplace West Kowloon</b> — rating 8.7, 3,513 reviews, from $2,298/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 19,
-        "pct": 63
+        "count": 16,
+        "pct": 53
       },
       {
         "key": "solo",
         "label": "Solo",
-        "count": 4,
-        "pct": 13
-      },
-      {
-        "key": "business",
-        "label": "Business",
-        "count": 3,
-        "pct": 10
-      },
-      {
-        "key": "group",
-        "label": "Groups",
-        "count": 2,
-        "pct": 7
+        "count": 5,
+        "pct": 17
       },
       {
         "key": "family",
         "label": "Families",
+        "count": 4,
+        "pct": 13
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 3,
+        "pct": 10
+      },
+      {
+        "key": "business",
+        "label": "Business",
         "count": 2,
         "pct": 7
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/216104/0/bca7e8ffd8ec71253c9e05c9732e955b.jpg?ce=2",
+  "heroImg": "https://pix8.agoda.net/hotelImages/38578359/-1/2bc4b050f93430c660b1a25f405a918a.jpg?va=1&ce=0",
   "heroAlt": "Hong Kong Ultra-Luxury",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
+      "name": "Townplace West Kowloon",
+      "agodaUrl": "https://www.agoda.com/townplace-west-kowloon/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/38578359/-1/2bc4b050f93430c660b1a25f405a918a.jpg?va=1&ce=0",
+      "score": 8.7,
+      "reviewCount": 3513,
+      "reviewCountFmt": "3,513 reviews",
+      "priceText": "$$$ · $2,298/night",
+      "walkMin": 6,
+      "refLabel": "Nam Cheong MTR Station",
+      "star": 5,
+      "propertyId": 38578359,
+      "priceUSD": 2298,
+      "priceStatus": "live",
+      "distanceM": 459.54,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Hong Kong Skyline"
+      ],
+      "blurb": "Rating 8.7 · 3,513 reviews. 6 min walk to Nam Cheong MTR Station. $$$ · $2,298/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $2,298/night",
+        "📝 3,513 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room is essentially comfy with a great harbour view!",
+          "score": "10",
+          "country": "HK",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Great facilities with a budget and the view is immaculate",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Beautiful seaview suite nearby the W Kowloon HST station",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Rooms have upgraded technology and are modern.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The best hotel I have seen in Hong Kong 👍🏻👍🏻",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
       "name": "Upper House Hong Kong",
       "agodaUrl": "https://www.agoda.com/the-upper-house/hotel/hong-kong-hk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/216104/0/bca7e8ffd8ec71253c9e05c9732e955b.jpg?ce=2",
+      "img": "https://pix8.agoda.net/hotelImages/216104/0/bca7e8ffd8ec71253c9e05c9732e955b.jpg?va=1&ce=2",
       "score": 9.2,
       "reviewCount": 1795,
       "reviewCountFmt": "1,795 reviews",
@@ -102,7 +211,7 @@
             "label": "Couples",
             "count": 3,
             "pct": 60,
-            "rating": 9.7
+            "rating": 9.6
           },
           {
             "key": "group",
@@ -122,17 +231,17 @@
           "translated": false
         },
         {
-          "text": "The interior design is modern and very charming",
-          "score": "10",
-          "country": "Jepang",
-          "date": "2024.03",
-          "translated": false
-        },
-        {
           "text": "Will definitely stay here again if given the opportunity.",
           "score": "9.6",
           "country": "Singapore",
           "date": "2025.02",
+          "translated": false
+        },
+        {
+          "text": "The interior design is modern and very charming",
+          "score": "10",
+          "country": "Jepang",
+          "date": "2024.03",
           "translated": false
         },
         {
@@ -143,110 +252,10 @@
           "translated": false
         },
         {
-          "text": "The room meets our expectation and definitely worth it.",
-          "score": "10",
-          "country": "HK",
-          "date": "2024.02",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 2,
-      "name": "Mandarin Oriental, Hong Kong",
-      "agodaUrl": "https://www.agoda.com/mandarin-oriental-hong-kong_10/hotel/hong-kong-hk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/3849632/0/5d25a9617178e465db09ba483e2b33d1.jpeg",
-      "score": 9.5,
-      "reviewCount": 3942,
-      "reviewCountFmt": "3,942 reviews",
-      "priceText": "$$$ · $1,333/night",
-      "walkMin": 2,
-      "refLabel": "雪廠街 Ice House Street",
-      "star": 5,
-      "propertyId": 3849632,
-      "priceUSD": 1333,
-      "priceStatus": "live",
-      "distanceM": 128.8,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Close to public transportation",
-        "Victoria Peak (The Peak)",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.5 · 3,942 reviews. 2 min walk to 雪廠街 Ice House Street. $$$ · $1,333/night. 60% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,333/night",
-        "📝 3,942 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.9
-          },
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "An impeccable hotel with Chinese tradition and elegance",
-          "score": "10",
-          "country": "HK",
-          "date": "2024.12",
-          "translated": false
-        },
-        {
-          "text": "Location is perfect, right next to Central MTR station.",
-          "score": "10",
-          "country": "HK",
-          "date": "2025.06",
-          "translated": false
-        },
-        {
-          "text": "The services provided were incredibly sweet and thoughtful.",
-          "score": "10",
-          "country": "HK",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
-          "text": "Habour view king suite is just outstanding and mind blowing",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2022.08",
-          "translated": false
-        },
-        {
-          "text": "I felt why Mandarin is top class hotel in Hong Kong!!",
+          "text": "I will definitely stay here the next time I come to HK.",
           "score": "9.6",
-          "country": "South Korea",
-          "date": "2023.07",
+          "country": "Singapore",
+          "date": "2024.10",
           "translated": false
         }
       ],
@@ -262,16 +271,16 @@
       "rank": 3,
       "name": "Rosewood Hong Kong",
       "agodaUrl": "https://www.agoda.com/rosewood-hong-kong-h17209693/hotel/hong-kong-hk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/property/83731753/1607553951/ea49b6d799877917753fdc64581b01ea.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/property/83731753/1607553951/ea49b6d799877917753fdc64581b01ea.jpeg?va=1&ce=3",
       "score": 9.2,
       "reviewCount": 2903,
       "reviewCountFmt": "2,903 reviews",
-      "priceText": "$$$ · $1,314/night",
+      "priceText": "$$$ · $1,452/night",
       "walkMin": 2,
       "refLabel": "East Tsim Sha Tsui MTR Station",
       "star": 5,
       "propertyId": 17209693,
-      "priceUSD": 1314,
+      "priceUSD": 1452,
       "priceStatus": "live",
       "distanceM": 146.58,
       "locationStatus": "verified",
@@ -284,9 +293,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 2,903 reviews. 2 min walk to East Tsim Sha Tsui MTR Station. $$$ · $1,314/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 2,903 reviews. 2 min walk to East Tsim Sha Tsui MTR Station. $$$ · $1,452/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,314/night",
+        "💰 $1,452/night",
         "📝 2,903 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -372,9 +381,109 @@
     },
     {
       "rank": 4,
+      "name": "Mandarin Oriental, Hong Kong",
+      "agodaUrl": "https://www.agoda.com/mandarin-oriental-hong-kong_10/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3849632/0/5d25a9617178e465db09ba483e2b33d1.jpeg?va=1",
+      "score": 9.5,
+      "reviewCount": 3942,
+      "reviewCountFmt": "3,942 reviews",
+      "priceText": "$$$ · $1,333/night",
+      "walkMin": 2,
+      "refLabel": "雪廠街 Ice House Street",
+      "star": 5,
+      "propertyId": 3849632,
+      "priceUSD": 1333,
+      "priceStatus": "live",
+      "distanceM": 128.8,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Victoria Peak (The Peak)",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.5 · 3,942 reviews. 2 min walk to 雪廠街 Ice House Street. $$$ · $1,333/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,333/night",
+        "📝 3,942 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Location is perfect, right next to Central MTR station.",
+          "score": "10",
+          "country": "HK",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "An impeccable hotel with Chinese tradition and elegance",
+          "score": "10",
+          "country": "HK",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "The services provided were incredibly sweet and thoughtful.",
+          "score": "10",
+          "country": "HK",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Habour view king suite is just outstanding and mind blowing",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "Expect a five star service from this five star hotel.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
       "name": "Four Seasons Hotel Hong Kong",
       "agodaUrl": "https://www.agoda.com/four-seasons-hotel-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/68042/-1/331efa8029585134e8b5fafa84380c5f.jpg?ca=0&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/68042/-1/331efa8029585134e8b5fafa84380c5f.jpg?va=1&ca=0&ce=1",
       "score": 9.4,
       "reviewCount": 2914,
       "reviewCountFmt": "2,914 reviews",
@@ -478,21 +587,21 @@
       }
     },
     {
-      "rank": 5,
-      "name": "Mandarin Oriental The Landmark, Hong Kong",
-      "agodaUrl": "https://www.agoda.com/landmark-mandarin-oriental-hong-kong_2/hotel/hong-kong-hk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/3849627/0/691b8a93ccf266ac16b7e578d1991ed8.jpg?ce=3",
-      "score": 9.2,
-      "reviewCount": 315,
-      "reviewCountFmt": "315 reviews",
-      "priceText": "$$$ · $1,310/night",
-      "walkMin": 1,
-      "refLabel": "雪廠街 Ice House Street",
+      "rank": 6,
+      "name": "Regent Hong Kong By IHG",
+      "agodaUrl": "https://www.agoda.com/regent-hong-kong_7/hotel/hong-kong-hk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2730/-1/9e1acc1f3200e0ff3a25bb5a1a8e5d98.jpg?va=1&ce=0",
+      "score": 9.3,
+      "reviewCount": 4084,
+      "reviewCountFmt": "4,084 reviews",
+      "priceText": "$$$ · $951/night",
+      "walkMin": 2,
+      "refLabel": "East Tsim Sha Tsui MTR Station",
       "star": 5,
-      "propertyId": 3849627,
-      "priceUSD": 1310,
+      "propertyId": 2730,
+      "priceUSD": 951,
       "priceStatus": "live",
-      "distanceM": 96.28,
+      "distanceM": 193.69,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
@@ -505,10 +614,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 315 reviews. 1 min walk to 雪廠街 Ice House Street. $$$ · $1,310/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 4,084 reviews. 2 min walk to East Tsim Sha Tsui MTR Station. $$$ · $951/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,310/night",
-        "📝 315 reviews",
+        "💰 $951/night",
+        "📝 4,084 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -521,18 +630,18 @@
             "label": "Couples",
             "count": 3,
             "pct": 60,
-            "rating": 9.6
+            "rating": 9.9
           },
           {
-            "key": "solo",
-            "label": "Solo",
+            "key": "family",
+            "label": "Families",
             "count": 1,
             "pct": 20,
             "rating": 8.8
           },
           {
-            "key": "business",
-            "label": "Business",
+            "key": "solo",
+            "label": "Solo",
             "count": 1,
             "pct": 20,
             "rating": 10
@@ -541,130 +650,38 @@
       },
       "reviews": [
         {
-          "text": "Services at the hotel are excellent",
-          "score": "8.8",
-          "country": "United States",
-          "date": "2022.08",
-          "translated": false
-        },
-        {
-          "text": "Everything in MO is perfect, including the dining experience",
+          "text": "One of my absolute favourite hotels in the city.",
           "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2023.01",
-          "translated": false
-        },
-        {
-          "text": "Excellent services, spacious n pretty room",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2022.12",
-          "translated": false
-        },
-        {
-          "text": "Excellent traditional hotel",
-          "score": "8.8",
           "country": "HK",
-          "date": "2024.04",
+          "date": "2025.05",
           "translated": false
         },
         {
-          "text": "Very nice hotel, service and room is very good",
+          "text": "Great staff, great location, great rooms, great all round.",
           "score": "10",
           "country": "Hong Kong SAR, China",
-          "date": "2023.01",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 6,
-      "name": "The St. Regis Hong Kong",
-      "agodaUrl": "https://www.agoda.com/the-st-regis-hong-kong/hotel/hong-kong-hk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/6907351/-1/2b5ef5ee21d5c628f8e18feac0147222.jpg?ca=8&ce=1",
-      "score": 9.4,
-      "reviewCount": 1285,
-      "reviewCountFmt": "1,285 reviews",
-      "priceText": "$$$ · $946/night",
-      "walkMin": 3,
-      "refLabel": "Exhibition Centre MTR Station",
-      "star": 5,
-      "propertyId": 6907351,
-      "priceUSD": 946,
-      "priceStatus": "live",
-      "distanceM": 259.05,
-      "locationStatus": "verified",
-      "facilities": [
-        "Daily housekeeping",
-        "Close to public transportation",
-        "Victoria Peak (The Peak)",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.4 · 1,285 reviews. 3 min walk to Exhibition Centre MTR Station. $$$ · $946/night. 100% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $946/night",
-        "📝 1,285 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.6
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "The best hotel in town for anniversary celebration",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2022.06",
+          "date": "2024.06",
           "translated": false
         },
         {
-          "text": "Overall, we had an amazing time and will definitely be back!",
-          "score": "9.2",
-          "country": "Hong Kong SAR, China",
-          "date": "2024.03",
-          "translated": false
-        },
-        {
-          "text": "Well located and fully equipped, the hotel made us welcome.",
+          "text": "We will definitely coming back this year for another stay.",
           "score": "10",
           "country": "Australia",
-          "date": "2024.07",
+          "date": "2025.01",
           "translated": false
         },
         {
-          "text": "The staff were very helpful and courteous.",
-          "score": "10",
-          "country": "United States",
-          "date": "2025.12",
-          "translated": false
-        },
-        {
-          "text": "A really marvelous stay to say the least.",
+          "text": "Room, Terrific, worth our paid for Harbour View suiteroom.",
           "score": "8.8",
-          "country": "Hong Kong SAR, China",
-          "date": "2022.08",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Their dedication and hospitality are truly commendable!",
+          "score": "9.6",
+          "country": "HK",
+          "date": "2025.03",
           "translated": false
         }
       ],
@@ -679,16 +696,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T15:35:19.484Z",
+    "fetchedAt": "2026-10-08T15:40:04.441Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T15:35:19.484Z",
+    "fetchedAt": "2026-10-08T15:40:04.441Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

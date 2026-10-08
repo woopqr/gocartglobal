@@ -18,39 +18,39 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Kyoto — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 33% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Hotel Kyoto</b> — rating 9.1, 447 reviews, from $1,919/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 19% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Hotel Kyoto</b> — rating 9.1, 447 reviews, from $1,921/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
-    "total": 21,
+    "total": 16,
     "distribution": [
-      {
-        "key": "couple",
-        "label": "Couples",
-        "count": 7,
-        "pct": 33
-      },
       {
         "key": "business",
         "label": "Business",
         "count": 6,
-        "pct": 29
+        "pct": 38
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 5,
-        "pct": 24
+        "count": 4,
+        "pct": 25
+      },
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 3,
+        "pct": 19
       },
       {
         "key": "solo",
         "label": "Solo",
         "count": 3,
-        "pct": 14
+        "pct": 19
       }
     ]
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/348465784.jpg?k=e6dafc51518396ebbb76d6eb4360311ab0d1879d43cb251c330b66e25b2113c4&o=",
   "heroAlt": "Kyoto Ultra-Luxury",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
@@ -60,12 +60,12 @@
       "score": 9.1,
       "reviewCount": 447,
       "reviewCountFmt": "447 reviews",
-      "priceText": "$$$ · $1,919/night",
+      "priceText": "$$$ · $1,921/night",
       "walkMin": 9,
       "refLabel": "Kyoto Shichijo Train Station",
       "star": 5,
       "propertyId": 1329522,
-      "priceUSD": 1919,
+      "priceUSD": 1921,
       "priceStatus": "live",
       "distanceM": 729.1,
       "locationStatus": "verified",
@@ -80,9 +80,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 447 reviews. 9 min walk to Kyoto Shichijo Train Station. $$$ · $1,919/night.",
+      "blurb": "Rating 9.1 · 447 reviews. 9 min walk to Kyoto Shichijo Train Station. $$$ · $1,921/night.",
       "metaTags": [
-        "💰 $1,919/night",
+        "💰 $1,921/night",
         "📝 447 reviews",
         "⭐ 5-star",
         "👥 Loved by Business"
@@ -130,14 +130,14 @@
           "translated": false
         },
         {
-          "text": "Highly recommended.",
+          "text": "Great place to stay",
           "score": "10",
           "country": "Indonesia",
           "date": "2022.12",
           "translated": false
         },
         {
-          "text": "Great place to stay",
+          "text": "Highly recommended.",
           "score": "10",
           "country": "Indonesia",
           "date": "2022.12",
@@ -160,12 +160,12 @@
       "score": 9.2,
       "reviewCount": 273,
       "reviewCountFmt": "273 reviews",
-      "priceText": "$$$ · $1,485/night",
+      "priceText": "$$$ · $1,476/night",
       "walkMin": 8,
       "refLabel": "Kyoto Shichijo Train Station",
       "star": 5,
       "propertyId": 50609734,
-      "priceUSD": 1485,
+      "priceUSD": 1476,
       "priceStatus": "live",
       "distanceM": 602.18,
       "locationStatus": "verified",
@@ -180,9 +180,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 273 reviews. 8 min walk to Kyoto Shichijo Train Station. $$$ · $1,485/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 273 reviews. 8 min walk to Kyoto Shichijo Train Station. $$$ · $1,476/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,485/night",
+        "💰 $1,476/night",
         "📝 273 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -267,12 +267,12 @@
       "score": 9.2,
       "reviewCount": 51,
       "reviewCountFmt": "51 reviews",
-      "priceText": "$$$ · $1,285/night",
+      "priceText": "$$$ · $1,287/night",
       "walkMin": 4,
       "refLabel": "Kiyomizu Gojo Train Station",
       "star": 5,
       "propertyId": 33907370,
-      "priceUSD": 1285,
+      "priceUSD": 1287,
       "priceStatus": "live",
       "distanceM": 351.54,
       "locationStatus": "verified",
@@ -287,9 +287,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 51 reviews. 4 min walk to Kiyomizu Gojo Train Station. $$$ · $1,285/night.",
+      "blurb": "Rating 9.2 · 51 reviews. 4 min walk to Kiyomizu Gojo Train Station. $$$ · $1,287/night.",
       "metaTags": [
-        "💰 $1,285/night",
+        "💰 $1,287/night",
         "📝 51 reviews",
         "⭐ 5-star"
       ],
@@ -313,12 +313,12 @@
       "score": 9,
       "reviewCount": 345,
       "reviewCountFmt": "345 reviews",
-      "priceText": "$$$ · $1,176/night",
+      "priceText": "$$$ · $1,177/night",
       "walkMin": 2,
       "refLabel": "Ebisuya",
       "star": 5,
       "propertyId": 876909,
-      "priceUSD": 1176,
+      "priceUSD": 1177,
       "priceStatus": "live",
       "distanceM": 198.8,
       "locationStatus": "verified",
@@ -332,9 +332,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 345 reviews. 2 min walk to Ebisuya. $$$ · $1,176/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 345 reviews. 2 min walk to Ebisuya. $$$ · $1,177/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,176/night",
+        "💰 $1,177/night",
         "📝 345 reviews",
         "⭐ 5-star",
         "👥 Loved by Solo"
@@ -406,18 +406,64 @@
     },
     {
       "rank": 5,
+      "name": "Imperial Hotel, Kyoto",
+      "agodaUrl": "https://www.agoda.com/imperial-hotel-kyoto/hotel/all/kyoto-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/804122252.jpg?k=434a9af4ce7a110dbd6ac5761929f63ea333b90a701de5345c96a617fa1ac9b9&o=",
+      "score": 9.5,
+      "reviewCount": 32,
+      "reviewCountFmt": "32 reviews",
+      "priceText": "$$$ · $1,206/night",
+      "walkMin": 5,
+      "refLabel": "Gion Shijo Subway Station",
+      "star": 5,
+      "propertyId": 81521571,
+      "priceUSD": 1206,
+      "priceStatus": "live",
+      "distanceM": 390.29,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Fushimi Inari-taisha Shrine",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.5 · 32 reviews. 5 min walk to Gion Shijo Subway Station. $$$ · $1,206/night.",
+      "metaTags": [
+        "💰 $1,206/night",
+        "📝 32 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
       "name": "The Villa Nene-no-Michi Kazeno Heritage",
       "agodaUrl": "https://www.agoda.com/hotel-vmg-resort-kyoto-h65671799/hotel/kyoto-jp.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/87557486/0/44317d25edb877e66109fd36728283cd.jpg?va=1&ce=3",
       "score": 9.8,
       "reviewCount": 77,
       "reviewCountFmt": "77 reviews",
-      "priceText": "$$$ · $1,024/night",
+      "priceText": "$$$ · $1,025/night",
       "walkMin": 10,
       "refLabel": "Gion Shijo Subway Station",
       "star": 5,
       "propertyId": 87557486,
-      "priceUSD": 1024,
+      "priceUSD": 1025,
       "priceStatus": "live",
       "distanceM": 807.01,
       "locationStatus": "verified",
@@ -430,9 +476,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.8 · 77 reviews. 10 min walk to Gion Shijo Subway Station. $$$ · $1,024/night.",
+      "blurb": "Rating 9.8 · 77 reviews. 10 min walk to Gion Shijo Subway Station. $$$ · $1,025/night.",
       "metaTags": [
-        "💰 $1,024/night",
+        "💰 $1,025/night",
         "📝 77 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -467,127 +513,28 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
-    },
-    {
-      "rank": 6,
-      "name": "Garrya Nijo Castle Kyoto by Banyan Group",
-      "agodaUrl": "https://www.agoda.com/garrya-nijo-castle-kyoto-by-banyan-group/hotel/kyoto-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/17641647/0/f6cc50d9b10334d3514ab5853afdd168.jpeg?va=1&ce=3",
-      "score": 9.3,
-      "reviewCount": 351,
-      "reviewCountFmt": "351 reviews",
-      "priceText": "$$$ · $1,029/night",
-      "walkMin": 2,
-      "refLabel": "Nijojomae Subway Station",
-      "star": 5,
-      "propertyId": 17641647,
-      "priceUSD": 1029,
-      "priceStatus": "live",
-      "distanceM": 122.83,
-      "locationStatus": "verified",
-      "facilities": [
-        "Free Wi-Fi in all rooms!",
-        "Daily housekeeping",
-        "Close to public transportation",
-        "Kyoto Station Building",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.3 · 351 reviews. 2 min walk to Nijojomae Subway Station. $$$ · $1,029/night. 80% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,029/night",
-        "📝 351 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 80,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 4,
-            "pct": 80,
-            "rating": 9.8
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "The rooms looked beautiful and matched Kyoto perfectly.",
-          "score": "10",
-          "country": "Australia",
-          "date": "2024.03",
-          "translated": false
-        },
-        {
-          "text": "Employees are well trained, they remember every guest.",
-          "score": "9.6",
-          "country": "TW",
-          "date": "2023.07",
-          "translated": false
-        },
-        {
-          "text": "10 out of 10 perfect stay in a great city",
-          "score": "10",
-          "country": "United States",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
-          "text": "The staff is very good and they took care of us very well.",
-          "score": "9.6",
-          "country": "Japan",
-          "date": "2024.08",
-          "translated": false
-        },
-        {
-          "text": "Highly recommended and would book again without a doubt.",
-          "score": "10",
-          "country": "Australia",
-          "date": "2024.03",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T15:34:56.542Z",
+    "fetchedAt": "2026-10-08T15:39:41.068Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T15:34:56.542Z",
+    "fetchedAt": "2026-10-08T15:39:41.068Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
       "ok": true,
       "errors": [],
       "warnings": [
-        "Maana Kamo: reviewSample"
+        "Maana Kamo: reviewSample",
+        "Imperial Hotel, Kyoto: reviewSample"
       ]
     },
     "firstPublished": "2026-10-07"
