@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Bali — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 73% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Bvlgari Resort Bali</b> — rating 9.3, 698 reviews, from $3,383/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 73% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Bvlgari Resort Bali</b> — rating 9.3, 698 reviews, from $3,377/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 22,
     "distribution": [
@@ -48,24 +48,24 @@
       }
     ]
   },
-  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643138779.jpg?k=cf9a95cd74f7a1340ad276d7603fc80c5d783dc587651371f27b6fe7c6cfc73a&o=",
+  "heroImg": "https://pix8.agoda.net/hotelImages/77182/18308843/4c7de982b5c8eb00a453923b760a62f3.jpeg?ce=3",
   "heroAlt": "Bali Ultra-Luxury",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
       "name": "Bvlgari Resort Bali",
       "agodaUrl": "https://www.agoda.com/bulgari-resort-bali/hotel/bali-id.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643138779.jpg?k=cf9a95cd74f7a1340ad276d7603fc80c5d783dc587651371f27b6fe7c6cfc73a&o=",
+      "img": "https://pix8.agoda.net/hotelImages/77182/18308843/4c7de982b5c8eb00a453923b760a62f3.jpeg?ce=3",
       "score": 9.3,
       "reviewCount": 698,
       "reviewCountFmt": "698 reviews",
-      "priceText": "$$$ · $3,383/night",
+      "priceText": "$$$ · $3,377/night",
       "walkMin": 53,
       "refLabel": "Uluwatu Temple",
       "star": 5,
       "propertyId": 77182,
-      "priceUSD": 3383,
+      "priceUSD": 3377,
       "priceStatus": "live",
       "distanceM": 4263.21,
       "locationStatus": "verified",
@@ -78,9 +78,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 698 reviews. $$$ · $3,383/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 698 reviews. $$$ · $3,377/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $3,383/night",
+        "💰 $3,377/night",
         "📝 698 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -153,334 +153,9 @@
     },
     {
       "rank": 2,
-      "name": "COMO Shambhala Estate",
-      "agodaUrl": "https://www.agoda.com/como-shambhala-estate/hotel/bali-id.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/630208945.jpg?k=b95f5112609f6e5326b56b1f343819fab8df5525cace978ba2d33c7fd226c50d&o=",
-      "score": 9,
-      "reviewCount": 193,
-      "reviewCountFmt": "193 reviews",
-      "priceText": "$$$ · $1,084/night",
-      "walkMin": 65,
-      "refLabel": "Tegallalang Rice Terrace",
-      "star": 5,
-      "propertyId": 73539,
-      "priceUSD": 1084,
-      "priceStatus": "live",
-      "distanceM": 5166.47,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Gym/fitness",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9 · 193 reviews. $$$ · $1,084/night. 100% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,084/night",
-        "📝 193 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 2,
-            "pct": 100,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "This is the best hotel I have ever been in ubud",
-          "score": "10",
-          "country": "AU",
-          "date": "2025.04",
-          "translated": false
-        },
-        {
-          "text": "Very good living experience",
-          "score": "10",
-          "country": "AU",
-          "date": "2025.04",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 3,
-      "name": "Siri Mendira Beach Villas ",
-      "agodaUrl": "https://www.agoda.com/siri-mendira-beach-villas-villa-angsoka-villa-bakung-and-villa-cempaka/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/38707671/0/0b7b46669f36db721ca67f6506be4ed6.jpeg?ce=0",
-      "score": 8.7,
-      "reviewCount": 37,
-      "reviewCountFmt": "37 reviews",
-      "priceText": "$$$ · $855/night",
-      "walkMin": 1,
-      "refLabel": "Mendira Beach",
-      "star": 5,
-      "propertyId": 38707671,
-      "priceUSD": 855,
-      "priceStatus": "live",
-      "distanceM": 40.64,
-      "locationStatus": "verified",
-      "facilities": [
-        "Daily housekeeping",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.7 · 37 reviews. 1 min walk to Mendira Beach. $$$ · $855/night.",
-      "metaTags": [
-        "💰 $855/night",
-        "📝 37 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa"
-      ],
-      "travelerTypes": null,
-      "reviews": [],
-      "quality": {
-        "issues": [
-          "reviewSample"
-        ],
-        "critical": false,
-        "completeness": 88,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 4,
-      "name": "AYANA Villas Bali",
-      "agodaUrl": "https://www.agoda.com/the-villas-at-ayana-resort-bali_3/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/478524/0/17718b8f18fbf43b1e10e19881878906.jpg?va=1&ce=3",
-      "score": 9,
-      "reviewCount": 969,
-      "reviewCountFmt": "969 reviews",
-      "priceText": "$$$ · $1,290/night",
-      "walkMin": 89,
-      "refLabel": "Kuta Beach",
-      "star": 5,
-      "propertyId": 478524,
-      "priceUSD": 1290,
-      "priceStatus": "live",
-      "distanceM": 7153.99,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Gym/fitness",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9 · 969 reviews. $$$ · $1,290/night. 60% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,290/night",
-        "📝 969 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.9
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.6
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "The villa is wonderful and the overall service is marvelous",
-          "score": "10",
-          "country": "CN",
-          "date": "2025.05",
-          "translated": false
-        },
-        {
-          "text": "The staff in the segara are perfectly helpful and nice !!",
-          "score": "10",
-          "country": "MO",
-          "date": "2023.12",
-          "translated": false
-        },
-        {
-          "text": "The restaurants, bars, pools are all very good.",
-          "score": "9.2",
-          "country": "Taiwan",
-          "date": "2023.08",
-          "translated": false
-        },
-        {
-          "text": "Great facilities , clean and do many options .",
-          "score": "9.6",
-          "country": "Australia",
-          "date": "2023.04",
-          "translated": false
-        },
-        {
-          "text": "This Hotel, staff and the Location is just stunning.",
-          "score": "10",
-          "country": "Deutschland",
-          "date": "2023.10",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
-      "name": "Four Seasons Resort Bali At Sayan",
-      "agodaUrl": "https://www.agoda.com/four-seasons-resort-bali-at-sayan/hotel/bali-id.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/83160592.jpg?k=6d0c8a818604f0a31545186425f6adcb74e5146b6fb5ab88877adbad4457a905&o=",
-      "score": 9.3,
-      "reviewCount": 342,
-      "reviewCountFmt": "342 reviews",
-      "priceText": "$$$ · $1,167/night",
-      "walkMin": 15,
-      "refLabel": "Campuhan Ridge Walk",
-      "star": 5,
-      "propertyId": 48716,
-      "priceUSD": 1167,
-      "priceStatus": "live",
-      "distanceM": 1220.88,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Sacred Monkey Forest Sanctuary",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.3 · 342 reviews. 15 min walk to Campuhan Ridge Walk. $$$ · $1,167/night. 40% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,167/night",
-        "📝 342 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 40,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.6
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          },
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "We had an amazing stay at the hotel.",
-          "score": "10",
-          "country": "Singapore",
-          "date": "2022.06",
-          "translated": false
-        },
-        {
-          "text": "We had a wonderful 4 nights stay at Four Seasons Bali Sayan.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2026.07",
-          "translated": false
-        },
-        {
-          "text": "It was one of the best hotel we have ever stayed.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2026.07",
-          "translated": false
-        },
-        {
-          "text": "Thank you also for the great flexibility for late check-out.",
-          "score": "10",
-          "country": "Türkiye",
-          "date": "2022.05",
-          "translated": false
-        },
-        {
-          "text": "They always concerned my condition and offered their help.",
-          "score": "9.2",
-          "country": "HK",
-          "date": "2026.07",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 6,
       "name": "Raffles Bali",
       "agodaUrl": "https://www.agoda.com/raffles-bali-h16361748/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/14654956/-1/1e7fcf2e078216318012ab27a7565173.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/14654956/-1/1e7fcf2e078216318012ab27a7565173.jpg?ce=0",
       "score": 9.1,
       "reviewCount": 166,
       "reviewCountFmt": "166 reviews",
@@ -568,20 +243,345 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
+    },
+    {
+      "rank": 3,
+      "name": "COMO Shambhala Estate",
+      "agodaUrl": "https://www.agoda.com/como-shambhala-estate/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/7210932/1153916432/dc0549ff6084162f28b37bb1203560ef.jpeg?ce=3",
+      "score": 9,
+      "reviewCount": 193,
+      "reviewCountFmt": "193 reviews",
+      "priceText": "$$$ · $1,082/night",
+      "walkMin": 65,
+      "refLabel": "Tegallalang Rice Terrace",
+      "star": 5,
+      "propertyId": 73539,
+      "priceUSD": 1082,
+      "priceStatus": "live",
+      "distanceM": 5166.47,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 193 reviews. $$$ · $1,082/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,082/night",
+        "📝 193 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This is the best hotel I have ever been in ubud",
+          "score": "10",
+          "country": "AU",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Very good living experience",
+          "score": "10",
+          "country": "AU",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Siri Mendira Beach Villas ",
+      "agodaUrl": "https://www.agoda.com/siri-mendira-beach-villas-villa-angsoka-villa-bakung-and-villa-cempaka/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/38707671/0/0b7b46669f36db721ca67f6506be4ed6.jpeg?va=1&ce=0",
+      "score": 8.7,
+      "reviewCount": 37,
+      "reviewCountFmt": "37 reviews",
+      "priceText": "$$$ · $853/night",
+      "walkMin": 1,
+      "refLabel": "Mendira Beach",
+      "star": 5,
+      "propertyId": 38707671,
+      "priceUSD": 853,
+      "priceStatus": "live",
+      "distanceM": 40.64,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.7 · 37 reviews. 1 min walk to Mendira Beach. $$$ · $853/night.",
+      "metaTags": [
+        "💰 $853/night",
+        "📝 37 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "AYANA Villas Bali",
+      "agodaUrl": "https://www.agoda.com/the-villas-at-ayana-resort-bali_3/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/478524/0/38af0099f0711b8b5ffbad65b15a5c4b.jpeg?ce=3",
+      "score": 9,
+      "reviewCount": 970,
+      "reviewCountFmt": "970 reviews",
+      "priceText": "$$$ · $1,288/night",
+      "walkMin": 89,
+      "refLabel": "Kuta Beach",
+      "star": 5,
+      "propertyId": 478524,
+      "priceUSD": 1288,
+      "priceStatus": "live",
+      "distanceM": 7153.99,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 970 reviews. $$$ · $1,288/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,288/night",
+        "📝 970 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The villa is wonderful and the overall service is marvelous",
+          "score": "10",
+          "country": "CN",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The staff in the segara are perfectly helpful and nice !!",
+          "score": "10",
+          "country": "MO",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "The restaurants, bars, pools are all very good.",
+          "score": "9.2",
+          "country": "Taiwan",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Great facilities , clean and do many options .",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "This Hotel, staff and the Location is just stunning.",
+          "score": "10",
+          "country": "Deutschland",
+          "date": "2023.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Four Seasons Resort Bali At Sayan",
+      "agodaUrl": "https://www.agoda.com/four-seasons-resort-bali-at-sayan/hotel/bali-id.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/83160592.jpg?k=6d0c8a818604f0a31545186425f6adcb74e5146b6fb5ab88877adbad4457a905&o=",
+      "score": 9.3,
+      "reviewCount": 342,
+      "reviewCountFmt": "342 reviews",
+      "priceText": "$$$ · $1,216/night",
+      "walkMin": 15,
+      "refLabel": "Campuhan Ridge Walk",
+      "star": 5,
+      "propertyId": 48716,
+      "priceUSD": 1216,
+      "priceStatus": "live",
+      "distanceM": 1220.88,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Sacred Monkey Forest Sanctuary",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 342 reviews. 15 min walk to Campuhan Ridge Walk. $$$ · $1,216/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,216/night",
+        "📝 342 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had an amazing stay at the hotel.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "We had a wonderful 4 nights stay at Four Seasons Bali Sayan.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "It was one of the best hotel we have ever stayed.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "Thank you also for the great flexibility for late check-out.",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "They always concerned my condition and offered their help.",
+          "score": "9.2",
+          "country": "HK",
+          "date": "2026.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T21:19:57.690Z",
+    "fetchedAt": "2026-10-08T21:22:04.741Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T21:19:57.690Z",
+    "fetchedAt": "2026-10-08T21:22:04.741Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

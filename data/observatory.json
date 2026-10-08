@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 11,
+  "cursor": 12,
   "observations": [
     {
       "city": "Bali",
@@ -816,6 +816,51 @@
           "priceUSD": 617,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/sofitel-mauritius-l-imperial-resort-spa/hotel/mauritius-island-mu.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Honolulu",
+      "citySlug": "honolulu",
+      "cityId": 10921,
+      "observedAt": "2026-10-08T21:22:35.134Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-07, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "161224",
+          "name": "The Royal Hawaiian, a Luxury Collection Resort, Waikiki",
+          "priceUSD": 3907,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-royal-hawaiian-a-luxury-collection-resort-waikiki/hotel/honolulu-hi-us.html?cid=1925461"
+        },
+        {
+          "key": "295044",
+          "name": "ESPACIO The Jewel of Waikiki",
+          "priceUSD": 3562,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/aqua-waikiki-beachside-h24809787/hotel/honolulu-hi-us.html?cid=1925461"
+        },
+        {
+          "key": "212225",
+          "name": "Ka La‘i Waikiki Beach, LXR Hotels & Resorts",
+          "priceUSD": 867,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jet-luxury-h27518129/hotel/honolulu-hi-us.html?cid=1925461"
+        },
+        {
+          "key": "2452173",
+          "name": "The Ritz-Carlton Residences, Waikiki Beach",
+          "priceUSD": 801,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-ritz-carlton-residences-waikiki-beach/hotel/honolulu-hi-us.html?cid=1925461"
+        },
+        {
+          "key": "49107",
+          "name": "Halekulani - NO RESORT FEE",
+          "priceUSD": 762,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/halekulani-hotel/hotel/honolulu-hi-us.html?cid=1925461"
         }
       ]
     }

@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in New York — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 63% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mandarin Oriental, New York</b> — rating 9, 304 reviews, from $3,089/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 63% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mandarin Oriental, New York</b> — rating 9, 304 reviews, from $3,081/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 8,
     "distribution": [
@@ -42,24 +42,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg",
+  "heroImg": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg?va=1",
   "heroAlt": "New York Ultra-Luxury",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
       "name": "Mandarin Oriental, New York",
       "agodaUrl": "https://www.agoda.com/mandarin-oriental-new-york_5/hotel/new-york-ny-us.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg",
+      "img": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg?va=1",
       "score": 9,
       "reviewCount": 304,
       "reviewCountFmt": "304 reviews",
-      "priceText": "$$$ · $3,089/night",
+      "priceText": "$$$ · $3,081/night",
       "walkMin": 2,
       "refLabel": "59th Street-Columbus Circle Subway Station",
       "star": 5,
       "propertyId": 3849617,
-      "priceUSD": 3089,
+      "priceUSD": 3081,
       "priceStatus": "live",
       "distanceM": 169.92,
       "locationStatus": "verified",
@@ -74,9 +74,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 304 reviews. 2 min walk to 59th Street-Columbus Circle Subway Station. $$$ · $3,089/night. 67% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 304 reviews. 2 min walk to 59th Street-Columbus Circle Subway Station. $$$ · $3,081/night. 67% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $3,089/night",
+        "💰 $3,081/night",
         "📝 304 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -136,7 +136,7 @@
       "rank": 2,
       "name": "Four Seasons Hotel New York",
       "agodaUrl": "https://www.agoda.com/four-seasons-hotel-new-york_2/hotel/new-york-ny-us.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/1267104/-1/a25707eb2e4054a316466e1e7eb78f06.jpg?ca=7&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/1267104/-1/a25707eb2e4054a316466e1e7eb78f06.jpg?va=1&ca=7&ce=1",
       "score": 9.3,
       "reviewCount": 77,
       "reviewCountFmt": "77 reviews",
@@ -358,34 +358,26 @@
     },
     {
       "rank": 6,
-      "name": "Lowell Hotel",
-      "agodaUrl": "https://www.agoda.com/lowell-hotel/hotel/new-york-ny-us.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/4892925/0/1ac53e2e13f5520dca297660b81b724e.jpeg?ce=3",
-      "score": 9.1,
-      "reviewCount": 74,
-      "reviewCountFmt": "74 reviews",
-      "priceText": "$$$ · $1,838/night",
-      "walkMin": 4,
-      "refLabel": "Fifth Avenue-59th Street Subway Station",
+      "name": "Casa Cipriani New York",
+      "agodaUrl": "https://www.agoda.com/casa-cipriani-new-york/hotel/princeton-nj-us.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/500264371.jpg?k=a0089b46d83f8c4da304dd2767184e4aa7520431be7c3783c758c70b230fcbfe&o=",
+      "score": 9.2,
+      "reviewCount": 128,
+      "reviewCountFmt": "128 reviews",
+      "priceText": "$$$ · $1,817/night",
+      "walkMin": 2,
+      "refLabel": "South Ferry-Whitehall Street Subway Station",
       "star": 5,
-      "propertyId": 7011025,
-      "priceUSD": 1838,
+      "propertyId": 56249939,
+      "priceUSD": 1817,
       "priceStatus": "live",
-      "distanceM": 303.13,
+      "distanceM": 162.34,
       "locationStatus": "verified",
-      "facilities": [
-        "Close to public transportation",
-        "High Line",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.1 · 74 reviews. 4 min walk to Fifth Avenue-59th Street Subway Station. $$$ · $1,838/night.",
+      "facilities": [],
+      "blurb": "Rating 9.2 · 128 reviews. 2 min walk to South Ferry-Whitehall Street Subway Station. $$$ · $1,817/night.",
       "metaTags": [
-        "💰 $1,838/night",
-        "📝 74 reviews",
+        "💰 $1,817/night",
+        "📝 128 reviews",
         "⭐ 5-star"
       ],
       "travelerTypes": null,
@@ -403,16 +395,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T21:20:32.979Z",
+    "fetchedAt": "2026-10-08T21:21:51.519Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T21:20:32.979Z",
+    "fetchedAt": "2026-10-08T21:21:51.519Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
@@ -422,7 +414,7 @@
         "Four Seasons Hotel New York: reviewSample",
         "Crosby Street Hotel: reviewSample",
         "The Greenwich Hotel: reviewSample",
-        "Lowell Hotel: reviewSample"
+        "Casa Cipriani New York: reviewSample"
       ]
     },
     "firstPublished": "2026-10-06"

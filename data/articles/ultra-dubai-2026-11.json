@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Dubai — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 45% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Jumeirah Zabeel Saray Dubai</b> — rating 8.7, 2,833 reviews, from $2,308/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 45% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Jumeirah Zabeel Saray Dubai</b> — rating 8.7, 2,833 reviews, from $2,305/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 20,
     "distribution": [
@@ -48,24 +48,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/41046751/0/1017d9590d751964134055c473a589ef.jpeg?va=1&ce=3",
+  "heroImg": "https://pix8.agoda.net/hotelImages/41046751/-1/dbe305b1bee990ce66a298ddeee29e81.jpg?ce=0",
   "heroAlt": "Dubai Ultra-Luxury",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
       "name": "Jumeirah Zabeel Saray Dubai",
       "agodaUrl": "https://www.agoda.com/jumeirah-zabeel-saray-royal-residences-h16254932/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41046751/0/1017d9590d751964134055c473a589ef.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/41046751/-1/dbe305b1bee990ce66a298ddeee29e81.jpg?ce=0",
       "score": 8.7,
       "reviewCount": 2833,
       "reviewCountFmt": "2,833 reviews",
-      "priceText": "$$$ · $2,308/night",
+      "priceText": "$$$ · $2,305/night",
       "walkMin": 31,
       "refLabel": "Al Ittihad Park Station",
       "star": 5,
       "propertyId": 41046751,
-      "priceUSD": 2308,
+      "priceUSD": 2305,
       "priceStatus": "live",
       "distanceM": 2441.23,
       "locationStatus": "verified",
@@ -80,9 +80,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.7 · 2,833 reviews. $$$ · $2,308/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 8.7 · 2,833 reviews. $$$ · $2,305/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,308/night",
+        "💰 $2,305/night",
         "📝 2,833 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -156,7 +156,7 @@
       "rank": 2,
       "name": "The Biltmore Hotel Villas Dubai",
       "agodaUrl": "https://www.agoda.com/the-biltmore-hotel-villas/hotel/dubai-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/59031518/-1/cad26d0674a0ecfdbebeb7c83190f5a6.jpg?ce=0",
       "score": 9.5,
       "reviewCount": 109,
       "reviewCountFmt": "109 reviews",
@@ -554,16 +554,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T21:20:23.920Z",
+    "fetchedAt": "2026-10-08T21:22:34.371Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T21:20:23.920Z",
+    "fetchedAt": "2026-10-08T21:22:34.371Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

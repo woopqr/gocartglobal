@@ -44,7 +44,7 @@
   },
   "heroImg": "https://pix8.agoda.net/hotelImages/5750598/0/a58507c20106a7e1761bc83c5a9ddd4a.jpeg?va=1&ce=3",
   "heroAlt": "Maldives Wellness & Spa",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
@@ -381,12 +381,12 @@
       "score": 9.3,
       "reviewCount": 154,
       "reviewCountFmt": "154 reviews",
-      "priceText": "$$$ · $3,817/night",
+      "priceText": "$$$ · $3,820/night",
       "walkMin": null,
       "refLabel": "city center",
       "star": 5,
       "propertyId": 6601321,
-      "priceUSD": 3817,
+      "priceUSD": 3820,
       "priceStatus": "live",
       "distanceM": null,
       "locationStatus": "approx.",
@@ -399,9 +399,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 154 reviews. $$$ · $3,817/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 154 reviews. $$$ · $3,820/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $3,817/night",
+        "💰 $3,820/night",
         "📝 154 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -460,12 +460,12 @@
       "score": 9.5,
       "reviewCount": 49,
       "reviewCountFmt": "49 reviews",
-      "priceText": "$$$ · $3,375/night",
+      "priceText": "$$$ · $3,356/night",
       "walkMin": 7,
       "refLabel": "Dolphin Beach",
       "star": 5,
       "propertyId": 12164,
-      "priceUSD": 3375,
+      "priceUSD": 3356,
       "priceStatus": "live",
       "distanceM": 591.05,
       "locationStatus": "verified",
@@ -480,9 +480,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 49 reviews. 7 min walk to Dolphin Beach. $$$ · $3,375/night.",
+      "blurb": "Rating 9.5 · 49 reviews. 7 min walk to Dolphin Beach. $$$ · $3,356/night.",
       "metaTags": [
-        "💰 $3,375/night",
+        "💰 $3,356/night",
         "📝 49 reviews",
         "⭐ 5-star"
       ],
@@ -501,16 +501,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T21:20:18.902Z",
+    "fetchedAt": "2026-10-08T21:22:26.717Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T21:20:18.902Z",
+    "fetchedAt": "2026-10-08T21:22:26.717Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

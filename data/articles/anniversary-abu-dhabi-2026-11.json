@@ -48,15 +48,15 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/253683/-1/cd8d3feb434acd8e952f67b4ff642ac9.jpg?va=1&ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/253683/0/a5ad9322328f365f39886bcba8b0d9b0.jpeg?va=1&ce=3",
   "heroAlt": "Abu Dhabi Anniversary Escape",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
       "name": "ERTH Hotel.",
       "agodaUrl": "https://www.agoda.com/officers-club-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/253683/-1/cd8d3feb434acd8e952f67b4ff642ac9.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/253683/0/a5ad9322328f365f39886bcba8b0d9b0.jpeg?va=1&ce=3",
       "score": 8.9,
       "reviewCount": 1562,
       "reviewCountFmt": "1,562 reviews",
@@ -122,17 +122,17 @@
           "translated": false
         },
         {
-          "text": "Breakfast buffet is so vast and using fresh ingredients.",
-          "score": "10",
-          "country": "Australia",
-          "date": "2024.03",
-          "translated": false
-        },
-        {
           "text": "Clean, unique and just overall relaxed vibe to the place",
           "score": "9.2",
           "country": "Saudi Arabia",
           "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Breakfast buffet is so vast and using fresh ingredients.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.03",
           "translated": false
         },
         {
@@ -270,16 +270,16 @@
       "rank": 3,
       "name": "Sheraton Abu Dhabi Hotel & Resort",
       "agodaUrl": "https://www.agoda.com/sheraton-abu-dhabi-hotel-resort_12/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/886105952.jpg?k=96bf4afb37830d37249e99b246e4a3a33818a9a235a5774a0378dad36b87a5ad&o=",
+      "img": "https://pix8.agoda.net/hotelImages/5106253/1154055577/2ab6ede4b1d07450bbbae790eaa29c7a.jpeg?va=1&ce=3",
       "score": 9.1,
-      "reviewCount": 7972,
-      "reviewCountFmt": "7,972 reviews",
-      "priceText": "$$ · $302/night",
+      "reviewCount": 7973,
+      "reviewCountFmt": "7,973 reviews",
+      "priceText": "$$ · $336/night",
       "walkMin": 43,
       "refLabel": "Abu Dhabi Central Bus Station",
       "star": 5,
       "propertyId": 182665,
-      "priceUSD": 302,
+      "priceUSD": 336,
       "priceStatus": "live",
       "distanceM": 3436,
       "locationStatus": "verified",
@@ -292,10 +292,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 7,972 reviews. $$ · $302/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 7,973 reviews. $$ · $336/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $302/night",
-        "📝 7,972 reviews",
+        "💰 $336/night",
+        "📝 7,973 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Families"
@@ -376,7 +376,7 @@
       "rank": 4,
       "name": "The St. Regis Abu Dhabi",
       "agodaUrl": "https://www.agoda.com/the-st-regis-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/600114174.jpg?k=a844a691ad6f35067644a981ec0b510f06b93d124739f68d949be00546fd4e38&o=",
+      "img": "https://pix8.agoda.net/hotelImages/520310/74571033/d76413c2e441c43c5ed0b6dbe24cc4db.jpeg?va=1&ce=3",
       "score": 9.4,
       "reviewCount": 2245,
       "reviewCountFmt": "2,245 reviews",
@@ -469,7 +469,7 @@
       "rank": 5,
       "name": "Al Wathba, a Luxury Collection Desert Resort & Spa, Abu Dhabi",
       "agodaUrl": "https://www.agoda.com/jumeirah-al-wathba-desert-resort-and-spa/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/13754269/-1/8ff2e32e09942c8c86d2f9fa75fef33c.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/13754269/0/085ea22d4e3cc4a1c1fad27e0352bb79.jpeg?va=1&ce=3",
       "score": 9.4,
       "reviewCount": 900,
       "reviewCountFmt": "900 reviews",
@@ -576,16 +576,16 @@
       "rank": 6,
       "name": "Four Seasons Hotel Abu Dhabi at Al Maryah Island",
       "agodaUrl": "https://www.agoda.com/four-seasons-hotel-abu-dhabi-at-al-maryah-island/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/126/1267025/1267025_16120819440049549504.jpg?va=1&ca=6&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/1267025/0/6b98d26c8663a3c84a64f3264291e30a.jpeg?va=1&ce=3",
       "score": 9.3,
       "reviewCount": 1268,
       "reviewCountFmt": "1,268 reviews",
-      "priceText": "$$$ · $535/night",
+      "priceText": "$$$ · $530/night",
       "walkMin": 47,
       "refLabel": "Abu Dhabi Central Bus Station",
       "star": 5,
       "propertyId": 1267025,
-      "priceUSD": 535,
+      "priceUSD": 530,
       "priceStatus": "live",
       "distanceM": 3795.87,
       "locationStatus": "verified",
@@ -600,9 +600,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 1,268 reviews. $$$ · $535/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 1,268 reviews. $$$ · $530/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $535/night",
+        "💰 $530/night",
         "📝 1,268 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -675,16 +675,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T21:19:46.926Z",
+    "fetchedAt": "2026-10-08T21:21:54.185Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T21:19:46.926Z",
+    "fetchedAt": "2026-10-08T21:21:54.185Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

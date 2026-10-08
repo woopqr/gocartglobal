@@ -1,0 +1,688 @@
+{
+  "slug": "ultra-phu-quoc-2026-11",
+  "theme": "ultra",
+  "audience": "Ultra-Luxury",
+  "emoji": "👑",
+  "city": "Phu Quoc",
+  "citySlug": "phu-quoc",
+  "cityId": 17188,
+  "inSeason": true,
+  "country": "Vietnam",
+  "region": "southeast-asia",
+  "regionLabel": "Southeast Asia",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=17188",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Phu Quoc] The Best of the Best: Top Luxury Stays",
+  "metaDescription": "The 6 finest ultra-luxury stays in Phu Quoc — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
+  "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 37% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>InterContinental Phu Quoc Long Beach Resort By IHG</b> — rating 9, 5,250 reviews, from $631/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 11,
+        "pct": 37
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 10,
+        "pct": 33
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 8,
+        "pct": 27
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/3648660/-1/1e2b3929c2693d0eb4bde5a9265bfd2d.jpg?ce=0",
+  "heroAlt": "Phu Quoc Ultra-Luxury",
+  "updated": "2026-10-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "InterContinental Phu Quoc Long Beach Resort By IHG",
+      "agodaUrl": "https://www.agoda.com/intercontinental-phu-quoc-long-beach-resort/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3648660/-1/1e2b3929c2693d0eb4bde5a9265bfd2d.jpg?ce=0",
+      "score": 9,
+      "reviewCount": 5250,
+      "reviewCountFmt": "5,250 reviews",
+      "priceText": "$$$ · $631/night",
+      "walkMin": 122,
+      "refLabel": "Hon Thom Cable Car",
+      "star": 5,
+      "propertyId": 3648660,
+      "priceUSD": 631,
+      "priceStatus": "live",
+      "distanceM": 9789.49,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Long Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 5,250 reviews. $$$ · $631/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $631/night",
+        "📝 5,250 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This has to be one of the best hotels that I have ever been.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.10",
+          "translated": false
+        },
+        {
+          "text": "Nice hotel great facility , clean , great room , great views",
+          "score": "8.8",
+          "country": "Bahrain",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "I could come back to home with happy and memorable emotion.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "We upgraded our room, which was nice and spacious as well.",
+          "score": "7.6",
+          "country": "Georgia",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "If you are looking at a true 5 star experience book here.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Sunset Sanato Resort & Villas",
+      "agodaUrl": "https://www.agoda.com/sunset-sanato-resort-villas_2/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/5943665/-1/accd6ab6bd4e5abc295a018bacfdf5bf.jpg?ce=0",
+      "score": 8.5,
+      "reviewCount": 1201,
+      "reviewCountFmt": "1,201 reviews",
+      "priceText": "$$$ · $715/night",
+      "walkMin": 1,
+      "refLabel": "Long Beach",
+      "star": 5,
+      "propertyId": 5943665,
+      "priceUSD": 715,
+      "priceStatus": "live",
+      "distanceM": 87.29,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Long Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.5 · 1,201 reviews. 1 min walk to Long Beach. $$$ · $715/night.",
+      "metaTags": [
+        "💰 $715/night",
+        "📝 1,201 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Groups"
+      ],
+      "travelerTypes": {
+        "topLabel": "Groups",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Overall, a wonderful experience that I highly recommend!",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "They were there all the time when we needed them.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Our villa was just couple of steps away from the beach.",
+          "score": "9.2",
+          "country": "Malaysia",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Villa comes with a private pool, very clean and cozy.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "We will definately going to come back to this hotel.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.11",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Sailing Club Signature Resort Phu Quoc",
+      "agodaUrl": "https://www.agoda.com/sailing-club-signature-resort-phu-quoc/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/31187083/-1/b30e2ec34a9eee9142e991ca46abd563.png?ce=0",
+      "score": 8.9,
+      "reviewCount": 3848,
+      "reviewCountFmt": "3,848 reviews",
+      "priceText": "$$$ · $605/night",
+      "walkMin": 23,
+      "refLabel": "Long Beach",
+      "star": 5,
+      "propertyId": 31187083,
+      "priceUSD": 605,
+      "priceStatus": "live",
+      "distanceM": 1852.93,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Long Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 3,848 reviews. $$$ · $605/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $605/night",
+        "📝 3,848 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Having said that the staff were incredibly helpful.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The rooms, private pool and resort facilities are five star.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The hotel facilities were well-maintained and very clean.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "The replies were surprisingly quick and very efficient.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2025.09",
+          "translated": false
+        },
+        {
+          "text": "We enjoyed the private pool, which is quite spacious!",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2022.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Sheraton Phu Quoc Long Beach Resort",
+      "agodaUrl": "https://www.agoda.com/sheraton-phu-quoc-long-beach-resort/hotel/phu-qu-c-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1032420/-1/a38b22a8891521acb6c4d224b4f1808f.jpg?ce=0",
+      "score": 8.8,
+      "reviewCount": 2788,
+      "reviewCountFmt": "2,788 reviews",
+      "priceText": "$$$ · $582/night",
+      "walkMin": 3,
+      "refLabel": "Vinwonders Phu Quoc",
+      "star": 5,
+      "propertyId": 1032420,
+      "priceUSD": 582,
+      "priceStatus": "live",
+      "distanceM": 202.57,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Vinpearl Safari Phu Quoc"
+      ],
+      "blurb": "Rating 8.8 · 2,788 reviews. 3 min walk to Vinwonders Phu Quoc. $$$ · $582/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $582/night",
+        "📝 2,788 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "They also have free shuttle service to corona resort.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The resort is beautiful, peaceful, and very family-friendly.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The property is great, and I really loved their hospitality.",
+          "score": "10",
+          "country": "India",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "If anyone coming to Phuquoc then this place is a must stay.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "Any issues are resolved quickly and efficiently.",
+          "score": "10",
+          "country": "Mongolia",
+          "date": "2026.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "JW Marriott Phu Quoc Emerald Bay Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/jw-marriott-phu-quoc-emerald-bay-resort-spa/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/656782024.jpg?k=215fe5b0a2e9ecbf261f16526e99286f7183f5a9957d6a4056fa7a7f15c563cb&o=",
+      "score": 9.2,
+      "reviewCount": 2811,
+      "reviewCountFmt": "2,811 reviews",
+      "priceText": "$$ · $498/night",
+      "walkMin": 31,
+      "refLabel": "Hon Thom Cable Car",
+      "star": 5,
+      "propertyId": 1624474,
+      "priceUSD": 498,
+      "priceStatus": "live",
+      "distanceM": 2442.57,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Sao Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 2,811 reviews. $$ · $498/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $498/night",
+        "📝 2,811 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Secluded beach/ocean front room within steps from your room.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2022.06",
+          "translated": false
+        },
+        {
+          "text": "What a treat, stunning property and with amazing facilities.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "The hotel was beautiful and they provide excellent service!",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Highly recommended, and we will definitely return.",
+          "score": "10",
+          "country": "Portugal",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "I enjoyed everything here and customer service was awesome.",
+          "score": "9.6",
+          "country": "Vietnam",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Green Bay Phu Quoc Resort and Spa",
+      "agodaUrl": "https://www.agoda.com/green-bay-phu-quoc-resort-and-spa/hotel/phu-quoc-island-vn.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2169131/0/7b773a379f38cd635ea80fdfdd43b5f5.png?ce=3",
+      "score": 9,
+      "reviewCount": 2169,
+      "reviewCountFmt": "2,169 reviews",
+      "priceText": "$$ · $401/night",
+      "walkMin": 65,
+      "refLabel": "Vinpearl Safari Phu Quoc",
+      "star": 5,
+      "propertyId": 2169131,
+      "priceUSD": 401,
+      "priceStatus": "live",
+      "distanceM": 5237.41,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 2,169 reviews. $$ · $401/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $401/night",
+        "📝 2,169 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.4
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The facilities are all amazing, the rooms feel very special.",
+          "score": "9.2",
+          "country": "Vietnam",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "Our suite was spacious, clean, and very well-maintained.",
+          "score": "9.6",
+          "country": "Canada",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "I will definitely come back if I visit Phu Quoc again.",
+          "score": "8.4",
+          "country": "VN",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Everything is there and staffs are friendly and welcoming",
+          "score": "10",
+          "country": "HK",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Staff are friendly and pay attention to your needs.",
+          "score": "9.6",
+          "country": "United Kingdom",
+          "date": "2024.02",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-08T21:21:45.292Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-08T21:21:45.292Z",
+    "source": "agoda citySearch",
+    "daysAhead": 38,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    },
+    "firstPublished": "2026-10-08"
+  }
+}

@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest luxury golf stays in Phuket — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A great golf trip is half course, half recovery. These are the top-tier, best-reviewed five-star stays in a destination with a serious golf scene — chosen as a base, not as a promise of an on-site course.",
   "viewpoint": "We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
-  "verdict": "Our #1 pick is <b>Villa Baan Phu Prana</b> — rating 9, 287 reviews, from $1,535/night. We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
+  "verdict": "Our #1 pick is <b>Villa Baan Phu Prana</b> — rating 9, 287 reviews, from $1,552/night. We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
   "aggregate": {
     "total": 24,
     "distribution": [
@@ -48,24 +48,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/296788/0/69be792179a037b6d73b2b421acecbcd.jpeg?ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/296788/0/69be792179a037b6d73b2b421acecbcd.jpeg?va=1&ce=0",
   "heroAlt": "Phuket Luxury Golf",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
       "name": "Villa Baan Phu Prana",
       "agodaUrl": "https://www.agoda.com/villa-baan-phu-prana/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/296788/0/69be792179a037b6d73b2b421acecbcd.jpeg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/296788/0/69be792179a037b6d73b2b421acecbcd.jpeg?va=1&ce=0",
       "score": 9,
       "reviewCount": 287,
       "reviewCountFmt": "287 reviews",
-      "priceText": "$$$ · $1,535/night",
+      "priceText": "$$$ · $1,552/night",
       "walkMin": 24,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 296788,
-      "priceUSD": 1535,
+      "priceUSD": 1552,
       "priceStatus": "live",
       "distanceM": 1944.31,
       "locationStatus": "verified",
@@ -80,9 +80,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 287 reviews. $$$ · $1,535/night.",
+      "blurb": "Rating 9 · 287 reviews. $$$ · $1,552/night.",
       "metaTags": [
-        "💰 $1,535/night",
+        "💰 $1,552/night",
         "📝 287 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -129,16 +129,16 @@
       "rank": 2,
       "name": "Rosewood Phuket",
       "agodaUrl": "https://www.agoda.com/rosewood-phuket_3/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/2838322/0/0624cc0b1b921df4acf51e93466668cd.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/2838322/0/cb6bf9f174797d9bc9a625d9d277db1e.jpeg?va=1",
       "score": 9.1,
       "reviewCount": 247,
       "reviewCountFmt": "247 reviews",
-      "priceText": "$$$ · $1,588/night",
+      "priceText": "$$$ · $1,587/night",
       "walkMin": 103,
       "refLabel": "Minibus Station",
       "star": 5,
       "propertyId": 2838322,
-      "priceUSD": 1588,
+      "priceUSD": 1587,
       "priceStatus": "live",
       "distanceM": 8206.42,
       "locationStatus": "verified",
@@ -153,9 +153,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 247 reviews. $$$ · $1,588/night.",
+      "blurb": "Rating 9.1 · 247 reviews. $$$ · $1,587/night.",
       "metaTags": [
-        "💰 $1,588/night",
+        "💰 $1,587/night",
         "📝 247 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -312,12 +312,12 @@
       "score": 8.9,
       "reviewCount": 78,
       "reviewCountFmt": "78 reviews",
-      "priceText": "$$$ · $969/night",
+      "priceText": "$$$ · $989/night",
       "walkMin": 7,
       "refLabel": "Minibus Station",
       "star": 5,
       "propertyId": 3078894,
-      "priceUSD": 969,
+      "priceUSD": 989,
       "priceStatus": "live",
       "distanceM": 556.68,
       "locationStatus": "verified",
@@ -332,9 +332,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 78 reviews. 7 min walk to Minibus Station. $$$ · $969/night.",
+      "blurb": "Rating 8.9 · 78 reviews. 7 min walk to Minibus Station. $$$ · $989/night.",
       "metaTags": [
-        "💰 $969/night",
+        "💰 $989/night",
         "📝 78 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -361,17 +361,17 @@
       },
       "reviews": [
         {
-          "text": "Our pool suite was perfect for 3 coworkers to share.",
-          "score": "10",
-          "country": "United States",
-          "date": "2024.03",
-          "translated": false
-        },
-        {
           "text": "Very dreamy I would definitely stay again.",
           "score": "9.6",
           "country": "Australia",
           "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Our pool suite was perfect for 3 coworkers to share.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.03",
           "translated": false
         },
         {
@@ -408,16 +408,16 @@
       "rank": 5,
       "name": "InterContinental Phuket Resort By IHG",
       "agodaUrl": "https://www.agoda.com/intercontinental-phuket-resort/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/6592301/0/0d09c5499e0d69ef59060e3f6349385f.jpeg?ce=2",
+      "img": "https://pix8.agoda.net/hotelImages/7173886/0/287a2f2146b61e60a5953e285ebedf97.jpeg?va=1&ce=2",
       "score": 9.1,
       "reviewCount": 1269,
       "reviewCountFmt": "1,269 reviews",
-      "priceText": "$$$ · $646/night",
+      "priceText": "$$$ · $645/night",
       "walkMin": 8,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 6592301,
-      "priceUSD": 646,
+      "priceUSD": 645,
       "priceStatus": "live",
       "distanceM": 615.39,
       "locationStatus": "verified",
@@ -432,9 +432,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,269 reviews. 8 min walk to Phuket FantaSea. $$$ · $646/night.",
+      "blurb": "Rating 9.1 · 1,269 reviews. 8 min walk to Phuket FantaSea. $$$ · $645/night.",
       "metaTags": [
-        "💰 $646/night",
+        "💰 $645/night",
         "📝 1,269 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -509,10 +509,10 @@
       "rank": 6,
       "name": "Anantara Mai Khao Phuket Villas",
       "agodaUrl": "https://www.agoda.com/anantara-mai-khao-phuket-villas/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/109870/0/be4cac00fea10f12444c7d5768baf281.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/109870/0/82151d462375b06c2f76ca39bf5b7b6b.jpg?va=1&ce=3",
       "score": 9.1,
-      "reviewCount": 1544,
-      "reviewCountFmt": "1,544 reviews",
+      "reviewCount": 1545,
+      "reviewCountFmt": "1,545 reviews",
       "priceText": "$$$ · $593/night",
       "walkMin": 4,
       "refLabel": "Sai Kaew Beach",
@@ -533,10 +533,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,544 reviews. 4 min walk to Sai Kaew Beach. $$$ · $593/night.",
+      "blurb": "Rating 9.1 · 1,545 reviews. 4 min walk to Sai Kaew Beach. $$$ · $593/night.",
       "metaTags": [
         "💰 $593/night",
-        "📝 1,544 reviews",
+        "📝 1,545 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -616,16 +616,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T21:20:03.210Z",
+    "fetchedAt": "2026-10-08T21:22:09.949Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T21:20:03.210Z",
+    "fetchedAt": "2026-10-08T21:22:09.949Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
