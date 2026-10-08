@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Osaka — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 41% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Hotel Osaka</b> — rating 9.4, 853 reviews, from $658/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 41% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Hotel Osaka</b> — rating 9.4, 853 reviews, from $661/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 22,
     "distribution": [
@@ -54,24 +54,24 @@
       }
     ]
   },
-  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/737233050.jpg?k=4c07a1555eb77ed863b763ffff9e513adfe5fd14f2c7c028de1dd673d9b5e083&o=",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/837780512.jpg?k=bfd0c799b844034e1b641d92803b257f0891b236625c918dedd57fbca8c27de6&o=",
   "heroAlt": "Osaka Ultra-Luxury",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
       "name": "Four Seasons Hotel Osaka",
       "agodaUrl": "https://www.agoda.com/four-seasons-hotel-osaka/hotel/all/osaka-jp.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/737233050.jpg?k=4c07a1555eb77ed863b763ffff9e513adfe5fd14f2c7c028de1dd673d9b5e083&o=",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/837780512.jpg?k=bfd0c799b844034e1b641d92803b257f0891b236625c918dedd57fbca8c27de6&o=",
       "score": 9.4,
       "reviewCount": 853,
       "reviewCountFmt": "853 reviews",
-      "priceText": "$$$ · $658/night",
+      "priceText": "$$$ · $661/night",
       "walkMin": 6,
       "refLabel": "Nishi-Umeda Subway Station",
       "star": 5,
       "propertyId": 58342090,
-      "priceUSD": 658,
+      "priceUSD": 661,
       "priceStatus": "live",
       "distanceM": 449.13,
       "locationStatus": "verified",
@@ -86,9 +86,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 853 reviews. 6 min walk to Nishi-Umeda Subway Station. $$$ · $658/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 853 reviews. 6 min walk to Nishi-Umeda Subway Station. $$$ · $661/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $658/night",
+        "💰 $661/night",
         "📝 853 reviews",
         "⭐ 5-star",
         "👥 Loved by Business"
@@ -167,18 +167,112 @@
     },
     {
       "rank": 2,
+      "name": "Conrad Osaka",
+      "agodaUrl": "https://www.agoda.com/conrad-osaka_2/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2190881/0/4125529b547b485e322077c4d2374300.jpeg?ce=3",
+      "score": 9.1,
+      "reviewCount": 888,
+      "reviewCountFmt": "888 reviews",
+      "priceText": "$$$ · $587/night",
+      "walkMin": 3,
+      "refLabel": "Higobashi Subway Station",
+      "star": 5,
+      "propertyId": 2190881,
+      "priceUSD": 587,
+      "priceStatus": "live",
+      "distanceM": 245.74,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Tsutenkaku"
+      ],
+      "blurb": "Rating 9.1 · 888 reviews. 3 min walk to Higobashi Subway Station. $$$ · $587/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $587/night",
+        "📝 888 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Best I ever live in Osaka compared with w hotel and st regis",
+          "score": "10",
+          "country": "HK",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Oh, and did I mention the fantastic indoor lap pool?",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Each room also has full height windows with unblocked views.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "Great location, nice staff and comfortable.",
+          "score": "9.6",
+          "country": "VN",
+          "date": "2025.07",
+          "translated": false
+        },
+        {
+          "text": "I have no words - just amazing place.",
+          "score": "10",
+          "country": "Schweiz",
+          "date": "2023.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
       "name": "Patina Osaka",
       "agodaUrl": "https://www.agoda.com/patina-osaka-h64576639/hotel/osaka-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/64963597/0/4871c668c737b830c3996228ba59b006.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/64963597/0/4871c668c737b830c3996228ba59b006.jpeg?ce=3",
       "score": 9.4,
       "reviewCount": 565,
       "reviewCountFmt": "565 reviews",
-      "priceText": "$$$ · $622/night",
+      "priceText": "$$$ · $605/night",
       "walkMin": 9,
       "refLabel": "Tanimachi 4-chome Subway Station",
       "star": 5,
       "propertyId": 64963597,
-      "priceUSD": 622,
+      "priceUSD": 605,
       "priceStatus": "live",
       "distanceM": 684.53,
       "locationStatus": "verified",
@@ -193,9 +287,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 565 reviews. 9 min walk to Tanimachi 4-chome Subway Station. $$$ · $622/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 565 reviews. 9 min walk to Tanimachi 4-chome Subway Station. $$$ · $605/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $622/night",
+        "💰 $605/night",
         "📝 565 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -273,100 +367,6 @@
       }
     },
     {
-      "rank": 3,
-      "name": "Conrad Osaka",
-      "agodaUrl": "https://www.agoda.com/conrad-osaka_2/hotel/osaka-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/2190881/0/4125529b547b485e322077c4d2374300.jpeg?va=1&ce=3",
-      "score": 9.1,
-      "reviewCount": 887,
-      "reviewCountFmt": "887 reviews",
-      "priceText": "$$$ · $586/night",
-      "walkMin": 3,
-      "refLabel": "Higobashi Subway Station",
-      "star": 5,
-      "propertyId": 2190881,
-      "priceUSD": 586,
-      "priceStatus": "live",
-      "distanceM": 245.74,
-      "locationStatus": "verified",
-      "facilities": [
-        "Daily housekeeping",
-        "Close to public transportation",
-        "Tsutenkaku"
-      ],
-      "blurb": "Rating 9.1 · 887 reviews. 3 min walk to Higobashi Subway Station. $$$ · $586/night. 80% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $586/night",
-        "📝 887 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 80,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 4,
-            "pct": 80,
-            "rating": 10
-          },
-          {
-            "key": "group",
-            "label": "Groups",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Best I ever live in Osaka compared with w hotel and st regis",
-          "score": "10",
-          "country": "HK",
-          "date": "2024.11",
-          "translated": false
-        },
-        {
-          "text": "Oh, and did I mention the fantastic indoor lap pool?",
-          "score": "10",
-          "country": "Singapore",
-          "date": "2022.12",
-          "translated": false
-        },
-        {
-          "text": "Each room also has full height windows with unblocked views.",
-          "score": "10",
-          "country": "Singapore",
-          "date": "2022.12",
-          "translated": false
-        },
-        {
-          "text": "Great location, nice staff and comfortable.",
-          "score": "9.6",
-          "country": "VN",
-          "date": "2025.07",
-          "translated": false
-        },
-        {
-          "text": "I have no words - just amazing place.",
-          "score": "10",
-          "country": "Schweiz",
-          "date": "2023.09",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
       "rank": 4,
       "name": "KONJAKUSO Osaka Tempozan KOMESHOU UOSHOU",
       "agodaUrl": "https://www.agoda.com/konjakuso-osaka-tempozan-komeshou-uoshou/hotel/all/osaka-jp.html?cid=1925461",
@@ -374,12 +374,12 @@
       "score": 9.1,
       "reviewCount": 38,
       "reviewCountFmt": "38 reviews",
-      "priceText": "$$$ · $716/night",
+      "priceText": "$$$ · $717/night",
       "walkMin": 4,
       "refLabel": "Osakako Subway Station",
       "star": 5,
       "propertyId": 79293520,
-      "priceUSD": 716,
+      "priceUSD": 717,
       "priceStatus": "live",
       "distanceM": 293.05,
       "locationStatus": "verified",
@@ -388,9 +388,9 @@
         "Close to public transportation",
         "Osaka Aquarium Kaiyukan"
       ],
-      "blurb": "Rating 9.1 · 38 reviews. 4 min walk to Osakako Subway Station. $$$ · $716/night.",
+      "blurb": "Rating 9.1 · 38 reviews. 4 min walk to Osakako Subway Station. $$$ · $717/night.",
       "metaTags": [
-        "💰 $716/night",
+        "💰 $717/night",
         "📝 38 reviews",
         "⭐ 5-star"
       ],
@@ -410,16 +410,16 @@
       "rank": 5,
       "name": "Waldorf Astoria Osaka",
       "agodaUrl": "https://www.agoda.com/waldorf-astoria-osaka-h64560122/hotel/osaka-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/64560122/0/cdf3e420495b6969a71a9ab4e123d82c.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/64560122/0/cdf3e420495b6969a71a9ab4e123d82c.jpeg?ce=3",
       "score": 9.4,
       "reviewCount": 265,
       "reviewCountFmt": "265 reviews",
-      "priceText": "$$$ · $634/night",
+      "priceText": "$$$ · $595/night",
       "walkMin": 5,
       "refLabel": "Ōsaka Station",
       "star": 5,
       "propertyId": 64560122,
-      "priceUSD": 634,
+      "priceUSD": 595,
       "priceStatus": "live",
       "distanceM": 400.09,
       "locationStatus": "verified",
@@ -432,9 +432,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 265 reviews. 5 min walk to Ōsaka Station. $$$ · $634/night.",
+      "blurb": "Rating 9.4 · 265 reviews. 5 min walk to Ōsaka Station. $$$ · $595/night.",
       "metaTags": [
-        "💰 $634/night",
+        "💰 $595/night",
         "📝 265 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -480,16 +480,16 @@
       "rank": 6,
       "name": "InterContinental Hotel Osaka By IHG",
       "agodaUrl": "https://www.agoda.com/intercontinental-hotel-osaka/hotel/osaka-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/445436/0/aa80173d3fa9d68317da912e0e5ea7a4.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/445436/0/aa80173d3fa9d68317da912e0e5ea7a4.jpeg?ce=3",
       "score": 9.3,
-      "reviewCount": 2710,
-      "reviewCountFmt": "2,710 reviews",
-      "priceText": "$$$ · $553/night",
+      "reviewCount": 2709,
+      "reviewCountFmt": "2,709 reviews",
+      "priceText": "$$ · $483/night",
       "walkMin": 4,
       "refLabel": "Umeda Train Station",
       "star": 5,
       "propertyId": 445436,
-      "priceUSD": 553,
+      "priceUSD": 483,
       "priceStatus": "live",
       "distanceM": 355.39,
       "locationStatus": "verified",
@@ -504,10 +504,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 2,710 reviews. 4 min walk to Umeda Train Station. $$$ · $553/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 2,709 reviews. 4 min walk to Umeda Train Station. $$ · $483/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $553/night",
-        "📝 2,710 reviews",
+        "💰 $483/night",
+        "📝 2,709 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
       ],
@@ -586,16 +586,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T06:04:56.311Z",
+    "fetchedAt": "2026-10-08T06:10:06.841Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T06:04:56.311Z",
+    "fetchedAt": "2026-10-08T06:10:06.841Z",
     "source": "agoda citySearch",
-    "daysAhead": 40,
+    "daysAhead": 39,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

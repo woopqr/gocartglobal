@@ -1,0 +1,682 @@
+{
+  "slug": "anniversary-osaka-2026-11",
+  "theme": "anniversary",
+  "audience": "Anniversary Escape",
+  "emoji": "🥂",
+  "city": "Osaka",
+  "citySlug": "osaka",
+  "cityId": 9590,
+  "inSeason": true,
+  "country": "Japan",
+  "region": "east-asia",
+  "regionLabel": "East Asia",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=9590",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Osaka] The Grandest Suites to Celebrate a Milestone",
+  "metaDescription": "The 6 finest anniversary escape stays in Osaka — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
+  "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 40% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton, Osaka</b> — rating 9.2, 1,395 reviews, from $567/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 15,
+        "pct": 50
+      },
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 12,
+        "pct": 40
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/847684134.jpg?k=8c8d91f60d67743bd0db7753fad655ef67aeeaa0e03ff8682256fb840508635f&o=",
+  "heroAlt": "Osaka Anniversary Escape",
+  "updated": "2026-10-08",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "The Ritz-Carlton, Osaka",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-osaka/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/847684134.jpg?k=8c8d91f60d67743bd0db7753fad655ef67aeeaa0e03ff8682256fb840508635f&o=",
+      "score": 9.2,
+      "reviewCount": 1395,
+      "reviewCountFmt": "1,395 reviews",
+      "priceText": "$$$ · $567/night",
+      "walkMin": 4,
+      "refLabel": "Nishi-Umeda Subway Station",
+      "star": 5,
+      "propertyId": 8000,
+      "priceUSD": 567,
+      "priceStatus": "live",
+      "distanceM": 338.13,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Kuromon Market",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 1,395 reviews. 4 min walk to Nishi-Umeda Subway Station. $$$ · $567/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $567/night",
+        "📝 1,395 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel, staff and amenities were outstanding.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "As expected from The Ritz, an exceptional stay!!",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.01",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend the Ritz-Carlton Osaka.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "We visited the lounge several times and were very satisfied.",
+          "score": "9.6",
+          "country": "Deutschland",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "The staff of The Ritz Carlton Osaka is too-notch!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "Centara Grand Hotel Osaka",
+      "agodaUrl": "https://www.agoda.com/centara-grand-hotel-osaka/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/35245085/0/415f63cc20e0724fd778d5e3dd3f1bab.jpeg?ce=2",
+      "score": 9.1,
+      "reviewCount": 14717,
+      "reviewCountFmt": "14,717 reviews",
+      "priceText": "$$ · $308/night",
+      "walkMin": 4,
+      "refLabel": "Nankai Electric Railway",
+      "star": 5,
+      "propertyId": 35245085,
+      "priceUSD": 308,
+      "priceStatus": "live",
+      "distanceM": 316.49,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Close to public transportation",
+        "Abeno Harukas",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 14,717 reviews. 4 min walk to Nankai Electric Railway. $$ · $308/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $308/night",
+        "📝 14,717 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The hotel is big, clean, and the family room is very cozy.",
+          "score": "9.6",
+          "country": "Philippines",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Location is perfect, and the staff is so helpful and polite.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "What truly sets this hotel apart is its unbeatable location.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "A new and luxurious hotel with beautifully designed rooms.",
+          "score": "9.6",
+          "country": "Israel",
+          "date": "2026.06",
+          "translated": false
+        },
+        {
+          "text": "The location was so central and accessible to everything.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Swissotel Nankai Osaka",
+      "agodaUrl": "https://www.agoda.com/swissotel-nankai-osaka-hotel/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/45609/0/488d57c677de4e70ca4d9e418c191a13.jpeg",
+      "score": 8.9,
+      "reviewCount": 15990,
+      "reviewCountFmt": "15,990 reviews",
+      "priceText": "$$ · $251/night",
+      "walkMin": 1,
+      "refLabel": "Namba Train Station",
+      "star": 5,
+      "propertyId": 45609,
+      "priceUSD": 251,
+      "priceStatus": "live",
+      "distanceM": 81.07,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Abeno Harukas",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 15,990 reviews. 1 min walk to Namba Train Station. $$ · $251/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $251/night",
+        "📝 15,990 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staffs are really nice and the room has good view.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Rooms are spacious and clean as we booked the junior suite.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "The rooms were large compared to other local standards.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The breakfast is on the top floor with a stunning city view.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "The breakfast offered a wide spread of choices.",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "W Osaka",
+      "agodaUrl": "https://www.agoda.com/w-osaka-h20664132/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/500794559.jpg?k=283cf306ff88397867cead7f89f0fd44fd13c13df11ec57b94e24e3eb2dc101e&o=",
+      "score": 9.1,
+      "reviewCount": 1701,
+      "reviewCountFmt": "1,701 reviews",
+      "priceText": "$$ · $463/night",
+      "walkMin": 4,
+      "refLabel": "Shinsaibashi Subway Station",
+      "star": 5,
+      "propertyId": 20664132,
+      "priceUSD": 463,
+      "priceStatus": "live",
+      "distanceM": 309.07,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Abeno Harukas"
+      ],
+      "blurb": "Rating 9.1 · 1,701 reviews. 4 min walk to Shinsaibashi Subway Station. $$ · $463/night. 40% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $463/night",
+        "📝 1,701 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 8.6
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "5 star hotel with 5 star service in the middle of Osaka.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "W always offers enough space in a single room for families.",
+          "score": "7.2",
+          "country": "Singapore",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "I selected a corner room and it did not disappoint.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Room itself is fantastic and the design is so pop.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Would definitely stay again if returning to Osaka.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Osaka Marriott Miyako Hotel",
+      "agodaUrl": "https://www.agoda.com/osaka-marriott-miyako-hotel/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/611445/0/375104aefd5c6336def9d065aa9c2fd2.jpeg?ce=3",
+      "score": 9.2,
+      "reviewCount": 6231,
+      "reviewCountFmt": "6,231 reviews",
+      "priceText": "$$ · $308/night",
+      "walkMin": 1,
+      "refLabel": "Osaka Abenobashi Train Station",
+      "star": 5,
+      "propertyId": 611445,
+      "priceUSD": 308,
+      "priceStatus": "live",
+      "distanceM": 108.82,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Abeno Harukas",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 6,231 reviews. 1 min walk to Osaka Abenobashi Train Station. $$ · $308/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $308/night",
+        "📝 6,231 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The rooms are exceptionally clean and well appointed…",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Room is spacious and good to fit a family of 3 or even 4.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "The floor-to-ceiling vistas from the rooms are breathtaking.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Quality: Absolutely gorgeous, modern, and spotlessly clean.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Our family are very very satisfied with stay at the hotel.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "The St. Regis Osaka",
+      "agodaUrl": "https://www.agoda.com/the-st-regis-osaka_8/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/335040/0/d50d5a47050a0d4c1c6b1c7ffc585601.jpeg?ce=3",
+      "score": 9.1,
+      "reviewCount": 507,
+      "reviewCountFmt": "507 reviews",
+      "priceText": "$$$ · $559/night",
+      "walkMin": 3,
+      "refLabel": "Hommachi Subway Station",
+      "star": 5,
+      "propertyId": 335040,
+      "priceUSD": 559,
+      "priceStatus": "live",
+      "distanceM": 234.85,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Abeno Harukas",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 507 reviews. 3 min walk to Hommachi Subway Station. $$$ · $559/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $559/night",
+        "📝 507 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Best 6 stars experience, definitely my next stay again.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The doorman at St Regis Osaka were especially fantastic.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "It is only a stone throw away from all the main actions.",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "Excellent butler service and the whole experience is perfect",
+          "score": "9.6",
+          "country": "HK",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel, accommodating staff, great location",
+          "score": "9.2",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-08T06:09:44.889Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-08T06:09:44.889Z",
+    "source": "agoda citySearch",
+    "daysAhead": 39,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    },
+    "firstPublished": "2026-10-08"
+  }
+}

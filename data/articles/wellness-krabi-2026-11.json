@@ -18,21 +18,21 @@
   "metaDescription": "The 6 finest wellness & spa stays in Krabi — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
   "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-  "verdict": "About 47% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Sofitel Krabi Phokeethra Golf and Spa Resort</b> — rating 8.5, 1,891 reviews, from $431/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 53% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Sofitel Krabi Phokeethra Golf and Spa Resort</b> — rating 8.5, 1,891 reviews, from $430/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 14,
-        "pct": 47
+        "count": 16,
+        "pct": 53
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 9,
-        "pct": 30
+        "count": 7,
+        "pct": 23
       },
       {
         "key": "solo",
@@ -48,24 +48,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/21700143/0/5826a2ffbaa872415eade096cfaf4609.jpeg?va=1&ce=3",
+  "heroImg": "https://pix8.agoda.net/hotelImages/21700143/0/5826a2ffbaa872415eade096cfaf4609.jpeg?ce=3",
   "heroAlt": "Krabi Wellness & Spa",
-  "updated": "2026-10-07",
+  "updated": "2026-10-08",
   "hotels": [
     {
       "rank": 1,
       "name": "Sofitel Krabi Phokeethra Golf and Spa Resort",
       "agodaUrl": "https://www.agoda.com/sofitel-krabi-phokeethra-golf-spa-resort/hotel/krabi-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/21700143/0/5826a2ffbaa872415eade096cfaf4609.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/21700143/0/5826a2ffbaa872415eade096cfaf4609.jpeg?ce=3",
       "score": 8.5,
       "reviewCount": 1891,
       "reviewCountFmt": "1,891 reviews",
-      "priceText": "$$ · $431/night",
+      "priceText": "$$ · $430/night",
       "walkMin": 75,
       "refLabel": "Noppharathara Beach",
       "star": 5,
       "propertyId": 69352,
-      "priceUSD": 431,
+      "priceUSD": 430,
       "priceStatus": "live",
       "distanceM": 6030.28,
       "locationStatus": "verified",
@@ -80,9 +80,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.5 · 1,891 reviews. $$ · $431/night.",
+      "blurb": "Rating 8.5 · 1,891 reviews. $$ · $430/night.",
       "metaTags": [
-        "💰 $431/night",
+        "💰 $430/night",
         "📝 1,891 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -155,12 +155,119 @@
     },
     {
       "rank": 2,
+      "name": "Rayavadee Hotel",
+      "agodaUrl": "https://www.agoda.com/rayavadee-hotel/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10835/0/7c9f4c46a7feec39406d5bb213c9d19a.jpeg?ce=2",
+      "score": 9.4,
+      "reviewCount": 3016,
+      "reviewCountFmt": "3,016 reviews",
+      "priceText": "$$$ · $1,157/night",
+      "walkMin": 3,
+      "refLabel": "Phra Nang Cave",
+      "star": 5,
+      "propertyId": 10835,
+      "priceUSD": 1157,
+      "priceStatus": "live",
+      "distanceM": 235.81,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Ao Nang Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 3,016 reviews. 3 min walk to Phra Nang Cave. $$$ · $1,157/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,157/night",
+        "📝 3,016 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The stuff is great, service is the best you can imagine.",
+          "score": "10",
+          "country": "Israel",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "The best option in Krabi and probably in the whole Thailand.",
+          "score": "10",
+          "country": "Spain",
+          "date": "2023.01",
+          "translated": false
+        },
+        {
+          "text": "The pool was one of the most gorgeous pools I’ve ever seen.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "They have thought of every detail and then some.",
+          "score": "10",
+          "country": "Canada",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "If i come Krabi one day i would stay at Rayavadee again.",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2025.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
       "name": "Nakamanda Resort & Spa",
       "agodaUrl": "https://www.agoda.com/nakamanda-resort-spa/hotel/krabi-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/44886/-1/ffce55599886f6f36091193b07bbb514.jpg?va=1&ca=20&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/44886/0/0bddb1964d9f6807d43738c1c49c6d60.jpeg?ce=3",
       "score": 9,
-      "reviewCount": 2588,
-      "reviewCountFmt": "2,588 reviews",
+      "reviewCount": 2589,
+      "reviewCountFmt": "2,589 reviews",
       "priceText": "$$ · $280/night",
       "walkMin": 66,
       "refLabel": "Noppharathara Beach",
@@ -181,30 +288,30 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 2,588 reviews. $$ · $280/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 2,589 reviews. $$ · $280/night. 60% of sampled reviews from couples.",
       "metaTags": [
         "💰 $280/night",
-        "📝 2,588 reviews",
+        "📝 2,589 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
-        "👥 Loved by Solo"
+        "👥 Loved by Couples"
       ],
       "travelerTypes": {
-        "topLabel": "Solo",
+        "topLabel": "Couples",
         "topPct": 60,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 2,
-            "pct": 40,
+            "count": 3,
+            "pct": 60,
             "rating": 9.6
           },
           {
             "key": "solo",
             "label": "Solo",
-            "count": 3,
-            "pct": 60,
+            "count": 2,
+            "pct": 40,
             "rating": 10
           }
         ]
@@ -225,13 +332,6 @@
           "translated": false
         },
         {
-          "text": "A big thank you to the team for a delightful stay!",
-          "score": "10",
-          "country": "India",
-          "date": "2024.11",
-          "translated": false
-        },
-        {
           "text": "We loved the room design, very comfortable and spacious.",
           "score": "10",
           "country": "Thailand",
@@ -244,106 +344,12 @@
           "country": "China",
           "date": "2024.07",
           "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 3,
-      "name": "Dusit Thani Krabi Beach Resort",
-      "agodaUrl": "https://www.agoda.com/dusit-thani-krabi-beach-resort/hotel/krabi-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/916106/0/c5606db83a3a5faf2eb1ed2b85a79da8.jpg?va=1&ce=0",
-      "score": 9,
-      "reviewCount": 4526,
-      "reviewCountFmt": "4,526 reviews",
-      "priceText": "$$ · $378/night",
-      "walkMin": 59,
-      "refLabel": "Noppharathara Beach",
-      "star": 5,
-      "propertyId": 916106,
-      "priceUSD": 378,
-      "priceStatus": "live",
-      "distanceM": 4691.05,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Noppharathara Beach",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9 · 4,526 reviews. $$ · $378/night. 60% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $378/night",
-        "📝 4,526 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.7
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 8.8
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "The location is bang on the beach with crystal clear water.",
-          "score": "8.4",
-          "country": "India",
-          "date": "2024.03",
-          "translated": false
         },
         {
-          "text": "Two large pools and direct access (and views) of the beach.",
-          "score": "10",
-          "country": "Singapore",
-          "date": "2024.10",
-          "translated": false
-        },
-        {
-          "text": "The beach was amazing clean white sand with not many boats.",
+          "text": "The breakfast menu changes every day and we love thier food.",
           "score": "9.6",
-          "country": "Morocco",
-          "date": "2024.01",
-          "translated": false
-        },
-        {
-          "text": "The pools are huge and its a great property to walk about.",
-          "score": "9.6",
-          "country": "Malaysia",
-          "date": "2025.06",
-          "translated": false
-        },
-        {
-          "text": "The pool side is excellent and large with a nice sea view.",
-          "score": "9.2",
-          "country": "Malaysia",
-          "date": "2024.10",
+          "country": "Australia",
+          "date": "2025.05",
           "translated": false
         }
       ],
@@ -357,9 +363,110 @@
     },
     {
       "rank": 4,
+      "name": "High Tree Resort, Krabi",
+      "agodaUrl": "https://www.agoda.com/high-tree-resort-krabi/hotel/krabi-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/61734761/0/e93ee10d83c90697519fe5f6c3e470fc.jpeg?ce=3",
+      "score": 9.5,
+      "reviewCount": 476,
+      "reviewCountFmt": "476 reviews",
+      "priceText": "$$ · $316/night",
+      "walkMin": 51,
+      "refLabel": "Railay Beach",
+      "star": 5,
+      "propertyId": 61734761,
+      "priceUSD": 316,
+      "priceStatus": "live",
+      "distanceM": 4077.98,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Ao Nang Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.5 · 476 reviews. $$ · $316/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $316/night",
+        "📝 476 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.1
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The personalized attentions in the room make the difference.",
+          "score": "10",
+          "country": "France",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Hotel price cheap but service 5⭐️⭐️⭐️food is halal and nice.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The staff were incredibly kind, caring, and attentive.",
+          "score": "7.6",
+          "country": "IL",
+          "date": "2025.10",
+          "translated": false
+        },
+        {
+          "text": "We would definitely recommend staying at this resort.",
+          "score": "10",
+          "country": "TH",
+          "date": "2025.03",
+          "translated": false
+        },
+        {
+          "text": "My partner and I would recommend this accomodation :)",
+          "score": "8.8",
+          "country": "Thailand",
+          "date": "2025.07",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
       "name": "Hotel Adam Krabi",
       "agodaUrl": "https://www.agoda.com/hotel-adam-krabi/hotel/krabi-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/46863856/-1/be6c7097b601ebf081412d8d7e02bb46.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/46863856/0/367bc4fc334d15fb3b858a7e33a000b8.jpeg",
       "score": 9.4,
       "reviewCount": 2571,
       "reviewCountFmt": "2,571 reviews",
@@ -449,13 +556,13 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Grand Mercure Krabi Ao Nang",
       "agodaUrl": "https://www.agoda.com/grand-mercure-krabi-aonang/hotel/krabi-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/81666314/0/b418c12ec93691079d93b412923cdc1e.jpg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/81666314/0/b418c12ec93691079d93b412923cdc1e.jpg?ce=3",
       "score": 9.2,
-      "reviewCount": 202,
-      "reviewCountFmt": "202 reviews",
+      "reviewCount": 203,
+      "reviewCountFmt": "203 reviews",
       "priceText": "$$ · $295/night",
       "walkMin": 11,
       "refLabel": "Ao Nang Beach",
@@ -473,10 +580,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 202 reviews. 11 min walk to Ao Nang Beach. $$ · $295/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 203 reviews. 11 min walk to Ao Nang Beach. $$ · $295/night. 60% of sampled reviews from couples.",
       "metaTags": [
         "💰 $295/night",
-        "📝 202 reviews",
+        "📝 203 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -544,127 +651,20 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
-    },
-    {
-      "rank": 6,
-      "name": "Rayavadee Hotel",
-      "agodaUrl": "https://www.agoda.com/rayavadee-hotel/hotel/krabi-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/10835/0/c15803b47efe7c365beef8c88c53a31c.jpg?va=1&ce=2",
-      "score": 9.4,
-      "reviewCount": 3016,
-      "reviewCountFmt": "3,016 reviews",
-      "priceText": "$$$ · $1,157/night",
-      "walkMin": 3,
-      "refLabel": "Phra Nang Cave",
-      "star": 5,
-      "propertyId": 10835,
-      "priceUSD": 1157,
-      "priceStatus": "live",
-      "distanceM": 235.81,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Ao Nang Beach",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.4 · 3,016 reviews. 3 min walk to Phra Nang Cave. $$$ · $1,157/night. 20% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,157/night",
-        "📝 3,016 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Families"
-      ],
-      "travelerTypes": {
-        "topLabel": "Families",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 3,
-            "pct": 60,
-            "rating": 10
-          },
-          {
-            "key": "group",
-            "label": "Groups",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "The stuff is great, service is the best you can imagine.",
-          "score": "10",
-          "country": "Israel",
-          "date": "2024.08",
-          "translated": false
-        },
-        {
-          "text": "The best option in Krabi and probably in the whole Thailand.",
-          "score": "10",
-          "country": "Spain",
-          "date": "2023.01",
-          "translated": false
-        },
-        {
-          "text": "The pool was one of the most gorgeous pools I’ve ever seen.",
-          "score": "10",
-          "country": "United States",
-          "date": "2023.07",
-          "translated": false
-        },
-        {
-          "text": "They have thought of every detail and then some.",
-          "score": "10",
-          "country": "Canada",
-          "date": "2025.11",
-          "translated": false
-        },
-        {
-          "text": "Our stay at Rayavadee was the highlight of our holidays.",
-          "score": "10",
-          "country": "Mauritius",
-          "date": "2023.09",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T06:04:31.907Z",
+    "fetchedAt": "2026-10-08T06:09:47.553Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T06:04:31.907Z",
+    "fetchedAt": "2026-10-08T06:09:47.553Z",
     "source": "agoda citySearch",
-    "daysAhead": 40,
+    "daysAhead": 39,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
