@@ -18,42 +18,42 @@
   "metaDescription": "The 6 finest wellness & spa stays in Galle — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
   "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-  "verdict": "About 43% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Radisson Blu Resort Galle</b> — rating 8.6, 864 reviews, from $332/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 32% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Radisson Blu Resort Galle</b> — rating 8.6, 867 reviews, from $332/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
   "aggregate": {
-    "total": 23,
+    "total": 25,
     "distribution": [
-      {
-        "key": "couple",
-        "label": "Couples",
-        "count": 10,
-        "pct": 43
-      },
       {
         "key": "family",
         "label": "Families",
-        "count": 9,
-        "pct": 39
+        "count": 11,
+        "pct": 44
+      },
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 8,
+        "pct": 32
       },
       {
         "key": "solo",
         "label": "Solo",
-        "count": 4,
-        "pct": 17
+        "count": 6,
+        "pct": 24
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/1415014/0/04b1be5a38ff2793acda5cd10292414b.jpeg?ce=3",
+  "heroImg": "https://pix8.agoda.net/hotelImages/32332105/0/c695fc898c6dad63398088e3ec8031bc.jpeg?ce=0",
   "heroAlt": "Galle Wellness & Spa",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
       "name": "Radisson Blu Resort Galle",
       "agodaUrl": "https://www.agoda.com/amari-galle-sri-lanka/hotel/galle-lk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/1415014/0/04b1be5a38ff2793acda5cd10292414b.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/32332105/0/c695fc898c6dad63398088e3ec8031bc.jpeg?ce=0",
       "score": 8.6,
-      "reviewCount": 864,
-      "reviewCountFmt": "864 reviews",
+      "reviewCount": 867,
+      "reviewCountFmt": "867 reviews",
       "priceText": "$$ · $332/night",
       "walkMin": 55,
       "refLabel": "Galle Central Bus Station",
@@ -74,10 +74,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.6 · 864 reviews. $$ · $332/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 8.6 · 867 reviews. $$ · $332/night. 60% of sampled reviews from couples.",
       "metaTags": [
         "💰 $332/night",
-        "📝 864 reviews",
+        "📝 867 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -247,144 +247,18 @@
     },
     {
       "rank": 3,
-      "name": "Villa Republic Galle",
-      "agodaUrl": "https://www.agoda.com/villa-republic-galle/hotel/galle-lk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/962026/0/98835abde2b2264ce33304ff8cba65e1.jpeg",
-      "score": 9.1,
-      "reviewCount": 96,
-      "reviewCountFmt": "96 reviews",
-      "priceText": "$$ · $379/night",
-      "walkMin": 63,
-      "refLabel": "Galle Central Bus Station",
-      "star": 5,
-      "propertyId": 962026,
-      "priceUSD": 379,
-      "priceStatus": "live",
-      "distanceM": 5012.83,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "All Saints Anglican Church",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.1 · 96 reviews. $$ · $379/night.",
-      "metaTags": [
-        "💰 $379/night",
-        "📝 96 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa"
-      ],
-      "travelerTypes": null,
-      "reviews": [],
-      "quality": {
-        "issues": [
-          "reviewSample"
-        ],
-        "critical": false,
-        "completeness": 88,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 4,
-      "name": "The Frangipani Tree by Edwards Collection",
-      "agodaUrl": "https://www.agoda.com/the-frangipani-tree-by-edwards-collection_2/hotel/unawatuna-lk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/263/263642/263642_17081115500055335850.jpg?ca=6&ce=1",
-      "score": 8.7,
-      "reviewCount": 139,
-      "reviewCountFmt": "139 reviews",
-      "priceText": "$$$ · $528/night",
-      "walkMin": 9,
-      "refLabel": "Talpe Railway Station",
-      "star": 5,
-      "propertyId": 263642,
-      "priceUSD": 528,
-      "priceStatus": "live",
-      "distanceM": 741.8,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Close to public transportation",
-        "Unawatuna Beach",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.7 · 139 reviews. 9 min walk to Talpe Railway Station. $$$ · $528/night. 100% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $528/night",
-        "📝 139 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 100,
-            "rating": 8.7
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Incredible service and fantastic rooms",
-          "score": "9.2",
-          "country": "United Kingdom",
-          "date": "2023.03",
-          "translated": false
-        },
-        {
-          "text": "Lovely stay with good service and food",
-          "score": "7.2",
-          "country": "Spain",
-          "date": "2022.12",
-          "translated": false
-        },
-        {
-          "text": "Beautiful , with amazing staff",
-          "score": "9.6",
-          "country": "United Kingdom",
-          "date": "2022.04",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
       "name": "Apa Villa Thalpe",
       "agodaUrl": "https://www.agoda.com/apa-villa/hotel/unawatuna-lk.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/263476/0/d38921e8cd9ab892dabafd2bd98fdfc4.jpg?ce=2",
       "score": 8.9,
       "reviewCount": 193,
       "reviewCountFmt": "193 reviews",
-      "priceText": "$$ · $292/night",
+      "priceText": "$$ · $293/night",
       "walkMin": 6,
       "refLabel": "Talpe Railway Station",
       "star": 5,
       "propertyId": 263476,
-      "priceUSD": 292,
+      "priceUSD": 293,
       "priceStatus": "live",
       "distanceM": 506.01,
       "locationStatus": "verified",
@@ -399,9 +273,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 193 reviews. 6 min walk to Talpe Railway Station. $$ · $292/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 193 reviews. 6 min walk to Talpe Railway Station. $$ · $293/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $292/night",
+        "💰 $293/night",
         "📝 193 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -473,19 +347,66 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "name": "Villa Republic Galle",
+      "agodaUrl": "https://www.agoda.com/villa-republic-galle/hotel/galle-lk.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/962026/0/98835abde2b2264ce33304ff8cba65e1.jpeg",
+      "score": 9.1,
+      "reviewCount": 96,
+      "reviewCountFmt": "96 reviews",
+      "priceText": "$$ · $337/night",
+      "walkMin": 63,
+      "refLabel": "Galle Central Bus Station",
+      "star": 5,
+      "propertyId": 962026,
+      "priceUSD": 337,
+      "priceStatus": "live",
+      "distanceM": 5012.83,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "All Saints Anglican Church",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 96 reviews. $$ · $337/night.",
+      "metaTags": [
+        "💰 $337/night",
+        "📝 96 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
       "name": "Aditya Resort",
       "agodaUrl": "https://www.agoda.com/aditya-resort/hotel/hikkaduwa-lk.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/248173/0/8610d92a92ed3d32741bfd23fe3ba6fb.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/248/248173/248173_110506180441415.jpg?ca=0&ce=1",
       "score": 9.3,
       "reviewCount": 248,
       "reviewCountFmt": "248 reviews",
-      "priceText": "$$ · $255/night",
+      "priceText": "$$ · $253/night",
       "walkMin": 88,
       "refLabel": "Hikkaduwa Bus Station",
       "star": 5,
       "propertyId": 248173,
-      "priceUSD": 255,
+      "priceUSD": 253,
       "priceStatus": "live",
       "distanceM": 7046.98,
       "locationStatus": "verified",
@@ -500,9 +421,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 248 reviews. $$ · $255/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 248 reviews. $$ · $253/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $255/night",
+        "💰 $253/night",
         "📝 248 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -572,20 +493,127 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
+    },
+    {
+      "rank": 6,
+      "name": "Fort Bazaar By Teardrop Hotels",
+      "agodaUrl": "https://www.agoda.com/fort-bazaar/hotel/all/galle-lk.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/65864613.jpg?k=4829835827d59f123a35f4b96c6439d5c92b28d4f0bc4a3bc227957861fdc3a9&o=",
+      "score": 9.4,
+      "reviewCount": 209,
+      "reviewCountFmt": "209 reviews",
+      "priceText": "$$ · $464/night",
+      "walkMin": 9,
+      "refLabel": "Galle Central Bus Station",
+      "star": 5,
+      "propertyId": 1558823,
+      "priceUSD": 464,
+      "priceStatus": "live",
+      "distanceM": 715.83,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Meera Mosque",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 209 reviews. 9 min walk to Galle Central Bus Station. $$ · $464/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $464/night",
+        "📝 209 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Everything is perfect, rooms, staff, situation and food",
+          "score": "10",
+          "country": "Suisse",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "I would definitely stay again if I came to Galle.",
+          "score": "8.8",
+          "country": "United Kingdom",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "Everything from the hotel, staff, food was amazing.",
+          "score": "10",
+          "country": "Sri Lanka",
+          "date": "2024.08",
+          "translated": false
+        },
+        {
+          "text": "Staff were wonderful and you can’t beat the location.",
+          "score": "10",
+          "country": "United States",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "We’ll be staying here anytime we visit Galle again.",
+          "score": "10",
+          "country": "Sri Lanka",
+          "date": "2024.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T15:39:52.817Z",
+    "fetchedAt": "2026-10-09T15:20:19.844Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T15:39:52.817Z",
+    "fetchedAt": "2026-10-09T15:20:19.844Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

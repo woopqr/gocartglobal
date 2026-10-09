@@ -18,39 +18,33 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Doha — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 60% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Katara Hills Doha, LXR Hotels & Resorts</b> — rating 9.1, 128 reviews, from $929/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Katara Hills Doha, LXR Hotels & Resorts</b> — rating 9.1, 128 reviews, from $885/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
-    "total": 15,
+    "total": 12,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 9,
-        "pct": 60
+        "count": 6,
+        "pct": 50
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 3,
-        "pct": 20
+        "count": 4,
+        "pct": 33
       },
       {
         "key": "solo",
         "label": "Solo",
         "count": 2,
-        "pct": 13
-      },
-      {
-        "key": "group",
-        "label": "Groups",
-        "count": 1,
-        "pct": 7
+        "pct": 17
       }
     ]
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/474984103.jpg?k=3df4e82c5bec3e07826c0d17186ad766bddff0fdb53a02cd858096b005967926&o=",
   "heroAlt": "Doha Ultra-Luxury",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
@@ -60,12 +54,12 @@
       "score": 9.1,
       "reviewCount": 128,
       "reviewCountFmt": "128 reviews",
-      "priceText": "$$$ · $929/night",
+      "priceText": "$$$ · $885/night",
       "walkMin": 4,
       "refLabel": "Al Qassar Station",
       "star": 5,
       "propertyId": 36370644,
-      "priceUSD": 929,
+      "priceUSD": 885,
       "priceStatus": "live",
       "distanceM": 292.91,
       "locationStatus": "verified",
@@ -80,9 +74,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 128 reviews. 4 min walk to Al Qassar Station. $$$ · $929/night.",
+      "blurb": "Rating 9.1 · 128 reviews. 4 min walk to Al Qassar Station. $$$ · $885/night.",
       "metaTags": [
-        "💰 $929/night",
+        "💰 $885/night",
         "📝 128 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa"
@@ -107,12 +101,12 @@
       "score": 8.8,
       "reviewCount": 30,
       "reviewCountFmt": "30 reviews",
-      "priceText": "$$$ · $562/night",
+      "priceText": "$$$ · $545/night",
       "walkMin": 17,
       "refLabel": "Al Aziziyah Station",
       "star": 5,
       "propertyId": 36370633,
-      "priceUSD": 562,
+      "priceUSD": 545,
       "priceStatus": "live",
       "distanceM": 1335.55,
       "locationStatus": "verified",
@@ -126,9 +120,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.8 · 30 reviews. 17 min walk to Al Aziziyah Station. $$$ · $562/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 8.8 · 30 reviews. 17 min walk to Al Aziziyah Station. $$$ · $545/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $562/night",
+        "💰 $545/night",
         "📝 30 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -299,14 +293,14 @@
       "agodaUrl": "https://www.agoda.com/banana-island-resort-doha-by-anantara/hotel/doha-qa.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/625579/0/75a709730f6b26603f3bd9a583a1e4da.jpg?va=1&ce=2",
       "score": 8.8,
-      "reviewCount": 2070,
-      "reviewCountFmt": "2,070 reviews",
-      "priceText": "$$ · $391/night",
+      "reviewCount": 2072,
+      "reviewCountFmt": "2,072 reviews",
+      "priceText": "$$ · $387/night",
       "walkMin": 67,
       "refLabel": "Hamad Intl Airport T1 Station",
       "star": 5,
       "propertyId": 625579,
-      "priceUSD": 391,
+      "priceUSD": 387,
       "priceStatus": "live",
       "distanceM": 5376.01,
       "locationStatus": "verified",
@@ -320,10 +314,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.8 · 2,070 reviews. $$ · $391/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 8.8 · 2,072 reviews. $$ · $387/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $391/night",
-        "📝 2,070 reviews",
+        "💰 $387/night",
+        "📝 2,072 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -395,94 +389,70 @@
     },
     {
       "rank": 6,
-      "name": "The Bentley Luxury Hotel and Suites",
-      "agodaUrl": "https://www.agoda.com/the-bentley-luxury-hotel-suites/hotel/doha-qa.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/25538366/-1/69031a5bb981aa0e8bbcb96e621f42f5.jpg?va=1&ca=21&ce=0",
-      "score": 8.8,
-      "reviewCount": 9355,
-      "reviewCountFmt": "9,355 reviews",
-      "priceText": "$$ · $295/night",
-      "walkMin": 7,
-      "refLabel": "West Bay Qatar Energy Station",
+      "name": "The St. Regis Marsa Arabia Island, The Pearl Qatar",
+      "agodaUrl": "https://www.agoda.com/the-st-regis-marsa-arabia-island-the-pearl-qatar/hotel/doha-qa.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/475266569.jpg?k=6e0e0549f21749ec7eb38f68daf94a4c3381763e11ec47edd89927c38918bc34&o=",
+      "score": 9.3,
+      "reviewCount": 1132,
+      "reviewCountFmt": "1,132 reviews",
+      "priceText": "$$ · $418/night",
+      "walkMin": 24,
+      "refLabel": "Legtaifiya Station",
       "star": 5,
-      "propertyId": 25538366,
-      "priceUSD": 295,
+      "propertyId": 36114389,
+      "priceUSD": 418,
       "priceStatus": "live",
-      "distanceM": 567.7,
+      "distanceM": 1942.11,
       "locationStatus": "verified",
       "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Close to public transportation",
-        "National Museum of Qatar",
+        "Daily housekeeping",
+        "City Centre Mall",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.8 · 9,355 reviews. 7 min walk to West Bay Qatar Energy Station. $$ · $295/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 1,132 reviews. $$ · $418/night. 50% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $295/night",
-        "📝 9,355 reviews",
+        "💰 $418/night",
+        "📝 1,132 reviews",
         "⭐ 5-star",
-        "🏝️ Resort / Villa",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
         "topLabel": "Couples",
-        "topPct": 80,
+        "topPct": 50,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 4,
-            "pct": 80,
-            "rating": 9.8
+            "count": 1,
+            "pct": 50,
+            "rating": 9.6
           },
           {
-            "key": "group",
-            "label": "Groups",
+            "key": "family",
+            "label": "Families",
             "count": 1,
-            "pct": 20,
+            "pct": 50,
             "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "Really nice hotel, one of the best hotels I have stayed in.",
-          "score": "10",
-          "country": "United Kingdom",
-          "date": "2024.01",
+          "text": "Everything was perfect",
+          "score": "9.6",
+          "country": "Jordan",
+          "date": "2026.07",
           "translated": false
         },
         {
-          "text": "The staff was exceptional and helpful in every day.",
+          "text": "Great for families",
           "score": "10",
-          "country": "North Macedonia",
-          "date": "2023.10",
-          "translated": false
-        },
-        {
-          "text": "The rooms are pretty big, spacious and we love the interior.",
-          "score": "10",
-          "country": "Philippines",
-          "date": "2023.11",
-          "translated": false
-        },
-        {
-          "text": "Our suite was simply amazing and we really enjoyed our stay!",
-          "score": "10",
-          "country": "North Macedonia",
-          "date": "2023.10",
-          "translated": false
-        },
-        {
-          "text": "Amazing best city view on roof swimming pool I had in Doha.",
-          "score": "9.2",
-          "country": "CN",
-          "date": "2024.05",
+          "country": "Saudi Arabia",
+          "date": "2024.09",
           "translated": false
         }
       ],
@@ -497,16 +467,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T06:10:12.239Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
-    "checkIn": "2026-11-16",
+    "fetchedAt": "2026-10-09T15:19:56.777Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T06:10:12.239Z",
+    "fetchedAt": "2026-10-09T15:19:56.777Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

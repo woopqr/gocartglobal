@@ -15,51 +15,51 @@
   "seasonNote": "Shoulder season often brings the best value on top suites.",
   "travelMonthLabel": "November 2026",
   "title": "[Santorini] Where Couples Splurge: The Finest Honeymoon Stays",
-  "metaDescription": "The 5 finest honeymoon stays in Santorini — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "metaDescription": "The 4 finest honeymoon stays in Santorini — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 74% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Volcano View by Caldera Collection</b> — rating 9.3, 891 reviews, from $618/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 71% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Volcano View by Caldera Collection</b> — rating 9.3, 891 reviews, from $620/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
-    "total": 19,
+    "total": 14,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 14,
-        "pct": 74
+        "count": 10,
+        "pct": 71
       },
       {
         "key": "group",
         "label": "Groups",
         "count": 3,
-        "pct": 16
+        "pct": 21
       },
       {
-        "key": "family",
-        "label": "Families",
-        "count": 2,
-        "pct": 11
+        "key": "solo",
+        "label": "Solo",
+        "count": 1,
+        "pct": 7
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/13825329/-1/d3afc8b6b42b9e55e3b3b72a4b3b1203.jpg?va=1&ca=17&ce=1",
+  "heroImg": "https://pix8.agoda.net/hotelImages/13825329/0/06f2940bc437f1c395439d4cb9ca4c14.jpeg?va=1&ce=3",
   "heroAlt": "Santorini Honeymoon",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
       "name": "Volcano View by Caldera Collection",
       "agodaUrl": "https://www.agoda.com/volcano-view-by-caldera-collection_2/hotel/santorini-gr.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/13825329/-1/d3afc8b6b42b9e55e3b3b72a4b3b1203.jpg?va=1&ca=17&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/13825329/0/06f2940bc437f1c395439d4cb9ca4c14.jpeg?va=1&ce=3",
       "score": 9.3,
       "reviewCount": 891,
       "reviewCountFmt": "891 reviews",
-      "priceText": "$$$ · $618/night",
+      "priceText": "$$$ · $620/night",
       "walkMin": 32,
       "refLabel": "Fira Bus Station",
       "star": 5,
       "propertyId": 13825329,
-      "priceUSD": 618,
+      "priceUSD": 620,
       "priceStatus": "live",
       "distanceM": 2525.05,
       "locationStatus": "verified",
@@ -74,27 +74,41 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 891 reviews. $$$ · $618/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 891 reviews. $$$ · $620/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $618/night",
+        "💰 $620/night",
         "📝 891 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
         "topLabel": "Couples",
-        "topPct": 100,
+        "topPct": 80,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 5,
-            "pct": 100,
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
             "rating": 10
           }
         ]
       },
       "reviews": [
+        {
+          "text": "The hotel has a great view facing the sea over the cliff.",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2025.08",
+          "translated": false
+        },
         {
           "text": "The staff is highly professional and super friendly.",
           "score": "10",
@@ -121,13 +135,6 @@
           "score": "10",
           "country": "Canada",
           "date": "2024.09",
-          "translated": false
-        },
-        {
-          "text": "Definitely recommend this hotel for an elegant honeymoon!",
-          "score": "10",
-          "country": "United States",
-          "date": "2024.08",
           "translated": false
         }
       ],
@@ -222,18 +229,65 @@
     },
     {
       "rank": 3,
+      "name": "Cocoon Suites",
+      "agodaUrl": "https://www.agoda.com/cocoon-suites/hotel/santorini-gr.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9117270/0/af4265f5e29f040824dbf1a19e12cff7.jpeg?va=1&ce=0",
+      "score": 9.3,
+      "reviewCount": 528,
+      "reviewCountFmt": "528 reviews",
+      "priceText": "$$ · $439/night",
+      "walkMin": 22,
+      "refLabel": "Fira Bus Station",
+      "star": 5,
+      "propertyId": 9117270,
+      "priceUSD": 439,
+      "priceStatus": "live",
+      "distanceM": 1724.01,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Kitchen",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 528 reviews. $$ · $439/night.",
+      "metaTags": [
+        "💰 $439/night",
+        "📝 528 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
       "name": "Aspaki by Art Maisons",
       "agodaUrl": "https://www.agoda.com/aspaki-by-art-maisons/hotel/santorini-gr.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/262428270.jpg?k=b3f5cc3daae7fa81cdff3c379d0ead3d38de9d3d3fbfb58a4de1f4d9088a4105&o=",
       "score": 9.5,
       "reviewCount": 304,
       "reviewCountFmt": "304 reviews",
-      "priceText": "$$$ · $695/night",
+      "priceText": "$$$ · $529/night",
       "walkMin": 89,
       "refLabel": "Fira Bus Station",
       "star": 5,
       "propertyId": 8947454,
-      "priceUSD": 695,
+      "priceUSD": 529,
       "priceStatus": "live",
       "distanceM": 7132.61,
       "locationStatus": "verified",
@@ -243,9 +297,9 @@
         "Free Wi-Fi in all rooms!",
         "Sauna"
       ],
-      "blurb": "Rating 9.5 · 304 reviews. $$$ · $695/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.5 · 304 reviews. $$$ · $529/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $695/night",
+        "💰 $529/night",
         "📝 304 reviews",
         "⭐ 5-star",
         "👥 Loved by Groups"
@@ -314,169 +368,22 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
-    },
-    {
-      "rank": 4,
-      "name": "Cocoon Suites",
-      "agodaUrl": "https://www.agoda.com/cocoon-suites/hotel/santorini-gr.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/9117270/0/af4265f5e29f040824dbf1a19e12cff7.jpeg?va=1&ce=0",
-      "score": 9.3,
-      "reviewCount": 528,
-      "reviewCountFmt": "528 reviews",
-      "priceText": "$$ · $434/night",
-      "walkMin": 22,
-      "refLabel": "Fira Bus Station",
-      "star": 5,
-      "propertyId": 9117270,
-      "priceUSD": 434,
-      "priceStatus": "live",
-      "distanceM": 1724.01,
-      "locationStatus": "verified",
-      "facilities": [
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Daily housekeeping",
-        "Kitchen",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.3 · 528 reviews. $$ · $434/night.",
-      "metaTags": [
-        "💰 $434/night",
-        "📝 528 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa"
-      ],
-      "travelerTypes": null,
-      "reviews": [],
-      "quality": {
-        "issues": [
-          "reviewSample"
-        ],
-        "critical": false,
-        "completeness": 88,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
-      "name": "Art Maisons Oia Castle Hotel",
-      "agodaUrl": "https://www.agoda.com/art-maisons-oia-castle-hotel/hotel/santorini-gr.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/400921/0/c7c0ecc23ed910d380b936f070f1169e.jpeg?va=1&ce=0",
-      "score": 9.3,
-      "reviewCount": 206,
-      "reviewCountFmt": "206 reviews",
-      "priceText": "$$ · $411/night",
-      "walkMin": 91,
-      "refLabel": "Fira Bus Station",
-      "star": 5,
-      "propertyId": 400921,
-      "priceUSD": 411,
-      "priceStatus": "live",
-      "distanceM": 7283.48,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Daily housekeeping",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.3 · 206 reviews. $$ · $411/night. 60% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $411/night",
-        "📝 206 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 10
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Exceptional view of the sunset & beautiful Oia cave houses!",
-          "score": "10",
-          "country": "United States",
-          "date": "2023.06",
-          "translated": false
-        },
-        {
-          "text": "We highly recommend Art Mason Castile Hotel.",
-          "score": "10",
-          "country": "United States",
-          "date": "2023.10",
-          "translated": false
-        },
-        {
-          "text": "The hotel is a must for a perfect holiday.",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2024.05",
-          "translated": false
-        },
-        {
-          "text": "One of the best suites and villas in Oia.",
-          "score": "10",
-          "country": "Canada",
-          "date": "2022.10",
-          "translated": false
-        },
-        {
-          "text": "Amazing & extensive breakfast choices!",
-          "score": "10",
-          "country": "United States",
-          "date": "2023.06",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T15:39:58.442Z",
+    "fetchedAt": "2026-10-09T15:20:23.321Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T15:39:58.442Z",
+    "fetchedAt": "2026-10-09T15:20:23.321Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
-    "count": 5,
+    "count": 4,
     "quality": {
       "ok": true,
       "errors": [],

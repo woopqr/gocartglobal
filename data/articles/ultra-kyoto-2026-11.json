@@ -18,39 +18,39 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Kyoto — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 19% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Hotel Kyoto</b> — rating 9.1, 447 reviews, from $1,921/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 40% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Hotel Kyoto</b> — rating 9.1, 447 reviews, from $1,921/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
-    "total": 16,
+    "total": 20,
     "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 8,
+        "pct": 40
+      },
       {
         "key": "business",
         "label": "Business",
         "count": 6,
-        "pct": 38
+        "pct": 30
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 4,
-        "pct": 25
-      },
-      {
-        "key": "couple",
-        "label": "Couples",
         "count": 3,
-        "pct": 19
+        "pct": 15
       },
       {
         "key": "solo",
         "label": "Solo",
         "count": 3,
-        "pct": 19
+        "pct": 15
       }
     ]
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/348465784.jpg?k=e6dafc51518396ebbb76d6eb4360311ab0d1879d43cb251c330b66e25b2113c4&o=",
   "heroAlt": "Kyoto Ultra-Luxury",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
@@ -130,14 +130,14 @@
           "translated": false
         },
         {
-          "text": "Great place to stay",
+          "text": "Highly recommended.",
           "score": "10",
           "country": "Indonesia",
           "date": "2022.12",
           "translated": false
         },
         {
-          "text": "Highly recommended.",
+          "text": "Great place to stay",
           "score": "10",
           "country": "Indonesia",
           "date": "2022.12",
@@ -158,14 +158,14 @@
       "agodaUrl": "https://www.agoda.com/six-senses-kyoto/hotel/all/kyoto-jp.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/590875157.jpg?k=10f86eb72b0e0351cd24ca2ff8574cdd15f800af5e5ba23e720c2d1546e6697c&o=",
       "score": 9.2,
-      "reviewCount": 273,
-      "reviewCountFmt": "273 reviews",
-      "priceText": "$$$ · $1,476/night",
+      "reviewCount": 274,
+      "reviewCountFmt": "274 reviews",
+      "priceText": "$$$ · $1,244/night",
       "walkMin": 8,
       "refLabel": "Kyoto Shichijo Train Station",
       "star": 5,
       "propertyId": 50609734,
-      "priceUSD": 1476,
+      "priceUSD": 1244,
       "priceStatus": "live",
       "distanceM": 602.18,
       "locationStatus": "verified",
@@ -180,10 +180,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 273 reviews. 8 min walk to Kyoto Shichijo Train Station. $$$ · $1,476/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 274 reviews. 8 min walk to Kyoto Shichijo Train Station. $$$ · $1,244/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,476/night",
-        "📝 273 reviews",
+        "💰 $1,244/night",
+        "📝 274 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
       ],
@@ -263,7 +263,7 @@
       "rank": 3,
       "name": "Maana Kamo",
       "agodaUrl": "https://www.agoda.com/maana-kamo-h16593418/hotel/kyoto-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/33907370/566792097/af250a18bd614c05a9cfb1f49fcb2d82.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/33907370/566792097/af250a18bd614c05a9cfb1f49fcb2d82.jpg?ce=0",
       "score": 9.2,
       "reviewCount": 51,
       "reviewCountFmt": "51 reviews",
@@ -313,12 +313,12 @@
       "score": 9,
       "reviewCount": 345,
       "reviewCountFmt": "345 reviews",
-      "priceText": "$$$ · $1,177/night",
+      "priceText": "$$$ · $1,193/night",
       "walkMin": 2,
       "refLabel": "Ebisuya",
       "star": 5,
       "propertyId": 876909,
-      "priceUSD": 1177,
+      "priceUSD": 1193,
       "priceStatus": "live",
       "distanceM": 198.8,
       "locationStatus": "verified",
@@ -332,9 +332,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 345 reviews. 2 min walk to Ebisuya. $$$ · $1,177/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 345 reviews. 2 min walk to Ebisuya. $$$ · $1,193/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,177/night",
+        "💰 $1,193/night",
         "📝 345 reviews",
         "⭐ 5-star",
         "👥 Loved by Solo"
@@ -412,12 +412,12 @@
       "score": 9.5,
       "reviewCount": 32,
       "reviewCountFmt": "32 reviews",
-      "priceText": "$$$ · $1,206/night",
+      "priceText": "$$$ · $1,190/night",
       "walkMin": 5,
       "refLabel": "Gion Shijo Subway Station",
       "star": 5,
       "propertyId": 81521571,
-      "priceUSD": 1206,
+      "priceUSD": 1190,
       "priceStatus": "live",
       "distanceM": 390.29,
       "locationStatus": "verified",
@@ -432,9 +432,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 32 reviews. 5 min walk to Gion Shijo Subway Station. $$$ · $1,206/night.",
+      "blurb": "Rating 9.5 · 32 reviews. 5 min walk to Gion Shijo Subway Station. $$$ · $1,190/night.",
       "metaTags": [
-        "💰 $1,206/night",
+        "💰 $1,190/night",
         "📝 32 reviews",
         "⭐ 5-star"
       ],
@@ -452,57 +452,86 @@
     },
     {
       "rank": 6,
-      "name": "The Villa Nene-no-Michi Kazeno Heritage",
-      "agodaUrl": "https://www.agoda.com/hotel-vmg-resort-kyoto-h65671799/hotel/kyoto-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/87557486/0/44317d25edb877e66109fd36728283cd.jpg?va=1&ce=3",
-      "score": 9.8,
-      "reviewCount": 77,
-      "reviewCountFmt": "77 reviews",
-      "priceText": "$$$ · $1,025/night",
-      "walkMin": 10,
-      "refLabel": "Gion Shijo Subway Station",
+      "name": "Kamo Residences by Reflections",
+      "agodaUrl": "https://www.agoda.com/kamo-residences-by-reflections/hotel/kyoto-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/78970797/0/b54f7f9e4a768380fb1cd4f8896d264a.jpg?ce=3",
+      "score": 9.3,
+      "reviewCount": 158,
+      "reviewCountFmt": "158 reviews",
+      "priceText": "$$$ · $1,071/night",
+      "walkMin": 2,
+      "refLabel": "Demachiyanagi Train Station",
       "star": 5,
-      "propertyId": 87557486,
-      "priceUSD": 1025,
+      "propertyId": 78970797,
+      "priceUSD": 1071,
       "priceStatus": "live",
-      "distanceM": 807.01,
+      "distanceM": 158.54,
       "locationStatus": "verified",
       "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
         "Close to public transportation",
-        "Fushimi Inari-taisha Shrine",
+        "Kyoto Station Building",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.8 · 77 reviews. 10 min walk to Gion Shijo Subway Station. $$$ · $1,025/night.",
+      "blurb": "Rating 9.3 · 158 reviews. 2 min walk to Demachiyanagi Train Station. $$$ · $1,071/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,025/night",
-        "📝 77 reviews",
+        "💰 $1,071/night",
+        "📝 158 reviews",
         "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Families"
+        "👥 Loved by Couples"
       ],
       "travelerTypes": {
-        "topLabel": "Families",
+        "topLabel": "Couples",
         "topPct": 100,
         "distribution": [
           {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
             "pct": 100,
-            "rating": 10
+            "rating": 9.7
           }
         ]
       },
       "reviews": [
         {
-          "text": "Amazing location and wonderful room",
+          "text": "Breakfast : a class of its own and original in all concepts.",
           "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2024.10",
+          "country": "Malta",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Accessibility : metro station across the river 100m away.",
+          "score": "10",
+          "country": "Malta",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Exceptional class",
+          "score": "10",
+          "country": "Malta",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Great location.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Helpful staff.",
+          "score": "9.2",
+          "country": "United States",
+          "date": "2024.06",
           "translated": false
         }
       ],
@@ -517,16 +546,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T15:39:41.068Z",
+    "fetchedAt": "2026-10-09T15:20:06.825Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T15:39:41.068Z",
+    "fetchedAt": "2026-10-09T15:20:06.825Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

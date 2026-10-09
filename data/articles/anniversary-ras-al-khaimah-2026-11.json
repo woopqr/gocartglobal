@@ -1,8 +1,8 @@
 {
-  "slug": "wellness-ras-al-khaimah-2026-11",
-  "theme": "wellness",
-  "audience": "Wellness & Spa",
-  "emoji": "🧖",
+  "slug": "anniversary-ras-al-khaimah-2026-11",
+  "theme": "anniversary",
+  "audience": "Anniversary Escape",
+  "emoji": "🥂",
   "city": "Ras Al Khaimah",
   "citySlug": "ras-al-khaimah",
   "cityId": 12050,
@@ -14,11 +14,11 @@
   "season": "Autumn",
   "seasonNote": "Shoulder season often brings the best value on top suites.",
   "travelMonthLabel": "November 2026",
-  "title": "[Ras Al Khaimah] Ultra-Luxury Spa Escapes to Reset in Style",
-  "metaDescription": "The 6 finest wellness & spa stays in Ras Al Khaimah — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
-  "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
-  "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert</b> — rating 9.4, 2,001 reviews, from $793/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "title": "[Ras Al Khaimah] The Grandest Suites to Celebrate a Milestone",
+  "metaDescription": "The 6 finest anniversary escape stays in Ras Al Khaimah — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
+  "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert</b> — rating 9.4, 2,001 reviews, from $793/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -43,7 +43,7 @@
     ]
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/729915615.jpg?k=34f2d72541b95bcbd1c116a17d82faf4c1661a74c5e76e2964d5b1c95d9702f5&o=",
-  "heroAlt": "Ras Al Khaimah Wellness & Spa",
+  "heroAlt": "Ras Al Khaimah Anniversary Escape",
   "updated": "2026-10-09",
   "hotels": [
     {
@@ -445,6 +445,98 @@
     },
     {
       "rank": 5,
+      "name": "Waldorf Astoria Ras Al Khaimah",
+      "agodaUrl": "https://www.agoda.com/waldorf-astoria-ras-al-khaimah/hotel/ras-al-khaimah-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/272261/0/5b8fef6f3280435187b5c6f54af9ba70.jpeg?va=1&ce=3",
+      "score": 8.9,
+      "reviewCount": 1546,
+      "reviewCountFmt": "1,546 reviews",
+      "priceText": "$$ · $314/night",
+      "walkMin": 6,
+      "refLabel": "Fortress Al Jazeera Al Hamra",
+      "star": 5,
+      "propertyId": 272261,
+      "priceUSD": 314,
+      "priceStatus": "live",
+      "distanceM": 482.29,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Daily housekeeping",
+        "Al Hamra Mall",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 1,546 reviews. 6 min walk to Fortress Al Jazeera Al Hamra. $$ · $314/night.",
+      "metaTags": [
+        "💰 $314/night",
+        "📝 1,546 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We had a great time very nice hotel, clean and staff amazing",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2026.05",
+          "translated": false
+        },
+        {
+          "text": "Staff assigned at towel & pool station are friendly also.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "All staff are helpful, with wonderful smiles & friendly.",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Giving water to your customers is a very generous idea!",
+          "score": "10",
+          "country": "United Arab Emirates",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "Fantastic stay with a beautiful upgrade of facilities.",
+          "score": "9.2",
+          "country": "United Arab Emirates",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
       "name": "Rixos Bab Al Bahr",
       "agodaUrl": "https://www.agoda.com/rixos-bab-al-bahr-hotel/hotel/ras-al-khaimah-ae.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/487326/0/24a8c913a1065c08a4363d40160ce84e.jpeg?va=1",
@@ -542,110 +634,18 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
-    },
-    {
-      "rank": 6,
-      "name": "Waldorf Astoria Ras Al Khaimah",
-      "agodaUrl": "https://www.agoda.com/waldorf-astoria-ras-al-khaimah/hotel/ras-al-khaimah-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/272261/0/5b8fef6f3280435187b5c6f54af9ba70.jpeg?va=1&ce=3",
-      "score": 8.9,
-      "reviewCount": 1546,
-      "reviewCountFmt": "1,546 reviews",
-      "priceText": "$$ · $314/night",
-      "walkMin": 6,
-      "refLabel": "Fortress Al Jazeera Al Hamra",
-      "star": 5,
-      "propertyId": 272261,
-      "priceUSD": 314,
-      "priceStatus": "live",
-      "distanceM": 482.29,
-      "locationStatus": "verified",
-      "facilities": [
-        "Free Wi-Fi in all rooms!",
-        "Daily housekeeping",
-        "Al Hamra Mall",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.9 · 1,546 reviews. 6 min walk to Fortress Al Jazeera Al Hamra. $$ · $314/night.",
-      "metaTags": [
-        "💰 $314/night",
-        "📝 1,546 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Families"
-      ],
-      "travelerTypes": {
-        "topLabel": "Families",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.7
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "We had a great time very nice hotel, clean and staff amazing",
-          "score": "9.2",
-          "country": "United Arab Emirates",
-          "date": "2026.05",
-          "translated": false
-        },
-        {
-          "text": "Staff assigned at towel & pool station are friendly also.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2024.03",
-          "translated": false
-        },
-        {
-          "text": "All staff are helpful, with wonderful smiles & friendly.",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2024.03",
-          "translated": false
-        },
-        {
-          "text": "Giving water to your customers is a very generous idea!",
-          "score": "10",
-          "country": "United Arab Emirates",
-          "date": "2024.03",
-          "translated": false
-        },
-        {
-          "text": "Fantastic stay with a beautiful upgrade of facilities.",
-          "score": "9.2",
-          "country": "United Arab Emirates",
-          "date": "2024.04",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-09T15:20:19.906Z",
+    "fetchedAt": "2026-10-09T15:19:50.989Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-09T15:20:19.906Z",
+    "fetchedAt": "2026-10-09T15:19:50.989Z",
     "source": "agoda citySearch",
     "daysAhead": 37,
     "targetMonth": "2026-11",
@@ -657,6 +657,6 @@
         "The Ritz-Carlton Ras Al Khaimah, Al Wadi Desert: location"
       ]
     },
-    "firstPublished": "2026-10-06"
+    "firstPublished": "2026-10-09"
   }
 }

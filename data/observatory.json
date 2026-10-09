@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 13,
+  "cursor": 14,
   "observations": [
     {
       "city": "Bali",
@@ -953,6 +953,100 @@
           "key": "46863856",
           "name": "Hotel Adam Krabi",
           "priceUSD": 235,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/hotel-adam-krabi/hotel/krabi-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Krabi",
+      "citySlug": "krabi",
+      "cityId": 14865,
+      "observedAt": "2026-10-09T15:20:31.551Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-08, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "48412",
+          "name": "Phulay Bay, a Ritz-Carlton Reserve",
+          "priceUSD": 970,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/phulay-bay-a-ritz-carlton-reserve/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "15883990",
+          "name": "Banyan Tree Krabi",
+          "priceUSD": 978,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/banyan-tree-krabi/hotel/phuket-th.html?cid=1925461"
+        },
+        {
+          "key": "10835",
+          "name": "Rayavadee Hotel",
+          "priceUSD": 890,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/rayavadee-hotel/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "1712",
+          "name": "The Tubkaak Krabi Boutique Resort",
+          "priceUSD": 380,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-tubkaak-krabi-boutique-resort_9/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "916106",
+          "name": "Dusit Thani Krabi Beach Resort",
+          "priceUSD": 367,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/dusit-thani-krabi-beach-resort/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "69352",
+          "name": "Sofitel Krabi Phokeethra Golf and Spa Resort",
+          "priceUSD": 377,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/sofitel-krabi-phokeethra-golf-spa-resort/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "44886",
+          "name": "Nakamanda Resort & Spa",
+          "priceUSD": 315,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/nakamanda-resort-spa/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "90434",
+          "name": "Amari Vogue Krabi",
+          "priceUSD": 308,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/amari-vogue-krabi/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "1270506",
+          "name": "The ShellSea Krabi Luxury Beach Front Resort & Pool Villa",
+          "priceUSD": 277,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-shell-sea-krabi/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "6430486",
+          "name": "Anana Ecological Resort Krabi",
+          "priceUSD": 270,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/anana-ecological-resort-krabi_3/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "61734761",
+          "name": "High Tree Resort, Krabi",
+          "priceUSD": 278,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/high-tree-resort-krabi/hotel/krabi-th.html?cid=1925461"
+        },
+        {
+          "key": "46863856",
+          "name": "Hotel Adam Krabi",
+          "priceUSD": 234,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/hotel-adam-krabi/hotel/krabi-th.html?cid=1925461"
         }

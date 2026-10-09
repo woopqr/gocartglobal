@@ -48,15 +48,15 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/4880846/0/217705a06684e640f9c18d800d0fadaa.jpeg?va=1&ce=3",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/476812821.jpg?k=07dfaf25f03167ae159017a1adbd7d6edb586a0c7b052037cd2f8f550bcf30be&o=",
   "heroAlt": "Doha Wellness & Spa",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
       "name": "Sharq Village & Spa, a Ritz-Carlton Hotel",
       "agodaUrl": "https://www.agoda.com/sharq-village-spa_8/hotel/doha-qa.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/4880846/0/217705a06684e640f9c18d800d0fadaa.jpeg?va=1&ce=3",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/476812821.jpg?k=07dfaf25f03167ae159017a1adbd7d6edb586a0c7b052037cd2f8f550bcf30be&o=",
       "score": 9.3,
       "reviewCount": 1036,
       "reviewCountFmt": "1,036 reviews",
@@ -261,12 +261,12 @@
       "score": 9.4,
       "reviewCount": 402,
       "reviewCountFmt": "402 reviews",
-      "priceText": "$$ · $346/night",
+      "priceText": "$$ · $347/night",
       "walkMin": 5,
       "refLabel": "Katara Station",
       "star": 5,
       "propertyId": 34418905,
-      "priceUSD": 346,
+      "priceUSD": 347,
       "priceStatus": "live",
       "distanceM": 364.3,
       "locationStatus": "verified",
@@ -281,9 +281,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 402 reviews. 5 min walk to Katara Station. $$ · $346/night.",
+      "blurb": "Rating 9.4 · 402 reviews. 5 min walk to Katara Station. $$ · $347/night.",
       "metaTags": [
-        "💰 $346/night",
+        "💰 $347/night",
         "📝 402 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -455,12 +455,12 @@
       "score": 9,
       "reviewCount": 3740,
       "reviewCountFmt": "3,740 reviews",
-      "priceText": "$$ · $457/night",
+      "priceText": "$$ · $468/night",
       "walkMin": 2,
       "refLabel": "DECC Station",
       "star": 5,
       "propertyId": 16795118,
-      "priceUSD": 457,
+      "priceUSD": 468,
       "priceStatus": "live",
       "distanceM": 166.9,
       "locationStatus": "verified",
@@ -475,9 +475,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 3,740 reviews. 2 min walk to DECC Station. $$ · $457/night.",
+      "blurb": "Rating 9 · 3,740 reviews. 2 min walk to DECC Station. $$ · $468/night.",
       "metaTags": [
-        "💰 $457/night",
+        "💰 $468/night",
         "📝 3,740 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -525,14 +525,14 @@
           "translated": false
         },
         {
-          "text": "All thanks to Pullman West Bay and the team.",
+          "text": "The rooms were amazing the vibe was amazing.",
           "score": "10",
           "country": "Qatar",
           "date": "2023.04",
           "translated": false
         },
         {
-          "text": "The rooms were amazing the vibe was amazing.",
+          "text": "All thanks to Pullman West Bay and the team.",
           "score": "10",
           "country": "Qatar",
           "date": "2023.04",
@@ -651,16 +651,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T15:39:30.618Z",
+    "fetchedAt": "2026-10-09T15:19:56.852Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T15:39:30.618Z",
+    "fetchedAt": "2026-10-09T15:19:56.852Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
