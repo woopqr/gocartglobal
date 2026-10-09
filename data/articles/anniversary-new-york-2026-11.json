@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest anniversary escape stays in New York — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 53% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Surrey</b> — rating 9.3, 133 reviews, from $2,309/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 53% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Carlyle, A Rosewood Hotel</b> — rating 9, 210 reviews, from $1,984/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 17,
     "distribution": [
@@ -42,70 +42,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/property/88941492/1390465164/49777cb5106d117d2a6f9de2f8cbbd05.jpeg?va=1&ce=3",
+  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/642942181.jpg?k=1fbdc3bc1bb3a9f7f372f4603191bafa4bac25f24591f43853b17776580b1002&o=",
   "heroAlt": "New York Anniversary Escape",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
-      "name": "The Surrey",
-      "agodaUrl": "https://www.agoda.com/the-surrey_7/hotel/new-york-ny-us.html?cid=1925461",
-      "img": "https://pix8.agoda.net/property/88941492/1390465164/49777cb5106d117d2a6f9de2f8cbbd05.jpeg?va=1&ce=3",
-      "score": 9.3,
-      "reviewCount": 133,
-      "reviewCountFmt": "133 reviews",
-      "priceText": "$$$ · $2,309/night",
-      "walkMin": 4,
-      "refLabel": "77th Street Subway Station",
-      "star": 5,
-      "propertyId": 1303,
-      "priceUSD": 2309,
-      "priceStatus": "live",
-      "distanceM": 355.62,
-      "locationStatus": "verified",
-      "facilities": [
-        "Free Wi-Fi in all rooms!",
-        "Sauna",
-        "Close to public transportation",
-        "High Line",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.3 · 133 reviews. 4 min walk to 77th Street Subway Station. $$$ · $2,309/night.",
-      "metaTags": [
-        "💰 $2,309/night",
-        "📝 133 reviews",
-        "⭐ 5-star"
-      ],
-      "travelerTypes": null,
-      "reviews": [],
-      "quality": {
-        "issues": [
-          "reviewSample"
-        ],
-        "critical": false,
-        "completeness": 88,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 2,
       "name": "The Carlyle, A Rosewood Hotel",
       "agodaUrl": "https://www.agoda.com/the-carlyle-a-rosewood-hotel/hotel/new-york-ny-us.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/642942181.jpg?k=1fbdc3bc1bb3a9f7f372f4603191bafa4bac25f24591f43853b17776580b1002&o=",
       "score": 9,
       "reviewCount": 210,
       "reviewCountFmt": "210 reviews",
-      "priceText": "$$$ · $2,005/night",
+      "priceText": "$$$ · $1,984/night",
       "walkMin": 4,
       "refLabel": "77th Street Subway Station",
       "star": 5,
       "propertyId": 83526,
-      "priceUSD": 2005,
+      "priceUSD": 1984,
       "priceStatus": "live",
       "distanceM": 318.43,
       "locationStatus": "verified",
@@ -120,9 +74,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 210 reviews. 4 min walk to 77th Street Subway Station. $$$ · $2,005/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 210 reviews. 4 min walk to 77th Street Subway Station. $$$ · $1,984/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,005/night",
+        "💰 $1,984/night",
         "📝 210 reviews",
         "⭐ 5-star",
         "👥 Loved by Solo"
@@ -188,6 +142,52 @@
         "issues": [],
         "critical": false,
         "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "The Surrey",
+      "agodaUrl": "https://www.agoda.com/the-surrey_7/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/88941492/1390465164/49777cb5106d117d2a6f9de2f8cbbd05.jpeg?va=1&ce=3",
+      "score": 9.3,
+      "reviewCount": 133,
+      "reviewCountFmt": "133 reviews",
+      "priceText": "$$$ · $2,050/night",
+      "walkMin": 4,
+      "refLabel": "77th Street Subway Station",
+      "star": 5,
+      "propertyId": 1303,
+      "priceUSD": 2050,
+      "priceStatus": "live",
+      "distanceM": 355.62,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Close to public transportation",
+        "High Line",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 133 reviews. 4 min walk to 77th Street Subway Station. $$$ · $2,050/night.",
+      "metaTags": [
+        "💰 $2,050/night",
+        "📝 133 reviews",
+        "⭐ 5-star"
+      ],
+      "travelerTypes": null,
+      "reviews": [],
+      "quality": {
+        "issues": [
+          "reviewSample"
+        ],
+        "critical": false,
+        "completeness": 88,
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
@@ -294,77 +294,6 @@
     },
     {
       "rank": 4,
-      "name": "The Ritz-Carlton New York, Central Park",
-      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-new-york-central-park_3/hotel/new-york-ny-us.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/2456621/0/b3ccc026925830ef8bd6064a6a6c3970.jpeg?va=1",
-      "score": 9,
-      "reviewCount": 268,
-      "reviewCountFmt": "268 reviews",
-      "priceText": "$$$ · $1,774/night",
-      "walkMin": 3,
-      "refLabel": "Fifth Avenue-59th Street Subway Station",
-      "star": 5,
-      "propertyId": 2456621,
-      "priceUSD": 1774,
-      "priceStatus": "live",
-      "distanceM": 201.52,
-      "locationStatus": "verified",
-      "facilities": [
-        "Daily housekeeping",
-        "Close to public transportation",
-        "High Line",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9 · 268 reviews. 3 min walk to Fifth Avenue-59th Street Subway Station. $$$ · $1,774/night. 100% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $1,774/night",
-        "📝 268 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 2,
-            "pct": 100,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "I really enjoyed the stay inritz Carlton Central Park.",
-          "score": "10",
-          "country": "India",
-          "date": "2025.06",
-          "translated": false
-        },
-        {
-          "text": "Vry good sevice",
-          "score": "10",
-          "country": "India",
-          "date": "2025.06",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
       "name": "The Mark Hotel",
       "agodaUrl": "https://www.agoda.com/the-mark-hotel/hotel/new-york-ny-us.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/211/211821/211821_15071800490032545994.jpg?va=1&ca=4&ce=1",
@@ -443,7 +372,7 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "The Peninsula New York Hotel",
       "agodaUrl": "https://www.agoda.com/the-peninsula-new-york-hotel/hotel/new-york-ny-us.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/617395839.jpg?k=ed49b09385bd8dac46bd61f1ed8612decca69ed630867fe6f789719249424150&o=",
@@ -527,20 +456,91 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
+    },
+    {
+      "rank": 6,
+      "name": "The Ritz-Carlton New York, Central Park",
+      "agodaUrl": "https://www.agoda.com/the-ritz-carlton-new-york-central-park_3/hotel/new-york-ny-us.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2456621/0/b3ccc026925830ef8bd6064a6a6c3970.jpeg?va=1",
+      "score": 9,
+      "reviewCount": 268,
+      "reviewCountFmt": "268 reviews",
+      "priceText": "$$$ · $1,706/night",
+      "walkMin": 3,
+      "refLabel": "Fifth Avenue-59th Street Subway Station",
+      "star": 5,
+      "propertyId": 2456621,
+      "priceUSD": 1706,
+      "priceStatus": "live",
+      "distanceM": 201.52,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "High Line",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9 · 268 reviews. 3 min walk to Fifth Avenue-59th Street Subway Station. $$$ · $1,706/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,706/night",
+        "📝 268 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 2,
+            "pct": 100,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I really enjoyed the stay inritz Carlton Central Park.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "Vry good sevice",
+          "score": "10",
+          "country": "India",
+          "date": "2025.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T21:21:51.369Z",
+    "fetchedAt": "2026-10-09T20:57:08.488Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T21:21:51.369Z",
+    "fetchedAt": "2026-10-09T20:57:08.488Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

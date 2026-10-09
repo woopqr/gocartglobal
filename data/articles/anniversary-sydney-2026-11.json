@@ -18,60 +18,60 @@
   "metaDescription": "The 6 finest anniversary escape stays in Sydney — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 60% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Park Hyatt - Sydney</b> — rating 9.3, 523 reviews, from $1,240/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 63% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Park Hyatt - Sydney</b> — rating 9.3, 512 reviews, from $1,232/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 18,
-        "pct": 60
+        "count": 19,
+        "pct": 63
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 8,
-        "pct": 27
-      },
-      {
-        "key": "group",
-        "label": "Groups",
-        "count": 2,
-        "pct": 7
+        "count": 7,
+        "pct": 23
       },
       {
         "key": "solo",
         "label": "Solo",
-        "count": 1,
-        "pct": 3
+        "count": 2,
+        "pct": 7
       },
       {
         "key": "business",
         "label": "Business",
         "count": 1,
         "pct": 3
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 1,
+        "pct": 3
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/2291516/0/215b678d52071684aecb1c85806feddd.jpg?va=1&ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/41730116/0/a8c38c2b81b22ae731d96b32edc5b7f1.jpeg?ce=3",
   "heroAlt": "Sydney Anniversary Escape",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
       "name": "Park Hyatt - Sydney",
       "agodaUrl": "https://www.agoda.com/park-hyatt-sydney_5/hotel/sydney-au.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/2291516/0/215b678d52071684aecb1c85806feddd.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/41730116/0/a8c38c2b81b22ae731d96b32edc5b7f1.jpeg?ce=3",
       "score": 9.3,
-      "reviewCount": 523,
-      "reviewCountFmt": "523 reviews",
-      "priceText": "$$$ · $1,240/night",
+      "reviewCount": 512,
+      "reviewCountFmt": "512 reviews",
+      "priceText": "$$$ · $1,232/night",
       "walkMin": 8,
       "refLabel": "Circular Quay Railway Station",
       "star": 5,
       "propertyId": 41730116,
-      "priceUSD": 1240,
+      "priceUSD": 1232,
       "priceStatus": "live",
       "distanceM": 628.63,
       "locationStatus": "verified",
@@ -86,41 +86,27 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 523 reviews. 8 min walk to Circular Quay Railway Station. $$$ · $1,240/night.",
+      "blurb": "Rating 9.3 · 512 reviews. 8 min walk to Circular Quay Railway Station. $$$ · $1,232/night.",
       "metaTags": [
-        "💰 $1,240/night",
-        "📝 523 reviews",
+        "💰 $1,232/night",
+        "📝 512 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
       ],
       "travelerTypes": {
         "topLabel": "Families",
-        "topPct": 80,
+        "topPct": 100,
         "distribution": [
           {
             "key": "family",
             "label": "Families",
-            "count": 4,
-            "pct": 80,
+            "count": 5,
+            "pct": 100,
             "rating": 10
-          },
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 1,
-            "pct": 20,
-            "rating": 8
           }
         ]
       },
       "reviews": [
-        {
-          "text": "Great Location",
-          "score": "8",
-          "country": "United Kingdom",
-          "date": "2026.09",
-          "translated": false
-        },
         {
           "text": "The service is very nice, highly recommended!",
           "score": "10",
@@ -136,6 +122,13 @@
           "translated": false
         },
         {
+          "text": "View was splendid from the room and roof top pool.",
+          "score": "10",
+          "country": "AU",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
           "text": "5 star all the way from service to location !",
           "score": "10",
           "country": "Australia",
@@ -143,10 +136,10 @@
           "translated": false
         },
         {
-          "text": "View was splendid from the room and roof top pool.",
+          "text": "The staff were so good to me and my family.",
           "score": "10",
-          "country": "AU",
-          "date": "2025.05",
+          "country": "Australia",
+          "date": "2023.03",
           "translated": false
         }
       ],
@@ -162,16 +155,16 @@
       "rank": 2,
       "name": "Capella Sydney",
       "agodaUrl": "https://www.agoda.com/capella-sydney-h41691969/hotel/sydney-au.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/45894224/0/7057a8d2a50621b7dbdfc46f00693932.jpg?va=1&ce=0",
-      "score": 9.6,
-      "reviewCount": 1355,
-      "reviewCountFmt": "1,355 reviews",
-      "priceText": "$$$ · $868/night",
+      "img": "https://pix8.agoda.net/hotelImages/45894224/0/0673dd7ccb289dd3483f370fb78f0110.jpeg?ce=3",
+      "score": 9.5,
+      "reviewCount": 1340,
+      "reviewCountFmt": "1,340 reviews",
+      "priceText": "$$$ · $806/night",
       "walkMin": 2,
       "refLabel": "Sydney Light Rail",
       "star": 5,
       "propertyId": 45894224,
-      "priceUSD": 868,
+      "priceUSD": 806,
       "priceStatus": "live",
       "distanceM": 174.85,
       "locationStatus": "verified",
@@ -186,10 +179,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.6 · 1,355 reviews. 2 min walk to Sydney Light Rail. $$$ · $868/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.5 · 1,340 reviews. 2 min walk to Sydney Light Rail. $$$ · $806/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $868/night",
-        "📝 1,355 reviews",
+        "💰 $806/night",
+        "📝 1,340 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -253,126 +246,18 @@
     },
     {
       "rank": 3,
-      "name": "Meriton Suites Kent Street",
-      "agodaUrl": "https://www.agoda.com/meriton-suites-kent-street/hotel/sydney-au.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/148869/-1/607026d81e03b524da202795e9b99cf7.jpg?va=1&ce=0",
-      "score": 8.6,
-      "reviewCount": 11837,
-      "reviewCountFmt": "11,837 reviews",
-      "priceText": "$$ · $309/night",
-      "walkMin": 4,
-      "refLabel": "Town Hall Railway Station",
-      "star": 5,
-      "propertyId": 148869,
-      "priceUSD": 309,
-      "priceStatus": "live",
-      "distanceM": 293.74,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Free Wi-Fi in all rooms!",
-        "Close to public transportation",
-        "Chinese Garden of Friendship",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.6 · 11,837 reviews. 4 min walk to Town Hall Railway Station. $$ · $309/night. 60% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $309/night",
-        "📝 11,837 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.9
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 8
-          },
-          {
-            "key": "group",
-            "label": "Groups",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "The staff were genuinely friendly and exceptionally helpful.",
-          "score": "10",
-          "country": "Thailand",
-          "date": "2026.02",
-          "translated": false
-        },
-        {
-          "text": "It really feels like a home away from home.",
-          "score": "10",
-          "country": "Thailand",
-          "date": "2026.02",
-          "translated": false
-        },
-        {
-          "text": "Our spacious suite was very comfortable and well equipped.",
-          "score": "9.6",
-          "country": "Australia",
-          "date": "2024.05",
-          "translated": false
-        },
-        {
-          "text": "The room is clean and the bed is comfortable to sleep in.",
-          "score": "10",
-          "country": "Singapore",
-          "date": "2024.11",
-          "translated": false
-        },
-        {
-          "text": "When it comes to location, this hotel is second to none.",
-          "score": "8",
-          "country": "Indonesia",
-          "date": "2022.07",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 4,
       "name": "Crown Towers Sydney",
       "agodaUrl": "https://www.agoda.com/crown-towers-sydney_2/hotel/all/sydney-au.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/603946581.jpg?k=e77c6491b98d516dd77735599991a9615b1ac802ed98ab375d4465cf2c475d40&o=",
       "score": 8.9,
-      "reviewCount": 2220,
-      "reviewCountFmt": "2,220 reviews",
-      "priceText": "$$$ · $655/night",
+      "reviewCount": 2210,
+      "reviewCountFmt": "2,210 reviews",
+      "priceText": "$$$ · $659/night",
       "walkMin": 7,
       "refLabel": "Wynyard Railway Station",
       "star": 5,
       "propertyId": 32586621,
-      "priceUSD": 655,
+      "priceUSD": 659,
       "priceStatus": "live",
       "distanceM": 533.41,
       "locationStatus": "verified",
@@ -382,30 +267,23 @@
         "Close to public transportation",
         "Chinese Garden of Friendship"
       ],
-      "blurb": "Rating 8.9 · 2,220 reviews. 7 min walk to Wynyard Railway Station. $$$ · $655/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 2,210 reviews. 7 min walk to Wynyard Railway Station. $$$ · $659/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $655/night",
-        "📝 2,220 reviews",
+        "💰 $659/night",
+        "📝 2,210 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
         "topLabel": "Couples",
-        "topPct": 80,
+        "topPct": 100,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 4,
-            "pct": 80,
-            "rating": 9.3
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
           }
         ]
       },
@@ -439,10 +317,10 @@
           "translated": false
         },
         {
-          "text": "The facilities were great and the service was excellent.",
-          "score": "9.6",
+          "text": "Everything was exceptional during our stay at the Crown.",
+          "score": "10",
           "country": "Australia",
-          "date": "2026.10",
+          "date": "2025.08",
           "translated": false
         }
       ],
@@ -455,19 +333,19 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "name": "Meriton Suites Sussex Street",
       "agodaUrl": "https://www.agoda.com/meriton-suites-sussex-street_2/hotel/sydney-au.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/8673927/-1/c30d98f8f23a782279d2e6238252807d.jpg?va=1&ca=24&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/8673927/0/b0b2f78fdeed995314d7a9fd0e7de540.jpeg?ce=2",
       "score": 9,
-      "reviewCount": 7999,
-      "reviewCountFmt": "7,999 reviews",
-      "priceText": "$$ · $306/night",
+      "reviewCount": 7990,
+      "reviewCountFmt": "7,990 reviews",
+      "priceText": "$$ · $307/night",
       "walkMin": 4,
       "refLabel": "Town Hall Railway Station",
       "star": 5,
       "propertyId": 8673927,
-      "priceUSD": 306,
+      "priceUSD": 307,
       "priceStatus": "live",
       "distanceM": 309.06,
       "locationStatus": "verified",
@@ -482,10 +360,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 7,999 reviews. 4 min walk to Town Hall Railway Station. $$ · $306/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 7,990 reviews. 4 min walk to Town Hall Railway Station. $$ · $307/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $306/night",
-        "📝 7,999 reviews",
+        "💰 $307/night",
+        "📝 7,990 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -499,7 +377,7 @@
             "label": "Couples",
             "count": 4,
             "pct": 80,
-            "rating": 9.5
+            "rating": 9.7
           },
           {
             "key": "business",
@@ -540,10 +418,10 @@
           "translated": false
         },
         {
-          "text": "Walking distance to Darling Harbour restaurants.",
-          "score": "9.2",
-          "country": "Australia",
-          "date": "2024.10",
+          "text": "Excellent stay. Very spacious rooms and centrally located.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.02",
           "translated": false
         }
       ],
@@ -556,19 +434,19 @@
       }
     },
     {
-      "rank": 6,
+      "rank": 5,
       "name": "Four Seasons Hotel Sydney",
       "agodaUrl": "https://www.agoda.com/four-seasons-hotel-sydney/hotel/sydney-au.html?cid=1925461",
-      "img": "https://pix8.agoda.net/property/70339968/0/21d9dd353563a5ad99d3cb4fb6c5f186.jpeg?va=1&ce=2",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/227683814.jpg?k=6ea4df5cd0684bf3aa89b0052873caf0bf47e98492fdd91d9e399c7d9121d135&o=",
       "score": 9.1,
-      "reviewCount": 8592,
-      "reviewCountFmt": "8,592 reviews",
-      "priceText": "$$ · $402/night",
+      "reviewCount": 8546,
+      "reviewCountFmt": "8,546 reviews",
+      "priceText": "$$ · $382/night",
       "walkMin": 2,
       "refLabel": "Sydney Light Rail",
       "star": 5,
       "propertyId": 11875,
-      "priceUSD": 402,
+      "priceUSD": 382,
       "priceStatus": "live",
       "distanceM": 180.36,
       "locationStatus": "verified",
@@ -583,10 +461,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 8,592 reviews. 2 min walk to Sydney Light Rail. $$ · $402/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 8,546 reviews. 2 min walk to Sydney Light Rail. $$ · $382/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $402/night",
-        "📝 8,592 reviews",
+        "💰 $382/night",
+        "📝 8,546 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -661,20 +539,120 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
+    },
+    {
+      "rank": 6,
+      "name": "The Fullerton Hotel Sydney",
+      "agodaUrl": "https://www.agoda.com/the-fullerton-hotel-sydney/hotel/sydney-au.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/9586127/0/95777f5a4a66dfa598e1faf4dde9e9c2.jpeg?ce=2",
+      "score": 9.1,
+      "reviewCount": 13124,
+      "reviewCountFmt": "13,124 reviews",
+      "priceText": "$$ · $303/night",
+      "walkMin": 4,
+      "refLabel": "Wynyard Railway Station",
+      "star": 5,
+      "propertyId": 9586127,
+      "priceUSD": 303,
+      "priceStatus": "live",
+      "distanceM": 310.08,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Gym/fitness",
+        "Close to public transportation",
+        "Chinese Garden of Friendship",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 13,124 reviews. 4 min walk to Wynyard Railway Station. $$ · $303/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $303/night",
+        "📝 13,124 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "From check in to check out I was made to feel very special.",
+          "score": "9.6",
+          "country": "Australia",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "The rooms are just wow, great interior and very spacious .",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.01",
+          "translated": false
+        },
+        {
+          "text": "The staff have treated us like no other hotel ever has.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Best rooms in the city, practical, large and sophisticated.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "Overall it’s a very nice stay if you first come to Sydney.",
+          "score": "10",
+          "country": "HK",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T21:21:57.351Z",
+    "fetchedAt": "2026-10-09T20:57:12.778Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T21:21:57.351Z",
+    "fetchedAt": "2026-10-09T20:57:12.778Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

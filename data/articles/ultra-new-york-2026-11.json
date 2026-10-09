@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in New York — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 63% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mandarin Oriental, New York</b> — rating 9, 304 reviews, from $3,081/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 63% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mandarin Oriental, New York</b> — rating 9, 304 reviews, from $3,075/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 8,
     "distribution": [
@@ -44,7 +44,7 @@
   },
   "heroImg": "https://pix8.agoda.net/hotelImages/3849617/0/de77071db0e3bf264c799c26330663be.jpeg?va=1",
   "heroAlt": "New York Ultra-Luxury",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
@@ -54,12 +54,12 @@
       "score": 9,
       "reviewCount": 304,
       "reviewCountFmt": "304 reviews",
-      "priceText": "$$$ · $3,081/night",
+      "priceText": "$$$ · $3,075/night",
       "walkMin": 2,
       "refLabel": "59th Street-Columbus Circle Subway Station",
       "star": 5,
       "propertyId": 3849617,
-      "priceUSD": 3081,
+      "priceUSD": 3075,
       "priceStatus": "live",
       "distanceM": 169.92,
       "locationStatus": "verified",
@@ -74,9 +74,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 304 reviews. 2 min walk to 59th Street-Columbus Circle Subway Station. $$$ · $3,081/night. 67% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 304 reviews. 2 min walk to 59th Street-Columbus Circle Subway Station. $$$ · $3,075/night. 67% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $3,081/night",
+        "💰 $3,075/night",
         "📝 304 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -364,19 +364,19 @@
       "score": 9.2,
       "reviewCount": 128,
       "reviewCountFmt": "128 reviews",
-      "priceText": "$$$ · $1,817/night",
+      "priceText": "$$$ · $1,872/night",
       "walkMin": 2,
       "refLabel": "South Ferry-Whitehall Street Subway Station",
       "star": 5,
       "propertyId": 56249939,
-      "priceUSD": 1817,
+      "priceUSD": 1872,
       "priceStatus": "live",
       "distanceM": 162.34,
       "locationStatus": "verified",
       "facilities": [],
-      "blurb": "Rating 9.2 · 128 reviews. 2 min walk to South Ferry-Whitehall Street Subway Station. $$$ · $1,817/night.",
+      "blurb": "Rating 9.2 · 128 reviews. 2 min walk to South Ferry-Whitehall Street Subway Station. $$$ · $1,872/night.",
       "metaTags": [
-        "💰 $1,817/night",
+        "💰 $1,872/night",
         "📝 128 reviews",
         "⭐ 5-star"
       ],
@@ -395,16 +395,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T21:21:51.519Z",
+    "fetchedAt": "2026-10-09T20:57:08.571Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T21:21:51.519Z",
+    "fetchedAt": "2026-10-09T20:57:08.571Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

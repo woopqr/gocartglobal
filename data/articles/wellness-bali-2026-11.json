@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest wellness & spa stays in Bali — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
   "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-  "verdict": "About 59% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Resort Bali at Jimbaran Bay</b> — rating 9.3, 856 reviews, from $647/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 59% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Resort Bali at Jimbaran Bay</b> — rating 9.3, 856 reviews. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
   "aggregate": {
     "total": 27,
     "distribution": [
@@ -60,13 +60,13 @@
       "score": 9.3,
       "reviewCount": 856,
       "reviewCountFmt": "856 reviews",
-      "priceText": "$$$ · $647/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 79,
       "refLabel": "Waterbom Bali",
       "star": 5,
       "propertyId": 48672,
-      "priceUSD": 647,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 6349.42,
       "locationStatus": "verified",
       "facilities": [
@@ -80,9 +80,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 856 reviews. $$$ · $647/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 856 reviews. $$$ · check live price. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $647/night",
         "📝 856 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -168,13 +167,13 @@
       "score": 9.5,
       "reviewCount": 38,
       "reviewCountFmt": "38 reviews",
-      "priceText": "$$$ · $983/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 15,
       "refLabel": "Campuhan Ridge Walk",
       "star": 5,
       "propertyId": 82169038,
-      "priceUSD": 983,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 1186.98,
       "locationStatus": "verified",
       "facilities": [
@@ -185,9 +184,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 38 reviews. 15 min walk to Campuhan Ridge Walk. $$$ · $983/night.",
+      "blurb": "Rating 9.5 · 38 reviews. 15 min walk to Campuhan Ridge Walk. $$$ · check live price.",
       "metaTags": [
-        "💰 $983/night",
         "📝 38 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -237,13 +235,13 @@
       "score": 9.2,
       "reviewCount": 874,
       "reviewCountFmt": "874 reviews",
-      "priceText": "$$$ · $678/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 119,
       "refLabel": "Bangli Bus Terminal",
       "star": 5,
       "propertyId": 68310,
-      "priceUSD": 678,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 9558.31,
       "locationStatus": "verified",
       "facilities": [
@@ -257,9 +255,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 874 reviews. $$$ · $678/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 874 reviews. $$$ · check live price. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $678/night",
         "📝 874 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -330,13 +327,13 @@
       "score": 9.1,
       "reviewCount": 227,
       "reviewCountFmt": "227 reviews",
-      "priceText": "$$$ · $681/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 77,
       "refLabel": "Bangli Bus Terminal",
       "star": 5,
       "propertyId": 85395886,
-      "priceUSD": 681,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 6128.58,
       "locationStatus": "verified",
       "facilities": [
@@ -350,9 +347,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 227 reviews. $$$ · $681/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 227 reviews. $$$ · check live price. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $681/night",
         "📝 227 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -444,13 +440,13 @@
       "score": 9.5,
       "reviewCount": 338,
       "reviewCountFmt": "338 reviews",
-      "priceText": "$$$ · $1,689/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 28,
       "refLabel": "Campuhan Ridge Walk",
       "star": 5,
       "propertyId": 984267,
-      "priceUSD": 1689,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 2242.78,
       "locationStatus": "verified",
       "facilities": [
@@ -462,9 +458,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 338 reviews. $$$ · $1,689/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.5 · 338 reviews. $$$ · check live price. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,689/night",
         "📝 338 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -535,13 +530,13 @@
       "score": 9.3,
       "reviewCount": 342,
       "reviewCountFmt": "342 reviews",
-      "priceText": "$$$ · $1,216/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 15,
       "refLabel": "Campuhan Ridge Walk",
       "star": 5,
       "propertyId": 48716,
-      "priceUSD": 1216,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 1220.88,
       "locationStatus": "verified",
       "facilities": [
@@ -555,9 +550,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 342 reviews. 15 min walk to Campuhan Ridge Walk. $$$ · $1,216/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 342 reviews. 15 min walk to Campuhan Ridge Walk. $$$ · check live price. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,216/night",
         "📝 342 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",

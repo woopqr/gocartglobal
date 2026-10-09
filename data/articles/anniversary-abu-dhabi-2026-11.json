@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest anniversary escape stays in Abu Dhabi — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>ERTH Hotel.</b> — rating 8.9, 1,562 reviews, from $882/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>ERTH Hotel.</b> — rating 8.9, 1,561 reviews, from $882/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -48,18 +48,18 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/253683/0/a5ad9322328f365f39886bcba8b0d9b0.jpeg?va=1&ce=3",
+  "heroImg": "https://pix8.agoda.net/hotelImages/253683/0/a5ad9322328f365f39886bcba8b0d9b0.jpeg?ce=3",
   "heroAlt": "Abu Dhabi Anniversary Escape",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
       "name": "ERTH Hotel.",
       "agodaUrl": "https://www.agoda.com/officers-club-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/253683/0/a5ad9322328f365f39886bcba8b0d9b0.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/253683/0/a5ad9322328f365f39886bcba8b0d9b0.jpeg?ce=3",
       "score": 8.9,
-      "reviewCount": 1562,
-      "reviewCountFmt": "1,562 reviews",
+      "reviewCount": 1561,
+      "reviewCountFmt": "1,561 reviews",
       "priceText": "$$$ · $882/night",
       "walkMin": 15,
       "refLabel": "Sheikh Zayed Grand Mosque Center",
@@ -79,10 +79,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 1,562 reviews. 15 min walk to Sheikh Zayed Grand Mosque Center. $$$ · $882/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 1,561 reviews. 15 min walk to Sheikh Zayed Grand Mosque Center. $$$ · $882/night. 60% of sampled reviews from couples.",
       "metaTags": [
         "💰 $882/night",
-        "📝 1,562 reviews",
+        "📝 1,561 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -162,7 +162,7 @@
       "rank": 2,
       "name": "Staybridge Suites Yas Island Abu Dhabi By IHG",
       "agodaUrl": "https://www.agoda.com/staybridge-suites-yas-island-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/4884232/0/2b1613e3e7ad1f8c91e37a4e5042161b.jpg?va=1&ca=23&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/4884232/0/2b1613e3e7ad1f8c91e37a4e5042161b.jpg?ca=23&ce=0",
       "score": 8.9,
       "reviewCount": 2010,
       "reviewCountFmt": "2,010 reviews",
@@ -270,7 +270,7 @@
       "rank": 3,
       "name": "Sheraton Abu Dhabi Hotel & Resort",
       "agodaUrl": "https://www.agoda.com/sheraton-abu-dhabi-hotel-resort_12/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/5106253/1154055577/2ab6ede4b1d07450bbbae790eaa29c7a.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/5106253/1154055577/2ab6ede4b1d07450bbbae790eaa29c7a.jpeg?ce=3",
       "score": 9.1,
       "reviewCount": 7973,
       "reviewCountFmt": "7,973 reviews",
@@ -376,7 +376,7 @@
       "rank": 4,
       "name": "The St. Regis Abu Dhabi",
       "agodaUrl": "https://www.agoda.com/the-st-regis-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/520310/74571033/d76413c2e441c43c5ed0b6dbe24cc4db.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/520310/74571033/d76413c2e441c43c5ed0b6dbe24cc4db.jpeg?ce=3",
       "score": 9.4,
       "reviewCount": 2245,
       "reviewCountFmt": "2,245 reviews",
@@ -469,10 +469,10 @@
       "rank": 5,
       "name": "Al Wathba, a Luxury Collection Desert Resort & Spa, Abu Dhabi",
       "agodaUrl": "https://www.agoda.com/jumeirah-al-wathba-desert-resort-and-spa/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/13754269/0/085ea22d4e3cc4a1c1fad27e0352bb79.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/13754269/0/085ea22d4e3cc4a1c1fad27e0352bb79.jpeg?ce=3",
       "score": 9.4,
-      "reviewCount": 900,
-      "reviewCountFmt": "900 reviews",
+      "reviewCount": 896,
+      "reviewCountFmt": "896 reviews",
       "priceText": "$$ · $488/night",
       "walkMin": null,
       "refLabel": "city center",
@@ -490,10 +490,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 900 reviews. $$ · $488/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 896 reviews. $$ · $488/night. 20% of sampled reviews from couples.",
       "metaTags": [
         "💰 $488/night",
-        "📝 900 reviews",
+        "📝 896 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Families"
@@ -576,16 +576,16 @@
       "rank": 6,
       "name": "Four Seasons Hotel Abu Dhabi at Al Maryah Island",
       "agodaUrl": "https://www.agoda.com/four-seasons-hotel-abu-dhabi-at-al-maryah-island/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/1267025/0/6b98d26c8663a3c84a64f3264291e30a.jpeg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/1267025/0/6b98d26c8663a3c84a64f3264291e30a.jpeg?ce=3",
       "score": 9.3,
       "reviewCount": 1268,
       "reviewCountFmt": "1,268 reviews",
-      "priceText": "$$$ · $530/night",
+      "priceText": "$$$ · $531/night",
       "walkMin": 47,
       "refLabel": "Abu Dhabi Central Bus Station",
       "star": 5,
       "propertyId": 1267025,
-      "priceUSD": 530,
+      "priceUSD": 531,
       "priceStatus": "live",
       "distanceM": 3795.87,
       "locationStatus": "verified",
@@ -600,9 +600,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 1,268 reviews. $$$ · $530/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 1,268 reviews. $$$ · $531/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $530/night",
+        "💰 $531/night",
         "📝 1,268 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -675,16 +675,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T21:21:54.185Z",
+    "fetchedAt": "2026-10-09T20:57:11.481Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T21:21:54.185Z",
+    "fetchedAt": "2026-10-09T20:57:11.481Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

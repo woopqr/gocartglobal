@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest luxury golf stays in Mauritius — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A great golf trip is half course, half recovery. These are the top-tier, best-reviewed five-star stays in a destination with a serious golf scene — chosen as a base, not as a promise of an on-site course.",
   "viewpoint": "We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
-  "verdict": "Our #1 pick is <b>Heritage Awali Golf & Spa Resort - All Inclusive</b> — rating 8.7, 431 reviews, from $769/night. We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
+  "verdict": "Our #1 pick is <b>Heritage Awali Golf & Spa Resort - All Inclusive</b> — rating 8.7, 431 reviews, from $760/night. We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
   "aggregate": {
     "total": 29,
     "distribution": [
@@ -50,7 +50,7 @@
   },
   "heroImg": "https://pix8.agoda.net/hotelImages/592/59245/59245_15081914220034600870.jpg?va=1&ca=5&ce=1",
   "heroAlt": "Mauritius Luxury Golf",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
@@ -60,12 +60,12 @@
       "score": 8.7,
       "reviewCount": 431,
       "reviewCountFmt": "431 reviews",
-      "priceText": "$$$ · $769/night",
+      "priceText": "$$$ · $760/night",
       "walkMin": 95,
       "refLabel": "Chamarel Waterfall",
       "star": 5,
       "propertyId": 59245,
-      "priceUSD": 769,
+      "priceUSD": 760,
       "priceStatus": "live",
       "distanceM": 7574.86,
       "locationStatus": "verified",
@@ -80,9 +80,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.7 · 431 reviews. $$$ · $769/night.",
+      "blurb": "Rating 8.7 · 431 reviews. $$$ · $760/night.",
       "metaTags": [
-        "💰 $769/night",
+        "💰 $760/night",
         "📝 431 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -155,6 +155,102 @@
     },
     {
       "rank": 2,
+      "name": "Shanti Maurice Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/shanti-maurice-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/293435/-1/dcbacd955138b01a1b3e7bf82160417b.jpg?va=1&ca=10&ce=1",
+      "score": 9.1,
+      "reviewCount": 976,
+      "reviewCountFmt": "976 reviews",
+      "priceText": "$$$ · $1,180/night",
+      "walkMin": 122,
+      "refLabel": "La Vanille Nature Park",
+      "star": 5,
+      "propertyId": 293435,
+      "priceUSD": 1180,
+      "priceStatus": "live",
+      "distanceM": 9786.03,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Gym/fitness"
+      ],
+      "blurb": "Rating 9.1 · 976 reviews. $$$ · $1,180/night.",
+      "metaTags": [
+        "💰 $1,180/night",
+        "📝 976 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "All the staff were so polite, welcoming and kind.",
+          "score": "10",
+          "country": "India",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Rooms are spacious and the views are spectacular!",
+          "score": "10",
+          "country": "Australia",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The staff were outstanding: warm, attentive, and discreet.",
+          "score": "10",
+          "country": "România",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Would definitely go back again, again and again forever",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "A real luxury stay at a beautiful resort.",
+          "score": "9.2",
+          "country": "South Africa",
+          "date": "2024.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
       "name": "The Oberoi, Mauritius",
       "agodaUrl": "https://www.agoda.com/the-oberoi-mauritius-hotel/hotel/mauritius-island-mu.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/522630/0/97f64ff3b441ebe1098e5b6233c42575.jpg?va=1&ce=3",
@@ -235,102 +331,6 @@
           "score": "9.6",
           "country": "United Kingdom",
           "date": "2025.09",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 3,
-      "name": "Shanti Maurice Resort & Spa",
-      "agodaUrl": "https://www.agoda.com/shanti-maurice-resort-spa/hotel/mauritius-island-mu.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/293435/-1/dcbacd955138b01a1b3e7bf82160417b.jpg?va=1&ca=10&ce=1",
-      "score": 9.1,
-      "reviewCount": 976,
-      "reviewCountFmt": "976 reviews",
-      "priceText": "$$$ · $999/night",
-      "walkMin": 122,
-      "refLabel": "La Vanille Nature Park",
-      "star": 5,
-      "propertyId": 293435,
-      "priceUSD": 999,
-      "priceStatus": "live",
-      "distanceM": 9786.03,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Gym/fitness"
-      ],
-      "blurb": "Rating 9.1 · 976 reviews. $$$ · $999/night.",
-      "metaTags": [
-        "💰 $999/night",
-        "📝 976 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 60,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.7
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "All the staff were so polite, welcoming and kind.",
-          "score": "10",
-          "country": "India",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
-          "text": "Rooms are spacious and the views are spectacular!",
-          "score": "10",
-          "country": "Australia",
-          "date": "2025.04",
-          "translated": false
-        },
-        {
-          "text": "The staff were outstanding: warm, attentive, and discreet.",
-          "score": "10",
-          "country": "România",
-          "date": "2026.01",
-          "translated": false
-        },
-        {
-          "text": "Would definitely go back again, again and again forever",
-          "score": "10",
-          "country": "Australia",
-          "date": "2024.07",
-          "translated": false
-        },
-        {
-          "text": "A real luxury stay at a beautiful resort.",
-          "score": "9.2",
-          "country": "South Africa",
-          "date": "2024.05",
           "translated": false
         }
       ],
@@ -444,12 +444,12 @@
       "score": 8.8,
       "reviewCount": 702,
       "reviewCountFmt": "702 reviews",
-      "priceText": "$$$ · $675/night",
+      "priceText": "$$$ · $670/night",
       "walkMin": 1,
       "refLabel": "Flic en Flac Beach",
       "star": 5,
       "propertyId": 59248,
-      "priceUSD": 675,
+      "priceUSD": 670,
       "priceStatus": "live",
       "distanceM": 23,
       "locationStatus": "verified",
@@ -458,9 +458,9 @@
         "Daily housekeeping",
         "Flic en Flac Beach"
       ],
-      "blurb": "Rating 8.8 · 702 reviews. 1 min walk to Flic en Flac Beach. $$$ · $675/night.",
+      "blurb": "Rating 8.8 · 702 reviews. 1 min walk to Flic en Flac Beach. $$$ · $670/night.",
       "metaTags": [
-        "💰 $675/night",
+        "💰 $670/night",
         "📝 702 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -553,12 +553,12 @@
       "score": 8.8,
       "reviewCount": 3358,
       "reviewCountFmt": "3,358 reviews",
-      "priceText": "$$$ · $790/night",
+      "priceText": "$$$ · $778/night",
       "walkMin": 1,
       "refLabel": "Belle Mare Beach",
       "star": 5,
       "propertyId": 3534614,
-      "priceUSD": 790,
+      "priceUSD": 778,
       "priceStatus": "live",
       "distanceM": 54.22,
       "locationStatus": "verified",
@@ -568,9 +568,9 @@
         "Sauna",
         "Daily housekeeping"
       ],
-      "blurb": "Rating 8.8 · 3,358 reviews. 1 min walk to Belle Mare Beach. $$$ · $790/night.",
+      "blurb": "Rating 8.8 · 3,358 reviews. 1 min walk to Belle Mare Beach. $$$ · $778/night.",
       "metaTags": [
-        "💰 $790/night",
+        "💰 $778/night",
         "📝 3,358 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -636,16 +636,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T21:21:48.367Z",
+    "fetchedAt": "2026-10-09T20:57:04.991Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T21:21:48.367Z",
+    "fetchedAt": "2026-10-09T20:57:04.991Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Bali — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 73% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Bvlgari Resort Bali</b> — rating 9.3, 698 reviews, from $3,377/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 73% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Bvlgari Resort Bali</b> — rating 9.3, 698 reviews. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 22,
     "distribution": [
@@ -60,13 +60,13 @@
       "score": 9.3,
       "reviewCount": 698,
       "reviewCountFmt": "698 reviews",
-      "priceText": "$$$ · $3,377/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 53,
       "refLabel": "Uluwatu Temple",
       "star": 5,
       "propertyId": 77182,
-      "priceUSD": 3377,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 4263.21,
       "locationStatus": "verified",
       "facilities": [
@@ -78,9 +78,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 698 reviews. $$$ · $3,377/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 698 reviews. $$$ · check live price. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $3,377/night",
         "📝 698 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -159,13 +158,13 @@
       "score": 9.1,
       "reviewCount": 166,
       "reviewCountFmt": "166 reviews",
-      "priceText": "$$$ · $1,235/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 79,
       "refLabel": "Waterbom Bali",
       "star": 5,
       "propertyId": 14654956,
-      "priceUSD": 1235,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 6353.73,
       "locationStatus": "verified",
       "facilities": [
@@ -179,9 +178,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 166 reviews. $$$ · $1,235/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 166 reviews. $$$ · check live price. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,235/night",
         "📝 166 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -252,13 +250,13 @@
       "score": 9,
       "reviewCount": 193,
       "reviewCountFmt": "193 reviews",
-      "priceText": "$$$ · $1,082/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 65,
       "refLabel": "Tegallalang Rice Terrace",
       "star": 5,
       "propertyId": 73539,
-      "priceUSD": 1082,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 5166.47,
       "locationStatus": "verified",
       "facilities": [
@@ -272,9 +270,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 193 reviews. $$$ · $1,082/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 193 reviews. $$$ · check live price. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,082/night",
         "📝 193 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -324,13 +321,13 @@
       "score": 8.7,
       "reviewCount": 37,
       "reviewCountFmt": "37 reviews",
-      "priceText": "$$$ · $853/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 1,
       "refLabel": "Mendira Beach",
       "star": 5,
       "propertyId": 38707671,
-      "priceUSD": 853,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 40.64,
       "locationStatus": "verified",
       "facilities": [
@@ -341,9 +338,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.7 · 37 reviews. 1 min walk to Mendira Beach. $$$ · $853/night.",
+      "blurb": "Rating 8.7 · 37 reviews. 1 min walk to Mendira Beach. $$$ · check live price.",
       "metaTags": [
-        "💰 $853/night",
         "📝 37 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa"
@@ -368,13 +364,13 @@
       "score": 9,
       "reviewCount": 970,
       "reviewCountFmt": "970 reviews",
-      "priceText": "$$$ · $1,288/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 89,
       "refLabel": "Kuta Beach",
       "star": 5,
       "propertyId": 478524,
-      "priceUSD": 1288,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 7153.99,
       "locationStatus": "verified",
       "facilities": [
@@ -388,9 +384,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 970 reviews. $$$ · $1,288/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 970 reviews. $$$ · check live price. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,288/night",
         "📝 970 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -469,13 +464,13 @@
       "score": 9.3,
       "reviewCount": 342,
       "reviewCountFmt": "342 reviews",
-      "priceText": "$$$ · $1,216/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 15,
       "refLabel": "Campuhan Ridge Walk",
       "star": 5,
       "propertyId": 48716,
-      "priceUSD": 1216,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 1220.88,
       "locationStatus": "verified",
       "facilities": [
@@ -489,9 +484,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 342 reviews. 15 min walk to Campuhan Ridge Walk. $$$ · $1,216/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 342 reviews. 15 min walk to Campuhan Ridge Walk. $$$ · check live price. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,216/night",
         "📝 342 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",

@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest anniversary escape stays in Bali — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 73% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mulia Villas</b> — rating 9.4, 1,120 reviews, from $943/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 73% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mulia Villas</b> — rating 9.4, 1,120 reviews. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -60,13 +60,13 @@
       "score": 9.4,
       "reviewCount": 1120,
       "reviewCountFmt": "1,120 reviews",
-      "priceText": "$$$ · $943/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 37,
       "refLabel": "Nusa Dua Beach",
       "star": 5,
       "propertyId": 6546934,
-      "priceUSD": 943,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 2998.76,
       "locationStatus": "verified",
       "facilities": [
@@ -80,9 +80,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 1,120 reviews. $$$ · $943/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 1,120 reviews. $$$ · check live price. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $943/night",
         "📝 1,120 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -161,13 +160,13 @@
       "score": 9.3,
       "reviewCount": 614,
       "reviewCountFmt": "614 reviews",
-      "priceText": "$$$ · $688/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 33,
       "refLabel": "Nusa Dua Beach",
       "star": 5,
       "propertyId": 6546761,
-      "priceUSD": 688,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 2616.75,
       "locationStatus": "verified",
       "facilities": [
@@ -176,9 +175,8 @@
         "Sauna",
         "Nusa Dua Beach"
       ],
-      "blurb": "Rating 9.3 · 614 reviews. $$$ · $688/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 614 reviews. $$$ · check live price. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $688/night",
         "📝 614 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -256,13 +254,13 @@
       "score": 9.4,
       "reviewCount": 206,
       "reviewCountFmt": "206 reviews",
-      "priceText": "$$$ · $613/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 88,
       "refLabel": "Bangli Bus Terminal",
       "star": 5,
       "propertyId": 78363497,
-      "priceUSD": 613,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 7041.49,
       "locationStatus": "verified",
       "facilities": [
@@ -276,9 +274,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 206 reviews. $$$ · $613/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 206 reviews. $$$ · check live price. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $613/night",
         "📝 206 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -357,13 +354,13 @@
       "score": 9.4,
       "reviewCount": 1302,
       "reviewCountFmt": "1,302 reviews",
-      "priceText": "$$ · $454/night",
+      "priceText": "$$ · price unavailable",
       "walkMin": 102,
       "refLabel": "Bangli Bus Terminal",
       "star": 5,
       "propertyId": 46875150,
-      "priceUSD": 454,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 8172.7,
       "locationStatus": "verified",
       "facilities": [
@@ -376,9 +373,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 1,302 reviews. $$ · $454/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 1,302 reviews. $$ · check live price. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $454/night",
         "📝 1,302 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -456,13 +452,13 @@
       "score": 8.9,
       "reviewCount": 873,
       "reviewCountFmt": "873 reviews",
-      "priceText": "$$$ · $1,557/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 119,
       "refLabel": "Ubung Bus Terminal",
       "star": 5,
       "propertyId": 34474011,
-      "priceUSD": 1557,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 9542.22,
       "locationStatus": "verified",
       "facilities": [
@@ -476,9 +472,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 873 reviews. $$$ · $1,557/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 873 reviews. $$$ · check live price. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,557/night",
         "📝 873 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -550,13 +545,13 @@
       "score": 9.4,
       "reviewCount": 127,
       "reviewCountFmt": "127 reviews",
-      "priceText": "$$$ · $1,780/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 119,
       "refLabel": "Bangli Bus Terminal",
       "star": 5,
       "propertyId": 5347453,
-      "priceUSD": 1780,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 9484.77,
       "locationStatus": "verified",
       "facilities": [
@@ -570,9 +565,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 127 reviews. $$$ · $1,780/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 127 reviews. $$$ · check live price. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,780/night",
         "📝 127 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"

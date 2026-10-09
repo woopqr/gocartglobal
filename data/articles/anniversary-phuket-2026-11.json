@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest anniversary escape stays in Phuket — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 58% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Banyan Tree Phuket</b> — rating 8.9, 4,535 reviews, from $856/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 58% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Banyan Tree Phuket</b> — rating 8.9, 4,535 reviews. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 26,
     "distribution": [
@@ -60,13 +60,13 @@
       "score": 8.9,
       "reviewCount": 4535,
       "reviewCountFmt": "4,535 reviews",
-      "priceText": "$$$ · $856/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 76,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 10884,
-      "priceUSD": 856,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 6089.05,
       "locationStatus": "verified",
       "facilities": [
@@ -80,9 +80,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 4,535 reviews. $$$ · $856/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 4,535 reviews. $$$ · check live price. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $856/night",
         "📝 4,535 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -153,13 +152,13 @@
       "score": 9.1,
       "reviewCount": 1027,
       "reviewCountFmt": "1,027 reviews",
-      "priceText": "$$$ · $849/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 110,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 527702,
-      "priceUSD": 849,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 8760.69,
       "locationStatus": "verified",
       "facilities": [
@@ -173,9 +172,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,027 reviews. $$$ · $849/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 1,027 reviews. $$$ · check live price. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $849/night",
         "📝 1,027 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -261,13 +259,13 @@
       "score": 9.3,
       "reviewCount": 86,
       "reviewCountFmt": "86 reviews",
-      "priceText": "$$$ · $1,069/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 7,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 61919855,
-      "priceUSD": 1069,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 521.99,
       "locationStatus": "verified",
       "facilities": [
@@ -281,9 +279,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 86 reviews. 7 min walk to Phuket FantaSea. $$$ · $1,069/night.",
+      "blurb": "Rating 9.3 · 86 reviews. 7 min walk to Phuket FantaSea. $$$ · check live price.",
       "metaTags": [
-        "💰 $1,069/night",
         "📝 86 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -327,13 +324,13 @@
       "score": 9.3,
       "reviewCount": 580,
       "reviewCountFmt": "580 reviews",
-      "priceText": "$$$ · $798/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 18,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 3082798,
-      "priceUSD": 798,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 1404.2,
       "locationStatus": "verified",
       "facilities": [
@@ -347,9 +344,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 580 reviews. 18 min walk to Phuket FantaSea. $$$ · $798/night.",
+      "blurb": "Rating 9.3 · 580 reviews. 18 min walk to Phuket FantaSea. $$$ · check live price.",
       "metaTags": [
-        "💰 $798/night",
         "📝 580 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -428,13 +424,13 @@
       "score": 9.1,
       "reviewCount": 1377,
       "reviewCountFmt": "1,377 reviews",
-      "priceText": "$$$ · $813/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 36,
       "refLabel": "Phuket FantaSea",
       "star": 5,
       "propertyId": 10936,
-      "priceUSD": 813,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 2874.02,
       "locationStatus": "verified",
       "facilities": [
@@ -448,9 +444,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,377 reviews. $$$ · $813/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 1,377 reviews. $$$ · check live price. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $813/night",
         "📝 1,377 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -535,13 +530,13 @@
       "score": 8.6,
       "reviewCount": 6758,
       "reviewCountFmt": "6,758 reviews",
-      "priceText": "$$ · $371/night",
+      "priceText": "$$ · price unavailable",
       "walkMin": 19,
       "refLabel": "Patong Beach",
       "star": 5,
       "propertyId": 271635,
-      "priceUSD": 371,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 1532.2,
       "locationStatus": "verified",
       "facilities": [
@@ -555,9 +550,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.6 · 6,758 reviews. 19 min walk to Patong Beach. $$ · $371/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 8.6 · 6,758 reviews. 19 min walk to Patong Beach. $$ · check live price. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $371/night",
         "📝 6,758 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",

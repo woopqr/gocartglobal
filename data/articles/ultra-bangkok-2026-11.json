@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Bangkok — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 47% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Hotel Bangkok at Chao Phraya River</b> — rating 9.3, 1,704 reviews, from $734/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 47% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Hotel Bangkok at Chao Phraya River</b> — rating 9.3, 1,704 reviews. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -66,13 +66,13 @@
       "score": 9.3,
       "reviewCount": 1704,
       "reviewCountFmt": "1,704 reviews",
-      "priceText": "$$$ · $734/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 11,
       "refLabel": "Saphan Taksin BTS Station",
       "star": 5,
       "propertyId": 8634385,
-      "priceUSD": 734,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 881.71,
       "locationStatus": "verified",
       "facilities": [
@@ -86,9 +86,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 1,704 reviews. 11 min walk to Saphan Taksin BTS Station. $$$ · $734/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 1,704 reviews. 11 min walk to Saphan Taksin BTS Station. $$$ · check live price. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $734/night",
         "📝 1,704 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -173,13 +172,13 @@
       "score": 9.3,
       "reviewCount": 1591,
       "reviewCountFmt": "1,591 reviews",
-      "priceText": "$$$ · $684/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 7,
       "refLabel": "Saphan Taksin BTS Station",
       "star": 5,
       "propertyId": 10713,
-      "priceUSD": 684,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 580.81,
       "locationStatus": "verified",
       "facilities": [
@@ -193,9 +192,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 1,591 reviews. 7 min walk to Saphan Taksin BTS Station. $$$ · $684/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 1,591 reviews. 7 min walk to Saphan Taksin BTS Station. $$$ · check live price. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $684/night",
         "📝 1,591 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -266,13 +264,13 @@
       "score": 9.1,
       "reviewCount": 1128,
       "reviewCountFmt": "1,128 reviews",
-      "priceText": "$$$ · $524/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 1,
       "refLabel": "Ratchadamri BTS Station",
       "star": 5,
       "propertyId": 335032,
-      "priceUSD": 524,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 106.7,
       "locationStatus": "verified",
       "facilities": [
@@ -285,9 +283,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,128 reviews. 1 min walk to Ratchadamri BTS Station. $$$ · $524/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 1,128 reviews. 1 min walk to Ratchadamri BTS Station. $$$ · check live price. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $524/night",
         "📝 1,128 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -372,13 +369,13 @@
       "score": 9.1,
       "reviewCount": 1778,
       "reviewCountFmt": "1,778 reviews",
-      "priceText": "$$ · $489/night",
+      "priceText": "$$ · price unavailable",
       "walkMin": 3,
       "refLabel": "Phloen Chit BTS Station",
       "star": 5,
       "propertyId": 1994765,
-      "priceUSD": 489,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 200.28,
       "locationStatus": "verified",
       "facilities": [
@@ -392,9 +389,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,778 reviews. 3 min walk to Phloen Chit BTS Station. $$ · $489/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 1,778 reviews. 3 min walk to Phloen Chit BTS Station. $$ · check live price. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $489/night",
         "📝 1,778 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -486,13 +482,13 @@
       "score": 9.4,
       "reviewCount": 751,
       "reviewCountFmt": "751 reviews",
-      "priceText": "$$$ · $524/night",
+      "priceText": "$$$ · price unavailable",
       "walkMin": 4,
       "refLabel": "Lumphini MRT Station",
       "star": 5,
       "propertyId": 61425890,
-      "priceUSD": 524,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 319.9,
       "locationStatus": "verified",
       "facilities": [
@@ -505,9 +501,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 751 reviews. 4 min walk to Lumphini MRT Station. $$$ · $524/night.",
+      "blurb": "Rating 9.4 · 751 reviews. 4 min walk to Lumphini MRT Station. $$$ · check live price.",
       "metaTags": [
-        "💰 $524/night",
         "📝 751 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -599,13 +594,13 @@
       "score": 9.1,
       "reviewCount": 1462,
       "reviewCountFmt": "1,462 reviews",
-      "priceText": "$$ · $328/night",
+      "priceText": "$$ · price unavailable",
       "walkMin": 10,
       "refLabel": "Phrom Phong BTS Station",
       "star": 5,
       "propertyId": 1266554,
-      "priceUSD": 328,
-      "priceStatus": "live",
+      "priceUSD": null,
+      "priceStatus": "price unavailable",
       "distanceM": 812.24,
       "locationStatus": "verified",
       "facilities": [
@@ -619,9 +614,8 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,462 reviews. 10 min walk to Phrom Phong BTS Station. $$ · $328/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 1,462 reviews. 10 min walk to Phrom Phong BTS Station. $$ · check live price. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $328/night",
         "📝 1,462 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
