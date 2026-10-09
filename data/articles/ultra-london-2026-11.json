@@ -18,39 +18,33 @@
   "metaDescription": "The 6 finest ultra-luxury stays in London — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 33% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Corinthia Hotel London</b> — rating 9.4, 614 reviews, from $4,864/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Corinthia Hotel London</b> — rating 9.4, 614 reviews, from $6,294/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
-    "total": 15,
+    "total": 14,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 5,
-        "pct": 33
+        "count": 7,
+        "pct": 50
       },
       {
         "key": "family",
         "label": "Families",
         "count": 4,
-        "pct": 27
+        "pct": 29
       },
       {
         "key": "solo",
         "label": "Solo",
         "count": 3,
-        "pct": 20
-      },
-      {
-        "key": "group",
-        "label": "Groups",
-        "count": 3,
-        "pct": 20
+        "pct": 21
       }
     ]
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/402935870.jpg?k=ee56114175b5623c758f87665d0b324905f4b604430238bb482f5a99de0de2cd&o=",
   "heroAlt": "London Ultra-Luxury",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
@@ -60,12 +54,12 @@
       "score": 9.4,
       "reviewCount": 614,
       "reviewCountFmt": "614 reviews",
-      "priceText": "$$$ · $4,864/night",
+      "priceText": "$$$ · $6,294/night",
       "walkMin": 2,
       "refLabel": "Embankment Tube Station",
       "star": 5,
       "propertyId": 263767,
-      "priceUSD": 4864,
+      "priceUSD": 6294,
       "priceStatus": "live",
       "distanceM": 159.32,
       "locationStatus": "verified",
@@ -80,9 +74,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 614 reviews. 2 min walk to Embankment Tube Station. $$$ · $4,864/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 614 reviews. 2 min walk to Embankment Tube Station. $$$ · $6,294/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $4,864/night",
+        "💰 $6,294/night",
         "📝 614 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -167,12 +161,12 @@
       "score": 9.4,
       "reviewCount": 74,
       "reviewCountFmt": "74 reviews",
-      "priceText": "$$$ · $3,172/night",
+      "priceText": "$$$ · $3,173/night",
       "walkMin": 5,
       "refLabel": "Bond Street Tube Station",
       "star": 5,
       "propertyId": 71143983,
-      "priceUSD": 3172,
+      "priceUSD": 3173,
       "priceStatus": "live",
       "distanceM": 418.3,
       "locationStatus": "verified",
@@ -187,9 +181,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 74 reviews. 5 min walk to Bond Street Tube Station. $$$ · $3,172/night.",
+      "blurb": "Rating 9.4 · 74 reviews. 5 min walk to Bond Street Tube Station. $$$ · $3,173/night.",
       "metaTags": [
-        "💰 $3,172/night",
+        "💰 $3,173/night",
         "📝 74 reviews",
         "⭐ 5-star"
       ],
@@ -213,12 +207,12 @@
       "score": 9.5,
       "reviewCount": 382,
       "reviewCountFmt": "382 reviews",
-      "priceText": "$$$ · $2,262/night",
+      "priceText": "$$$ · $2,380/night",
       "walkMin": 2,
       "refLabel": "Hyde Park Corner Tube Station",
       "star": 5,
       "propertyId": 47498371,
-      "priceUSD": 2262,
+      "priceUSD": 2380,
       "priceStatus": "live",
       "distanceM": 160.63,
       "locationStatus": "verified",
@@ -228,9 +222,9 @@
         "Close to public transportation",
         "Westminster Abbey"
       ],
-      "blurb": "Rating 9.5 · 382 reviews. 2 min walk to Hyde Park Corner Tube Station. $$$ · $2,262/night.",
+      "blurb": "Rating 9.5 · 382 reviews. 2 min walk to Hyde Park Corner Tube Station. $$$ · $2,380/night.",
       "metaTags": [
-        "💰 $2,262/night",
+        "💰 $2,380/night",
         "📝 382 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -280,12 +274,12 @@
       "score": 9.6,
       "reviewCount": 332,
       "reviewCountFmt": "332 reviews",
-      "priceText": "$$$ · $2,197/night",
+      "priceText": "$$$ · $2,198/night",
       "walkMin": 4,
       "refLabel": "Charing Cross Tube Station",
       "star": 5,
       "propertyId": 37318786,
-      "priceUSD": 2197,
+      "priceUSD": 2198,
       "priceStatus": "live",
       "distanceM": 288.24,
       "locationStatus": "verified",
@@ -299,9 +293,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.6 · 332 reviews. 4 min walk to Charing Cross Tube Station. $$$ · $2,197/night. 50% of sampled reviews from couples.",
+      "blurb": "Rating 9.6 · 332 reviews. 4 min walk to Charing Cross Tube Station. $$$ · $2,198/night. 50% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,197/night",
+        "💰 $2,198/night",
         "📝 332 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -358,19 +352,19 @@
       "score": 8.9,
       "reviewCount": 158,
       "reviewCountFmt": "158 reviews",
-      "priceText": "$$$ · $1,998/night",
+      "priceText": "$$$ · $1,916/night",
       "walkMin": 3,
       "refLabel": "Oxford Circus Tube Station",
       "star": 5,
       "propertyId": 82325668,
-      "priceUSD": 1998,
+      "priceUSD": 1916,
       "priceStatus": "live",
       "distanceM": 243.31,
       "locationStatus": "verified",
       "facilities": [],
-      "blurb": "Rating 8.9 · 158 reviews. 3 min walk to Oxford Circus Tube Station. $$$ · $1,998/night.",
+      "blurb": "Rating 8.9 · 158 reviews. 3 min walk to Oxford Circus Tube Station. $$$ · $1,916/night.",
       "metaTags": [
-        "💰 $1,998/night",
+        "💰 $1,916/night",
         "📝 158 reviews",
         "⭐ 5-star",
         "👥 Loved by Solo"
@@ -407,24 +401,24 @@
     },
     {
       "rank": 6,
-      "name": "Claridge's, Maybourne",
-      "agodaUrl": "https://www.agoda.com/claridge-s/hotel/all/london-gb.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/3034/0/f34648664473acfa2afe664c06f552b5.jpeg?va=1",
-      "score": 9.4,
-      "reviewCount": 626,
-      "reviewCountFmt": "626 reviews",
-      "priceText": "$$$ · $1,744/night",
-      "walkMin": 3,
+      "name": "The Connaught",
+      "agodaUrl": "https://www.agoda.com/the-connaught/hotel/london-gb.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6755401/0/1563c74b0ed03e98afa160998601d254.jpeg?va=1",
+      "score": 9.7,
+      "reviewCount": 234,
+      "reviewCountFmt": "234 reviews",
+      "priceText": "$$$ · $1,745/night",
+      "walkMin": 6,
       "refLabel": "Bond Street Tube Station",
       "star": 5,
-      "propertyId": 3034,
-      "priceUSD": 1744,
+      "propertyId": 6755401,
+      "priceUSD": 1745,
       "priceStatus": "live",
-      "distanceM": 205.8,
+      "distanceM": 461.46,
       "locationStatus": "verified",
       "facilities": [
-        "Free Wi-Fi in all rooms!",
-        "Daily housekeeping",
+        "Swimming pool",
+        "Airport transfer",
         "Close to public transportation",
         "Westminster Abbey",
         "Wi-Fi [free]",
@@ -433,67 +427,53 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 626 reviews. 3 min walk to Bond Street Tube Station. $$$ · $1,744/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.7 · 234 reviews. 6 min walk to Bond Street Tube Station. $$$ · $1,745/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,744/night",
-        "📝 626 reviews",
+        "💰 $1,745/night",
+        "📝 234 reviews",
         "⭐ 5-star",
-        "👥 Loved by Groups"
+        "👥 Loved by Couples"
       ],
       "travelerTypes": {
-        "topLabel": "Groups",
-        "topPct": 60,
+        "topLabel": "Couples",
+        "topPct": 100,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.6
-          },
-          {
-            "key": "group",
-            "label": "Groups",
-            "count": 3,
-            "pct": 60,
+            "count": 4,
+            "pct": 100,
             "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "The Mayfair rooms we had booked were better than expected.",
+          "text": "Staff are the heart beat of the hotel",
           "score": "10",
           "country": "United Kingdom",
-          "date": "2024.12",
+          "date": "2024.03",
           "translated": false
         },
         {
-          "text": "Breakfast which was included in our booking was amazing.",
+          "text": "Anticipating our every need",
           "score": "10",
           "country": "United Kingdom",
-          "date": "2024.12",
+          "date": "2024.03",
           "translated": false
         },
         {
-          "text": "The bedding was exceptional and extremely comfortable.",
+          "text": "Highly recommended",
           "score": "10",
           "country": "United Kingdom",
-          "date": "2024.12",
+          "date": "2024.03",
           "translated": false
         },
         {
-          "text": "We will be back it was a very nice hotel.",
+          "text": "Perfection",
           "score": "10",
-          "country": "United States",
-          "date": "2023.12",
-          "translated": false
-        },
-        {
-          "text": "I could not fault it.",
-          "score": "9.2",
           "country": "United Kingdom",
-          "date": "2024.07",
+          "date": "2024.03",
           "translated": false
         }
       ],
@@ -508,16 +488,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T06:09:58.581Z",
+    "fetchedAt": "2026-10-09T06:13:49.573Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T06:09:58.581Z",
+    "fetchedAt": "2026-10-09T06:13:49.573Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

@@ -18,19 +18,19 @@
   "metaDescription": "The 6 finest anniversary escape stays in Osaka — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 40% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton, Osaka</b> — rating 9.2, 1,395 reviews, from $567/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 47% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton, Osaka</b> — rating 9.2, 1,395 reviews, from $567/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
-        "key": "family",
-        "label": "Families",
-        "count": 15,
-        "pct": 50
-      },
-      {
         "key": "couple",
         "label": "Couples",
+        "count": 14,
+        "pct": 47
+      },
+      {
+        "key": "family",
+        "label": "Families",
         "count": 12,
         "pct": 40
       },
@@ -43,20 +43,20 @@
       {
         "key": "solo",
         "label": "Solo",
-        "count": 1,
-        "pct": 3
+        "count": 2,
+        "pct": 7
       }
     ]
   },
-  "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/847684134.jpg?k=8c8d91f60d67743bd0db7753fad655ef67aeeaa0e03ff8682256fb840508635f&o=",
+  "heroImg": "https://pix8.agoda.net/hotelImages/4886521/1153910031/ee0e364e03fab66483e68883ac5521f0.jpeg?ce=3",
   "heroAlt": "Osaka Anniversary Escape",
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
       "name": "The Ritz-Carlton, Osaka",
       "agodaUrl": "https://www.agoda.com/the-ritz-carlton-osaka/hotel/osaka-jp.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/847684134.jpg?k=8c8d91f60d67743bd0db7753fad655ef67aeeaa0e03ff8682256fb840508635f&o=",
+      "img": "https://pix8.agoda.net/hotelImages/4886521/1153910031/ee0e364e03fab66483e68883ac5521f0.jpeg?ce=3",
       "score": 9.2,
       "reviewCount": 1395,
       "reviewCountFmt": "1,395 reviews",
@@ -122,13 +122,6 @@
           "translated": false
         },
         {
-          "text": "Highly recommend the Ritz-Carlton Osaka.",
-          "score": "10",
-          "country": "United States",
-          "date": "2023.03",
-          "translated": false
-        },
-        {
           "text": "We visited the lounge several times and were very satisfied.",
           "score": "9.6",
           "country": "Deutschland",
@@ -140,6 +133,13 @@
           "score": "10",
           "country": "United States",
           "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "Highly recommend the Ritz-Carlton Osaka.",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
           "translated": false
         }
       ],
@@ -155,16 +155,16 @@
       "rank": 2,
       "name": "Centara Grand Hotel Osaka",
       "agodaUrl": "https://www.agoda.com/centara-grand-hotel-osaka/hotel/osaka-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/35245085/0/415f63cc20e0724fd778d5e3dd3f1bab.jpeg?ce=2",
+      "img": "https://pix8.agoda.net/hotelImages/35245085/-1/d13edc0a2fc3de8b4319ac29b2e28d5a.jpg?ce=0",
       "score": 9.1,
-      "reviewCount": 14717,
-      "reviewCountFmt": "14,717 reviews",
-      "priceText": "$$ · $308/night",
+      "reviewCount": 14706,
+      "reviewCountFmt": "14,706 reviews",
+      "priceText": "$$ · $320/night",
       "walkMin": 4,
       "refLabel": "Nankai Electric Railway",
       "star": 5,
       "propertyId": 35245085,
-      "priceUSD": 308,
+      "priceUSD": 320,
       "priceStatus": "live",
       "distanceM": 316.49,
       "locationStatus": "verified",
@@ -179,10 +179,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 14,717 reviews. 4 min walk to Nankai Electric Railway. $$ · $308/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 14,706 reviews. 4 min walk to Nankai Electric Railway. $$ · $320/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $308/night",
-        "📝 14,717 reviews",
+        "💰 $320/night",
+        "📝 14,706 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
       ],
@@ -215,17 +215,17 @@
           "translated": false
         },
         {
-          "text": "Location is perfect, and the staff is so helpful and polite.",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2023.07",
-          "translated": false
-        },
-        {
           "text": "What truly sets this hotel apart is its unbeatable location.",
           "score": "8.8",
           "country": "Singapore",
           "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Location is perfect, and the staff is so helpful and polite.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.07",
           "translated": false
         },
         {
@@ -255,16 +255,16 @@
       "rank": 3,
       "name": "Swissotel Nankai Osaka",
       "agodaUrl": "https://www.agoda.com/swissotel-nankai-osaka-hotel/hotel/osaka-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/45609/0/488d57c677de4e70ca4d9e418c191a13.jpeg",
+      "img": "https://pix8.agoda.net/hotelImages/22213464/0/168cb80a9a2229f42c487eea88ceba4d.jpeg?ce=3",
       "score": 8.9,
-      "reviewCount": 15990,
-      "reviewCountFmt": "15,990 reviews",
-      "priceText": "$$ · $251/night",
+      "reviewCount": 15996,
+      "reviewCountFmt": "15,996 reviews",
+      "priceText": "$$ · $269/night",
       "walkMin": 1,
       "refLabel": "Namba Train Station",
       "star": 5,
       "propertyId": 45609,
-      "priceUSD": 251,
+      "priceUSD": 269,
       "priceStatus": "live",
       "distanceM": 81.07,
       "locationStatus": "verified",
@@ -279,10 +279,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 15,990 reviews. 1 min walk to Namba Train Station. $$ · $251/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 15,996 reviews. 1 min walk to Namba Train Station. $$ · $269/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $251/night",
-        "📝 15,990 reviews",
+        "💰 $269/night",
+        "📝 15,996 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -364,8 +364,8 @@
       "agodaUrl": "https://www.agoda.com/w-osaka-h20664132/hotel/osaka-jp.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/500794559.jpg?k=283cf306ff88397867cead7f89f0fd44fd13c13df11ec57b94e24e3eb2dc101e&o=",
       "score": 9.1,
-      "reviewCount": 1701,
-      "reviewCountFmt": "1,701 reviews",
+      "reviewCount": 1699,
+      "reviewCountFmt": "1,699 reviews",
       "priceText": "$$ · $463/night",
       "walkMin": 4,
       "refLabel": "Shinsaibashi Subway Station",
@@ -380,10 +380,10 @@
         "Close to public transportation",
         "Abeno Harukas"
       ],
-      "blurb": "Rating 9.1 · 1,701 reviews. 4 min walk to Shinsaibashi Subway Station. $$ · $463/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 1,699 reviews. 4 min walk to Shinsaibashi Subway Station. $$ · $463/night. 40% of sampled reviews from couples.",
       "metaTags": [
         "💰 $463/night",
-        "📝 1,701 reviews",
+        "📝 1,699 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -463,7 +463,7 @@
       "rank": 5,
       "name": "Osaka Marriott Miyako Hotel",
       "agodaUrl": "https://www.agoda.com/osaka-marriott-miyako-hotel/hotel/osaka-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/611445/0/375104aefd5c6336def9d065aa9c2fd2.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/611445/0/3e1de4c7a68984eab93e5a3372eb0228.jpg?ca=7&ce=1",
       "score": 9.2,
       "reviewCount": 6231,
       "reviewCountFmt": "6,231 reviews",
@@ -560,91 +560,93 @@
     },
     {
       "rank": 6,
-      "name": "The St. Regis Osaka",
-      "agodaUrl": "https://www.agoda.com/the-st-regis-osaka_8/hotel/osaka-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/335040/0/d50d5a47050a0d4c1c6b1c7ffc585601.jpeg?ce=3",
-      "score": 9.1,
-      "reviewCount": 507,
-      "reviewCountFmt": "507 reviews",
-      "priceText": "$$$ · $559/night",
-      "walkMin": 3,
-      "refLabel": "Hommachi Subway Station",
+      "name": "Hilton Osaka",
+      "agodaUrl": "https://www.agoda.com/hilton-osaka_4/hotel/osaka-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2286471/0/e2307ff2c50d416c71d8020d4779ad95.jpeg?ce=0",
+      "score": 8.6,
+      "reviewCount": 4677,
+      "reviewCountFmt": "4,677 reviews",
+      "priceText": "$$ · $277/night",
+      "walkMin": 1,
+      "refLabel": "Nishi-Umeda Subway Station",
       "star": 5,
-      "propertyId": 335040,
-      "priceUSD": 559,
+      "propertyId": 43099,
+      "priceUSD": 277,
       "priceStatus": "live",
-      "distanceM": 234.85,
+      "distanceM": 44.95,
       "locationStatus": "verified",
       "facilities": [
         "Daily housekeeping",
         "Close to public transportation",
-        "Abeno Harukas",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
+        "Kuromon Market"
       ],
-      "blurb": "Rating 9.1 · 507 reviews. 3 min walk to Hommachi Subway Station. $$$ · $559/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 8.6 · 4,677 reviews. 1 min walk to Nishi-Umeda Subway Station. $$ · $277/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $559/night",
-        "📝 507 reviews",
+        "💰 $277/night",
+        "📝 4,677 reviews",
         "⭐ 5-star",
-        "👥 Loved by Families"
+        "👥 Loved by Couples"
       ],
       "travelerTypes": {
-        "topLabel": "Families",
-        "topPct": 80,
+        "topLabel": "Couples",
+        "topPct": 60,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
             "count": 1,
             "pct": 20,
             "rating": 9.6
           },
           {
-            "key": "family",
-            "label": "Families",
-            "count": 4,
-            "pct": 80,
-            "rating": 9.6
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
           }
         ]
       },
       "reviews": [
         {
-          "text": "Best 6 stars experience, definitely my next stay again.",
-          "score": "10",
+          "text": "The staff is very helpful and friendly throughout my stay.",
+          "score": "9.2",
           "country": "Hong Kong SAR, China",
-          "date": "2022.12",
-          "translated": false
-        },
-        {
-          "text": "The doorman at St Regis Osaka were especially fantastic.",
-          "score": "10",
-          "country": "Singapore",
           "date": "2024.02",
           "translated": false
         },
         {
-          "text": "It is only a stone throw away from all the main actions.",
-          "score": "9.2",
-          "country": "Australia",
-          "date": "2025.01",
+          "text": "The staff were so helpful especially the concierge.",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2023.04",
           "translated": false
         },
         {
-          "text": "Excellent butler service and the whole experience is perfect",
+          "text": "Staff were always courteous, welcoming and helpful.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Good English speaking staff made everything easy.",
           "score": "9.6",
-          "country": "HK",
-          "date": "2024.08",
+          "country": "Australia",
+          "date": "2024.03",
           "translated": false
         },
         {
-          "text": "Beautiful hotel, accommodating staff, great location",
-          "score": "9.2",
-          "country": "Australia",
+          "text": "I HAVE ENJOY MY STAY AT HILTON FOR SURE ALWAYS RECOMMEND…✌🏻",
+          "score": "10",
+          "country": "Japan",
           "date": "2025.01",
           "translated": false
         }
@@ -660,16 +662,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T06:09:44.889Z",
+    "fetchedAt": "2026-10-09T06:13:34.976Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T06:09:44.889Z",
+    "fetchedAt": "2026-10-09T06:13:34.976Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

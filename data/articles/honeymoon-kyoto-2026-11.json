@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest honeymoon stays in Kyoto — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 71% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Capella Kyoto</b> — rating 9.7, 50 reviews, from $2,518/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 71% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Capella Kyoto</b> — rating 9.7, 50 reviews, from $2,530/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
     "total": 24,
     "distribution": [
@@ -50,7 +50,7 @@
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/863443493.jpg?k=ea62c64be482a7094b943ce963cb3539ef420ffcb4012512b61df6066cda712d&o=",
   "heroAlt": "Kyoto Honeymoon",
-  "updated": "2026-10-07",
+  "updated": "2026-10-09",
   "hotels": [
     {
       "rank": 1,
@@ -60,12 +60,12 @@
       "score": 9.7,
       "reviewCount": 50,
       "reviewCountFmt": "50 reviews",
-      "priceText": "$$$ · $2,518/night",
+      "priceText": "$$$ · $2,530/night",
       "walkMin": 6,
       "refLabel": "Kiyomizu Gojo Train Station",
       "star": 5,
       "propertyId": 83946092,
-      "priceUSD": 2518,
+      "priceUSD": 2530,
       "priceStatus": "live",
       "distanceM": 476.43,
       "locationStatus": "verified",
@@ -75,9 +75,9 @@
         "Close to public transportation",
         "Fushimi Inari-taisha Shrine"
       ],
-      "blurb": "Rating 9.7 · 50 reviews. 6 min walk to Kiyomizu Gojo Train Station. $$$ · $2,518/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.7 · 50 reviews. 6 min walk to Kiyomizu Gojo Train Station. $$$ · $2,530/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,518/night",
+        "💰 $2,530/night",
         "📝 50 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -134,12 +134,12 @@
       "score": 9.6,
       "reviewCount": 40,
       "reviewCountFmt": "40 reviews",
-      "priceText": "$$$ · $2,286/night",
+      "priceText": "$$$ · $2,155/night",
       "walkMin": 12,
       "refLabel": "Gion Shijo Subway Station",
       "star": 5,
       "propertyId": 7652335,
-      "priceUSD": 2286,
+      "priceUSD": 2155,
       "priceStatus": "live",
       "distanceM": 951.86,
       "locationStatus": "verified",
@@ -154,9 +154,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.6 · 40 reviews. 12 min walk to Gion Shijo Subway Station. $$$ · $2,286/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.6 · 40 reviews. 12 min walk to Gion Shijo Subway Station. $$$ · $2,155/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,286/night",
+        "💰 $2,155/night",
         "📝 40 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -241,12 +241,12 @@
       "score": 9.4,
       "reviewCount": 66,
       "reviewCountFmt": "66 reviews",
-      "priceText": "$$$ · $1,985/night",
+      "priceText": "$$$ · $1,889/night",
       "walkMin": 5,
       "refLabel": "Kyoto Shiyakusho-mae Station",
       "star": 5,
       "propertyId": 626318,
-      "priceUSD": 1985,
+      "priceUSD": 1889,
       "priceStatus": "live",
       "distanceM": 388.06,
       "locationStatus": "verified",
@@ -255,9 +255,9 @@
         "Close to public transportation",
         "Kyoto Station Building"
       ],
-      "blurb": "Rating 9.4 · 66 reviews. 5 min walk to Kyoto Shiyakusho-mae Station. $$$ · $1,985/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 66 reviews. 5 min walk to Kyoto Shiyakusho-mae Station. $$$ · $1,889/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,985/night",
+        "💰 $1,889/night",
         "📝 66 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -300,12 +300,12 @@
       "score": 9.3,
       "reviewCount": 368,
       "reviewCountFmt": "368 reviews",
-      "priceText": "$$$ · $1,842/night",
+      "priceText": "$$$ · $1,762/night",
       "walkMin": 4,
       "refLabel": "Nijojomae Subway Station",
       "star": 5,
       "propertyId": 17526170,
-      "priceUSD": 1842,
+      "priceUSD": 1762,
       "priceStatus": "live",
       "distanceM": 302.77,
       "locationStatus": "verified",
@@ -319,9 +319,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 368 reviews. 4 min walk to Nijojomae Subway Station. $$$ · $1,842/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 368 reviews. 4 min walk to Nijojomae Subway Station. $$$ · $1,762/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,842/night",
+        "💰 $1,762/night",
         "📝 368 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -404,14 +404,14 @@
       "agodaUrl": "https://www.agoda.com/banyan-tree-higashiyama-kyoto/hotel/kyoto-jp.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/55605084/-1/73d8cf37b0f359eced329ac500b77917.jpg?ce=0",
       "score": 9,
-      "reviewCount": 358,
-      "reviewCountFmt": "358 reviews",
-      "priceText": "$$$ · $1,645/night",
+      "reviewCount": 360,
+      "reviewCountFmt": "360 reviews",
+      "priceText": "$$$ · $1,655/night",
       "walkMin": 15,
       "refLabel": "Gion Shijo Subway Station",
       "star": 5,
       "propertyId": 55605084,
-      "priceUSD": 1645,
+      "priceUSD": 1655,
       "priceStatus": "live",
       "distanceM": 1185.56,
       "locationStatus": "verified",
@@ -426,10 +426,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 358 reviews. 15 min walk to Gion Shijo Subway Station. $$$ · $1,645/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 360 reviews. 15 min walk to Gion Shijo Subway Station. $$$ · $1,655/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,645/night",
-        "📝 358 reviews",
+        "💰 $1,655/night",
+        "📝 360 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -476,17 +476,17 @@
           "translated": false
         },
         {
-          "text": "I must commend the wonderful team at the Banyan Tree Hotel.",
-          "score": "10",
-          "country": "Japan",
-          "date": "2025.03",
-          "translated": false
-        },
-        {
           "text": "Friendly staffs and always welcoming . Feeling like home .",
           "score": "9.2",
           "country": "Malaysia",
           "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "I must commend the wonderful team at the Banyan Tree Hotel.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2025.03",
           "translated": false
         },
         {
@@ -513,12 +513,12 @@
       "score": 9,
       "reviewCount": 205,
       "reviewCountFmt": "205 reviews",
-      "priceText": "$$$ · $1,117/night",
+      "priceText": "$$$ · $999/night",
       "walkMin": 28,
       "refLabel": "Kitaoji Subway Station",
       "star": 5,
       "propertyId": 26862568,
-      "priceUSD": 1117,
+      "priceUSD": 999,
       "priceStatus": "live",
       "distanceM": 2235.1,
       "locationStatus": "verified",
@@ -531,9 +531,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 205 reviews. $$$ · $1,117/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 205 reviews. $$$ · $999/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,117/night",
+        "💰 $999/night",
         "📝 205 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -600,16 +600,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-07T21:20:37.198Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
-    "checkIn": "2026-11-15",
+    "fetchedAt": "2026-10-09T06:13:30.495Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-07T21:20:37.198Z",
+    "fetchedAt": "2026-10-09T06:13:30.495Z",
     "source": "agoda citySearch",
-    "daysAhead": 39,
+    "daysAhead": 38,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
