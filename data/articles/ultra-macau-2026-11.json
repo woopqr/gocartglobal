@@ -1,0 +1,711 @@
+{
+  "slug": "ultra-macau-2026-11",
+  "theme": "ultra",
+  "audience": "Ultra-Luxury",
+  "emoji": "👑",
+  "city": "Macau",
+  "citySlug": "macau",
+  "cityId": 21397,
+  "inSeason": true,
+  "country": "China (SAR)",
+  "region": "east-asia",
+  "regionLabel": "East Asia",
+  "cityUrl": "https://www.agoda.com/en-us/search?cid=1925461&city=21397",
+  "season": "Autumn",
+  "seasonNote": "Shoulder season often brings the best value on top suites.",
+  "travelMonthLabel": "November 2026",
+  "title": "[Macau] The Single Most Luxurious Places to Stay",
+  "metaDescription": "The 6 finest ultra-luxury stays in Macau — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
+  "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
+  "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 53% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>MGM MACAU</b> — rating 8.6, 1,163 reviews, from $1,217/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "aggregate": {
+    "total": 30,
+    "distribution": [
+      {
+        "key": "couple",
+        "label": "Couples",
+        "count": 16,
+        "pct": 53
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 6,
+        "pct": 20
+      },
+      {
+        "key": "family",
+        "label": "Families",
+        "count": 5,
+        "pct": 17
+      },
+      {
+        "key": "solo",
+        "label": "Solo",
+        "count": 2,
+        "pct": 7
+      },
+      {
+        "key": "business",
+        "label": "Business",
+        "count": 1,
+        "pct": 3
+      }
+    ]
+  },
+  "heroImg": "https://pix8.agoda.net/hotelImages/100/100101/100101_15012216040024769897.jpg?ca=3&ce=1",
+  "heroAlt": "Macau Ultra-Luxury",
+  "updated": "2026-10-10",
+  "hotels": [
+    {
+      "rank": 1,
+      "name": "MGM MACAU",
+      "agodaUrl": "https://www.agoda.com/mgm-macau/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/100/100101/100101_15012216040024769897.jpg?ca=3&ce=1",
+      "score": 8.6,
+      "reviewCount": 1163,
+      "reviewCountFmt": "1,163 reviews",
+      "priceText": "$$$ · $1,217/night",
+      "walkMin": 21,
+      "refLabel": "Guia Cable Car",
+      "star": 5,
+      "propertyId": 100101,
+      "priceUSD": 1217,
+      "priceStatus": "live",
+      "distanceM": 1700.65,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "City of Dreams Casino",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.6 · 1,163 reviews. $$$ · $1,217/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,217/night",
+        "📝 1,163 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Families"
+      ],
+      "travelerTypes": {
+        "topLabel": "Families",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I will stay in this hotel again in the near future.",
+          "score": "9.6",
+          "country": "Macau SAR, China",
+          "date": "2022.10",
+          "translated": false
+        },
+        {
+          "text": "It has the most amazing staff and the most amazing service.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "It's not a cheap hotel, but room is lovely and clean.",
+          "score": "9.2",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "I would also highly recommend to go for Spa at this resort.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "It was magical and felt so calm after the Spa Therapy.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
+      "name": "The Londoner Hotel",
+      "agodaUrl": "https://www.agoda.com/holiday-inn-macao-cotai-central-h9175173/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/24120272/0/7b2e73fe36db1c7bb68097d530213e5f.jpg?ce=3",
+      "score": 9.6,
+      "reviewCount": 1830,
+      "reviewCountFmt": "1,830 reviews",
+      "priceText": "$$$ · $582/night",
+      "walkMin": 5,
+      "refLabel": "Macau LRT Cotai East Station",
+      "star": 5,
+      "propertyId": 24120272,
+      "priceUSD": 582,
+      "priceStatus": "live",
+      "distanceM": 374.48,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Macau Giant Panda Pavilion",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.6 · 1,830 reviews. 5 min walk to Macau LRT Cotai East Station. $$$ · $582/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $582/night",
+        "📝 1,830 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.8
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "We booked the Louis Suite which has access to the lounge.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "She decorated our room with rose pedals and a big red heart.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        },
+        {
+          "text": "The food from the Residence Club was absolutely wonderful.",
+          "score": "8.8",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "The room is spotless and the room service is very sweet.",
+          "score": "10",
+          "country": "HK",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "We had a amazing stay at The Londoner again this year.",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.03",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "MGM COTAI",
+      "agodaUrl": "https://www.agoda.com/mgm-cotai/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2671046/-1/90319213d87620b6f2608375492ed0db.jpg?ca=6&ce=1",
+      "score": 8.7,
+      "reviewCount": 1912,
+      "reviewCountFmt": "1,912 reviews",
+      "priceText": "$$$ · $596/night",
+      "walkMin": 2,
+      "refLabel": "Macau LRT Cotai East Station",
+      "star": 5,
+      "propertyId": 2671046,
+      "priceUSD": 596,
+      "priceStatus": "live",
+      "distanceM": 176.61,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Macau Giant Panda Pavilion",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.7 · 1,912 reviews. 2 min walk to Macau LRT Cotai East Station. $$$ · $596/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $596/night",
+        "📝 1,912 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Groups"
+      ],
+      "travelerTypes": {
+        "topLabel": "Groups",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Convent and user friendly hotel, will be back again!",
+          "score": "10",
+          "country": "SG",
+          "date": "2023.06",
+          "translated": false
+        },
+        {
+          "text": "Clean and comfy,would like to stay here next time !",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "It has the most amazing staff and the most amazing service.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "I would also highly recommend to go for Spa at this resort.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.04",
+          "translated": false
+        },
+        {
+          "text": "Beautiful hotel with fabulous food and facilities",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2023.09",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Hotel Okura Macau",
+      "agodaUrl": "https://www.agoda.com/hotel-okura-macau/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/266852/-1/8319235b857b98c60021dbd989fa1d1a.jpg?ce=0",
+      "score": 8.9,
+      "reviewCount": 7293,
+      "reviewCountFmt": "7,293 reviews",
+      "priceText": "$$$ · $519/night",
+      "walkMin": 4,
+      "refLabel": "Macau LRT Pai Kok Station",
+      "star": 5,
+      "propertyId": 266852,
+      "priceUSD": 519,
+      "priceStatus": "live",
+      "distanceM": 315.17,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Macau Giant Panda Pavilion",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 7,293 reviews. 4 min walk to Macau LRT Pai Kok Station. $$$ · $519/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $519/night",
+        "📝 7,293 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "What I really admire the most are the staffs of the hotel..",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2023.05",
+          "translated": false
+        },
+        {
+          "text": "We love the staff too so obliging and go beyond their duty.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "This is one of the best hotels we have ever stayed.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Free wifi, VERY GOOD LOCATION, VERY VERY GOOD....",
+          "score": "8.8",
+          "country": "Indonesia",
+          "date": "2024.05",
+          "translated": false
+        },
+        {
+          "text": "I'm satisfied with everything, it's the best",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Four Seasons Hotel Macao",
+      "agodaUrl": "https://www.agoda.com/four-seasons-hotel-macao/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/446555/-1/43d78e67bff738d8c0a507f3d98da24f.jpg?ce=0",
+      "score": 9.4,
+      "reviewCount": 4895,
+      "reviewCountFmt": "4,895 reviews",
+      "priceText": "$$ · $426/night",
+      "walkMin": 5,
+      "refLabel": "Macau LRT Cotai West Station",
+      "star": 5,
+      "propertyId": 446555,
+      "priceUSD": 426,
+      "priceStatus": "live",
+      "distanceM": 416.17,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Macau Giant Panda Pavilion",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 4,895 reviews. 5 min walk to Macau LRT Cotai West Station. $$ · $426/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $426/night",
+        "📝 4,895 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.9
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 8.8
+          },
+          {
+            "key": "business",
+            "label": "Business",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This 5-star hotel offers exceptional hospitality services.",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.06",
+          "translated": false
+        },
+        {
+          "text": "Great location and the staffs provide excellent service.",
+          "score": "8.8",
+          "country": "HK",
+          "date": "2024.03",
+          "translated": false
+        },
+        {
+          "text": "This is one of the most fantastic hotel in the world",
+          "score": "9.6",
+          "country": "South Korea",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "The room is beautiful with great amenities.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "The hot tub in the spa is very very very very nice.",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2024.10",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 6,
+      "name": "Wynn Palace",
+      "agodaUrl": "https://www.agoda.com/wynn-palace/hotel/macau-mo.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/1265876/0/8d7b33497453c8968c2531eafec1b1bc.jpg?ce=3",
+      "score": 9.2,
+      "reviewCount": 7489,
+      "reviewCountFmt": "7,489 reviews",
+      "priceText": "$$ · $327/night",
+      "walkMin": 2,
+      "refLabel": "Macau LRT Cotai East Station",
+      "star": 5,
+      "propertyId": 1265876,
+      "priceUSD": 327,
+      "priceStatus": "live",
+      "distanceM": 171.4,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Close to public transportation",
+        "Macau Giant Panda Pavilion",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 7,489 reviews. 2 min walk to Macau LRT Cotai East Station. $$ · $327/night. 60% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $327/night",
+        "📝 7,489 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 3,
+            "pct": 60,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room was well designed with real palace like experience.",
+          "score": "10",
+          "country": "CN",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Very luxurious and rooms are broad and clean,",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Staff service was also excellent and thoughtful.",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "Wynn Palace is probably the best hotel in Macau.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "Last minutes booking and as always , best stay in Macau .",
+          "score": "10",
+          "country": "Hong Kong SAR, China",
+          "date": "2024.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    }
+  ],
+  "methodology": {
+    "source": "Agoda citySearch response",
+    "fetchedAt": "2026-10-10T14:29:35.611Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
+    "adults": 2,
+    "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
+  },
+  "_meta": {
+    "fetchedAt": "2026-10-10T14:29:35.611Z",
+    "source": "agoda citySearch",
+    "daysAhead": 36,
+    "targetMonth": "2026-11",
+    "count": 6,
+    "quality": {
+      "ok": true,
+      "errors": [],
+      "warnings": []
+    },
+    "firstPublished": "2026-10-10"
+  }
+}

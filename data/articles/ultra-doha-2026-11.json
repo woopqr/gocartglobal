@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Doha — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Katara Hills Doha, LXR Hotels & Resorts</b> — rating 9.1, 128 reviews, from $885/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Katara Hills Doha, LXR Hotels & Resorts</b> — rating 9.1, 128 reviews, from $884/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 12,
     "distribution": [
@@ -44,7 +44,7 @@
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/474984103.jpg?k=3df4e82c5bec3e07826c0d17186ad766bddff0fdb53a02cd858096b005967926&o=",
   "heroAlt": "Doha Ultra-Luxury",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
@@ -54,12 +54,12 @@
       "score": 9.1,
       "reviewCount": 128,
       "reviewCountFmt": "128 reviews",
-      "priceText": "$$$ · $885/night",
+      "priceText": "$$$ · $884/night",
       "walkMin": 4,
       "refLabel": "Al Qassar Station",
       "star": 5,
       "propertyId": 36370644,
-      "priceUSD": 885,
+      "priceUSD": 884,
       "priceStatus": "live",
       "distanceM": 292.91,
       "locationStatus": "verified",
@@ -74,9 +74,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 128 reviews. 4 min walk to Al Qassar Station. $$$ · $885/night.",
+      "blurb": "Rating 9.1 · 128 reviews. 4 min walk to Al Qassar Station. $$$ · $884/night.",
       "metaTags": [
-        "💰 $885/night",
+        "💰 $884/night",
         "📝 128 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa"
@@ -291,7 +291,7 @@
       "rank": 5,
       "name": "Banana Island Resort Doha By Anantara",
       "agodaUrl": "https://www.agoda.com/banana-island-resort-doha-by-anantara/hotel/doha-qa.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/625579/0/75a709730f6b26603f3bd9a583a1e4da.jpg?va=1&ce=2",
+      "img": "https://pix8.agoda.net/hotelImages/625579/0/44d84c4e1aa9b4449fb019b7cb7ad47a.jpeg?va=1&ce=3",
       "score": 8.8,
       "reviewCount": 2072,
       "reviewCountFmt": "2,072 reviews",
@@ -358,17 +358,17 @@
           "translated": false
         },
         {
-          "text": "The best place ever if you want to recharge your soul.",
-          "score": "10",
-          "country": "Qatar",
-          "date": "2026.09",
-          "translated": false
-        },
-        {
           "text": "The beach are clean, stuff are accommodating and kind.",
           "score": "9.6",
           "country": "Qatar",
           "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The best place ever if you want to recharge your soul.",
+          "score": "10",
+          "country": "Qatar",
+          "date": "2026.09",
           "translated": false
         },
         {
@@ -467,16 +467,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-09T15:19:56.777Z",
+    "fetchedAt": "2026-10-10T14:30:02.586Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
     "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-09T15:19:56.777Z",
+    "fetchedAt": "2026-10-10T14:30:02.586Z",
     "source": "agoda citySearch",
-    "daysAhead": 37,
+    "daysAhead": 36,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

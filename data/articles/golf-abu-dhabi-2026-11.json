@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest luxury golf stays in Abu Dhabi — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A great golf trip is half course, half recovery. These are the top-tier, best-reviewed five-star stays in a destination with a serious golf scene — chosen as a base, not as a promise of an on-site course.",
   "viewpoint": "We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
-  "verdict": "Our #1 pick is <b>Saadiyat Rotana Resort & Villas</b> — rating 9.1, 1,354 reviews, from $1,143/night. We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
+  "verdict": "Our #1 pick is <b>Saadiyat Rotana Resort & Villas</b> — rating 9, 1,342 reviews, from $1,379/night. We ranked the best-reviewed five-star stays that work as a base for a golf trip; course access varies by property, so confirm tee times and transfers directly.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -31,18 +31,18 @@
       {
         "key": "family",
         "label": "Families",
-        "count": 10,
-        "pct": 33
+        "count": 11,
+        "pct": 37
       },
       {
         "key": "solo",
         "label": "Solo",
-        "count": 3,
-        "pct": 10
+        "count": 2,
+        "pct": 7
       },
       {
-        "key": "business",
-        "label": "Business",
+        "key": "group",
+        "label": "Groups",
         "count": 1,
         "pct": 3
       }
@@ -50,22 +50,22 @@
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/845563163.jpg?k=90e9f7f605fc1757c8eac8ab686ad9de8bfb9ff36143f1204da88cbdb74fd863&o=",
   "heroAlt": "Abu Dhabi Luxury Golf",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
       "name": "Saadiyat Rotana Resort & Villas",
       "agodaUrl": "https://www.agoda.com/saadiyat-rotana-resort-villas/hotel/abu-dhabi-ae.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/845563163.jpg?k=90e9f7f605fc1757c8eac8ab686ad9de8bfb9ff36143f1204da88cbdb74fd863&o=",
-      "score": 9.1,
-      "reviewCount": 1354,
-      "reviewCountFmt": "1,354 reviews",
-      "priceText": "$$$ · $1,143/night",
+      "score": 9,
+      "reviewCount": 1342,
+      "reviewCountFmt": "1,342 reviews",
+      "priceText": "$$$ · $1,379/night",
       "walkMin": 120,
       "refLabel": "Abu Dhabi Central Bus Station",
       "star": 5,
       "propertyId": 3038644,
-      "priceUSD": 1143,
+      "priceUSD": 1379,
       "priceStatus": "live",
       "distanceM": 9601.67,
       "locationStatus": "verified",
@@ -80,10 +80,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,354 reviews. $$$ · $1,143/night.",
+      "blurb": "Rating 9 · 1,342 reviews. $$$ · $1,379/night.",
       "metaTags": [
-        "💰 $1,143/night",
-        "📝 1,354 reviews",
+        "💰 $1,379/night",
+        "📝 1,342 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Families"
@@ -159,8 +159,8 @@
       "agodaUrl": "https://www.agoda.com/the-st-regis-saadiyat-island-resort-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/6357553/0/88945abd7a9e6dbb6a8537ac103bb4e4.jpeg?va=1&ce=3",
       "score": 9.3,
-      "reviewCount": 1279,
-      "reviewCountFmt": "1,279 reviews",
+      "reviewCount": 1284,
+      "reviewCountFmt": "1,284 reviews",
       "priceText": "$$$ · $1,009/night",
       "walkMin": 115,
       "refLabel": "Abu Dhabi Central Bus Station",
@@ -179,10 +179,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 1,279 reviews. $$$ · $1,009/night.",
+      "blurb": "Rating 9.3 · 1,284 reviews. $$$ · $1,009/night.",
       "metaTags": [
         "💰 $1,009/night",
-        "📝 1,279 reviews",
+        "📝 1,284 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -258,14 +258,14 @@
       "agodaUrl": "https://www.agoda.com/emirates-palace-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/74202/0/75ce9d47c4b0b8209377ce7627ccd687.jpg?va=1&ce=3",
       "score": 9.1,
-      "reviewCount": 1997,
-      "reviewCountFmt": "1,997 reviews",
-      "priceText": "$$$ · $1,103/night",
+      "reviewCount": 1998,
+      "reviewCountFmt": "1,998 reviews",
+      "priceText": "$$$ · $1,143/night",
       "walkMin": 42,
       "refLabel": "Abu Dhabi EK Bus Station",
       "star": 5,
       "propertyId": 74202,
-      "priceUSD": 1103,
+      "priceUSD": 1143,
       "priceStatus": "live",
       "distanceM": 3325.06,
       "locationStatus": "verified",
@@ -280,10 +280,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,997 reviews. $$$ · $1,103/night.",
+      "blurb": "Rating 9.1 · 1,998 reviews. $$$ · $1,143/night.",
       "metaTags": [
-        "💰 $1,103/night",
-        "📝 1,997 reviews",
+        "💰 $1,143/night",
+        "📝 1,998 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -354,20 +354,20 @@
     },
     {
       "rank": 4,
-      "name": "Park Hyatt Abu Dhabi",
-      "agodaUrl": "https://www.agoda.com/park-hyatt-abu-dhabi-hotel-and-villas/hotel/abu-dhabi-ae.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/871445755.jpg?k=70979e46d1cdffc27aa7e34caf6cb4d8389d8050d7e479ad5089113bfe7be76a&o=",
-      "score": 9.3,
-      "reviewCount": 2474,
-      "reviewCountFmt": "2,474 reviews",
-      "priceText": "$$$ · $958/night",
-      "walkMin": 49,
+      "name": "Jumeirah Saadiyat Island Abu Dhabi",
+      "agodaUrl": "https://www.agoda.com/jumeirah-saadiyat-island/hotel/default-city-km.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/41240324/0/12101c0d08e828ce85bdb7e7db6cba5a.jpeg?va=1&ce=3",
+      "score": 9.1,
+      "reviewCount": 1790,
+      "reviewCountFmt": "1,790 reviews",
+      "priceText": "$$$ · $1,030/night",
+      "walkMin": 77,
       "refLabel": "Louvre Abu Dhabi",
       "star": 5,
-      "propertyId": 295478,
-      "priceUSD": 958,
+      "propertyId": 41240324,
+      "priceUSD": 1030,
       "priceStatus": "live",
-      "distanceM": 3956.47,
+      "distanceM": 6193,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
@@ -380,16 +380,16 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 2,474 reviews. $$$ · $958/night.",
+      "blurb": "Rating 9.1 · 1,790 reviews. $$$ · $1,030/night.",
       "metaTags": [
-        "💰 $958/night",
-        "📝 2,474 reviews",
+        "💰 $1,030/night",
+        "📝 1,790 reviews",
         "⭐ 5-star",
-        "👥 Loved by Couples"
+        "👥 Loved by Families"
       ],
       "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 40,
+        "topLabel": "Families",
+        "topPct": 60,
         "distribution": [
           {
             "key": "couple",
@@ -401,60 +401,46 @@
           {
             "key": "family",
             "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          },
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          },
-          {
-            "key": "business",
-            "label": "Business",
-            "count": 1,
-            "pct": 20,
+            "count": 3,
+            "pct": 60,
             "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "Staff is extremly friendly and attentive.",
+          "text": "The Spa Facilities is mind blowing, and very relaxing.",
           "score": "10",
-          "country": "Austria",
-          "date": "2023.06",
+          "country": "Saudi Arabia",
+          "date": "2025.03",
           "translated": false
         },
         {
-          "text": "We highly reccomend this hotel as all aspects are excellent.",
+          "text": "Great food and atmosphere!",
           "score": "10",
           "country": "United Arab Emirates",
-          "date": "2025.05",
+          "date": "2022.09",
           "translated": false
         },
         {
-          "text": "Very comfortable and amazing service",
+          "text": "The beach is just amazing!",
           "score": "10",
           "country": "United Arab Emirates",
-          "date": "2022.11",
+          "date": "2022.09",
           "translated": false
         },
         {
-          "text": "Every detail in the hotel is thought through.",
+          "text": "The view from the room is wonderful.",
+          "score": "10",
+          "country": "Kazakhstan",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Staff and facilities amazing",
           "score": "10",
           "country": "United Arab Emirates",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
-          "text": "Perfect staff, very beautifull place ❤️❤️❤️❤️",
-          "score": "10",
-          "country": "Lithuania",
-          "date": "2022.08",
+          "date": "2025.06",
           "translated": false
         }
       ],
@@ -472,14 +458,14 @@
       "agodaUrl": "https://www.agoda.com/rosewood-hotel-abu-dhabi/hotel/abu-dhabi-ae.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/550128595.jpg?k=d3a2060e16b7bb448b6b89eb6507d25541f3b687cabb06be0a2eb890ccb0d9f2&o=",
       "score": 9.2,
-      "reviewCount": 3060,
-      "reviewCountFmt": "3,060 reviews",
-      "priceText": "$$$ · $946/night",
+      "reviewCount": 3044,
+      "reviewCountFmt": "3,044 reviews",
+      "priceText": "$$$ · $612/night",
       "walkMin": 44,
       "refLabel": "Abu Dhabi Central Bus Station",
       "star": 5,
       "propertyId": 477867,
-      "priceUSD": 946,
+      "priceUSD": 612,
       "priceStatus": "live",
       "distanceM": 3507.19,
       "locationStatus": "verified",
@@ -494,10 +480,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 3,060 reviews. $$$ · $946/night.",
+      "blurb": "Rating 9.2 · 3,044 reviews. $$$ · $612/night.",
       "metaTags": [
-        "💰 $946/night",
-        "📝 3,060 reviews",
+        "💰 $612/night",
+        "📝 3,044 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -551,10 +537,10 @@
           "translated": false
         },
         {
-          "text": "Great hotel for business and leisure travellers.",
+          "text": "The hotel room is luxurious and well maintained.",
           "score": "10",
-          "country": "United Kingdom",
-          "date": "2024.01",
+          "country": "United Arab Emirates",
+          "date": "2026.03",
           "translated": false
         }
       ],
@@ -568,42 +554,43 @@
     },
     {
       "rank": 6,
-      "name": "Jumeirah Saadiyat Island Abu Dhabi",
-      "agodaUrl": "https://www.agoda.com/jumeirah-saadiyat-island/hotel/default-city-km.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41240324/0/12101c0d08e828ce85bdb7e7db6cba5a.jpeg?va=1&ce=3",
-      "score": 9.1,
-      "reviewCount": 1808,
-      "reviewCountFmt": "1,808 reviews",
-      "priceText": "$$$ · $929/night",
-      "walkMin": 77,
-      "refLabel": "Louvre Abu Dhabi",
+      "name": "Al Raha Beach Resort & Spa",
+      "agodaUrl": "https://www.agoda.com/al-raha-beach-hotel/hotel/abu-dhabi-ae.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/64026/0/c0334d24e8ed2583039f8dc6097d01fd.jpeg?va=1&ce=3",
+      "score": 8.7,
+      "reviewCount": 1649,
+      "reviewCountFmt": "1,649 reviews",
+      "priceText": "$$ · $316/night",
+      "walkMin": 57,
+      "refLabel": "PRT Line",
       "star": 5,
-      "propertyId": 41240324,
-      "priceUSD": 929,
+      "propertyId": 64026,
+      "priceUSD": 316,
       "priceStatus": "live",
-      "distanceM": 6193,
+      "distanceM": 4576.9,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
         "Airport transfer",
         "Sauna",
-        "Saadiyat Public Beach",
+        "Yas Beach",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 1,808 reviews. $$$ · $929/night.",
+      "blurb": "Rating 8.7 · 1,649 reviews. $$ · $316/night.",
       "metaTags": [
-        "💰 $929/night",
-        "📝 1,808 reviews",
+        "💰 $316/night",
+        "📝 1,649 reviews",
         "⭐ 5-star",
-        "👥 Loved by Families"
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
       ],
       "travelerTypes": {
-        "topLabel": "Families",
-        "topPct": 60,
+        "topLabel": "Couples",
+        "topPct": 40,
         "distribution": [
           {
             "key": "couple",
@@ -615,46 +602,53 @@
           {
             "key": "family",
             "label": "Families",
-            "count": 3,
-            "pct": 60,
+            "count": 2,
+            "pct": 40,
+            "rating": 9.6
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
             "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "The Spa Facilities is mind blowing, and very relaxing.",
-          "score": "10",
-          "country": "Saudi Arabia",
-          "date": "2025.03",
+          "text": "Our room was spacious, comfortable, and well-maintained.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2025.05",
           "translated": false
         },
         {
-          "text": "Great stuff, very helpful.",
+          "text": "Everything from service to comfort exceeded my expectations.",
           "score": "10",
           "country": "United Arab Emirates",
-          "date": "2022.09",
+          "date": "2026.06",
           "translated": false
         },
         {
-          "text": "Great food and atmosphere!",
+          "text": "Comfortable stay, great facilities surely we'll comeback",
           "score": "10",
           "country": "United Arab Emirates",
-          "date": "2022.09",
+          "date": "2026.05",
           "translated": false
         },
         {
-          "text": "The view from the room is wonderful.",
-          "score": "10",
-          "country": "Kazakhstan",
-          "date": "2024.07",
+          "text": "It is indeed a dreamy staycation for me and my family.",
+          "score": "9.6",
+          "country": "United Arab Emirates",
+          "date": "2022.12",
           "translated": false
         },
         {
-          "text": "Staff and facilities amazing",
+          "text": "Excellent hotel. Very good facilities and breakfast buffet.",
           "score": "10",
           "country": "United Arab Emirates",
-          "date": "2025.06",
+          "date": "2023.03",
           "translated": false
         }
       ],
@@ -669,16 +663,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-09T06:13:43.615Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
-    "checkIn": "2026-11-16",
+    "fetchedAt": "2026-10-10T14:29:43.375Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-09T06:13:43.615Z",
+    "fetchedAt": "2026-10-10T14:29:43.375Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 36,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

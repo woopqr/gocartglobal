@@ -18,21 +18,21 @@
   "metaDescription": "The 6 finest wellness & spa stays in Koh Samui — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
   "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-  "verdict": "About 65% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Resort Koh Samui, Thailand</b> — rating 9.5, 280 reviews, from $1,802/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 60% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Four Seasons Resort Koh Samui, Thailand</b> — rating 9.5, 280 reviews, from $1,806/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
   "aggregate": {
     "total": 20,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 13,
-        "pct": 65
+        "count": 12,
+        "pct": 60
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 4,
-        "pct": 20
+        "count": 5,
+        "pct": 25
       },
       {
         "key": "group",
@@ -42,24 +42,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/344587/-1/cd786a95b8d98c2adf78004125d39de2.jpg?ca=7&ce=1",
+  "heroImg": "https://pix8.agoda.net/hotelImages/344587/-1/cd786a95b8d98c2adf78004125d39de2.jpg?va=1&ca=7&ce=1",
   "heroAlt": "Koh Samui Wellness & Spa",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
       "name": "Four Seasons Resort Koh Samui, Thailand",
       "agodaUrl": "https://www.agoda.com/four-seasons-resort-koh-samui-thailand/hotel/koh-samui-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/344587/-1/cd786a95b8d98c2adf78004125d39de2.jpg?ca=7&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/344587/-1/cd786a95b8d98c2adf78004125d39de2.jpg?va=1&ca=7&ce=1",
       "score": 9.5,
       "reviewCount": 280,
       "reviewCountFmt": "280 reviews",
-      "priceText": "$$$ · $1,802/night",
+      "priceText": "$$$ · $1,806/night",
       "walkMin": 117,
       "refLabel": "Maenam Beach",
       "star": 5,
       "propertyId": 344587,
-      "priceUSD": 1802,
+      "priceUSD": 1806,
       "priceStatus": "live",
       "distanceM": 9393.42,
       "locationStatus": "verified",
@@ -74,9 +74,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 280 reviews. $$$ · $1,802/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.5 · 280 reviews. $$$ · $1,806/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $1,802/night",
+        "💰 $1,806/night",
         "📝 280 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -151,16 +151,16 @@
       "rank": 2,
       "name": "Kerem Luxury Beachfront Villas",
       "agodaUrl": "https://www.agoda.com/kerem-villas-h32990399/hotel/koh-samui-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/51651446/0/0ab35ec112894690336c9cc7bda0ba1f.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/51651446/0/0ab35ec112894690336c9cc7bda0ba1f.jpg?va=1&ce=0",
       "score": 9.4,
       "reviewCount": 122,
       "reviewCountFmt": "122 reviews",
-      "priceText": "$$$ · $981/night",
+      "priceText": "$$$ · $962/night",
       "walkMin": 25,
       "refLabel": "Wat Plai Laem",
       "star": 5,
       "propertyId": 51651446,
-      "priceUSD": 981,
+      "priceUSD": 962,
       "priceStatus": "live",
       "distanceM": 2039.37,
       "locationStatus": "verified",
@@ -175,9 +175,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 122 reviews. $$$ · $981/night.",
+      "blurb": "Rating 9.4 · 122 reviews. $$$ · $962/night.",
       "metaTags": [
-        "💰 $981/night",
+        "💰 $962/night",
         "📝 122 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa"
@@ -202,12 +202,12 @@
       "score": 8.8,
       "reviewCount": 605,
       "reviewCountFmt": "605 reviews",
-      "priceText": "$$$ · $599/night",
+      "priceText": "$$$ · $602/night",
       "walkMin": 23,
       "refLabel": "Maenam Beach",
       "star": 5,
       "propertyId": 212498,
-      "priceUSD": 599,
+      "priceUSD": 602,
       "priceStatus": "live",
       "distanceM": 1820.42,
       "locationStatus": "verified",
@@ -220,9 +220,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.8 · 605 reviews. $$$ · $599/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 8.8 · 605 reviews. $$$ · $602/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $599/night",
+        "💰 $602/night",
         "📝 605 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -307,12 +307,12 @@
       "score": 9,
       "reviewCount": 817,
       "reviewCountFmt": "817 reviews",
-      "priceText": "$$ · $270/night",
+      "priceText": "$$ · $275/night",
       "walkMin": 10,
       "refLabel": "Fisherman's Village",
       "star": 5,
       "propertyId": 48374,
-      "priceUSD": 270,
+      "priceUSD": 275,
       "priceStatus": "live",
       "distanceM": 788.27,
       "locationStatus": "verified",
@@ -327,9 +327,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 817 reviews. 10 min walk to Fisherman's Village. $$ · $270/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 817 reviews. 10 min walk to Fisherman's Village. $$ · $275/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $270/night",
+        "💰 $275/night",
         "📝 817 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -409,87 +409,91 @@
     },
     {
       "rank": 5,
-      "name": "The Secret Pool Villas by The Library Koh Samui",
-      "agodaUrl": "https://www.agoda.com/the-secret-pool-villas-by-the-library-koh-samui/hotel/koh-samui-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/3112132/-1/1a0c5be8ac3a5b5e1900752fceff5938.jpg?ca=20&ce=0",
-      "score": 9.2,
-      "reviewCount": 154,
-      "reviewCountFmt": "154 reviews",
-      "priceText": "$$$ · $662/night",
-      "walkMin": 24,
-      "refLabel": "Chaweng Noi Beach",
+      "name": "Conrad Koh Samui",
+      "agodaUrl": "https://www.agoda.com/conrad-koh-samui/hotel/koh-samui-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/927318207.jpg?k=72f52b4dc4879c7d1e6a2680f9c95bd6544da717ade373ed43352a518a2b37bf&o=",
+      "score": 9.1,
+      "reviewCount": 1052,
+      "reviewCountFmt": "1,052 reviews",
+      "priceText": "$$$ · $804/night",
+      "walkMin": 110,
+      "refLabel": "Na Muang Waterfall",
       "star": 5,
-      "propertyId": 3112132,
-      "priceUSD": 662,
+      "propertyId": 267449,
+      "priceUSD": 804,
       "priceStatus": "live",
-      "distanceM": 1880.98,
+      "distanceM": 8831.05,
       "locationStatus": "verified",
       "facilities": [
-        "Swimming pool",
-        "Airport transfer",
         "Free Wi-Fi in all rooms!",
-        "Chaweng Noi Beach",
+        "Daily housekeeping",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 154 reviews. $$$ · $662/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 1,052 reviews. $$$ · $804/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $662/night",
-        "📝 154 reviews",
+        "💰 $804/night",
+        "📝 1,052 reviews",
         "⭐ 5-star",
-        "🏝️ Resort / Villa",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
         "topLabel": "Couples",
-        "topPct": 100,
+        "topPct": 80,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 5,
-            "pct": 100,
+            "count": 4,
+            "pct": 80,
             "rating": 9.7
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 8
           }
         ]
       },
       "reviews": [
         {
-          "text": "The villa has great speakers and is super spacious.",
-          "score": "9.2",
-          "country": "Singapore",
-          "date": "2024.08",
+          "text": "Jahn was absolutely outstanding and is not to be missed.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2026.07",
           "translated": false
         },
         {
-          "text": "The staffs were really nice and helpful.",
+          "text": "The hotel was amazing it felt like a real retreat!",
           "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2022.09",
+          "country": "Bahrain",
+          "date": "2025.10",
           "translated": false
         },
         {
-          "text": "The rooms was super big and spectacular.",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2022.09",
+          "text": "Overall, a truly relaxing and enjoyable experience.",
+          "score": "8",
+          "country": "Malaysia",
+          "date": "2025.09",
           "translated": false
         },
         {
-          "text": "Breakfast ala carte style with great presentation and taste.",
-          "score": "9.2",
-          "country": "Singapore",
-          "date": "2024.08",
+          "text": "The service deserves special recognition.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2026.07",
           "translated": false
         },
         {
-          "text": "I lived in one of the pool villa during my stay",
-          "score": "10",
-          "country": "Hong Kong SAR, China",
-          "date": "2022.09",
+          "text": "I was very satisfied with all the facilities and services.",
+          "score": "9.6",
+          "country": "TH",
+          "date": "2024.11",
           "translated": false
         }
       ],
@@ -505,16 +509,16 @@
       "rank": 6,
       "name": "ZOG Villas",
       "agodaUrl": "https://www.agoda.com/zog-villas/hotel/koh-samui-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/63177670/0/1f4657ab2381233199251b386edb0836.jpg?ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/63177670/0/1f4657ab2381233199251b386edb0836.jpg?va=1&ce=0",
       "score": 8.9,
       "reviewCount": 348,
       "reviewCountFmt": "348 reviews",
-      "priceText": "$$$ · $652/night",
+      "priceText": "$$$ · $637/night",
       "walkMin": 44,
       "refLabel": "Maenam Beach",
       "star": 5,
       "propertyId": 63177670,
-      "priceUSD": 652,
+      "priceUSD": 637,
       "priceStatus": "live",
       "distanceM": 3553.46,
       "locationStatus": "verified",
@@ -529,9 +533,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 348 reviews. $$$ · $652/night.",
+      "blurb": "Rating 8.9 · 348 reviews. $$$ · $637/night.",
       "metaTags": [
-        "💰 $652/night",
+        "💰 $637/night",
         "📝 348 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa"
@@ -551,16 +555,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-09T06:13:59.490Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
-    "checkIn": "2026-11-16",
+    "fetchedAt": "2026-10-10T14:29:55.588Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
+    "checkIn": "2026-11-15",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-09T06:13:59.490Z",
+    "fetchedAt": "2026-10-10T14:29:55.588Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 36,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
