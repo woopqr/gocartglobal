@@ -18,141 +18,123 @@
   "metaDescription": "The 6 finest anniversary escape stays in Bangkok — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 50% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Amara Bangkok Hotel</b> — rating 8.9, 16,745 reviews. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 37% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>JW Marriott Hotel Bangkok</b> — rating 9, 3,093 reviews, from $2,105/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 15,
-        "pct": 50
-      },
-      {
-        "key": "family",
-        "label": "Families",
-        "count": 9,
-        "pct": 30
+        "count": 11,
+        "pct": 37
       },
       {
         "key": "solo",
         "label": "Solo",
-        "count": 4,
-        "pct": 13
+        "count": 9,
+        "pct": 30
       },
       {
         "key": "group",
         "label": "Groups",
-        "count": 1,
-        "pct": 3
+        "count": 6,
+        "pct": 20
       },
       {
-        "key": "business",
-        "label": "Business",
-        "count": 1,
-        "pct": 3
+        "key": "family",
+        "label": "Families",
+        "count": 4,
+        "pct": 13
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/883578/0/26ee97c51a7d5fbac710417dd55e9011.jpeg?va=1&ce=2",
+  "heroImg": "https://pix8.agoda.net/hotelImages/10664/0/9f09bc43ec6744a03a8b9cd5599dcbc3.jpeg?ce=3",
   "heroAlt": "Bangkok Anniversary Escape",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
-      "name": "Amara Bangkok Hotel",
-      "agodaUrl": "https://www.agoda.com/amara-bangkok-hotel/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/883578/0/26ee97c51a7d5fbac710417dd55e9011.jpeg?va=1&ce=2",
-      "score": 8.9,
-      "reviewCount": 16745,
-      "reviewCountFmt": "16,745 reviews",
-      "priceText": "$$$ · price unavailable",
-      "walkMin": 6,
-      "refLabel": "Sam Yan MRT Station",
+      "name": "JW Marriott Hotel Bangkok",
+      "agodaUrl": "https://www.agoda.com/jw-marriott-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10664/0/9f09bc43ec6744a03a8b9cd5599dcbc3.jpeg?ce=3",
+      "score": 9,
+      "reviewCount": 3093,
+      "reviewCountFmt": "3,093 reviews",
+      "priceText": "$$$ · $2,105/night",
+      "walkMin": 5,
+      "refLabel": "Phloen Chit BTS Station",
       "star": 5,
-      "propertyId": 883578,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 487.3,
+      "propertyId": 10664,
+      "priceUSD": 2105,
+      "priceStatus": "live",
+      "distanceM": 367.05,
       "locationStatus": "verified",
       "facilities": [
-        "Free Wi-Fi in all rooms!",
         "Daily housekeeping",
         "Close to public transportation",
-        "Asiatique - The Riverfront",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
+        "Lumphini Park"
       ],
-      "blurb": "Rating 8.9 · 16,745 reviews. 6 min walk to Sam Yan MRT Station. $$$ · check live price. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 3,093 reviews. 5 min walk to Phloen Chit BTS Station. $$$ · $2,105/night.",
       "metaTags": [
-        "📝 16,745 reviews",
+        "💰 $2,105/night",
+        "📝 3,093 reviews",
         "⭐ 5-star",
         "👥 Loved by Solo"
       ],
       "travelerTypes": {
         "topLabel": "Solo",
-        "topPct": 60,
+        "topPct": 80,
         "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 8.8
-          },
           {
             "key": "solo",
             "label": "Solo",
-            "count": 3,
-            "pct": 60,
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 1,
+            "pct": 20,
             "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "Best rooftop pool in thailand good location and nice service",
+          "text": "I also enjoyed BBCO every morning for a delicious latte.",
           "score": "10",
-          "country": "LA",
-          "date": "2024.08",
+          "country": "United States",
+          "date": "2022.12",
           "translated": false
         },
         {
-          "text": "For a good rest the room is quiet and sooo confortable !",
+          "text": "Their level of perfection to their dishes is unbelievable.",
           "score": "10",
-          "country": "Spain",
-          "date": "2022.04",
+          "country": "United States",
+          "date": "2022.12",
           "translated": false
         },
         {
-          "text": "Infinite pool was so good with clean room condition.",
+          "text": "This is a must visit hotel whenever I go to Thailand.",
           "score": "10",
-          "country": "CA",
-          "date": "2024.11",
+          "country": "United States",
+          "date": "2022.12",
           "translated": false
         },
         {
-          "text": "We were also impressed by the stunning view from our room.",
-          "score": "9.6",
-          "country": "Singapore",
+          "text": "The breakfast buffet is a must-try if you are staying here.",
+          "score": "10",
+          "country": "Cambodia",
+          "date": "2023.08",
+          "translated": false
+        },
+        {
+          "text": "Location is good, hotel is clean and service is impeccable!",
+          "score": "10",
+          "country": "Philippines",
           "date": "2024.06",
-          "translated": false
-        },
-        {
-          "text": "The rooms were clean and modern with a large bathroom.",
-          "score": "8.8",
-          "country": "Australia",
-          "date": "2025.01",
           "translated": false
         }
       ],
@@ -166,19 +148,353 @@
     },
     {
       "rank": 2,
+      "name": "Sheraton Grande Sukhumvit, a Luxury Collection Hotel, Bangkok",
+      "agodaUrl": "https://www.agoda.com/sheraton-grande-sukhumvit-a-luxury-collection-hotel-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/622991116.jpg?k=9a0b39fc163c78487611e4eb8ae9ea700a6cb39d5c8e22f5533366c383bb1c61&o=",
+      "score": 9.3,
+      "reviewCount": 6542,
+      "reviewCountFmt": "6,542 reviews",
+      "priceText": "$$$ · $1,351/night",
+      "walkMin": 2,
+      "refLabel": "Asok BTS Station",
+      "star": 5,
+      "propertyId": 10697,
+      "priceUSD": 1351,
+      "priceStatus": "live",
+      "distanceM": 154.96,
+      "locationStatus": "verified",
+      "facilities": [
+        "Daily housekeeping",
+        "Close to public transportation",
+        "Lumphini Park",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.3 · 6,542 reviews. 2 min walk to Asok BTS Station. $$$ · $1,351/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,351/night",
+        "📝 6,542 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Groups"
+      ],
+      "travelerTypes": {
+        "topLabel": "Groups",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "This is without doubt the best hotel I've stayed in Bangkok.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2026.07",
+          "translated": false
+        },
+        {
+          "text": "The breakfast buffet was amazing and very worth it!",
+          "score": "10",
+          "country": "United States",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "This hotel is best for facility, location and so on",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.02",
+          "translated": false
+        },
+        {
+          "text": "When return to Bangkok will be at Sheraton again.",
+          "score": "10",
+          "country": "Brazil",
+          "date": "2022.04",
+          "translated": false
+        },
+        {
+          "text": "I'm willing to check in again next time I come to Bangkok.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.01",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
+      "name": "Kimpton Maa-Lai Bangkok by IHG",
+      "agodaUrl": "https://www.agoda.com/kimpton-maa-lai-bangkok/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/10306365/0/e86b078cd319d892d36b2f3d3c5dff4b.jpeg?ce=2",
+      "score": 9.2,
+      "reviewCount": 4214,
+      "reviewCountFmt": "4,214 reviews",
+      "priceText": "$$$ · $1,391/night",
+      "walkMin": 6,
+      "refLabel": "Ratchadamri BTS Station",
+      "star": 5,
+      "propertyId": 10306365,
+      "priceUSD": 1391,
+      "priceStatus": "live",
+      "distanceM": 470.23,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Lumphini Park",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.2 · 4,214 reviews. 6 min walk to Ratchadamri BTS Station. $$$ · $1,391/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $1,391/night",
+        "📝 4,214 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Groups"
+      ],
+      "travelerTypes": {
+        "topLabel": "Groups",
+        "topPct": 40,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          },
+          {
+            "key": "group",
+            "label": "Groups",
+            "count": 2,
+            "pct": 40,
+            "rating": 10
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Room is super nice and the toilet is out of this world.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "Complete facilities (you got a free use of sauna)",
+          "score": "10",
+          "country": "Philippines",
+          "date": "2022.05",
+          "translated": false
+        },
+        {
+          "text": "Staff also remembers my return -- another plus point :)",
+          "score": "10",
+          "country": "Thailand",
+          "date": "2022.07",
+          "translated": false
+        },
+        {
+          "text": "The food and the pool were better than any other hotel,",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.09",
+          "translated": false
+        },
+        {
+          "text": "Staff, hotel grounds, room and location was perfect.",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 4,
+      "name": "Grand Hyatt Erawan Bangkok",
+      "agodaUrl": "https://www.agoda.com/grand-hyatt-erawan-bangkok-hotel/hotel/bangkok-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/2285891/0/449880b129f09655908f504c0be936fe.jpeg?ce=3",
+      "score": 9.1,
+      "reviewCount": 4580,
+      "reviewCountFmt": "4,580 reviews",
+      "priceText": "$$$ · $947/night",
+      "walkMin": 4,
+      "refLabel": "Chit Lom BTS Station",
+      "star": 5,
+      "propertyId": 10656,
+      "priceUSD": 947,
+      "priceStatus": "live",
+      "distanceM": 296.89,
+      "locationStatus": "verified",
+      "facilities": [
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Close to public transportation",
+        "Lumphini Park",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 4,580 reviews. 4 min walk to Chit Lom BTS Station. $$$ · $947/night. 20% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $947/night",
+        "📝 4,580 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Solo"
+      ],
+      "travelerTypes": {
+        "topLabel": "Solo",
+        "topPct": 60,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 3,
+            "pct": 60,
+            "rating": 9.7
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The room had an amazing view of the pool and Central World.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "The breakfast buffet had a wide range of healthy options.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2023.09",
+          "translated": false
+        },
+        {
+          "text": "The pastries from the bakery downstairs were also yummy.",
+          "score": "9.6",
+          "country": "Thailand",
+          "date": "2025.04",
+          "translated": false
+        },
+        {
+          "text": "It’s definitely our hotel of choice the next time we return.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "Lounge - staff very welcoming polite food delicious too",
+          "score": "9.6",
+          "country": "Singapore",
+          "date": "2025.05",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
       "name": "Capella Bangkok",
       "agodaUrl": "https://www.agoda.com/capella-bangkok-sha-plus-certified/hotel/all/bangkok-th.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/279436767.jpg?k=688dce57756d7e4f4523bda0002b453a72171ea5b63b04169de52e9598dc4898&o=",
       "score": 9.2,
       "reviewCount": 466,
       "reviewCountFmt": "466 reviews",
-      "priceText": "$$$ · price unavailable",
+      "priceText": "$$$ · $1,106/night",
       "walkMin": 11,
       "refLabel": "Saphan Taksin BTS Station",
       "star": 5,
       "propertyId": 16997294,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
+      "priceUSD": 1106,
+      "priceStatus": "live",
       "distanceM": 860.45,
       "locationStatus": "verified",
       "facilities": [
@@ -192,8 +508,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 466 reviews. 11 min walk to Saphan Taksin BTS Station. $$$ · check live price. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 466 reviews. 11 min walk to Saphan Taksin BTS Station. $$$ · $1,106/night. 60% of sampled reviews from couples.",
       "metaTags": [
+        "💰 $1,106/night",
         "📝 466 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -248,103 +565,17 @@
           "translated": false
         },
         {
-          "text": "Also always a warm welcome these staff deserve medal!",
-          "score": "10",
-          "country": "Thailand",
-          "date": "2022.07",
-          "translated": false
-        },
-        {
           "text": "The room itself was incredibly comfortable.",
           "score": "8.8",
           "country": "Hong Kong SAR, China",
           "date": "2024.10",
           "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 3,
-      "name": "The Peninsula Bangkok",
-      "agodaUrl": "https://www.agoda.com/the-peninsula-bangkok/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/434993345.jpg?k=7a729dd2f098e2ef7dbd892a06eb154ffdc2b4a58fda929327008148b7916ee5&o=",
-      "score": 9.2,
-      "reviewCount": 5298,
-      "reviewCountFmt": "5,298 reviews",
-      "priceText": "$$ · price unavailable",
-      "walkMin": 6,
-      "refLabel": "Charoen Nakhon BTS Station",
-      "star": 5,
-      "propertyId": 10715,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 448.79,
-      "locationStatus": "verified",
-      "facilities": [
-        "Airport transfer",
-        "Close to public transportation",
-        "Asiatique - The Riverfront"
-      ],
-      "blurb": "Rating 9.2 · 5,298 reviews. 6 min walk to Charoen Nakhon BTS Station. $$ · check live price. 100% of sampled reviews from couples.",
-      "metaTags": [
-        "📝 5,298 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.9
-          }
-        ]
-      },
-      "reviews": [
+        },
         {
-          "text": "This may be my favorite hotel of any I've ever stayed at.",
+          "text": "Also always a warm welcome these staff deserve medal!",
           "score": "10",
           "country": "Thailand",
-          "date": "2022.09",
-          "translated": false
-        },
-        {
-          "text": "I feel very welcome all the time that stayed in the hotel.",
-          "score": "9.6",
-          "country": "Australia",
-          "date": "2024.02",
-          "translated": false
-        },
-        {
-          "text": "Water pressure was excellent, staff went above and beyond.",
-          "score": "10",
-          "country": "United States",
-          "date": "2025.12",
-          "translated": false
-        },
-        {
-          "text": "The room was wonderful with a beautiful view of the river.",
-          "score": "10",
-          "country": "United States",
-          "date": "2025.12",
-          "translated": false
-        },
-        {
-          "text": "This is an exceptional hotel fully deserving its 5 stars.",
-          "score": "10",
-          "country": "United Kingdom",
-          "date": "2022.04",
+          "date": "2022.07",
           "translated": false
         }
       ],
@@ -357,20 +588,20 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 6,
       "name": "The Siam Hotel",
       "agodaUrl": "https://www.agoda.com/the-siam-hotel/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/308597979.jpg?k=646570d44111d4cddb586205b15adf3e84ab0002bd4e8a23ddd7b4dc089bca20&o=",
+      "img": "https://pix8.agoda.net/hotelImages/63837450/1153989446/6254546cbc5d97e780e1f71b01123a1b.jpeg?ce=3",
       "score": 9.1,
       "reviewCount": 932,
       "reviewCountFmt": "932 reviews",
-      "priceText": "$$$ · price unavailable",
+      "priceText": "$$$ · $911/night",
       "walkMin": 16,
       "refLabel": "Bang Phlat MRT Station",
       "star": 5,
       "propertyId": 296765,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
+      "priceUSD": 911,
+      "priceStatus": "live",
       "distanceM": 1274.71,
       "locationStatus": "verified",
       "facilities": [
@@ -384,8 +615,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 932 reviews. 16 min walk to Bang Phlat MRT Station. $$$ · check live price. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 932 reviews. 16 min walk to Bang Phlat MRT Station. $$$ · $911/night. 100% of sampled reviews from couples.",
       "metaTags": [
+        "💰 $911/night",
         "📝 932 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -433,215 +665,10 @@
           "translated": false
         },
         {
-          "text": "We loved our stay here and the service was excellent.",
-          "score": "9.6",
-          "country": "Singapore",
-          "date": "2025.01",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 5,
-      "name": "Centara Grand at CentralWorld",
-      "agodaUrl": "https://www.agoda.com/centara-grand-at-central-world-hotel/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/358070452.jpg?k=62476d5744bd737f6595d54729b22f001333d667e8b7a25a4176c7f62f27cabd&o=",
-      "score": 8.9,
-      "reviewCount": 25780,
-      "reviewCountFmt": "25,780 reviews",
-      "priceText": "$$ · price unavailable",
-      "walkMin": 7,
-      "refLabel": "Siam BTS Station",
-      "star": 5,
-      "propertyId": 108196,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 561.66,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Close to public transportation",
-        "Lumphini Park",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.9 · 25,780 reviews. 7 min walk to Siam BTS Station. $$ · check live price.",
-      "metaTags": [
-        "📝 25,780 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Families"
-      ],
-      "travelerTypes": {
-        "topLabel": "Families",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.8
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Overall, this hotel exceeded my expectations in every way.",
-          "score": "9.6",
-          "country": "Singapore",
-          "date": "2024.06",
-          "translated": false
-        },
-        {
-          "text": "Staffs very helpful and friendly, great customer service!",
+          "text": "Amazing place amazing staff made it a memorable trip.",
           "score": "10",
-          "country": "Mongolia",
-          "date": "2024.10",
-          "translated": false
-        },
-        {
-          "text": "This hotel will be my first choice if I visit Bangkok again.",
-          "score": "9.6",
-          "country": "Thailand",
-          "date": "2025.02",
-          "translated": false
-        },
-        {
-          "text": "All the rooms are very modern and renovated with new design.",
-          "score": "9.6",
-          "country": "United Kingdom",
-          "date": "2023.02",
-          "translated": false
-        },
-        {
-          "text": "The room was spacious, clean, and offered a great city view.",
-          "score": "10",
-          "country": "Singapore",
-          "date": "2025.07",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 6,
-      "name": "Sindhorn Kempinski Hotel Bangkok",
-      "agodaUrl": "https://www.agoda.com/sindhorn-kempinski-bangkok/hotel/bangkok-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/11027646/0/60cbf02006a0a4c4004c72cdfa841804.jpeg?va=1&ce=2",
-      "score": 9.3,
-      "reviewCount": 5308,
-      "reviewCountFmt": "5,308 reviews",
-      "priceText": "$$ · price unavailable",
-      "walkMin": 7,
-      "refLabel": "Ratchadamri BTS Station",
-      "star": 5,
-      "propertyId": 11027646,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 561.69,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Close to public transportation",
-        "Lumphini Park",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.3 · 5,308 reviews. 7 min walk to Ratchadamri BTS Station. $$ · check live price. 20% of sampled reviews from couples.",
-      "metaTags": [
-        "📝 5,308 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Families"
-      ],
-      "travelerTypes": {
-        "topLabel": "Families",
-        "topPct": 40,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.8
-          },
-          {
-            "key": "solo",
-            "label": "Solo",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          },
-          {
-            "key": "business",
-            "label": "Business",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "First time here and now it's my favorites hotel in Bangkok.",
-          "score": "10",
-          "country": "Indonesia",
-          "date": "2022.12",
-          "translated": false
-        },
-        {
-          "text": "The benefits that come with the stay are all so exceptional!",
-          "score": "9.6",
-          "country": "Philippines",
-          "date": "2024.11",
-          "translated": false
-        },
-        {
-          "text": "A first class exceptional hotel - location, service, design.",
-          "score": "10",
-          "country": "United Kingdom",
-          "date": "2023.01",
-          "translated": false
-        },
-        {
-          "text": "It’s very new, clean and the service level is outstanding.",
-          "score": "9.6",
-          "country": "JP",
-          "date": "2024.06",
-          "translated": false
-        },
-        {
-          "text": "Thank you again to everyone for another wonderful stay.",
-          "score": "10",
-          "country": "Australia",
-          "date": "2024.06",
+          "country": "Kuwait",
+          "date": "2023.09",
           "translated": false
         }
       ],
@@ -656,16 +683,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T21:22:15.739Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
-    "checkIn": "2026-11-15",
+    "fetchedAt": "2026-10-10T05:56:49.574Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T21:22:15.739Z",
+    "fetchedAt": "2026-10-10T05:56:49.574Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

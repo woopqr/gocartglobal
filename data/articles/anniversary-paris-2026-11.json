@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest anniversary escape stays in Paris — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 83% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Le Bristol Paris - an Oetker Collection Hotel</b> — rating 9.4, 143 reviews, from $2,839/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 83% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Le Bristol Paris - an Oetker Collection Hotel</b> — rating 9.4, 143 reviews, from $2,900/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 18,
     "distribution": [
@@ -50,7 +50,7 @@
   },
   "heroImg": "https://q-xx.bstatic.com/xdata/images/hotel/max500/715778144.jpg?k=680e998f69dcdbc3e97c96ee2a48bfd6363a6d0b5ba9c7fa36c2bc34427d6f3d&o=",
   "heroAlt": "Paris Anniversary Escape",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
@@ -60,12 +60,12 @@
       "score": 9.4,
       "reviewCount": 143,
       "reviewCountFmt": "143 reviews",
-      "priceText": "$$$ · $2,839/night",
+      "priceText": "$$$ · $2,900/night",
       "walkMin": 3,
       "refLabel": "Miromesnil Metro Station",
       "star": 5,
       "propertyId": 10256407,
-      "priceUSD": 2839,
+      "priceUSD": 2900,
       "priceStatus": "live",
       "distanceM": 248.15,
       "locationStatus": "verified",
@@ -75,9 +75,9 @@
         "Close to public transportation",
         "Luxembourg Gardens"
       ],
-      "blurb": "Rating 9.4 · 143 reviews. 3 min walk to Miromesnil Metro Station. $$$ · $2,839/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 143 reviews. 3 min walk to Miromesnil Metro Station. $$$ · $2,900/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,839/night",
+        "💰 $2,900/night",
         "📝 143 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -111,17 +111,17 @@
       },
       "reviews": [
         {
-          "text": "We had such a lovely stay at Le Bristol.",
-          "score": "9.6",
-          "country": "United States",
-          "date": "2024.09",
-          "translated": false
-        },
-        {
           "text": "The most luxurious hotel I’ve stayed in.",
           "score": "10",
           "country": "Philippines",
           "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "We had such a lovely stay at Le Bristol.",
+          "score": "9.6",
+          "country": "United States",
+          "date": "2024.09",
           "translated": false
         },
         {
@@ -162,12 +162,12 @@
       "score": 9.5,
       "reviewCount": 55,
       "reviewCountFmt": "55 reviews",
-      "priceText": "$$$ · $2,720/night",
+      "priceText": "$$$ · $2,729/night",
       "walkMin": 5,
       "refLabel": "Madeleine Metro Station",
       "star": 5,
       "propertyId": 9385518,
-      "priceUSD": 2720,
+      "priceUSD": 2729,
       "priceStatus": "live",
       "distanceM": 381.92,
       "locationStatus": "verified",
@@ -177,9 +177,9 @@
         "Close to public transportation",
         "Luxembourg Gardens"
       ],
-      "blurb": "Rating 9.5 · 55 reviews. 5 min walk to Madeleine Metro Station. $$$ · $2,720/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.5 · 55 reviews. 5 min walk to Madeleine Metro Station. $$$ · $2,729/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,720/night",
+        "💰 $2,729/night",
         "📝 55 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -206,13 +206,6 @@
           "translated": false
         },
         {
-          "text": "Clean, friendly staffs.",
-          "score": "10",
-          "country": "South Korea",
-          "date": "2022.08",
-          "translated": false
-        },
-        {
           "text": "Best Hotel in the world",
           "score": "10",
           "country": "United Kingdom",
@@ -220,14 +213,21 @@
           "translated": false
         },
         {
-          "text": "The best of the best.",
+          "text": "Clean, friendly staffs.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2022.08",
+          "translated": false
+        },
+        {
+          "text": "The best of the best!",
           "score": "10",
           "country": "Switzerland",
           "date": "2023.04",
           "translated": false
         },
         {
-          "text": "The best of the best!",
+          "text": "The best of the best.",
           "score": "10",
           "country": "Switzerland",
           "date": "2023.04",
@@ -248,14 +248,14 @@
       "agodaUrl": "https://www.agoda.com/bvlgari-hotel-paris/hotel/paris-fr.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/28854353/-1/596aaadda85535a4ad1ed0c5c7df5018.jpg?ce=0",
       "score": 9.4,
-      "reviewCount": 165,
-      "reviewCountFmt": "165 reviews",
-      "priceText": "$$$ · $2,388/night",
+      "reviewCount": 163,
+      "reviewCountFmt": "163 reviews",
+      "priceText": "$$$ · $2,387/night",
       "walkMin": 5,
       "refLabel": "Alma - Marceau Metro Station",
       "star": 5,
       "propertyId": 28854353,
-      "priceUSD": 2388,
+      "priceUSD": 2387,
       "priceStatus": "live",
       "distanceM": 362.88,
       "locationStatus": "verified",
@@ -269,10 +269,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 165 reviews. 5 min walk to Alma - Marceau Metro Station. $$$ · $2,388/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 163 reviews. 5 min walk to Alma - Marceau Metro Station. $$$ · $2,387/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,388/night",
-        "📝 165 reviews",
+        "💰 $2,387/night",
+        "📝 163 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -291,14 +291,14 @@
       },
       "reviews": [
         {
-          "text": "The most nice staff i have ever seen since 2019",
+          "text": "Love the hotel its really the meaning of luxury",
           "score": "9.2",
           "country": "Qatar",
           "date": "2023.04",
           "translated": false
         },
         {
-          "text": "Love the hotel its really the meaning of luxury",
+          "text": "The most nice staff i have ever seen since 2019",
           "score": "9.2",
           "country": "Qatar",
           "date": "2023.04",
@@ -321,12 +321,12 @@
       "score": 9.6,
       "reviewCount": 332,
       "reviewCountFmt": "332 reviews",
-      "priceText": "$$$ · $2,355/night",
+      "priceText": "$$$ · $2,354/night",
       "walkMin": 4,
       "refLabel": "George V Metro Station",
       "star": 5,
       "propertyId": 10256902,
-      "priceUSD": 2355,
+      "priceUSD": 2354,
       "priceStatus": "live",
       "distanceM": 354.97,
       "locationStatus": "verified",
@@ -341,9 +341,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.6 · 332 reviews. 4 min walk to George V Metro Station. $$$ · $2,355/night.",
+      "blurb": "Rating 9.6 · 332 reviews. 4 min walk to George V Metro Station. $$$ · $2,354/night.",
       "metaTags": [
-        "💰 $2,355/night",
+        "💰 $2,354/night",
         "📝 332 reviews",
         "⭐ 5-star"
       ],
@@ -367,12 +367,12 @@
       "score": 9.5,
       "reviewCount": 148,
       "reviewCountFmt": "148 reviews",
-      "priceText": "$$$ · $2,388/night",
+      "priceText": "$$$ · $2,387/night",
       "walkMin": 1,
       "refLabel": "Pont Neuf Metro Station",
       "star": 5,
       "propertyId": 26039232,
-      "priceUSD": 2388,
+      "priceUSD": 2387,
       "priceStatus": "live",
       "distanceM": 41.58,
       "locationStatus": "verified",
@@ -382,9 +382,9 @@
         "Close to public transportation",
         "Luxembourg Gardens"
       ],
-      "blurb": "Rating 9.5 · 148 reviews. 1 min walk to Pont Neuf Metro Station. $$$ · $2,388/night.",
+      "blurb": "Rating 9.5 · 148 reviews. 1 min walk to Pont Neuf Metro Station. $$$ · $2,387/night.",
       "metaTags": [
-        "💰 $2,388/night",
+        "💰 $2,387/night",
         "📝 148 reviews",
         "⭐ 5-star",
         "👥 Loved by Solo"
@@ -427,12 +427,12 @@
       "score": 9.7,
       "reviewCount": 97,
       "reviewCountFmt": "97 reviews",
-      "priceText": "$$$ · $2,271/night",
+      "priceText": "$$$ · $2,281/night",
       "walkMin": 3,
       "refLabel": "Franklin D. Roosevelt Metro Station",
       "star": 5,
       "propertyId": 10256536,
-      "priceUSD": 2271,
+      "priceUSD": 2281,
       "priceStatus": "live",
       "distanceM": 247.25,
       "locationStatus": "verified",
@@ -447,9 +447,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.7 · 97 reviews. 3 min walk to Franklin D. Roosevelt Metro Station. $$$ · $2,271/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.7 · 97 reviews. 3 min walk to Franklin D. Roosevelt Metro Station. $$$ · $2,281/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $2,271/night",
+        "💰 $2,281/night",
         "📝 97 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -515,16 +515,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-09T06:13:26.788Z",
+    "fetchedAt": "2026-10-10T05:57:10.167Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-09T06:13:26.788Z",
+    "fetchedAt": "2026-10-10T05:57:10.167Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

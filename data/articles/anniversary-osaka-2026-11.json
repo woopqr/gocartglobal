@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest anniversary escape stays in Osaka — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Milestones deserve a landmark address. These are the highest-end, best-reviewed hotels and resorts where couples celebrate anniversaries in true style.",
   "viewpoint": "We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
-  "verdict": "About 47% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton, Osaka</b> — rating 9.2, 1,395 reviews, from $567/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
+  "verdict": "About 47% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>The Ritz-Carlton, Osaka</b> — rating 9.2, 1,392 reviews, from $566/night. We favored landmark five-star hotels and resorts with the strongest reviews and top-tier suites.",
   "aggregate": {
     "total": 30,
     "distribution": [
@@ -50,7 +50,7 @@
   },
   "heroImg": "https://pix8.agoda.net/hotelImages/4886521/1153910031/ee0e364e03fab66483e68883ac5521f0.jpeg?ce=3",
   "heroAlt": "Osaka Anniversary Escape",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
@@ -58,14 +58,14 @@
       "agodaUrl": "https://www.agoda.com/the-ritz-carlton-osaka/hotel/osaka-jp.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/4886521/1153910031/ee0e364e03fab66483e68883ac5521f0.jpeg?ce=3",
       "score": 9.2,
-      "reviewCount": 1395,
-      "reviewCountFmt": "1,395 reviews",
-      "priceText": "$$$ · $567/night",
+      "reviewCount": 1392,
+      "reviewCountFmt": "1,392 reviews",
+      "priceText": "$$$ · $566/night",
       "walkMin": 4,
       "refLabel": "Nishi-Umeda Subway Station",
       "star": 5,
       "propertyId": 8000,
-      "priceUSD": 567,
+      "priceUSD": 566,
       "priceStatus": "live",
       "distanceM": 338.13,
       "locationStatus": "verified",
@@ -79,10 +79,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 1,395 reviews. 4 min walk to Nishi-Umeda Subway Station. $$$ · $567/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 1,392 reviews. 4 min walk to Nishi-Umeda Subway Station. $$$ · $566/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $567/night",
-        "📝 1,395 reviews",
+        "💰 $566/night",
+        "📝 1,392 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -129,17 +129,17 @@
           "translated": false
         },
         {
-          "text": "The staff of The Ritz Carlton Osaka is too-notch!!",
-          "score": "10",
-          "country": "United States",
-          "date": "2024.04",
-          "translated": false
-        },
-        {
           "text": "Highly recommend the Ritz-Carlton Osaka.",
           "score": "10",
           "country": "United States",
           "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The staff of The Ritz Carlton Osaka is too-notch!!",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.04",
           "translated": false
         }
       ],
@@ -157,8 +157,8 @@
       "agodaUrl": "https://www.agoda.com/centara-grand-hotel-osaka/hotel/osaka-jp.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/35245085/-1/d13edc0a2fc3de8b4319ac29b2e28d5a.jpg?ce=0",
       "score": 9.1,
-      "reviewCount": 14706,
-      "reviewCountFmt": "14,706 reviews",
+      "reviewCount": 14709,
+      "reviewCountFmt": "14,709 reviews",
       "priceText": "$$ · $320/night",
       "walkMin": 4,
       "refLabel": "Nankai Electric Railway",
@@ -179,10 +179,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 14,706 reviews. 4 min walk to Nankai Electric Railway. $$ · $320/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 14,709 reviews. 4 min walk to Nankai Electric Railway. $$ · $320/night. 40% of sampled reviews from couples.",
       "metaTags": [
         "💰 $320/night",
-        "📝 14,706 reviews",
+        "📝 14,709 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
       ],
@@ -215,17 +215,17 @@
           "translated": false
         },
         {
-          "text": "What truly sets this hotel apart is its unbeatable location.",
-          "score": "8.8",
-          "country": "Singapore",
-          "date": "2024.09",
-          "translated": false
-        },
-        {
           "text": "Location is perfect, and the staff is so helpful and polite.",
           "score": "10",
           "country": "Hong Kong SAR, China",
           "date": "2023.07",
+          "translated": false
+        },
+        {
+          "text": "What truly sets this hotel apart is its unbeatable location.",
+          "score": "8.8",
+          "country": "Singapore",
+          "date": "2024.09",
           "translated": false
         },
         {
@@ -236,10 +236,10 @@
           "translated": false
         },
         {
-          "text": "The location was so central and accessible to everything.",
+          "text": "My family and I really enjoyed our stay at Centara Grand.",
           "score": "10",
-          "country": "Indonesia",
-          "date": "2025.08",
+          "country": "Singapore",
+          "date": "2024.12",
           "translated": false
         }
       ],
@@ -259,12 +259,12 @@
       "score": 8.9,
       "reviewCount": 15996,
       "reviewCountFmt": "15,996 reviews",
-      "priceText": "$$ · $269/night",
+      "priceText": "$$ · $268/night",
       "walkMin": 1,
       "refLabel": "Namba Train Station",
       "star": 5,
       "propertyId": 45609,
-      "priceUSD": 269,
+      "priceUSD": 268,
       "priceStatus": "live",
       "distanceM": 81.07,
       "locationStatus": "verified",
@@ -279,9 +279,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 15,996 reviews. 1 min walk to Namba Train Station. $$ · $269/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 15,996 reviews. 1 min walk to Namba Train Station. $$ · $268/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $269/night",
+        "💰 $268/night",
         "📝 15,996 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -364,14 +364,14 @@
       "agodaUrl": "https://www.agoda.com/w-osaka-h20664132/hotel/osaka-jp.html?cid=1925461",
       "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/500794559.jpg?k=283cf306ff88397867cead7f89f0fd44fd13c13df11ec57b94e24e3eb2dc101e&o=",
       "score": 9.1,
-      "reviewCount": 1699,
-      "reviewCountFmt": "1,699 reviews",
-      "priceText": "$$ · $463/night",
+      "reviewCount": 1700,
+      "reviewCountFmt": "1,700 reviews",
+      "priceText": "$$ · $462/night",
       "walkMin": 4,
       "refLabel": "Shinsaibashi Subway Station",
       "star": 5,
       "propertyId": 20664132,
-      "priceUSD": 463,
+      "priceUSD": 462,
       "priceStatus": "live",
       "distanceM": 309.07,
       "locationStatus": "verified",
@@ -380,10 +380,10 @@
         "Close to public transportation",
         "Abeno Harukas"
       ],
-      "blurb": "Rating 9.1 · 1,699 reviews. 4 min walk to Shinsaibashi Subway Station. $$ · $463/night. 40% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 1,700 reviews. 4 min walk to Shinsaibashi Subway Station. $$ · $462/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $463/night",
-        "📝 1,699 reviews",
+        "💰 $462/night",
+        "📝 1,700 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -437,17 +437,17 @@
           "translated": false
         },
         {
-          "text": "Room itself is fantastic and the design is so pop.",
-          "score": "10",
-          "country": "Japan",
-          "date": "2023.03",
-          "translated": false
-        },
-        {
           "text": "Would definitely stay again if returning to Osaka.",
           "score": "10",
           "country": "Australia",
           "date": "2025.08",
+          "translated": false
+        },
+        {
+          "text": "Room itself is fantastic and the design is so pop.",
+          "score": "10",
+          "country": "Japan",
+          "date": "2023.03",
           "translated": false
         }
       ],
@@ -467,12 +467,12 @@
       "score": 9.2,
       "reviewCount": 6231,
       "reviewCountFmt": "6,231 reviews",
-      "priceText": "$$ · $308/night",
+      "priceText": "$$ · $307/night",
       "walkMin": 1,
       "refLabel": "Osaka Abenobashi Train Station",
       "star": 5,
       "propertyId": 611445,
-      "priceUSD": 308,
+      "priceUSD": 307,
       "priceStatus": "live",
       "distanceM": 108.82,
       "locationStatus": "verified",
@@ -486,9 +486,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.2 · 6,231 reviews. 1 min walk to Osaka Abenobashi Train Station. $$ · $308/night. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.2 · 6,231 reviews. 1 min walk to Osaka Abenobashi Train Station. $$ · $307/night. 20% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $308/night",
+        "💰 $307/night",
         "📝 6,231 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -564,14 +564,14 @@
       "agodaUrl": "https://www.agoda.com/hilton-osaka_4/hotel/osaka-jp.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/2286471/0/e2307ff2c50d416c71d8020d4779ad95.jpeg?ce=0",
       "score": 8.6,
-      "reviewCount": 4677,
-      "reviewCountFmt": "4,677 reviews",
-      "priceText": "$$ · $277/night",
+      "reviewCount": 4680,
+      "reviewCountFmt": "4,680 reviews",
+      "priceText": "$$ · $274/night",
       "walkMin": 1,
       "refLabel": "Nishi-Umeda Subway Station",
       "star": 5,
       "propertyId": 43099,
-      "priceUSD": 277,
+      "priceUSD": 274,
       "priceStatus": "live",
       "distanceM": 44.95,
       "locationStatus": "verified",
@@ -580,10 +580,10 @@
         "Close to public transportation",
         "Kuromon Market"
       ],
-      "blurb": "Rating 8.6 · 4,677 reviews. 1 min walk to Nishi-Umeda Subway Station. $$ · $277/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 8.6 · 4,680 reviews. 1 min walk to Nishi-Umeda Subway Station. $$ · $274/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $277/night",
-        "📝 4,677 reviews",
+        "💰 $274/night",
+        "📝 4,680 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -623,17 +623,17 @@
           "translated": false
         },
         {
-          "text": "The staff were so helpful especially the concierge.",
-          "score": "10",
-          "country": "Türkiye",
-          "date": "2023.04",
-          "translated": false
-        },
-        {
           "text": "Staff were always courteous, welcoming and helpful.",
           "score": "10",
           "country": "United States",
           "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "The staff were so helpful especially the concierge.",
+          "score": "10",
+          "country": "Türkiye",
+          "date": "2023.04",
           "translated": false
         },
         {
@@ -662,16 +662,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-09T06:13:34.976Z",
+    "fetchedAt": "2026-10-10T05:57:18.558Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-09T06:13:34.976Z",
+    "fetchedAt": "2026-10-10T05:57:18.558Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "cursor": 14,
+  "cursor": 15,
   "observations": [
     {
       "city": "Bali",
@@ -1049,6 +1049,44 @@
           "priceUSD": 234,
           "priceStatus": "confirmed",
           "url": "https://www.agoda.com/hotel-adam-krabi/hotel/krabi-th.html?cid=1925461"
+        }
+      ]
+    },
+    {
+      "city": "Honolulu",
+      "citySlug": "honolulu",
+      "cityId": 10921,
+      "observedAt": "2026-10-10T05:57:19.262Z",
+      "daysAhead": 30,
+      "condition": "5-star only, 2 adults, 1 room, 1 night, check-in 2026-11-09, USD incl. taxes & fees",
+      "hotels": [
+        {
+          "key": "295044",
+          "name": "ESPACIO The Jewel of Waikiki",
+          "priceUSD": 3562,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/aqua-waikiki-beachside-h24809787/hotel/honolulu-hi-us.html?cid=1925461"
+        },
+        {
+          "key": "212225",
+          "name": "Ka La‘i Waikiki Beach, LXR Hotels & Resorts",
+          "priceUSD": 843,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/jet-luxury-h27518129/hotel/honolulu-hi-us.html?cid=1925461"
+        },
+        {
+          "key": "49107",
+          "name": "Halekulani - NO RESORT FEE",
+          "priceUSD": 818,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/halekulani-hotel/hotel/honolulu-hi-us.html?cid=1925461"
+        },
+        {
+          "key": "2452173",
+          "name": "The Ritz-Carlton Residences, Waikiki Beach",
+          "priceUSD": 778,
+          "priceStatus": "confirmed",
+          "url": "https://www.agoda.com/the-ritz-carlton-residences-waikiki-beach/hotel/honolulu-hi-us.html?cid=1925461"
         }
       ]
     }

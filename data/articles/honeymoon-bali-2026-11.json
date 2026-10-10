@@ -18,21 +18,21 @@
   "metaDescription": "The 6 finest honeymoon stays in Bali — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 73% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Bvlgari Resort Bali</b> — rating 9.3, 698 reviews. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 80% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Mulia Villas</b> — rating 9.4, 1,120 reviews, from $926/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 22,
-        "pct": 73
+        "count": 24,
+        "pct": 80
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 7,
-        "pct": 23
+        "count": 5,
+        "pct": 17
       },
       {
         "key": "group",
@@ -42,25 +42,126 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/77182/18308843/4c7de982b5c8eb00a453923b760a62f3.jpeg?ce=3",
+  "heroImg": "https://pix8.agoda.net/hotelImages/6546934/0/f33fbbfc796e1e0d10dcc3c3be0aa9c6.jpeg?va=1&ce=3",
   "heroAlt": "Bali Honeymoon",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
+      "name": "Mulia Villas",
+      "agodaUrl": "https://www.agoda.com/mulia-villas_11/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6546934/0/f33fbbfc796e1e0d10dcc3c3be0aa9c6.jpeg?va=1&ce=3",
+      "score": 9.4,
+      "reviewCount": 1120,
+      "reviewCountFmt": "1,120 reviews",
+      "priceText": "$$$ · $926/night",
+      "walkMin": 37,
+      "refLabel": "Nusa Dua Beach",
+      "star": 5,
+      "propertyId": 6546934,
+      "priceUSD": 926,
+      "priceStatus": "live",
+      "distanceM": 2998.76,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Nusa Dua Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.4 · 1,120 reviews. $$$ · $926/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $926/night",
+        "📝 1,120 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 10
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "I definitely recommend this place to other Korean travelers.",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2025.06",
+          "translated": false
+        },
+        {
+          "text": "It was an astounding stay at a marvellous villa and resort.",
+          "score": "9.6",
+          "country": "India",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "I stayed in villas for 2 nights and had a perfect vacation",
+          "score": "10",
+          "country": "South Korea",
+          "date": "2024.07",
+          "translated": false
+        },
+        {
+          "text": "Fabulous food and great options at all the restaurants.",
+          "score": "10",
+          "country": "Singapore",
+          "date": "2026.01",
+          "translated": false
+        },
+        {
+          "text": "Just stay at the hotel and they will serve you well.",
+          "score": "10",
+          "country": "Indonesia",
+          "date": "2024.12",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 2,
       "name": "Bvlgari Resort Bali",
       "agodaUrl": "https://www.agoda.com/bulgari-resort-bali/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/77182/18308843/4c7de982b5c8eb00a453923b760a62f3.jpeg?ce=3",
+      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/643138779.jpg?k=cf9a95cd74f7a1340ad276d7603fc80c5d783dc587651371f27b6fe7c6cfc73a&o=",
       "score": 9.3,
       "reviewCount": 698,
       "reviewCountFmt": "698 reviews",
-      "priceText": "$$$ · price unavailable",
+      "priceText": "$$$ · $1,893/night",
       "walkMin": 53,
       "refLabel": "Uluwatu Temple",
       "star": 5,
       "propertyId": 77182,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
+      "priceUSD": 1893,
+      "priceStatus": "live",
       "distanceM": 4263.21,
       "locationStatus": "verified",
       "facilities": [
@@ -72,8 +173,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 698 reviews. $$$ · check live price. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 698 reviews. $$$ · $1,893/night. 80% of sampled reviews from couples.",
       "metaTags": [
+        "💰 $1,893/night",
         "📝 698 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -145,20 +247,20 @@
       }
     },
     {
-      "rank": 2,
+      "rank": 3,
       "name": "Ulaman Eco Luxury Resort",
       "agodaUrl": "https://www.agoda.com/ulaman-eco-retreat/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/34474011/0/bfc10dd9e85b1cca93459c447514d21d.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/34474011/-1/05e5a71bc689504785139f5263c5154c.jpg?va=1&ce=0",
       "score": 8.9,
       "reviewCount": 873,
       "reviewCountFmt": "873 reviews",
-      "priceText": "$$$ · price unavailable",
+      "priceText": "$$$ · $1,471/night",
       "walkMin": 119,
       "refLabel": "Ubung Bus Terminal",
       "star": 5,
       "propertyId": 34474011,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
+      "priceUSD": 1471,
+      "priceStatus": "live",
       "distanceM": 9542.22,
       "locationStatus": "verified",
       "facilities": [
@@ -172,8 +274,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 873 reviews. $$$ · check live price. 100% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 873 reviews. $$$ · $1,471/night. 100% of sampled reviews from couples.",
       "metaTags": [
+        "💰 $1,471/night",
         "📝 873 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -238,20 +341,20 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "name": "Mandapa, a Ritz-Carlton Reserve",
       "agodaUrl": "https://www.agoda.com/mandapa-a-ritz-carlton-reserve/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/984267/0/1075d7bc63de67f77f9d42f5ea8f5c52.jpeg?ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/984267/0/f49d102e237e8c5140eb3041a31d9ae9.jpg?va=1&ce=2",
       "score": 9.5,
       "reviewCount": 338,
       "reviewCountFmt": "338 reviews",
-      "priceText": "$$$ · price unavailable",
+      "priceText": "$$$ · $1,690/night",
       "walkMin": 28,
       "refLabel": "Campuhan Ridge Walk",
       "star": 5,
       "propertyId": 984267,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
+      "priceUSD": 1690,
+      "priceStatus": "live",
       "distanceM": 2242.78,
       "locationStatus": "verified",
       "facilities": [
@@ -263,8 +366,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 338 reviews. $$$ · check live price. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.5 · 338 reviews. $$$ · $1,690/night. 100% of sampled reviews from couples.",
       "metaTags": [
+        "💰 $1,690/night",
         "📝 338 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -328,94 +432,87 @@
       }
     },
     {
-      "rank": 4,
-      "name": "AYANA Villas Bali",
-      "agodaUrl": "https://www.agoda.com/the-villas-at-ayana-resort-bali_3/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/478524/0/38af0099f0711b8b5ffbad65b15a5c4b.jpeg?ce=3",
-      "score": 9,
-      "reviewCount": 970,
-      "reviewCountFmt": "970 reviews",
-      "priceText": "$$$ · price unavailable",
-      "walkMin": 89,
-      "refLabel": "Kuta Beach",
+      "rank": 5,
+      "name": "Buahan, a Banyan Tree Escape",
+      "agodaUrl": "https://www.agoda.com/buahan-a-banyan-tree-escape/hotel/bali-id.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/32018578/0/7290b80d81d36bc4c8212a0b75e36a72.jpg?va=1&ce=0",
+      "score": 9.3,
+      "reviewCount": 363,
+      "reviewCountFmt": "363 reviews",
+      "priceText": "$$$ · $1,544/night",
+      "walkMin": 111,
+      "refLabel": "Tegallalang Rice Terrace",
       "star": 5,
-      "propertyId": 478524,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 7153.99,
+      "propertyId": 31491241,
+      "priceUSD": 1544,
+      "priceStatus": "live",
+      "distanceM": 8894.46,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
         "Airport transfer",
         "Free Wi-Fi in all rooms!",
-        "Gym/fitness",
+        "Daily housekeeping",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 970 reviews. $$$ · check live price. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 363 reviews. $$$ · $1,544/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "📝 970 reviews",
+        "💰 $1,544/night",
+        "📝 363 reviews",
         "⭐ 5-star",
-        "🏝️ Resort / Villa",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
         "topLabel": "Couples",
-        "topPct": 60,
+        "topPct": 100,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.9
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 9.6
+            "count": 5,
+            "pct": 100,
+            "rating": 9.7
           }
         ]
       },
       "reviews": [
         {
-          "text": "The villa is wonderful and the overall service is marvelous",
+          "text": "Everything was spotless, making our stay truly enjoyable.",
           "score": "10",
-          "country": "CN",
-          "date": "2025.05",
+          "country": "United Arab Emirates",
+          "date": "2025.04",
           "translated": false
         },
         {
-          "text": "The staff in the segara are perfectly helpful and nice !!",
+          "text": "The hotel staff provided a great and very personal service.",
+          "score": "8.4",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The staff were exceptional, always attentive and friendly.",
           "score": "10",
-          "country": "MO",
-          "date": "2023.12",
+          "country": "United Arab Emirates",
+          "date": "2025.04",
           "translated": false
         },
         {
-          "text": "The restaurants, bars, pools are all very good.",
-          "score": "9.2",
-          "country": "Taiwan",
-          "date": "2023.08",
-          "translated": false
-        },
-        {
-          "text": "Great facilities , clean and do many options .",
-          "score": "9.6",
+          "text": "The culinary experience at the retreat was outstanding.",
+          "score": "10",
           "country": "Australia",
-          "date": "2023.04",
+          "date": "2025.02",
           "translated": false
         },
         {
-          "text": "This Hotel, staff and the Location is just stunning.",
+          "text": "Unexpectedly our favorite hotel we’ve ever stayed at",
           "score": "10",
-          "country": "Deutschland",
-          "date": "2023.10",
+          "country": "United States",
+          "date": "2024.03",
           "translated": false
         }
       ],
@@ -428,20 +525,20 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 6,
       "name": "Capella Ubud",
       "agodaUrl": "https://www.agoda.com/capella-ubud/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/534/5347453/5347453_18072315540067066889.jpg?ca=0&ce=1",
+      "img": "https://pix8.agoda.net/hotelImages/534/5347453/5347453_18072315540067066889.jpg?va=1&ca=0&ce=1",
       "score": 9.4,
       "reviewCount": 127,
       "reviewCountFmt": "127 reviews",
-      "priceText": "$$$ · price unavailable",
+      "priceText": "$$$ · $1,743/night",
       "walkMin": 119,
       "refLabel": "Bangli Bus Terminal",
       "star": 5,
       "propertyId": 5347453,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
+      "priceUSD": 1743,
+      "priceStatus": "live",
       "distanceM": 9484.77,
       "locationStatus": "verified",
       "facilities": [
@@ -455,8 +552,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 127 reviews. $$$ · check live price. 20% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 127 reviews. $$$ · $1,743/night. 20% of sampled reviews from couples.",
       "metaTags": [
+        "💰 $1,743/night",
         "📝 127 reviews",
         "⭐ 5-star",
         "👥 Loved by Families"
@@ -525,120 +623,20 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
-    },
-    {
-      "rank": 6,
-      "name": "Mulia Villas",
-      "agodaUrl": "https://www.agoda.com/mulia-villas_11/hotel/bali-id.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/6546934/0/f33fbbfc796e1e0d10dcc3c3be0aa9c6.jpeg?va=1&ce=3",
-      "score": 9.4,
-      "reviewCount": 1120,
-      "reviewCountFmt": "1,120 reviews",
-      "priceText": "$$$ · price unavailable",
-      "walkMin": 37,
-      "refLabel": "Nusa Dua Beach",
-      "star": 5,
-      "propertyId": 6546934,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 2998.76,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Sauna",
-        "Nusa Dua Beach",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.4 · 1,120 reviews. $$$ · check live price. 80% of sampled reviews from couples.",
-      "metaTags": [
-        "📝 1,120 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 80,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 4,
-            "pct": 80,
-            "rating": 10
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "I definitely recommend this place to other Korean travelers.",
-          "score": "10",
-          "country": "South Korea",
-          "date": "2025.06",
-          "translated": false
-        },
-        {
-          "text": "It was an astounding stay at a marvellous villa and resort.",
-          "score": "9.6",
-          "country": "India",
-          "date": "2025.05",
-          "translated": false
-        },
-        {
-          "text": "I stayed in villas for 2 nights and had a perfect vacation",
-          "score": "10",
-          "country": "South Korea",
-          "date": "2024.07",
-          "translated": false
-        },
-        {
-          "text": "Fabulous food and great options at all the restaurants.",
-          "score": "10",
-          "country": "Singapore",
-          "date": "2026.01",
-          "translated": false
-        },
-        {
-          "text": "Just stay at the hotel and they will serve you well.",
-          "score": "10",
-          "country": "Indonesia",
-          "date": "2024.12",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T21:22:04.659Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
-    "checkIn": "2026-11-15",
+    "fetchedAt": "2026-10-10T05:56:39.450Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T21:22:04.659Z",
+    "fetchedAt": "2026-10-10T05:56:39.450Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

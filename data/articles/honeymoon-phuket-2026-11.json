@@ -18,15 +18,21 @@
   "metaDescription": "The 6 finest honeymoon stays in Phuket — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "A honeymoon is the one trip where the address matters most. We pulled the priciest, most-reviewed five-star resorts and private pool villas — the kind of stay you remember for a lifetime.",
   "viewpoint": "We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
-  "verdict": "About 93% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Paresa Resort Phuket</b> — rating 8.9, 1,820 reviews. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
+  "verdict": "About 90% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Dinso Resort & Villas Phuket, Vignette Collection by IHG</b> — rating 8.9, 4,636 reviews, from $597/night. We prioritized the highest-priced, best-reviewed five-star resorts and private villas that couples rave about.",
   "aggregate": {
     "total": 30,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 28,
-        "pct": 93
+        "count": 27,
+        "pct": 90
+      },
+      {
+        "key": "group",
+        "label": "Groups",
+        "count": 1,
+        "pct": 3
       },
       {
         "key": "family",
@@ -35,225 +41,32 @@
         "pct": 3
       },
       {
-        "key": "group",
-        "label": "Groups",
+        "key": "solo",
+        "label": "Solo",
         "count": 1,
         "pct": 3
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/159289/-1/ae02e77b6200b6c9dceb4bb53dd866d3.jpg?va=1&ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/5752967/-1/e36532c8bef0558aef9bc096d1c6936a.jpg?ce=0",
   "heroAlt": "Phuket Honeymoon",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
-      "name": "Paresa Resort Phuket",
-      "agodaUrl": "https://www.agoda.com/paresa-resort-phuket/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/159289/-1/ae02e77b6200b6c9dceb4bb53dd866d3.jpg?va=1&ce=0",
-      "score": 8.9,
-      "reviewCount": 1820,
-      "reviewCountFmt": "1,820 reviews",
-      "priceText": "$$$ · price unavailable",
-      "walkMin": 46,
-      "refLabel": "Phuket FantaSea",
-      "star": 5,
-      "propertyId": 159289,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 3675.14,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Patong Beach",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.9 · 1,820 reviews. $$$ · check live price. 80% of sampled reviews from couples.",
-      "metaTags": [
-        "📝 1,820 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 80,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 4,
-            "pct": 80,
-            "rating": 9.9
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.2
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Lovely staff, the room was super nice especially the pool.",
-          "score": "9.6",
-          "country": "Hong Kong SAR, China",
-          "date": "2023.12",
-          "translated": false
-        },
-        {
-          "text": "The staff is welcoming and the rooms are clean 🙏❤️",
-          "score": "10",
-          "country": "Saudi Arabia",
-          "date": "2024.12",
-          "translated": false
-        },
-        {
-          "text": "Paresa has undergone renovations and the villas are a dream.",
-          "score": "9.2",
-          "country": "Singapore",
-          "date": "2022.12",
-          "translated": false
-        },
-        {
-          "text": "Exceptional place with exceptional staff highly recommended",
-          "score": "10",
-          "country": "Saudi Arabia",
-          "date": "2025.12",
-          "translated": false
-        },
-        {
-          "text": "Foodddddd:So far the best in town(for 5 days Phuket trips)",
-          "score": "10",
-          "country": "Malaysia",
-          "date": "2022.06",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 2,
-      "name": "Aleenta Phuket-Phang Nga Resort & Spa",
-      "agodaUrl": "https://www.agoda.com/aleenta-resort/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/78253/0/dd67f986b1d6f15d26bcd4597f44fdea.jpeg?ce=3",
-      "score": 8.5,
-      "reviewCount": 1816,
-      "reviewCountFmt": "1,816 reviews",
-      "priceText": "$$ · price unavailable",
-      "walkMin": 1,
-      "refLabel": "Natai Beach",
-      "star": 5,
-      "propertyId": 78253,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 0,
-      "locationStatus": "verified",
-      "facilities": [
-        "Swimming pool",
-        "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Gym/fitness",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 8.5 · 1,816 reviews. 1 min walk to Natai Beach. $$ · check live price. 100% of sampled reviews from couples.",
-      "metaTags": [
-        "📝 1,816 reviews",
-        "⭐ 5-star",
-        "🏝️ Resort / Villa",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 100,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.8
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Room so good and clean and everything about it was good.",
-          "score": "10",
-          "country": "India",
-          "date": "2023.04",
-          "translated": false
-        },
-        {
-          "text": "Staff so friendly and sweet and the services so good.",
-          "score": "10",
-          "country": "India",
-          "date": "2023.04",
-          "translated": false
-        },
-        {
-          "text": "The stay In Aleenta wad the best decision I mare.",
-          "score": "10",
-          "country": "India",
-          "date": "2023.04",
-          "translated": false
-        },
-        {
-          "text": "The breakfast menu is one of the best offered in Thailand,",
-          "score": "10",
-          "country": "United Kingdom",
-          "date": "2024.09",
-          "translated": false
-        },
-        {
-          "text": "The breakfast was in good quality and got many choices.",
-          "score": "8.8",
-          "country": "Hong Kong SAR, China",
-          "date": "2026.05",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 3,
       "name": "Dinso Resort & Villas Phuket, Vignette Collection by IHG",
       "agodaUrl": "https://www.agoda.com/dinso-resort-sha-plus/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/5752967/0/9247109dffc00713683df8db3e1d8fb1.jpeg?ce=2",
+      "img": "https://pix8.agoda.net/hotelImages/5752967/-1/e36532c8bef0558aef9bc096d1c6936a.jpg?ce=0",
       "score": 8.9,
-      "reviewCount": 4637,
-      "reviewCountFmt": "4,637 reviews",
-      "priceText": "$$ · price unavailable",
+      "reviewCount": 4636,
+      "reviewCountFmt": "4,636 reviews",
+      "priceText": "$$$ · $597/night",
       "walkMin": 99,
       "refLabel": "Minibus Station",
       "star": 5,
       "propertyId": 5752967,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
+      "priceUSD": 597,
+      "priceStatus": "live",
       "distanceM": 7951.5,
       "locationStatus": "verified",
       "facilities": [
@@ -267,9 +80,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.9 · 4,637 reviews. $$ · check live price. 80% of sampled reviews from couples.",
+      "blurb": "Rating 8.9 · 4,636 reviews. $$$ · $597/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "📝 4,637 reviews",
+        "💰 $597/night",
+        "📝 4,636 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
@@ -340,20 +154,108 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "name": "Keemala",
+      "agodaUrl": "https://www.agoda.com/keemala-sha-plus_3/hotel/all/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/property/35832493/0/a100e07ad5839fc1ad4bea8c08bb33ea.jpeg?ce=3",
+      "score": 9.1,
+      "reviewCount": 814,
+      "reviewCountFmt": "814 reviews",
+      "priceText": "$$$ · $822/night",
+      "walkMin": 24,
+      "refLabel": "Phuket FantaSea",
+      "star": 5,
+      "propertyId": 3072111,
+      "priceUSD": 822,
+      "priceStatus": "live",
+      "distanceM": 1952.38,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Sauna",
+        "Patong Beach"
+      ],
+      "blurb": "Rating 9.1 · 814 reviews. $$$ · $822/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $822/night",
+        "📝 814 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.4
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "It is easily one of the best resorts we have ever visited.",
+          "score": "10",
+          "country": "IL",
+          "date": "2026.08",
+          "translated": false
+        },
+        {
+          "text": "We felt so welcomed and cared for throughout our stay.",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Our stay at Keemala was absolutely amazing!",
+          "score": "8.4",
+          "country": "Saudi Arabia",
+          "date": "2026.09",
+          "translated": false
+        },
+        {
+          "text": "Room service was exceptionally amazing.",
+          "score": "10",
+          "country": "India",
+          "date": "2025.11",
+          "translated": false
+        },
+        {
+          "text": "Gorgeous amenities and so relaxing.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2026.08",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 3,
       "name": "Villa Escape Burasari",
       "agodaUrl": "https://www.agoda.com/villa-escape-burasari/hotel/phuket-th.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/46046843/0/4c204dc05a52d4321fd6578974ca3ca5.jpg?ce=0",
       "score": 9.3,
       "reviewCount": 174,
       "reviewCountFmt": "174 reviews",
-      "priceText": "$$ · price unavailable",
+      "priceText": "$$$ · $507/night",
       "walkMin": 65,
       "refLabel": "Phuket Bus Terminal 2",
       "star": 5,
       "propertyId": 46046843,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
+      "priceUSD": 507,
+      "priceStatus": "live",
       "distanceM": 5225.88,
       "locationStatus": "verified",
       "facilities": [
@@ -367,8 +269,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 174 reviews. $$ · check live price. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 174 reviews. $$$ · $507/night. 100% of sampled reviews from couples.",
       "metaTags": [
+        "💰 $507/night",
         "📝 174 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -433,32 +336,140 @@
       }
     },
     {
-      "rank": 5,
-      "name": "Keemala",
-      "agodaUrl": "https://www.agoda.com/keemala-sha-plus_3/hotel/all/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/property/35832493/0/a100e07ad5839fc1ad4bea8c08bb33ea.jpeg?va=1&ce=3",
-      "score": 9.1,
-      "reviewCount": 814,
-      "reviewCountFmt": "814 reviews",
-      "priceText": "$$$ · price unavailable",
-      "walkMin": 24,
+      "rank": 4,
+      "name": "Paresa Resort Phuket",
+      "agodaUrl": "https://www.agoda.com/paresa-resort-phuket/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/159289/0/bb8b23d2c81acd95d05a95e12003c602.jpeg?ce=3",
+      "score": 8.9,
+      "reviewCount": 1820,
+      "reviewCountFmt": "1,820 reviews",
+      "priceText": "$$$ · $503/night",
+      "walkMin": 46,
       "refLabel": "Phuket FantaSea",
       "star": 5,
-      "propertyId": 3072111,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 1952.38,
+      "propertyId": 159289,
+      "priceUSD": 503,
+      "priceStatus": "live",
+      "distanceM": 3675.14,
+      "locationStatus": "verified",
+      "facilities": [
+        "Swimming pool",
+        "Airport transfer",
+        "Free Wi-Fi in all rooms!",
+        "Patong Beach",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 8.9 · 1,820 reviews. $$$ · $503/night. 80% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $503/night",
+        "📝 1,820 reviews",
+        "⭐ 5-star",
+        "🏝️ Resort / Villa",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 80,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 4,
+            "pct": 80,
+            "rating": 9.9
+          },
+          {
+            "key": "family",
+            "label": "Families",
+            "count": 1,
+            "pct": 20,
+            "rating": 9.2
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "Lovely staff, the room was super nice especially the pool.",
+          "score": "9.6",
+          "country": "Hong Kong SAR, China",
+          "date": "2023.12",
+          "translated": false
+        },
+        {
+          "text": "Paresa has undergone renovations and the villas are a dream.",
+          "score": "9.2",
+          "country": "Singapore",
+          "date": "2022.12",
+          "translated": false
+        },
+        {
+          "text": "The staff is welcoming and the rooms are clean 🙏❤️",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2024.12",
+          "translated": false
+        },
+        {
+          "text": "Exceptional place with exceptional staff highly recommended",
+          "score": "10",
+          "country": "Saudi Arabia",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Foodddddd:So far the best in town(for 5 days Phuket trips)",
+          "score": "10",
+          "country": "Malaysia",
+          "date": "2022.06",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
+    },
+    {
+      "rank": 5,
+      "name": "Santhiya Phuket Natai Resort & Spa - Up to THB 3,000 Resort Credit per Night",
+      "agodaUrl": "https://www.agoda.com/santhiya-phuket-natai-resort-spa_2/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/6916377/0/145e053478db54a4767f2298085b0ad8.jpg?ce=3",
+      "score": 9,
+      "reviewCount": 1563,
+      "reviewCountFmt": "1,563 reviews",
+      "priceText": "$$ · $363/night",
+      "walkMin": 2,
+      "refLabel": "Natai Beach",
+      "star": 5,
+      "propertyId": 6916377,
+      "priceUSD": 363,
+      "priceStatus": "live",
+      "distanceM": 123.02,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
         "Airport transfer",
         "Sauna",
-        "Patong Beach"
+        "Gym/fitness",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
       ],
-      "blurb": "Rating 9.1 · 814 reviews. $$$ · check live price. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 1,563 reviews. 2 min walk to Natai Beach. $$ · $363/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "📝 814 reviews",
+        "💰 $363/night",
+        "📝 1,563 reviews",
         "⭐ 5-star",
+        "🏝️ Resort / Villa",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
@@ -476,38 +487,38 @@
       },
       "reviews": [
         {
-          "text": "It is easily one of the best resorts we have ever visited.",
-          "score": "10",
-          "country": "IL",
-          "date": "2026.08",
-          "translated": false
-        },
-        {
-          "text": "We felt so welcomed and cared for throughout our stay.",
+          "text": "It gives the feeling of staying in a traditional Thai home.",
           "score": "8.4",
-          "country": "Saudi Arabia",
-          "date": "2026.09",
-          "translated": false
-        },
-        {
-          "text": "Our stay at Keemala was absolutely amazing!",
-          "score": "8.4",
-          "country": "Saudi Arabia",
-          "date": "2026.09",
-          "translated": false
-        },
-        {
-          "text": "Room service was exceptionally amazing.",
-          "score": "10",
           "country": "India",
-          "date": "2025.11",
+          "date": "2024.11",
           "translated": false
         },
         {
-          "text": "Gorgeous amenities and so relaxing.",
+          "text": "Highly recommend the Thai massage and dining on the beach.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2024.04",
+          "translated": false
+        },
+        {
+          "text": "They offer a generous 3 liters of bottled water every day.",
+          "score": "8.4",
+          "country": "India",
+          "date": "2024.11",
+          "translated": false
+        },
+        {
+          "text": "Very clean villa and the biggest bed we've ever slept in.",
           "score": "10",
           "country": "Australia",
-          "date": "2026.08",
+          "date": "2023.03",
+          "translated": false
+        },
+        {
+          "text": "The villas are stunning, very comfortable and private.",
+          "score": "10",
+          "country": "Poland",
+          "date": "2025.03",
           "translated": false
         }
       ],
@@ -521,86 +532,94 @@
     },
     {
       "rank": 6,
-      "name": "Villa Zolitude Resort & Spa ",
-      "agodaUrl": "https://www.agoda.com/villa-zolitude-resort-spa/hotel/phuket-th.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/98993/0/2d7e6a1612baec7d2b0d3967e3a6fe58.jpeg?ce=3",
-      "score": 8.8,
-      "reviewCount": 1377,
-      "reviewCountFmt": "1,377 reviews",
-      "priceText": "$$ · price unavailable",
-      "walkMin": 82,
-      "refLabel": "Minibus Station",
+      "name": "Andaman White Beach Resort",
+      "agodaUrl": "https://www.agoda.com/andaman-white-beach-resort/hotel/phuket-th.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/3151/0/b457ae839cde0e84c371ecef55a124d4.jpeg?ce=3",
+      "score": 8.1,
+      "reviewCount": 3305,
+      "reviewCountFmt": "3,305 reviews",
+      "priceText": "$$ · $427/night",
+      "walkMin": 9,
+      "refLabel": "Naithon Beach",
       "star": 5,
-      "propertyId": 98993,
-      "priceUSD": null,
-      "priceStatus": "price unavailable",
-      "distanceM": 6542.6,
+      "propertyId": 3151,
+      "priceUSD": 427,
+      "priceStatus": "live",
+      "distanceM": 691.38,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
         "Airport transfer",
-        "Free Wi-Fi in all rooms!",
-        "Patong Beach",
+        "Sauna",
+        "Gym/fitness",
         "Wi-Fi [free]",
         "Openable window",
         "Balcony/terrace",
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.8 · 1,377 reviews. $$ · check live price. 100% of sampled reviews from couples.",
+      "blurb": "Rating 8.1 · 3,305 reviews. 9 min walk to Naithon Beach. $$ · $427/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "📝 1,377 reviews",
+        "💰 $427/night",
+        "📝 3,305 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
         "👥 Loved by Couples"
       ],
       "travelerTypes": {
         "topLabel": "Couples",
-        "topPct": 100,
+        "topPct": 80,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 5,
-            "pct": 100,
-            "rating": 9.9
+            "count": 4,
+            "pct": 80,
+            "rating": 9.8
+          },
+          {
+            "key": "solo",
+            "label": "Solo",
+            "count": 1,
+            "pct": 20,
+            "rating": 10
           }
         ]
       },
       "reviews": [
         {
-          "text": "Its the small attention to detail that sets them apart.",
+          "text": "Has been a perfect place to rest and relax by the beach.",
+          "score": "10",
+          "country": "Australia",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "The beach, it was immaculately clean with soft sand.",
+          "score": "9.2",
+          "country": "Philippines",
+          "date": "2023.11",
+          "translated": false
+        },
+        {
+          "text": "The access to the private beach and the view is incredible.",
           "score": "10",
           "country": "India",
-          "date": "2022.09",
+          "date": "2024.12",
           "translated": false
         },
         {
-          "text": "The resort is beautiful, greenery around well maintained.",
+          "text": "Private beach in front of the resort is beyond beautiful.",
           "score": "10",
-          "country": "India",
-          "date": "2022.12",
+          "country": "Slovenija",
+          "date": "2025.10",
           "translated": false
         },
         {
-          "text": "They thought of everything for us and executed it perfectly.",
+          "text": "I thought it was stunning the moment I first saw it.",
           "score": "10",
-          "country": "United States",
-          "date": "2025.11",
-          "translated": false
-        },
-        {
-          "text": "I had practically the best experience at Villa Zolitude!",
-          "score": "10",
-          "country": "India",
-          "date": "2022.09",
-          "translated": false
-        },
-        {
-          "text": "Villa was so amazing with a great view and good service.",
-          "score": "9.6",
-          "country": "United States",
-          "date": "2024.06",
+          "country": "CN",
+          "date": "2026.03",
           "translated": false
         }
       ],
@@ -615,16 +634,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T21:22:10.048Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
-    "checkIn": "2026-11-15",
+    "fetchedAt": "2026-10-10T05:56:44.442Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T21:22:10.048Z",
+    "fetchedAt": "2026-10-10T05:56:44.442Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

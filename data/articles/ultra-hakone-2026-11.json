@@ -18,21 +18,21 @@
   "metaDescription": "The 6 finest ultra-luxury stays in Hakone — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Sometimes the stay is the destination. These are the highest-priced, best-reviewed properties in town — the suites, penthouses and private villas at the very top of the market.",
   "viewpoint": "Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
-  "verdict": "About 68% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Hakone Kowakien TEN-YU</b> — rating 9, 7,802 reviews, from $956/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
+  "verdict": "About 76% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Hakone Kowakien TEN-YU</b> — rating 9, 7,802 reviews, from $996/night. Pure top-end: ranked by highest price and strongest reviews, with resorts and private villas first.",
   "aggregate": {
     "total": 25,
     "distribution": [
       {
         "key": "couple",
         "label": "Couples",
-        "count": 17,
-        "pct": 68
+        "count": 19,
+        "pct": 76
       },
       {
         "key": "family",
         "label": "Families",
-        "count": 5,
-        "pct": 20
+        "count": 3,
+        "pct": 12
       },
       {
         "key": "group",
@@ -48,24 +48,24 @@
       }
     ]
   },
-  "heroImg": "https://pix8.agoda.net/hotelImages/1410571/-1/94d75391104ede15c9972942008b5abb.jpg?va=1&ce=0",
+  "heroImg": "https://pix8.agoda.net/hotelImages/1410571/0/7b7946d01e5cb7b692eb9d9a2f10891f.jpeg?ce=2",
   "heroAlt": "Hakone Ultra-Luxury",
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
       "name": "Hakone Kowakien TEN-YU",
       "agodaUrl": "https://www.agoda.com/hakone-kowakien-ten-yu/hotel/hakone-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/1410571/-1/94d75391104ede15c9972942008b5abb.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/1410571/0/7b7946d01e5cb7b692eb9d9a2f10891f.jpeg?ce=2",
       "score": 9,
       "reviewCount": 7802,
       "reviewCountFmt": "7,802 reviews",
-      "priceText": "$$$ · $956/night",
+      "priceText": "$$$ · $996/night",
       "walkMin": 4,
       "refLabel": "Horaien Bus Station",
       "star": 5,
       "propertyId": 1410571,
-      "priceUSD": 956,
+      "priceUSD": 996,
       "priceStatus": "live",
       "distanceM": 343.1,
       "locationStatus": "verified",
@@ -80,9 +80,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9 · 7,802 reviews. 4 min walk to Horaien Bus Station. $$$ · $956/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9 · 7,802 reviews. 4 min walk to Horaien Bus Station. $$$ · $996/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $956/night",
+        "💰 $996/night",
         "📝 7,802 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -156,16 +156,16 @@
       "rank": 2,
       "name": "Sengokubara COCON",
       "agodaUrl": "https://www.agoda.com/h46244411/hotel/hakone-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/89548446/0/24c199658525771fe26c00ee0daaf764.jpg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/89548446/0/24c199658525771fe26c00ee0daaf764.jpg?ce=3",
       "score": 9.8,
       "reviewCount": 49,
       "reviewCountFmt": "49 reviews",
-      "priceText": "$$$ · $1,132/night",
+      "priceText": "$$$ · $1,130/night",
       "walkMin": 1,
       "refLabel": "Palace Hotel Hakonemae Bus Station",
       "star": 5,
       "propertyId": 89548446,
-      "priceUSD": 1132,
+      "priceUSD": 1130,
       "priceStatus": "live",
       "distanceM": 92.93,
       "locationStatus": "verified",
@@ -180,9 +180,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.8 · 49 reviews. 1 min walk to Palace Hotel Hakonemae Bus Station. $$$ · $1,132/night.",
+      "blurb": "Rating 9.8 · 49 reviews. 1 min walk to Palace Hotel Hakonemae Bus Station. $$$ · $1,130/night.",
       "metaTags": [
-        "💰 $1,132/night",
+        "💰 $1,130/night",
         "📝 49 reviews",
         "⭐ 5-star"
       ],
@@ -202,16 +202,16 @@
       "rank": 3,
       "name": "Atami Izusan Karaku ORIX HOTELS & RESORTS",
       "agodaUrl": "https://www.agoda.com/atami-izusan-karaku-h46623414/hotel/atami-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/65416630/1016353231/7612cabf5e4ed4d8eba7568f31d48875.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/65416630/0/18ef1fba1b1dbefe9e18d6a954c290f3.jpeg?ce=3",
       "score": 9.1,
       "reviewCount": 171,
       "reviewCountFmt": "171 reviews",
-      "priceText": "$$$ · $698/night",
+      "priceText": "$$$ · $697/night",
       "walkMin": 17,
       "refLabel": "Atami Station",
       "star": 5,
       "propertyId": 65416630,
-      "priceUSD": 698,
+      "priceUSD": 697,
       "priceStatus": "live",
       "distanceM": 1329.17,
       "locationStatus": "verified",
@@ -226,9 +226,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.1 · 171 reviews. 17 min walk to Atami Station. $$$ · $698/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.1 · 171 reviews. 17 min walk to Atami Station. $$$ · $697/night. 40% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $698/night",
+        "💰 $697/night",
         "📝 171 reviews",
         "⭐ 5-star",
         "🏝️ Resort / Villa",
@@ -236,14 +236,14 @@
       ],
       "travelerTypes": {
         "topLabel": "Couples",
-        "topPct": 60,
+        "topPct": 40,
         "distribution": [
           {
             "key": "couple",
             "label": "Couples",
-            "count": 3,
-            "pct": 60,
-            "rating": 9.6
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
           },
           {
             "key": "family",
@@ -255,9 +255,9 @@
           {
             "key": "group",
             "label": "Groups",
-            "count": 1,
-            "pct": 20,
-            "rating": 9.6
+            "count": 2,
+            "pct": 40,
+            "rating": 9.8
           }
         ]
       },
@@ -291,10 +291,10 @@
           "translated": false
         },
         {
-          "text": "Service, dinner and breakfast were excellent!",
-          "score": "9.2",
-          "country": "Hong Kong SAR, China",
-          "date": "2025.11",
+          "text": "Everything is excellent very relax experience",
+          "score": "10",
+          "country": "United States",
+          "date": "2026.06",
           "translated": false
         }
       ],
@@ -310,16 +310,16 @@
       "rank": 4,
       "name": "Fukiya Ryokan",
       "agodaUrl": "https://www.agoda.com/fukiya/hotel/kanagawa-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/41976405/0/9f7861318bfc9283f638d18bf53d9471.jpg?va=1&ce=0",
+      "img": "https://pix8.agoda.net/hotelImages/41976405/0/9f7861318bfc9283f638d18bf53d9471.jpg?ce=0",
       "score": 9.4,
       "reviewCount": 111,
       "reviewCountFmt": "111 reviews",
-      "priceText": "$$$ · $723/night",
+      "priceText": "$$$ · $722/night",
       "walkMin": 7,
       "refLabel": "Kouen Iriguchi Bus Station",
       "star": 5,
       "propertyId": 41976405,
-      "priceUSD": 723,
+      "priceUSD": 722,
       "priceStatus": "live",
       "distanceM": 597.99,
       "locationStatus": "verified",
@@ -333,9 +333,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.4 · 111 reviews. 7 min walk to Kouen Iriguchi Bus Station. $$$ · $723/night. 60% of sampled reviews from couples.",
+      "blurb": "Rating 9.4 · 111 reviews. 7 min walk to Kouen Iriguchi Bus Station. $$$ · $722/night. 60% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $723/night",
+        "💰 $722/night",
         "📝 111 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -407,123 +407,18 @@
     },
     {
       "rank": 5,
-      "name": "Gora Hanaougi",
-      "agodaUrl": "https://www.agoda.com/gora-hanaogi/hotel/hakone-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/property/47122924/753836905/a21d16e72bf78f0f320d65433d95dd63.jpeg?va=1&ce=2",
-      "score": 9.5,
-      "reviewCount": 325,
-      "reviewCountFmt": "325 reviews",
-      "priceText": "$$$ · $644/night",
-      "walkMin": 1,
-      "refLabel": "Sounzan Funicular Station",
-      "star": 5,
-      "propertyId": 15722138,
-      "priceUSD": 644,
-      "priceStatus": "live",
-      "distanceM": 113.61,
-      "locationStatus": "verified",
-      "facilities": [
-        "Close to public transportation",
-        "Hakone Shrine / Kuzuryu Shrine Singu",
-        "Wi-Fi [free]",
-        "Openable window",
-        "Balcony/terrace",
-        "Desk",
-        "Private pool"
-      ],
-      "blurb": "Rating 9.5 · 325 reviews. 1 min walk to Sounzan Funicular Station. $$$ · $644/night. 40% of sampled reviews from couples.",
-      "metaTags": [
-        "💰 $644/night",
-        "📝 325 reviews",
-        "⭐ 5-star",
-        "👥 Loved by Couples"
-      ],
-      "travelerTypes": {
-        "topLabel": "Couples",
-        "topPct": 40,
-        "distribution": [
-          {
-            "key": "couple",
-            "label": "Couples",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          },
-          {
-            "key": "family",
-            "label": "Families",
-            "count": 2,
-            "pct": 40,
-            "rating": 10
-          },
-          {
-            "key": "group",
-            "label": "Groups",
-            "count": 1,
-            "pct": 20,
-            "rating": 10
-          }
-        ]
-      },
-      "reviews": [
-        {
-          "text": "Soaking in the private onsen was nothing short of a dream.",
-          "score": "10",
-          "country": "IL",
-          "date": "2026.08",
-          "translated": false
-        },
-        {
-          "text": "The room is so clean and the entire place was very tranquil.",
-          "score": "10",
-          "country": "United States",
-          "date": "2024.12",
-          "translated": false
-        },
-        {
-          "text": "Would highly recommend booking a stay here if in Hakone.",
-          "score": "10",
-          "country": "United States",
-          "date": "2024.09",
-          "translated": false
-        },
-        {
-          "text": "The public onsen and massage chair were simply amazing!",
-          "score": "10",
-          "country": "United States",
-          "date": "2025.09",
-          "translated": false
-        },
-        {
-          "text": "Private open-air bath facing the mountains was perfect.",
-          "score": "10",
-          "country": "Singapore",
-          "date": "2026.03",
-          "translated": false
-        }
-      ],
-      "quality": {
-        "issues": [],
-        "critical": false,
-        "completeness": 100,
-        "priceStatus": "confirmed",
-        "locationStatus": "confirmed"
-      }
-    },
-    {
-      "rank": 6,
       "name": "Oku-Yugawara Tsubaki",
       "agodaUrl": "https://www.agoda.com/hakone-oku-yugawara-tsubaki/hotel/yugawara-jp.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/399373/0/20049e171fafe501199d084170a13f6a.jpg?va=1&ce=3",
+      "img": "https://pix8.agoda.net/hotelImages/399373/0/20049e171fafe501199d084170a13f6a.jpg?ce=3",
       "score": 8.5,
       "reviewCount": 203,
       "reviewCountFmt": "203 reviews",
-      "priceText": "$$$ · $600/night",
+      "priceText": "$$$ · $599/night",
       "walkMin": 3,
       "refLabel": "Okuyugawarairiguchi Bus Stop",
       "star": 5,
       "propertyId": 399373,
-      "priceUSD": 600,
+      "priceUSD": 599,
       "priceStatus": "live",
       "distanceM": 226.16,
       "locationStatus": "verified",
@@ -538,9 +433,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 8.5 · 203 reviews. 3 min walk to Okuyugawarairiguchi Bus Stop. $$$ · $600/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 8.5 · 203 reviews. 3 min walk to Okuyugawarairiguchi Bus Stop. $$$ · $599/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $600/night",
+        "💰 $599/night",
         "📝 203 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -602,20 +497,113 @@
         "priceStatus": "confirmed",
         "locationStatus": "confirmed"
       }
+    },
+    {
+      "rank": 6,
+      "name": "Hotel Shiki no Yakata Hakone Ashinoko",
+      "agodaUrl": "https://www.agoda.com/hotel-shiki-no-yakata-hakone-ashinoko/hotel/hakone-jp.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/37697719/0/1eed4acb746b8fd409a0541bba649884.jpeg?ce=3",
+      "score": 9.1,
+      "reviewCount": 125,
+      "reviewCountFmt": "125 reviews",
+      "priceText": "$$$ · $538/night",
+      "walkMin": 4,
+      "refLabel": "Futagojaya Bus Station",
+      "star": 5,
+      "propertyId": 37697719,
+      "priceUSD": 538,
+      "priceStatus": "live",
+      "distanceM": 325.04,
+      "locationStatus": "verified",
+      "facilities": [
+        "Free Wi-Fi in all rooms!",
+        "Sauna",
+        "Close to public transportation",
+        "Hakone Sekisho and Hakone Sekisho Museum",
+        "Wi-Fi [free]",
+        "Openable window",
+        "Balcony/terrace",
+        "Desk",
+        "Private pool"
+      ],
+      "blurb": "Rating 9.1 · 125 reviews. 4 min walk to Futagojaya Bus Station. $$$ · $538/night. 100% of sampled reviews from couples.",
+      "metaTags": [
+        "💰 $538/night",
+        "📝 125 reviews",
+        "⭐ 5-star",
+        "👥 Loved by Couples"
+      ],
+      "travelerTypes": {
+        "topLabel": "Couples",
+        "topPct": 100,
+        "distribution": [
+          {
+            "key": "couple",
+            "label": "Couples",
+            "count": 5,
+            "pct": 100,
+            "rating": 9.6
+          }
+        ]
+      },
+      "reviews": [
+        {
+          "text": "The staff are incredible - they were so welcoming and kind.",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "This was one of the best hotel experiences we’ve ever had!",
+          "score": "10",
+          "country": "United States",
+          "date": "2025.05",
+          "translated": false
+        },
+        {
+          "text": "The view was so gorgeous and private onsen clean and hot.",
+          "score": "10",
+          "country": "United States",
+          "date": "2024.10",
+          "translated": false
+        },
+        {
+          "text": "Everything was awesome and a good place to stay and rest.",
+          "score": "8",
+          "country": "HK",
+          "date": "2025.12",
+          "translated": false
+        },
+        {
+          "text": "Overall, the staff were incredibly friendly and helpful.",
+          "score": "10",
+          "country": "United Kingdom",
+          "date": "2025.04",
+          "translated": false
+        }
+      ],
+      "quality": {
+        "issues": [],
+        "critical": false,
+        "completeness": 100,
+        "priceStatus": "confirmed",
+        "locationStatus": "confirmed"
+      }
     }
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-09T06:13:21.306Z",
+    "fetchedAt": "2026-10-10T05:57:05.033Z",
     "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
     "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-09T06:13:21.306Z",
+    "fetchedAt": "2026-10-10T05:57:05.033Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {

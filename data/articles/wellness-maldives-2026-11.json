@@ -18,7 +18,7 @@
   "metaDescription": "The 6 finest wellness & spa stays in Maldives — the highest-priced, best-reviewed five-star hotels, resorts and private villas, ranked with real Agoda guest data. Compare and book.",
   "intro": "Real rest starts with the right sanctuary. These are the highest-end, best-reviewed spa resorts and wellness retreats built for switching off completely.",
   "viewpoint": "We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
-  "verdict": "About 82% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Kudadoo Maldives Private Island – Luxury All inclusive</b> — rating 9.7, 112 reviews, from $5,047/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
+  "verdict": "About 82% of the review sample for these stays comes from couples travelers. Our #1 pick is <b>Kudadoo Maldives Private Island – Luxury All inclusive</b> — rating 9.7, 113 reviews, from $4,945/night. We ranked by price and review depth, favoring five-star spa resorts and serene villas.",
   "aggregate": {
     "total": 17,
     "distribution": [
@@ -44,7 +44,7 @@
   },
   "heroImg": "https://pix8.agoda.net/hotelImages/5750598/0/a58507c20106a7e1761bc83c5a9ddd4a.jpeg?va=1&ce=3",
   "heroAlt": "Maldives Wellness & Spa",
-  "updated": "2026-10-08",
+  "updated": "2026-10-10",
   "hotels": [
     {
       "rank": 1,
@@ -52,14 +52,14 @@
       "agodaUrl": "https://www.agoda.com/kudadoo-maldives-private-island-luxury-all-inclusive/hotel/maldives-islands-mv.html?cid=1925461",
       "img": "https://pix8.agoda.net/hotelImages/5750598/0/a58507c20106a7e1761bc83c5a9ddd4a.jpeg?va=1&ce=3",
       "score": 9.7,
-      "reviewCount": 112,
-      "reviewCountFmt": "112 reviews",
-      "priceText": "$$$ · $5,047/night",
+      "reviewCount": 113,
+      "reviewCountFmt": "113 reviews",
+      "priceText": "$$$ · $4,945/night",
       "walkMin": 1,
       "refLabel": "Kudadhoo Maldives Beach",
       "star": 5,
       "propertyId": 5750598,
-      "priceUSD": 5047,
+      "priceUSD": 4945,
       "priceStatus": "live",
       "distanceM": 39.28,
       "locationStatus": "verified",
@@ -74,10 +74,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.7 · 112 reviews. 1 min walk to Kudadhoo Maldives Beach. $$$ · $5,047/night. 80% of sampled reviews from couples.",
+      "blurb": "Rating 9.7 · 113 reviews. 1 min walk to Kudadhoo Maldives Beach. $$$ · $4,945/night. 80% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $5,047/night",
-        "📝 112 reviews",
+        "💰 $4,945/night",
+        "📝 113 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
       ],
@@ -247,7 +247,7 @@
       "rank": 3,
       "name": "The St. Regis Maldives Vommuli Resort",
       "agodaUrl": "https://www.agoda.com/the-st-regis-maldives-vommuli-resort/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://q-xx.bstatic.com/xdata/images/hotel/max500/887095640.jpg?k=f73165809df851cef80c7aba13a2e491273c01b5c0f167bdfbb89ee30e8a0192&o=",
+      "img": "https://pix8.agoda.net/hotelImages/4880847/1154079662/20f58bb41379b5b1d884c1ae545bce0d.jpeg?va=1&ce=3",
       "score": 9.6,
       "reviewCount": 63,
       "reviewCountFmt": "63 reviews",
@@ -381,12 +381,12 @@
       "score": 9.3,
       "reviewCount": 154,
       "reviewCountFmt": "154 reviews",
-      "priceText": "$$$ · $3,820/night",
+      "priceText": "$$$ · $3,881/night",
       "walkMin": null,
       "refLabel": "city center",
       "star": 5,
       "propertyId": 6601321,
-      "priceUSD": 3820,
+      "priceUSD": 3881,
       "priceStatus": "live",
       "distanceM": null,
       "locationStatus": "approx.",
@@ -399,9 +399,9 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.3 · 154 reviews. $$$ · $3,820/night. 100% of sampled reviews from couples.",
+      "blurb": "Rating 9.3 · 154 reviews. $$$ · $3,881/night. 100% of sampled reviews from couples.",
       "metaTags": [
-        "💰 $3,820/night",
+        "💰 $3,881/night",
         "📝 154 reviews",
         "⭐ 5-star",
         "👥 Loved by Couples"
@@ -454,20 +454,20 @@
     },
     {
       "rank": 6,
-      "name": "Soneva Fushi",
-      "agodaUrl": "https://www.agoda.com/soneva-fushi/hotel/maldives-islands-mv.html?cid=1925461",
-      "img": "https://pix8.agoda.net/hotelImages/12164/-1/74fa28286e732513983739b21bfb124e.jpg?va=1&ca=13&ce=1",
-      "score": 9.5,
-      "reviewCount": 49,
-      "reviewCountFmt": "49 reviews",
-      "priceText": "$$$ · $3,356/night",
-      "walkMin": 7,
-      "refLabel": "Dolphin Beach",
+      "name": "Naladhu Private Island Maldives",
+      "agodaUrl": "https://www.agoda.com/naladhu-private-island-maldives_2/hotel/maldives-islands-mv.html?cid=1925461",
+      "img": "https://pix8.agoda.net/hotelImages/186617/-1/09ade07dcc28c32ffec99a0ab58b19d3.jpg?va=1&ca=24&ce=0",
+      "score": 9.6,
+      "reviewCount": 95,
+      "reviewCountFmt": "95 reviews",
+      "priceText": "$$$ · $3,578/night",
+      "walkMin": 87,
+      "refLabel": "Makunufushi Cocoa Island Beach",
       "star": 5,
-      "propertyId": 12164,
-      "priceUSD": 3356,
+      "propertyId": 186617,
+      "priceUSD": 3578,
       "priceStatus": "live",
-      "distanceM": 591.05,
+      "distanceM": 6999.33,
       "locationStatus": "verified",
       "facilities": [
         "Swimming pool",
@@ -480,10 +480,10 @@
         "Desk",
         "Private pool"
       ],
-      "blurb": "Rating 9.5 · 49 reviews. 7 min walk to Dolphin Beach. $$$ · $3,356/night.",
+      "blurb": "Rating 9.6 · 95 reviews. $$$ · $3,578/night.",
       "metaTags": [
-        "💰 $3,356/night",
-        "📝 49 reviews",
+        "💰 $3,578/night",
+        "📝 95 reviews",
         "⭐ 5-star"
       ],
       "travelerTypes": null,
@@ -501,16 +501,16 @@
   ],
   "methodology": {
     "source": "Agoda citySearch response",
-    "fetchedAt": "2026-10-08T21:22:26.717Z",
-    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-15 · USD, taxes & fees included",
-    "checkIn": "2026-11-15",
+    "fetchedAt": "2026-10-10T05:56:57.506Z",
+    "searchCondition": "5-star only · 2 adults · 1 room · 1 night · check-in 2026-11-16 · USD, taxes & fees included",
+    "checkIn": "2026-11-16",
     "adults": 2,
     "sampleNotice": "Traveler-type shares are aggregated from the review snippets included in the search response, not from the full review set."
   },
   "_meta": {
-    "fetchedAt": "2026-10-08T21:22:26.717Z",
+    "fetchedAt": "2026-10-10T05:56:57.506Z",
     "source": "agoda citySearch",
-    "daysAhead": 38,
+    "daysAhead": 37,
     "targetMonth": "2026-11",
     "count": 6,
     "quality": {
@@ -519,7 +519,7 @@
       "warnings": [
         "The St. Regis Maldives Vommuli Resort: reviewSample",
         "Waldorf Astoria Maldives Ithaafushi: location",
-        "Soneva Fushi: reviewSample"
+        "Naladhu Private Island Maldives: reviewSample"
       ]
     },
     "firstPublished": "2026-10-06"
